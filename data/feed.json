@@ -1,8 +1,19 @@
 {
-"updated": "2026-11-02T11:24:34+00:00",
+"updated": "2026-11-02T11:30:23+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "df35d23bf5b3",
+"title": "Vor den US-Zwischenwahlen: Wie ist Trumps Wirtschaftsbilanz?",
+"link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zwischenstand-us-wirtschaft-entwicklung-100.html",
+"text": "Die Wirtschaft wächst, doch viele Amerikaner leiden unter hohen Lebenshaltungskosten. Der US-Arbeitsmarkt verliert an Schwung, die Staatsverschuldung steigt. Wie steht es um die Wirtschaft der Vereinigten Staaten? Von Michelle Goddemeier.",
+"img": "https://images.tagesschau.de/image/5903a63d-5a0d-40ff-8a5e-ca65947ee52b/AAABoYeLDpQ/AAABnSSvrFg/16x9-big/trump-5388.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-02T11:25:40+00:00",
+"sum": "Die Wirtschaft wächst, doch viele Amerikaner leiden unter hohen Lebenshaltungskosten. Der US-Arbeitsmarkt verliert an Schwung, die Staatsverschuldung steigt. Wie steht es um die Wirtschaft der Vereinigten Staaten? Von Michelle Goddemeier."
+},
 {
 "id": "e3a9685c0811",
 "title": "Euro Hockey Tour – Alge, Frick und Simic rücken nach",
@@ -70,15 +81,15 @@
 "sum": "C++26 wurde von den National Bodies bei der DIS-Wahl abgelehnt. Was das bedeutet und wie es weitergehen kann, beschreibt Andreas Fertig in seiner Analyse."
 },
 {
-"id": "82db87eb474c",
-"title": "Schweizer Eishockey-News – Allenspach ab nächster Saison Luganese – Alges erstes Aufgebot",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/schweizer-eishockey-news-allenspach-ab-naechster-saison-luganese-alges-erstes-aufgebot",
-"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Schweizer Eishockey.",
+"id": "431802f0491e",
+"title": "News aus der National League – Allenspach ab nächster Saison Luganese",
+"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-allenspach-ab-naechster-saison-luganese",
+"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus der National League.",
 "img": "https://www.srf.ch/static/cms/images//320ws/fd933a6.webp",
 "source": "SRF",
 "topic": "Sport",
 "date": "2026-11-02T11:07:14+00:00",
-"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Schweizer Eishockey."
+"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus der National League."
 },
 {
 "id": "a81f010569b1",
@@ -915,17 +926,6 @@
 "topic": "Welt",
 "date": "2026-11-02T04:19:28+00:00",
 "sum": "Die Bundesregierung lädt zum Digitalgipfel nach Berlin. Im Mittelpunkt der zweitägigen Konferenz steht die Frage, wie Deutschland und Europa beim Thema Künstliche Intelligenz global mitreden können.Von J. F. Willems."
-},
-{
-"id": "106c14e84986",
-"title": "Fall Imgart im AfD-Leak: Trotz Rassismus-Vorwürfen Verfassungsrichter",
-"link": "https://www.tagesschau.de/investigativ/br-recherche/afd-verfassungsrichter-bayern-100.html",
-"text": "Wegen mutmasslich radikaler Ansichten wollte sein AfD-Kreisverband Rüdiger Imgart 2016 aus der Partei ausschliessen. Doch das Verfahren scheitert - dann wird Imgart Verfassungsrichter in Bayern. Von S. Khamis und J. Streule.",
-"img": "https://images.tagesschau.de/image/16295650-b75b-4cc9-891c-9eacd2f91402/AAABld84GQU/AAABnSSvrFg/16x9-big/afd-parteitag-296.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-02T04:00:15+00:00",
-"sum": "Wegen mutmasslich radikaler Ansichten wollte sein AfD-Kreisverband Rüdiger Imgart 2016 aus der Partei ausschliessen. Doch das Verfahren scheitert - dann wird Imgart Verfassungsrichter in Bayern. Von S. Khamis und J. Streule."
 },
 {
 "id": "ed2e72b196c1",
