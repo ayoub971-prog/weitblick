@@ -1,8 +1,52 @@
 {
-"updated": "2026-11-02T20:56:25+00:00",
+"updated": "2026-11-02T22:55:07+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "2a9dcfca9d57",
+"title": "Internationale Fussball-News – Monteiro bangt um Nati-Spiele – Bayern-Duo monatelang out",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-monteiro-bangt-um-nati-spiele-bayern-duo-monatelang-out",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
+"img": "https://www.srf.ch/static/cms/images//320ws/faa718.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-02T22:08:07+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
+},
+{
+"id": "9e22273c0b66",
+"title": "IT-Angriffe mit Datenabfluss bei notebooksbilliger und Pÿur",
+"link": "https://www.heise.de/news/Cyberangriffe-auf-notebooksbilliger-de-und-Pyur-11508664.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Notebooksbilliger und Tele Columbus (Pÿur) informieren derzeit Kundinnen und Kunden in E-Mails über Datenabflüsse nach IT-Angriffen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-02T21:33:00+00:00",
+"sum": "Notebooksbilliger und Tele Columbus (Pÿur) informieren derzeit Kundinnen und Kunden in E-Mails über Datenabflüsse nach IT-Angriffen."
+},
+{
+"id": "7b7e92bf333b",
+"title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+"link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
+"text": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter.",
+"img": "https://images.tagesschau.de/image/86f7cb7c-53f7-4f94-b11f-dc56bbe00cb7/AAABoZ2pwgw/AAABnSSvrFg/16x9-big/truemmer-schule-saporischschja-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-02T21:21:05+00:00",
+"sum": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter."
+},
+{
+"id": "e7c5e2f3d9fd",
+"title": "Urheberrechtsverletzungen: New York Times verklagt Brave Software",
+"link": "https://www.heise.de/news/Urheberrechtsverletzungen-New-York-Times-verklagt-Brave-Software-11508651.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die New York Times und andere US-Blätter verklagen den Entwickler des Webbrowsers Brave wegen Urheberrechtsverletzungen und unerlaubtem KI-Training.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-02T20:55:00+00:00",
+"sum": "Die New York Times und andere US-Blätter verklagen den Entwickler des Webbrowsers Brave wegen Urheberrechtsverletzungen und unerlaubtem KI-Training."
+},
 {
 "id": "7ba3a673bbbf",
 "title": "Brandkatastrophe Crans-Montana – Jacques Moretti erneut befragt – Opfer und Angehörige angereist",
@@ -112,28 +156,6 @@
 "topic": "Tech",
 "date": "2026-11-02T19:45:00+00:00",
 "sum": "Linux-Spezialist SUSE wird massiv Stellen abbauen. Automatisierung und KI machten die „schmerzhafte Entscheidung“ notwendig, erklärt der CEO den Beschäftigten."
-},
-{
-"id": "7b7e92bf333b",
-"title": "Ukraine meldet mindestens 24 Tote bei Angriff in Region Saporischschja",
-"link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-"text": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 24 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter.",
-"img": "https://images.tagesschau.de/image/86f7cb7c-53f7-4f94-b11f-dc56bbe00cb7/AAABoZ2pwgw/AAABnSSvrFg/16x9-big/truemmer-schule-saporischschja-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-02T19:26:32+00:00",
-"sum": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 24 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter."
-},
-{
-"id": "2a9dcfca9d57",
-"title": "Internationale Fussball-News – Monteiro bangt um Nati-Spiele – Bayern-Duo monatelang out",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-monteiro-bangt-um-nati-spiele-bayern-duo-monatelang-out",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/faa718.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-02T19:18:39+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
 },
 {
 "id": "c58798bec0db",
@@ -827,28 +849,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-02T14:00:00+00:00",
 "sum": "Experten der Universität Zürich halten es für unwahrscheinlich, dass die USA von der Schweiz höhere Arzneimittelpreise einfordern würden. Von der Idee der Meistbegünstigung sei wenig übrig geblieben."
-},
-{
-"id": "aba286fc1c05",
-"title": "heise+ | Softwareentwicklung mit KI: IT-Manager über Effizienzgewinne, Kosten, Risiken",
-"link": "https://www.heise.de/hintergrund/Softwareentwicklung-mit-KI-IT-Manager-ueber-Effizienzgewinne-Kosten-Risiken-11377391.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "IT-Manager von Bechtle, Ionos und TeamViewer verraten, wie KI die Softwareentwicklung produktiver macht und wie sie mit Kosten und Risiken umgehen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-02T14:00:00+00:00",
-"sum": "IT-Manager von Bechtle, Ionos und TeamViewer verraten, wie KI die Softwareentwicklung produktiver macht und wie sie mit Kosten und Risiken umgehen."
-},
-{
-"id": "34feb9de2fed",
-"title": "KI-Update kompakt: Linux-Lücke, Audio Intelligence, KI-Operation, KI-Satellit",
-"link": "https://www.heise.de/news/KI-Update-kompakt-Linux-Luecke-Audio-Intelligence-KI-Operation-KI-Satellit-11507948.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-02T14:00:00+00:00",
-"sum": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen."
 },
 {
 "id": "b7946eef8d83",
