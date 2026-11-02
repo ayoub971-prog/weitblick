@@ -1,0 +1,23 @@
+name: Nachrichten-Feed
+on:
+  schedule: [{ cron: "17 */2 * * *" }]
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: feed, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Feed bauen
+        env: { GEMINI_API_KEY: "${{ secrets.GEMINI_API_KEY }}" }
+        run: python3 scripts/build_feed.py
+      - name: Speichern
+        run: |
+          git config user.name "ayoub971-prog"; git config user.email "ayoub971-prog@users.noreply.github.com"
+          git add data/feed.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Feed aktualisiert" && (git push || (git pull --rebase -X theirs && git push))
