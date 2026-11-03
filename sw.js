@@ -1,5 +1,5 @@
 // Weitblick Service Worker: zuerst vom Netz, Cache nur offline
-var CACHE = 'wb-shell-v1';
+var CACHE = 'wb-shell-v2';
 var CORE = ['./', './index.html', './app.js', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(CORE.map(function (u) { return new Request(u, { cache: 'reload' }); })); }).then(function () { return self.skipWaiting(); }));

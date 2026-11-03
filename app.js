@@ -1,5 +1,5 @@
 /* Weitblick: Fragen mit Quellen + Nachrichten-Feed mit Abschalten. Zugaenge nur verschluesselt im Browser. */
-var APP_VERSION = 'v1';
+var APP_VERSION = 'v2';
 var $ = function (id) { return document.getElementById(id); };
 function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
 function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
@@ -121,6 +121,7 @@ var PROVIDERS = {
   gemini: { name: 'Google Gemini', link: 'https://aistudio.google.com/apikey', hint: 'Mit Google-Konto anmelden, dort auf „Create API key“ tippen. Nur Gemini kann direkt bei Google suchen.' },
   groq: { name: 'Groq', link: 'https://console.groq.com/keys', base: 'https://api.groq.com/openai/v1', hint: 'Gratis-Konto erstellen, dort „Create API Key“ tippen.' },
   mistral: { name: 'Mistral', link: 'https://console.mistral.ai/api-keys', base: 'https://api.mistral.ai/v1', hint: 'Gratis-Plan „Experiment“ wählen, dann einen Zugang erstellen.' },
+  frei: { name: 'Gratis-KI ohne Anmeldung', free: true, base: 'https://text.pollinations.ai/openai' },
   openrouter: { name: 'OpenRouter (optional)', link: 'https://openrouter.ai/keys', base: 'https://openrouter.ai/api/v1', hint: 'Nur Modelle mit „:free“ sind gratis.' }
 };
 var CHAIN = [
@@ -141,12 +142,13 @@ function callOne(item, system, messages, opts, keyOverride) {
     if (opts.grounded) body.tools = [{ google_search: {} }];
     req = fetch('https://generativelanguage.googleapis.com/v1beta/models/' + encodeURIComponent(item.model) + ':generateContent', { method: 'POST', signal: ctl.signal, headers: { 'content-type': 'application/json', 'x-goog-api-key': key }, body: JSON.stringify(body) });
   } else {
-    req = fetch(PROVIDERS[p].base + '/chat/completions', { method: 'POST', signal: ctl.signal, headers: { 'content-type': 'application/json', 'authorization': 'Bearer ' + key },
+    var hd = { 'content-type': 'application/json' }; if (!PROVIDERS[p].free) hd.authorization = 'Bearer ' + key;
+    req = fetch(PROVIDERS[p].base + (PROVIDERS[p].free ? '' : '/chat/completions'), { method: 'POST', signal: ctl.signal, headers: hd,
       body: JSON.stringify({ model: item.model, temperature: 0.3, messages: [{ role: 'system', content: system }].concat(messages.map(function (m) { return { role: m.role, content: m.text }; })) }) });
   }
   return req.then(function (r) {
     clearTimeout(t);
-    if (!r.ok) return r.text().then(function (b) { throw httpErr(r.status, 'HTTP ' + r.status + ' ' + b.slice(0, 160)); });
+    if (!r.ok) return r.text().then(function (b) { var e = httpErr(r.status, 'HTTP ' + r.status + ' ' + b.slice(0, 160)); e.retry = parseInt(r.headers.get('retry-after') || '0', 10) || 0; throw e; });
     return r.json();
   }, function () { clearTimeout(t); var x = new Error('Netzwerk/Zeitüberschreitung'); x.status = 0; throw x; }).then(function (j) {
     if (p === 'gemini') {
@@ -214,7 +216,7 @@ function ensureUnlocked(why) { return needsPin() ? askPin('unlock', why) : Promi
 function markBad(p) { delete KEYS[p]; setConn(p, 'bad'); if (PIN_KEY) persist(); renderKeys(); }
 function renderKeys() {
   var c = conn();
-  $('keyList').innerHTML = Object.keys(PROVIDERS).map(function (p) {
+  $('keyList').innerHTML = Object.keys(PROVIDERS).filter(function (p) { return !PROVIDERS[p].free; }).map(function (p) {
     var P = PROVIDERS[p], name = esc(P.name);
     if (KEYS[p] || (c[p] === 'ok' && needsPin())) return '<div class="line" data-p="' + p + '"><span>' + name + ' <span style="color:#3ccf91">✓ verbunden</span></span><button data-a="del">Trennen</button></div>';
     return '<div class="card" data-p="' + p + '"><b>' + name + '</b>' +
@@ -275,7 +277,18 @@ function wikiSources(q) {
     });
   }).catch(function () { return []; });
 }
+function ddgSource(q) {
+  return fetch('https://api.duckduckgo.com/?format=json&no_html=1&skip_disambig=1&kl=ch-de&q=' + encodeURIComponent(keywords(q))).then(function (r) { return r.json(); }).then(function (j) {
+    return j.AbstractText && j.AbstractURL ? [{ title: (j.Heading || 'DuckDuckGo') + ' – ' + (j.AbstractSource || 'DuckDuckGo'), url: j.AbstractURL, text: j.AbstractText }] : [];
+  }).catch(function () { return []; });
+}
 function feedSources(q) {
+  var f0 = F(), news = /\b(heute|aktuell|neu\w*|news|nachrichten|passiert|lage|woche)\b/i.test(q);
+  if (news) {
+    var tp = TOPICS.filter(function (t) { return new RegExp(t, 'i').test(q); })[0];
+    var rec = (FEED.items || []).filter(function (x) { return visible(x, f0) && (!tp || x.topic === tp); }).slice(0, 6);
+    if (rec.length) return rec.map(function (x) { return { title: x.title + ' – ' + x.source, url: x.link, text: x.sum || x.text }; });
+  }
   var words = keywords(q).toLowerCase().split(' ').filter(function (w) { return w.length > 3; });
   if (!words.length) return [];
   var f = F(); return (FEED.items || []).filter(function (x) { return visible(x, f); }).map(function (x) { var t = (x.title + ' ' + x.text).toLowerCase(); return { x: x, s: words.filter(function (w) { return t.indexOf(w) > -1; }).length }; })
@@ -303,6 +316,22 @@ function groundedResult(r) {
   });
   return { text: ss(text), follow: sp.follow.map(ss), sources: srcs, web: true };
 }
+var FREE_ITEM = { provider: 'frei', model: 'openai' }, LAST_FREE = +(lsGet('wb.lastFree') || 0);
+function wait(ms, out, why) {
+  return new Promise(function (res) {
+    var end = Date.now() + ms;
+    (function tick() { var s = Math.ceil((end - Date.now()) / 1000); if (s <= 0) return res(); out.innerHTML = '⏳ ' + why + ' Noch ' + s + ' Sekunden …'; setTimeout(tick, 1000); })();
+  });
+}
+function callFree(sys, msgs, out) {
+  var gap = LAST_FREE + 31000 - Date.now();
+  var pre = gap > 0 ? wait(gap, out, 'Die Gratis-KI erlaubt eine Frage alle 30 Sekunden.') : Promise.resolve();
+  function go1() { out.innerHTML = '⏳ Ich lese die Quellen und schreibe die Antwort …'; LAST_FREE = Date.now(); lsSet('wb.lastFree', String(LAST_FREE)); return callOne(FREE_ITEM, sys, msgs); }
+  return pre.then(go1).catch(function (e) {
+    if ((e.status === 402 || e.status === 429) && e.retry && e.retry <= 60) return wait(e.retry * 1000 + 500, out, 'Die Gratis-KI ist kurz besetzt.').then(go1);
+    throw e;
+  });
+}
 function ask(q) {
   q = q.trim(); if (!q) return;
   var box = document.createElement('div'); box.className = 'turn';
@@ -310,27 +339,26 @@ function ask(q) {
   $('thread').appendChild(box); box.scrollIntoView();
   var out = box.querySelector('.ans');
   ensureUnlocked('Zum Fragen brauche ich deine PIN.').then(function () {
-    var list = CHAIN.filter(function (x) { return keyOf(x.provider); }), now = Date.now();
+    var list = CHAIN.filter(function (x) { return keyOf(x.provider); }).concat([FREE_ITEM]), now = Date.now();
     var ready = list.filter(function (x) { return !(COOL[x.provider + '/' + x.model] > now); }); if (!ready.length) ready = list;
     var fails = [], i = 0, srcPromise = null;
-    function freeSources() { if (!srcPromise) srcPromise = wikiSources(q + (S.ctx ? '' : '')).then(function (w) { return feedSources(q + ' ' + (S.ctx ? S.ctx.title : '')).concat(w).slice(0, 6); }); return srcPromise; }
+    function freeSources() { if (!srcPromise) srcPromise = Promise.all([wikiSources(q), ddgSource(q)]).then(function (a) { return feedSources(q + ' ' + (S.ctx ? S.ctx.title : '')).concat(a[0].slice(0, 2), a[1], a[0].slice(2)).slice(0, 8); }); return srcPromise; }
     function next() {
       if (i >= ready.length) {
         return freeSources().then(function (src) {
-          var m = !list.length ? '<div class="warn">Für Antworten braucht die App eine Gratis-KI-Verbindung. Tippe oben auf ⚙️ und verbinde am besten Google Gemini.</div>'
-            : '<div class="err">Gerade antwortet keine KI: ' + esc(fails.join(' · ')) + '. Bitte in einer Minute nochmals.</div>';
+          var m = '<div class="err">Gerade antwortet keine KI: ' + esc(fails.join(' · ')) + '. Bitte in einer Minute nochmals.</div>';
           out.innerHTML = m + (src.length ? '<b>Diese Quellen habe ich ohne KI gefunden:</b>' + srcList(src) : '<div class="mut">Ohne KI habe ich auch keine passenden Quellen gefunden.</div>');
         });
       }
-      var item = ready[i++], label = pname(item.provider) + ' · ' + item.model;
-      out.innerHTML = '⏳ ' + (item.provider === 'gemini' ? 'Ich suche bei Google …' : 'Ich lese Wikipedia und den Nachrichten-Feed …') + (fails.length ? '<div class="mut">Gewechselt zu ' + esc(label) + '</div>' : '');
+      var item = ready[i++], label = item.provider === 'frei' ? 'Gratis-KI ohne Anmeldung (Pollinations · GPT-OSS 20B)' : pname(item.provider) + ' · ' + item.model;
+      out.innerHTML = '⏳ ' + (item.provider === 'gemini' ? 'Ich suche bei Google …' : 'Ich suche bei Wikipedia, DuckDuckGo und im Nachrichten-Feed …') + (fails.length ? '<div class="mut">Gewechselt zu ' + esc(label) + '</div>' : '');
       var job = item.provider === 'gemini'
         ? callOne(item, SYS, history(q), { grounded: true }).then(groundedResult)
         : freeSources().then(function (src) {
             if (!src.length) throw httpErr(-1, 'keine Quellen');
-            var sys = SYS + ' Benutze NUR die nummerierten Quellen unten und setze nach jeder Aussage die Nummer der Quelle in eckigen Klammern, z. B. [1]. Ohne Quelle keine Aussage.\n\nQUELLEN:\n' +
+            var sys = SYS + ' Benutze NUR die nummerierten Quellen unten und setze nach jeder Aussage die Nummer der Quelle in eckigen Klammern, z. B. [1]. Ohne Quelle keine Aussage. Englische Quellen übersetzt du ins Deutsche. Wenn die Quellen die Frage nicht beantworten, sag das in einem Satz ehrlich.\n\nQUELLEN:\n' +
               src.map(function (s, n) { return '[' + (n + 1) + '] ' + s.title + ': ' + s.text.slice(0, 900); }).join('\n');
-            return callOne(item, sys, history(q)).then(function (r) { var sp = splitFollow(r.text); return { text: ss(sp.text), follow: sp.follow.map(ss), sources: src, web: false }; });
+            return (item.provider === 'frei' ? callFree(sys, history(q), out) : callOne(item, sys, history(q))).then(function (r) { var sp = splitFollow(r.text); return { text: ss(sp.text), follow: sp.follow.map(ss), sources: src, web: false }; });
           });
       return job.then(function (res) {
         S.turns.push({ q: q, a: res.text }); render(out, res, label); box.scrollIntoView();
@@ -338,7 +366,7 @@ function ask(q) {
         var s = e.status || 0;
         if (s === 429) COOL[item.provider + '/' + item.model] = Date.now() + 60000;
         if (s === 401 || s === 403 || (s === 400 && /API_KEY_INVALID|api key|expired/i.test(e.message))) { markBad(item.provider); s = 401; }
-        fails.push(label + ': ' + (s === 429 ? 'Limit erreicht' : s >= 500 ? 'Server-Fehler' : s === 0 ? 'keine Verbindung' : s === 401 ? 'Zugang ungültig' : s === -1 ? 'keine Quellen gefunden' : 'Fehler'));
+        fails.push(label + ': ' + (s === 429 || s === 402 ? 'Limit erreicht' : s >= 500 ? 'Server-Fehler' : s === 0 ? 'keine Verbindung' : s === 401 ? 'Zugang ungültig' : s === -1 ? 'keine Quellen gefunden' : 'Fehler'));
         return next();
       });
     }
@@ -351,7 +379,7 @@ function render(out, res, label) {
     var s = res.sources[n - 1]; return s ? '<a class="cite" href="' + esc(safeUrl(s.url)) + '" target="_blank" rel="noopener">' + n + '</a>' : '';
   });
   out.innerHTML = h + (res.sources.length ? '<h2>Quellen</h2>' + srcList(res.sources) : '<div class="mut">Keine Quellen mitgeliefert.</div>') +
-    (res.web ? '' : '<div class="mut">Ohne Google-Suche: Quellen sind nur Wikipedia und der Nachrichten-Feed.</div>') +
+    (res.web ? '' : '<div class="mut">Ohne Google-Suche: Quellen sind Wikipedia, DuckDuckGo und der Nachrichten-Feed.</div>') +
     '<div class="mut">Antwort von ' + esc(label) + '</div>' +
     (res.follow.length ? '<h2>Weiterfragen</h2><div class="follow">' + res.follow.map(function (f) { return '<button data-f="' + esc(f) + '">↳ ' + esc(f) + '</button>'; }).join('') + '</div>' : '');
 }
