@@ -329,6 +329,7 @@ function callFree(sys, msgs, out) {
   function go1() { out.innerHTML = '⏳ Ich lese die Quellen und schreibe die Antwort …'; LAST_FREE = Date.now(); lsSet('wb.lastFree', String(LAST_FREE)); return callOne(FREE_ITEM, sys, msgs); }
   return pre.then(go1).catch(function (e) {
     if ((e.status === 402 || e.status === 429) && e.retry && e.retry <= 60) return wait(e.retry * 1000 + 500, out, 'Die Gratis-KI ist kurz besetzt.').then(go1);
+    if (!e.status && !e.retried) { e.retried = 1; return wait(31000, out, 'Die Gratis-KI hat nicht geantwortet, ich versuche es gleich nochmals.').then(go1); }
     throw e;
   });
 }
