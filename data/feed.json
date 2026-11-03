@@ -1,8 +1,41 @@
 {
-"updated": "2026-11-02T22:55:07+00:00",
+"updated": "2026-11-03T01:22:27+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "81ae389a2d31",
+"title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+"link": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
+"text": "Wegen der enormen Preissteigerungen durch Trumps Zölle und den Iran-Krieg könnten die Republikaner bei den Midterms abgestraft werden. Die Folge wäre ein politisches Patt. Droht den USA der Stillstand? Von Anne Schneider.",
+"img": "https://images.tagesschau.de/image/67fc4bbe-88de-4695-8e20-dd8ac15ba289/AAABoZ3vJvs/AAABnSSvrFg/16x9-big/capitol-hill-106.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-03T00:44:25+00:00",
+"sum": "Wegen der enormen Preissteigerungen durch Trumps Zölle und den Iran-Krieg könnten die Republikaner bei den Midterms abgestraft werden. Die Folge wäre ein politisches Patt. Droht den USA der Stillstand? Von Anne Schneider."
+},
+{
+"id": "6e907c160599",
+"title": "Kritischer Aufsichtsbericht – Finanzkontrolle kritisiert harzende Planung bei VBS-Immobilien",
+"link": "https://www.srf.ch/news/schweiz/kritischer-aufsichtsbericht-finanzkontrolle-kritisiert-harzende-planung-bei-vbs-immobilien",
+"text": "Die Armee will ihren Immobilienbestand ausbauen. Doch die Eidgenössische Finanzkontrolle warnt vor Fehlinvestitionen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/dbd32f.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-02T23:35:35+00:00",
+"sum": "Die Armee will ihren Immobilienbestand ausbauen. Doch die Eidgenössische Finanzkontrolle warnt vor Fehlinvestitionen."
+},
+{
+"id": "996ec26f2cd2",
+"title": "MELDUNGEN WIRTSCHAFT - Apple steigert iPhone-Umsatz um 17,5 Prozent – China-Geschäft bleibt hinter Erwartungen zurück",
+"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+"text": "Die neuesten Meldungen aus der Wirtschaft.",
+"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-02T23:02:48+00:00",
+"sum": "Die neuesten Meldungen aus der Wirtschaft."
+},
 {
 "id": "2a9dcfca9d57",
 "title": "Internationale Fussball-News – Monteiro bangt um Nati-Spiele – Bayern-Duo monatelang out",
@@ -271,12 +304,12 @@
 "id": "5a3b00ac5c6c",
 "title": "Anzeige: Einhell-Kompressor nahe Prime-Day-Preis und 18V-Akkus bei Amazon günstiger",
 "link": "https://www.golem.de/news/anzeige-einhell-kompressor-nahe-prime-day-preis-und-18v-akkus-bei-amazon-guenstiger-2611-214772.html",
-"text": "Zum bisher besten Amazon-Prime-exklusiven Preis gibt es aktuell einen 18V-Kompressor von Einhell. Auch 18-V-Akkus sind günstiger geworden. ( Technik/Hardware )",
+"text": "Zum bisher besten Amazon-Preis jenseits von Prime gibt es aktuell einen 18V-Kompressor von Einhell. Auch 18-V-Akkus sind günstiger geworden. ( Technik/Hardware )",
 "img": "https://cpx.golem.de/cpx.php?class=17&aid=214772&page=1&ts=1793642102",
 "source": "Golem",
 "topic": "Tech",
 "date": "2026-11-02T17:55:02+00:00",
-"sum": "Zum bisher besten Amazon-Prime-exklusiven Preis gibt es aktuell einen 18V-Kompressor von Einhell. Auch 18-V-Akkus sind günstiger geworden. ( Technik/Hardware )"
+"sum": "Zum bisher besten Amazon-Preis jenseits von Prime gibt es aktuell einen 18V-Kompressor von Einhell. Auch 18-V-Akkus sind günstiger geworden. ( Technik/Hardware )"
 },
 {
 "id": "f9e4f13f001e",
@@ -365,17 +398,6 @@
 "topic": "Tech",
 "date": "2026-11-02T17:12:00+00:00",
 "sum": "Laut Bloomberg-Reporter Mark Gurman sollen 2027 iPad, iPad Air und iPad Pro aktualisiert werden – mit OLED-Display, Vapor Chamber und mehr Leistung."
-},
-{
-"id": "5c63f6bb903e",
-"title": "Ministerin Reiche legt ersten Entwurf für Spritpreisdeckel-Gesetz vor",
-"link": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html",
-"text": "Wirtschaftsministerin Reiche ist keine Befürworterin eines Spritpreisdeckels. Doch die Koalition will das Instrument einführen. Nun liegt ein erster Gesetzentwurf ihres Ministeriums vor. Er beschreibt, wann der Spritpreisdeckel gelten soll und wann nicht.",
-"img": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-02T17:05:39+00:00",
-"sum": "Wirtschaftsministerin Reiche ist keine Befürworterin eines Spritpreisdeckels. Doch die Koalition will das Instrument einführen. Nun liegt ein erster Gesetzentwurf ihres Ministeriums vor. Er beschreibt, wann der Spritpreisdeckel gelten soll und wann nicht."
 },
 {
 "id": "dea8a2d19f60",
@@ -1264,7 +1286,7 @@
 "text": "Blendende Geschäfte oder existenzielle Krise? Zwei fundamental unterschiedliche Sichtweisen auf eine heikle Branche.",
 "img": "https://www.srf.ch/static/cms/images//320ws/b8f29d.webp",
 "source": "SRF",
-"topic": "Schweiz",
+"topic": "Wirtschaft",
 "date": "2026-11-02T05:14:10+00:00",
 "sum": "Blendende Geschäfte oder existenzielle Krise? Zwei fundamental unterschiedliche Sichtweisen auf eine heikle Branche."
 },
@@ -1531,17 +1553,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-01T04:30:00+00:00",
 "sum": "Die geopolitische Unsicherheit verstärkt in der Bevölkerung den Wunsch, für den Ernstfall gewappnet zu sein. Prepping ist auf dem Weg aus der Nische. Auch in der Schweiz verzeichnen Unternehmen steigende Umsätze."
-},
-{
-"id": "b22c0b31c4f1",
-"title": "«Eine Megabehörde mit grossem Potenzial für Willkür»: Die Kantonalbanken proben den Aufstand gegen die Finma",
-"link": "https://www.nzz.ch/wirtschaft/eine-mega-behoerde-mit-grossem-potenzial-fuer-willkuer-die-kantonalbanken-proben-den-aufstand-gegen-die-finma-ld.10048377",
-"text": "Der Bundesrat will die Finanzmarktaufsicht (Finma) mit neuen Kompetenzen ausstatten. Die Kantonalbanken befürchten, dass sie schon bald einer übermächtigen Behörde gegenüberstehen.",
-"img": "https://img-msp-prod.nzz.ch/2025/06/07/909227bc-5a62-45ac-a2b4-88124fa59f2d.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3697,3697,x1849,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-01T04:30:00+00:00",
-"sum": "Der Bundesrat will die Finanzmarktaufsicht (Finma) mit neuen Kompetenzen ausstatten. Die Kantonalbanken befürchten, dass sie schon bald einer übermächtigen Behörde gegenüberstehen."
 },
 {
 "id": "4d025db42d59",
