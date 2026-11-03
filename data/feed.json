@@ -1,8 +1,107 @@
 {
-"updated": "2026-11-03T03:04:00+00:00",
+"updated": "2026-11-03T05:08:49+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "b79bfb7c6561",
+"title": "Steigender Konsum – Snus-Boom: Politik übernimmt umstrittene Argumente der Tabaklobby",
+"link": "https://www.srf.ch/news/schweiz/steigender-konsum-snus-boom-politik-uebernimmt-umstrittene-argumente-der-tabaklobby",
+"text": "Dank Snus weniger Raucher, so die Tabaklobby. Politiker übernehmen diese Argumentation, die Wissenschaft zweifelt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b35ba7.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-03T05:05:39+00:00",
+"sum": "Dank Snus weniger Raucher, so die Tabaklobby. Politiker übernehmen diese Argumentation, die Wissenschaft zweifelt."
+},
+{
+"id": "2612a5e2fbf1",
+"title": "Midterms in den USA – Wo das Rennen um den Senat entschieden wird",
+"link": "https://www.srf.ch/news/international/midterms-in-den-usa-wo-das-rennen-um-den-senat-entschieden-wird",
+"text": "Während das Rennen im Repräsentantenhaus entschieden scheint, bleibt der Senat umkämpft. Sieben Wahlen stehen im Fokus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a08d22.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-03T05:01:46+00:00",
+"sum": "Während das Rennen im Repräsentantenhaus entschieden scheint, bleibt der Senat umkämpft. Sieben Wahlen stehen im Fokus."
+},
+{
+"id": "66d8682a1c81",
+"title": "Jahresbilanz – Apple macht 132 Milliarden Dollar Gewinn – ein neuer Rekord",
+"link": "https://www.srf.ch/news/wirtschaft/jahresbilanz-apple-macht-132-milliarden-dollar-gewinn-ein-neuer-rekord",
+"text": "Erstmals hat der neue Chef die Zahlen präsentiert. Apple ist nun wieder das wertvollste Unternehmen der Welt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/6d2bde.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-03T05:00:06+00:00",
+"sum": "Erstmals hat der neue Chef die Zahlen präsentiert. Apple ist nun wieder das wertvollste Unternehmen der Welt."
+},
+{
+"id": "e9708d27f0d0",
+"title": "Anthropic zeigt: Selbst Imker-Ratschläge können KI-Fehlverhalten auslösen",
+"link": "https://www.heise.de/news/Anthropic-zeigt-Selbst-Imker-Ratschlaege-koennen-KI-Fehlverhalten-ausloesen-11508623.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Ein Anthropic-Experiment zeigt, wie harmlos wirkende Datensätze unerwünschtes KI-Verhalten auslösen. Und wie KI-Agenten solche Risiken aufspüren könnten.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-03T04:45:00+00:00",
+"sum": "Ein Anthropic-Experiment zeigt, wie harmlos wirkende Datensätze unerwünschtes KI-Verhalten auslösen. Und wie KI-Agenten solche Risiken aufspüren könnten."
+},
+{
+"id": "ed57d60e40e0",
+"title": "Nach Binance-Raub: Das Crypto Valley rüstet sich gegen weitere Cyberangriffe",
+"link": "https://www.nzz.ch/wirtschaft/nach-binance-raub-das-crypto-valley-ruestet-sich-gegen-weitere-cyberangriffe-ld.10051936",
+"text": "In der Schweiz halten sich die Schäden wegen des Binance-Hackerangriffs bis anhin in Grenzen. Dennoch sind Cyberangriffe für die Krypto-Branche eine wachsende Bedrohung.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/31/cbe81eb6-be9b-4bad-96cb-4da49fad10da.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2984,2984,x460,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-03T04:30:00+00:00",
+"sum": "In der Schweiz halten sich die Schäden wegen des Binance-Hackerangriffs bis anhin in Grenzen. Dennoch sind Cyberangriffe für die Krypto-Branche eine wachsende Bedrohung."
+},
+{
+"id": "a4f6e301edfe",
+"title": "Die nordkoreanischen Hacker hinter dem Binance-Raub sind auch in der Schweiz aktiv – und locken mit vielversprechenden Jobangeboten",
+"link": "https://www.nzz.ch/wirtschaft/die-nordkoreanischen-hacker-hinter-dem-binance-raub-sind-auch-in-der-schweiz-aktiv-und-locken-mit-vielversprechenden-jobangeboten-ld.10051680",
+"text": "Die Zahl der Krypto-Diebstähle bei Schweizer Unternehmen steigt seit Anfang Jahr. Die Behörden warnen vor der Betrugsmasche über LinkedIn.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/01/0a7aee4b-4a23-4f9f-b736-f712c201cab6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2912,2912,x1136,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-03T04:30:00+00:00",
+"sum": "Die Zahl der Krypto-Diebstähle bei Schweizer Unternehmen steigt seit Anfang Jahr. Die Behörden warnen vor der Betrugsmasche über LinkedIn."
+},
+{
+"id": "92b59ba324ec",
+"title": "Lebensader für Blatten: Eine neue Seilbahn erschliesst das Ende vom Lötschental – und sie ist typisch schweizerisch",
+"link": "https://www.nzz.ch/wirtschaft/blatten-typische-schweizer-kleinseilbahn-von-bartholet-erschliesst-loetschental-ld.10032963",
+"text": "Wo andere Länder Strassen bauen, setzt die Schweiz auf kleine Bergbahnen. Der Weg durch die Luft hat Vorteile, so auch nach der Katastrophe von Blatten. Trotzdem fehlt vielen Betreibern das Geld.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/30/4fccd797-1d7c-4547-9c52-2aa024f5c2f5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1139,1139,x892,y165",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-03T04:30:00+00:00",
+"sum": "Wo andere Länder Strassen bauen, setzt die Schweiz auf kleine Bergbahnen. Der Weg durch die Luft hat Vorteile, so auch nach der Katastrophe von Blatten. Trotzdem fehlt vielen Betreibern das Geld."
+},
+{
+"id": "8d6b1f159db1",
+"title": "USA greifen iranische Ziele in Strasse von Hormus an",
+"link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html",
+"text": "Kurz vor den Midterms in den USA sollen die USA wieder Iran angegriffen haben. Dabei soll es sich um einzelne Angriffe handeln - und keine vollständige Wiederaufnahme der Kampfhandlungen.",
+"img": "https://images.tagesschau.de/image/c46f62dc-c9a2-446e-b6b2-842dfd189d8a/AAABoZ85e7g/AAABnSSvrFg/16x9-big/trump-5400.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-03T04:05:38+00:00",
+"sum": "Kurz vor den Midterms in den USA sollen die USA wieder Iran angegriffen haben. Dabei soll es sich um einzelne Angriffe handeln - und keine vollständige Wiederaufnahme der Kampfhandlungen."
+},
+{
+"id": "0ae5d927b5af",
+"title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
+"link": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html",
+"text": "Die USA, Russland und die Ukraine haben zuletzt im Februar im Dreierformat miteinander gesprochen. Kommende Woche wollen sie wieder zusammenkommen. US-Sondergesandter Wittkoff hat konkrete Ziele.",
+"img": "https://images.tagesschau.de/image/1b12b7ff-2ca8-4272-8679-a4ee42bd6fc3/AAABoZ96qyE/AAABnSSvrFg/16x9-big/witkoff-164.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-03T03:55:28+00:00",
+"sum": "Die USA, Russland und die Ukraine haben zuletzt im Februar im Dreierformat miteinander gesprochen. Kommende Woche wollen sie wieder zusammenkommen. US-Sondergesandter Wittkoff hat konkrete Ziele."
+},
 {
 "id": "bbd939f10ee2",
 "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
@@ -752,17 +851,6 @@
 "sum": "Die Kinder im Blick behalten und das Handy kabellos verbinden: Das Lamtto RC38 vereint Rückbankkamera und Wireless-Adapter. Wir zeigen, was es im Alltag taugt."
 },
 {
-"id": "bcac3d4fea2b",
-"title": "Merz verurteilt Krawalle am Rande der Jugendproteste",
-"link": "https://www.tagesschau.de/inland/jugendproteste-gewalt-merz-100.html",
-"text": "Nach den Krawallen am Rande der Jugendproteste diskutiert die Politik über die Folgen - und darüber, von wem die Gewalt ausging. Kanzler Merz betont, man werde hart vorgehen. Zugleich zeigt er Verständnis für Forderungen von Demonstranten.",
-"img": "https://images.tagesschau.de/image/02fb8dff-fd04-4b23-a859-6507e4001c2b/AAABoZyjsKo/AAABnSSvrFg/16x9-big/scherben-frankfut-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-02T14:59:58+00:00",
-"sum": "Nach den Krawallen am Rande der Jugendproteste diskutiert die Politik über die Folgen - und darüber, von wem die Gewalt ausging. Kanzler Merz betont, man werde hart vorgehen. Zugleich zeigt er Verständnis für Forderungen von Demonstranten."
-},
-{
 "id": "d343c4ba9d4f",
 "title": "Claude Code: Anthropic verschärft Regeln gegen Spieleklone",
 "link": "https://www.heise.de/news/Claude-Code-Anthropic-verschaerft-Regeln-gegen-Spieleklone-11508349.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -827,28 +915,6 @@
 "topic": "Tech",
 "date": "2026-11-02T14:22:00+00:00",
 "sum": "Google will ab 2027 ein anbieterübergreifendes IETF-Token fürs KI-Training in der robots.txt auswerten. Google-Extended bleibt für Ausnahmen erhalten."
-},
-{
-"id": "651beedd50d3",
-"title": "Kostenlose Grafik-App: Canva hat Affinity fürs iPad veröffentlicht",
-"link": "https://www.heise.de/news/Kostenlose-Grafik-App-Canva-hat-Affinity-fuers-iPad-veroeffentlicht-11508236.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Canva hat eine iPad-Version seiner Grafik-App Affinity veröffentlicht. Sie vereint Bildbearbeitung, Vektorgrafik und Seitenlayout und ist weitgehend kostenlos.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-02T14:16:00+00:00",
-"sum": "Canva hat eine iPad-Version seiner Grafik-App Affinity veröffentlicht. Sie vereint Bildbearbeitung, Vektorgrafik und Seitenlayout und ist weitgehend kostenlos."
-},
-{
-"id": "ffa1e5c0a30d",
-"title": "Massive Cyberattacke auf Linken-Abgeordnete in Berlin",
-"link": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html",
-"text": "Tausende Nachrichten binnen Minuten: Ein massiver Cyberagriff hat die Mail-Postfächer der Linken im Bundestag lahmgelegt. Wer hinter der Attacke steckt, ist noch unklar. Andere Fraktionen waren nicht betroffen.",
-"img": "https://images.tagesschau.de/image/268e7440-08c6-4492-84ec-6bd867a0afde/AAABnRAAbFU/AAABnSSvrFg/16x9-big/die-linke-logo-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-02T14:14:53+00:00",
-"sum": "Tausende Nachrichten binnen Minuten: Ein massiver Cyberagriff hat die Mail-Postfächer der Linken im Bundestag lahmgelegt. Wer hinter der Attacke steckt, ist noch unklar. Andere Fraktionen waren nicht betroffen."
 },
 {
 "id": "15fe53b927de",
@@ -1258,17 +1324,6 @@
 "sum": "Welche Tripel von Primzahlen erfüllen die Bedingungen?"
 },
 {
-"id": "40961036b0d7",
-"title": "Wahlen 2027 – Grünen-Präsidentin Mazzone kandidiert erneut für den Ständerat",
-"link": "https://www.srf.ch/news/schweiz/wahlen-2027-gruenen-praesidentin-mazzone-kandidiert-erneut-fuer-den-staenderat",
-"text": "Ihre erneute Kandidatur begründet Mazzone unter anderem mit der fehlenden Frauenvertretung im Genfer Ständerat.",
-"img": "https://www.srf.ch/static/cms/images//320ws/98efbe.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-02T06:29:30+00:00",
-"sum": "Ihre erneute Kandidatur begründet Mazzone unter anderem mit der fehlenden Frauenvertretung im Genfer Ständerat."
-},
-{
 "id": "aa53b49a190f",
 "title": "Fondsmarkt: Am meisten Neugeld fliesst in Obligationen",
 "link": "https://www.finews.ch/news/finanzplatz/74262-amas-fondsmarktq3-2026-neugeld-obligationenfonds-fondsanbieter",
@@ -1456,17 +1511,6 @@
 "sum": "Mit bunten Blumen, Kostümen und Musik ehren die Mexikanerinnen und Mexikaner am Tag der Toten ihre Verstorbenen."
 },
 {
-"id": "c74915605738",
-"title": "Artenschutz – Der Retter der Seebären",
-"link": "https://www.srf.ch/news/dialog/artenschutz-der-retter-der-seebaeren",
-"text": "An Namibias Küste sterben jedes Jahr Hunderte Seebären im Abfall. Ein Mann kämpft dagegen an – mit Netz und Schere.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d02a0b.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-01T15:12:47+00:00",
-"sum": "An Namibias Küste sterben jedes Jahr Hunderte Seebären im Abfall. Ein Mann kämpft dagegen an – mit Netz und Schere."
-},
-{
 "id": "2475f14c8029",
 "title": "Freistetters Formelwelt: Die gruseligste Formel der Mathematik",
 "link": "https://www.spektrum.de/kolumne/satz-von-green-die-gruseligste-formel-der-mathematik/2352054",
@@ -1531,39 +1575,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-01T07:02:36+00:00",
 "sum": "Nach dem Hackerangriff hat Binance laut eigenen Angaben 90 Prozent der gestohlenen Summe absichern können."
-},
-{
-"id": "24da9e460519",
-"title": "Die Frau, vor der Rechte und Linke zittern: Christine Lagarde hält Frankreich und das WEF in Atem",
-"link": "https://www.nzz.ch/wirtschaft/die-frau-vor-der-rechte-und-linke-zittern-christine-lagarde-haelt-frankreich-und-das-wef-in-atem-ld.10050356",
-"text": "Die abtretende EZB-Präsidentin lässt Freund und Feind im Ungewissen.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/31/70bfb65d-0ec1-40ff-ae5d-f4575ff25e6a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1656,1656,x1146,y39",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-01T04:30:00+00:00",
-"sum": "Die abtretende EZB-Präsidentin lässt Freund und Feind im Ungewissen."
-},
-{
-"id": "9b513b8b1384",
-"title": "Platzt gerade die KI-Blase, oder sind die Investoren bloss nervös wegen der Zwischenwahlen in den USA?",
-"link": "https://www.nzz.ch/wirtschaft/platzt-gerade-die-ki-blase-oder-sind-investoren-bloss-nervoes-wegen-der-zwischenwahlen-in-den-usa-ld.10049378",
-"text": "Seit drei Wochen sinken die Kurse von Tech-Aktien. Was dafür spricht, dass es bald wieder aufwärtsgeht.",
-"img": "https://img-msp-prod.nzz.ch/2024/07/23/a83e2f98-487a-4a27-ade7-8416b1bfa8ce.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x1098,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-01T04:30:00+00:00",
-"sum": "Seit drei Wochen sinken die Kurse von Tech-Aktien. Was dafür spricht, dass es bald wieder aufwärtsgeht."
-},
-{
-"id": "da75c2bcdae4",
-"title": "Das Geschäft mit dem Weltuntergang: Luxusbunker und Survival-Workshops für eine verängstigte Gesellschaft",
-"link": "https://www.nzz.ch/wirtschaft/das-geschaeft-mit-dem-weltuntergang-luxusbunker-und-survival-workshops-fuer-eine-veraengstigte-gesellschaft-ld.10048433",
-"text": "Die geopolitische Unsicherheit verstärkt in der Bevölkerung den Wunsch, für den Ernstfall gewappnet zu sein. Prepping ist auf dem Weg aus der Nische. Auch in der Schweiz verzeichnen Unternehmen steigende Umsätze.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/30/72425b6e-5010-4ced-8363-757e3bb17e4a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1336,1336,x180,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-01T04:30:00+00:00",
-"sum": "Die geopolitische Unsicherheit verstärkt in der Bevölkerung den Wunsch, für den Ernstfall gewappnet zu sein. Prepping ist auf dem Weg aus der Nische. Auch in der Schweiz verzeichnen Unternehmen steigende Umsätze."
 },
 {
 "id": "4d025db42d59",
@@ -1674,28 +1685,6 @@
 "topic": "Wirtschaft",
 "date": "2026-10-31T07:45:19+00:00",
 "sum": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert."
-},
-{
-"id": "23c49c0f5c68",
-"title": "Grässliche Grimassen, blutige Finger und langweilige Suppen: An Halloween verbreiten Kürbisse Angst und Schrecken",
-"link": "https://www.nzz.ch/wissenschaft/graessliche-grimassen-blutige-finger-und-langweilige-suppen-an-halloween-verbreiten-kuerbisse-angst-und-schrecken-ld.10045887",
-"text": "Kulinarisch wie kulturell sei das orangefarbene Herbstgemüse Geschmackssache, findet unser Autor. Doch er kann ihm auch Positives abgewinnen. Die Kolumne «Hauptsache, gesund».",
-"img": "https://img-msp-prod.nzz.ch/2026/10/27/1a5fa1bb-a5a9-40ef-8512-772e65904392.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x917,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-10-31T04:30:00+00:00",
-"sum": "Kulinarisch wie kulturell sei das orangefarbene Herbstgemüse Geschmackssache, findet unser Autor. Doch er kann ihm auch Positives abgewinnen. Die Kolumne «Hauptsache, gesund»."
-},
-{
-"id": "642d2af59e26",
-"title": "In den USA geht die Zahl der Drogentoten deutlich zurück: Das sind die Gründe",
-"link": "https://www.nzz.ch/wissenschaft/usa-warum-sinken-die-drogentoten-das-sind-die-ursachen-ld.10026493",
-"text": "Die Zahl der Fentanyl-Toten hat sich innert dreier Jahre fast halbiert. Das ist ein Hoffnungsschimmer. Dabei hat auch ein Pferdemedikament namens Xylazin eine Rolle gespielt.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/06/cff6cf14-f610-451f-b725-0d3c0ba2c95c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3931,3931,x1333,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-10-31T04:30:00+00:00",
-"sum": "Die Zahl der Fentanyl-Toten hat sich innert dreier Jahre fast halbiert. Das ist ein Hoffnungsschimmer. Dabei hat auch ein Pferdemedikament namens Xylazin eine Rolle gespielt."
 }
 ]
 }
