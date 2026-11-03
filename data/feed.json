@@ -1,18 +1,95 @@
 {
-"updated": "2026-11-03T20:59:59+00:00",
+"updated": "2026-11-03T22:58:30+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
-"id": "ab97c4d2f678",
-"title": "Midterms 2026 – Wahlen in vollem Gang +++ Auf diese Wählergruppen kommt es an",
-"link": "https://www.srf.ch/news/international/midterms-2026-wahlen-in-vollem-gang-auf-diese-waehlergruppen-kommt-es-an",
+"id": "0513444eb66c",
+"title": "Midterms 2026 – Erste Wahllokale schliessen in Kürze",
+"link": "https://www.srf.ch/news/international/midterms-2026-erste-wahllokale-schliessen-in-kuerze",
 "text": "Die Midterms bestimmen darüber, wer die Mehrheit im Kongress hat. Wir halten Sie über das Neueste auf dem Laufenden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/3ba33f.webp",
+"img": "https://www.srf.ch/static/cms/images//320ws/c902321.webp",
 "source": "SRF",
 "topic": "Welt",
-"date": "2026-11-03T20:28:34+00:00",
+"date": "2026-11-03T22:42:13+00:00",
 "sum": "Die Midterms bestimmen darüber, wer die Mehrheit im Kongress hat. Wir halten Sie über das Neueste auf dem Laufenden."
+},
+{
+"id": "7be4fdd4f53f",
+"title": "Midterms in den USA – Wer kontrolliert künftig den US-Kongress? Die neuesten Umfragen",
+"link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-wer-kontrolliert-kuenftig-den-us-kongress-die-neuesten-umfragen",
+"text": "Wer erlangt die Mehrheit im Senat, wer im Repräsentantenhaus? Der Überblick in Grafiken.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7cd843.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-03T22:14:52+00:00",
+"sum": "Wer erlangt die Mehrheit im Senat, wer im Repräsentantenhaus? Der Überblick in Grafiken."
+},
+{
+"id": "e926b6c379e1",
+"title": "Champions League: Round-up – PSG und LASK im Rausch – ManUnited schlägt gegen AS Roma zurück",
+"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-psg-und-lask-im-rausch-manunited-schlaegt-gegen-as-roma-zurueck",
+"text": "Der Titelverteidiger schenkt Villarreal am 4. CL-Spieltag 6 Tore ein, die «Red Devils» kommen vom 0:2 zum 3:2.",
+"img": "https://www.srf.ch/static/cms/images//320ws/2bfba5.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-03T22:12:09+00:00",
+"sum": "Der Titelverteidiger schenkt Villarreal am 4. CL-Spieltag 6 Tore ein, die «Red Devils» kommen vom 0:2 zum 3:2."
+},
+{
+"id": "47fae15ddf45",
+"title": "Champions League, 4. Spieltag – Yamal und Manzambi auffällig: Barça schlägt Aston Villa verdient",
+"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-4-spieltag-yamal-und-manzambi-auffaellig-barca-schlaegt-aston-villa-verdient",
+"text": "Barcelona fügt Aston Villa die erste Niederlage in der Champions League zu. Am Ende steht es im Camp Nou 3:0.",
+"img": "https://www.srf.ch/static/cms/images//320ws/118290f.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-03T22:07:19+00:00",
+"sum": "Barcelona fügt Aston Villa die erste Niederlage in der Champions League zu. Am Ende steht es im Camp Nou 3:0."
+},
+{
+"id": "7bde2bcf0e84",
+"title": "CL: Deutscher Jubel und Frust – Bayern atmet bei Atletico auf – Stuttgart muss untendurch",
+"link": "https://www.srf.ch/sport/fussball/champions-league/cl-deutscher-jubel-und-frust-bayern-atmet-bei-atletico-auf-stuttgart-muss-untendurch",
+"text": "In der Champions League ist die deutsche Rangordnung wiederhergestellt: Die Münchner siegen, der VfB verliert erstmals.",
+"img": "https://www.srf.ch/static/cms/images//320ws/99c0cd.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-03T21:58:27+00:00",
+"sum": "In der Champions League ist die deutsche Rangordnung wiederhergestellt: Die Münchner siegen, der VfB verliert erstmals."
+},
+{
+"id": "3a4b848bf03b",
+"title": "Nach TAS-Urteil zu Russland – Widerstand wächst: Eishockey-WM 2027 wackelt",
+"link": "https://www.srf.ch/sport/eishockey/wm/nach-tas-urteil-zu-russland-widerstand-waechst-eishockey-wm-2027-wackelt",
+"text": "Die Zulassung Russlands zur Eishockey-WM 2027 trifft auf grossen Widerstand. Nun drohen weitere Teams mit Boykott.",
+"img": "https://www.srf.ch/static/cms/images//320ws/63cfcc.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-03T21:40:45+00:00",
+"sum": "Die Zulassung Russlands zur Eishockey-WM 2027 trifft auf grossen Widerstand. Nun drohen weitere Teams mit Boykott."
+},
+{
+"id": "6e6ad9e4ba3f",
+"title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
+"link": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
+"text": "Zwei schwere Zugunglücke haben Spanien in diesem Jahr erschüttert. Nun zieht Verkehrsminister Puente die politischen Konsequenzen. Ausserdem beschloss die Regierung neue Massnahmen, um die Sicherheit zu verbessern.",
+"img": "https://images.tagesschau.de/image/4141b557-c7c8-4671-9d78-3b1a80a10857/AAABoaM1OZM/AAABnSSvrFg/16x9-big/puente-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-03T20:58:56+00:00",
+"sum": "Zwei schwere Zugunglücke haben Spanien in diesem Jahr erschüttert. Nun zieht Verkehrsminister Puente die politischen Konsequenzen. Ausserdem beschloss die Regierung neue Massnahmen, um die Sicherheit zu verbessern."
+},
+{
+"id": "0011d023f35a",
+"title": "Extremwetter: Mobilfunkverband GSMA fordert koordiniertes Handeln",
+"link": "https://www.heise.de/news/Extremwetter-Mobilfunkverband-GSMA-fordert-koordiniertes-Handeln-11510739.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die GSMA warnt vor zunehmenden Risiken für Mobilfunknetze durch extremes Wetter und fordert eine koordinierte Politik zum Schutz kritischer Infrastrukturen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-03T20:54:00+00:00",
+"sum": "Die GSMA warnt vor zunehmenden Risiken für Mobilfunknetze durch extremes Wetter und fordert eine koordinierte Politik zum Schutz kritischer Infrastrukturen."
 },
 {
 "id": "f59405a5d651",
@@ -57,17 +134,6 @@
 "topic": "Welt",
 "date": "2026-11-03T19:52:48+00:00",
 "sum": "Tschechiens Regierung will den öffentlich-rechtlichen Rundfunk künftig aus dem Staatshaushalt finanzieren. Viele sorgen sich deshalb um die Unabhängigkeit der Sender. Tausende gingen auf die Strasse, beim Rundfunk wurde gestreikt."
-},
-{
-"id": "0d0390754e6b",
-"title": "Champions League: Round-up – Stuttgart muss bei Galatasaray untendurch",
-"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-stuttgart-muss-bei-galatasaray-untendurch",
-"text": "Der Bundesligist fährt am 4. Spieltag der Ligaphase seinen ersten Nuller ein. Sporting Lissabon kommt zu einem Minisieg.",
-"img": "https://www.srf.ch/static/cms/images//320ws/18a21e4.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-03T19:40:56+00:00",
-"sum": "Der Bundesligist fährt am 4. Spieltag der Ligaphase seinen ersten Nuller ein. Sporting Lissabon kommt zu einem Minisieg."
 },
 {
 "id": "f3aca6291a2e",
@@ -235,17 +301,6 @@
 "sum": "Friedrich Merz glaubt an eine Google-Cloudlösung, die souverän genug für deutsche Nachrichtendienste ist. Diese Haltung ist brandgefährlich, meint Falk Steiner."
 },
 {
-"id": "3a4b848bf03b",
-"title": "Nach TAS-Urteil zu Russland – Widerstand wächst: Eishockey-WM 2027 wackelt",
-"link": "https://www.srf.ch/sport/eishockey/wm/nach-tas-urteil-zu-russland-widerstand-waechst-eishockey-wm-2027-wackelt",
-"text": "Die Zulassung Russlands zur Eishockey-WM 2027 trifft auf grossen Widerstand. Nun drohen weitere Teams mit Boykott.",
-"img": "https://www.srf.ch/static/cms/images//320ws/63cfcc.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-03T17:35:18+00:00",
-"sum": "Die Zulassung Russlands zur Eishockey-WM 2027 trifft auf grossen Widerstand. Nun drohen weitere Teams mit Boykott."
-},
-{
 "id": "7c90701797e1",
 "title": "Spanien beschliesst nach Zugunglück neue Sicherheitsmassnahmen im Bahnverkehr",
 "link": "https://www.tagesschau.de/ausland/spanien-sicherheitsmassnahmen-100.html",
@@ -277,17 +332,6 @@
 "topic": "Tech",
 "date": "2026-11-03T17:14:02+00:00",
 "sum": "Erst seit 2023 hat Mercedes eigene Schnellladestationen aufgebaut. Nun gibt es für die europäischen Standorte einen Käufer. ( Ladesäule , Elektroauto )"
-},
-{
-"id": "140512129f63",
-"title": "News aus der National League – Auf eigenen Wunsch: Wüthrich will weg von Ambri",
-"link": "https://www.srf.ch/sport/eishockey/national-league/news-aus-der-national-league-auf-eigenen-wunsch-wuethrich-will-weg-von-ambri",
-"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Schweizer Klub-Eishockey.",
-"img": "https://www.srf.ch/static/cms/images//320ws/21b4a3.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-03T17:12:42+00:00",
-"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Schweizer Klub-Eishockey."
 },
 {
 "id": "169b4d269a58",
@@ -730,17 +774,6 @@
 "sum": "Es wäre die grösste Fusion in der deutschen Chemiebranche: Wenn BASF und Evonik zusammengingen, entstünde ein Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro. Doch noch sträubt sich Evonik. Von Michael Heussen."
 },
 {
-"id": "ea533ae3ffaa",
-"title": "Apple verschärft Altersfreigaben für Dating-Apps und Standortfreigabe",
-"link": "https://www.heise.de/news/Apple-verschaerft-Altersfreigaben-fuer-Dating-Apps-und-Standortfreigabe-11510091.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Ab dem 16. November müssen Entwickler angeben, ob ihre Apps Dating-Funktionen oder Standortfreigabe enthalten – das kann die Altersfreigabe hochstufen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-03T14:37:00+00:00",
-"sum": "Ab dem 16. November müssen Entwickler angeben, ob ihre Apps Dating-Funktionen oder Standortfreigabe enthalten – das kann die Altersfreigabe hochstufen."
-},
-{
 "id": "69b8efd1b047",
 "title": "Ex-Vizekanzler im Gespräch – Robert Habeck: «Ich fremdle mit den Jugendprotesten»",
 "link": "https://www.srf.ch/news/international/ex-vizekanzler-im-gespraech-robert-habeck-ich-fremdle-mit-den-jugendprotesten",
@@ -774,17 +807,6 @@
 "sum": "Wo Zürich und Schwyz auf Tuchfühlung gehen: Eine Wanderung zum Hüttnersee."
 },
 {
-"id": "c2cdf6c53cc2",
-"title": "Nach dem 4:5 gegen Thun – Schlusslicht Lausanne trennt sich von Trainer Elsner",
-"link": "https://www.srf.ch/sport/fussball/super-league/nach-dem-4-5-gegen-thun-schlusslicht-lausanne-trennt-sich-von-trainer-elsner",
-"text": "Lausanne-Sport verkündet am Dienstagnachmittag die Trennung von Trainer Luka Elsner.",
-"img": "https://www.srf.ch/static/cms/images//320ws/9fa3cc9.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-03T13:51:24+00:00",
-"sum": "Lausanne-Sport verkündet am Dienstagnachmittag die Trennung von Trainer Luka Elsner."
-},
-{
 "id": "d184134b0b50",
 "title": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
 "link": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
@@ -802,7 +824,7 @@
 "text": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
 "img": "https://images.tagesschau.de/image/d726ff5b-764a-4fd1-abcc-2f3341838768/AAABmMuktaQ/AAABnSSvrFg/16x9-big/nyse-412.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-03T13:33:24+00:00",
 "sum": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser."
 },
@@ -860,17 +882,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-03T12:00:00+00:00",
 "sum": "Felder der Schwerkraft können unter extremen Bedingungen zerreissen und sich neu zusammenschliessen. Die Vorgänge ähneln Magnetfeld-Abschnürungen bei Eruptionen auf der Sonne."
-},
-{
-"id": "7be4fdd4f53f",
-"title": "Midterms in den USA – Wer kontrolliert künftig den US-Kongress? Die neuesten Umfragen",
-"link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-wer-kontrolliert-kuenftig-den-us-kongress-die-neuesten-umfragen",
-"text": "Wer erlangt die Mehrheit im Senat, wer im Repräsentantenhaus? Der Überblick in Grafiken.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0f992e.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-03T11:38:39+00:00",
-"sum": "Wer erlangt die Mehrheit im Senat, wer im Repräsentantenhaus? Der Überblick in Grafiken."
 },
 {
 "id": "5f91dfc7d487",
@@ -1533,17 +1544,6 @@
 "sum": "Experten der Universität Zürich halten es für unwahrscheinlich, dass die USA von der Schweiz höhere Arzneimittelpreise einfordern würden. Von der Idee der Meistbegünstigung sei wenig übrig geblieben."
 },
 {
-"id": "602171299ef7",
-"title": "Eine Schweizer Spezialität – Die einhändige Rückhand ist ein Auslaufmodell im Tennis",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/eine-schweizer-spezialitaet-die-einhaendige-rueckhand-ist-ein-auslaufmodell-im-tennis",
-"text": "Seit 1974 wird die Backhand auf der Tour vermehrt beidhändig gespielt. Heute hat Wawrinkas Zauberschlag fast ausgedient.",
-"img": "https://www.srf.ch/static/cms/images//320ws/194ca9.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-02T13:13:18+00:00",
-"sum": "Seit 1974 wird die Backhand auf der Tour vermehrt beidhändig gespielt. Heute hat Wawrinkas Zauberschlag fast ausgedient."
-},
-{
 "id": "51a9b596a1d1",
 "title": "BNP Paribas ernennt Leiter für neuen Bereich Investment Banking Schweiz",
 "link": "https://www.finews.ch/news/banken/74280-bnp-paribas-christoph-sebastian-meier-investmentbanking-schweiz",
@@ -1608,6 +1608,17 @@
 "topic": "Wirtschaft",
 "date": "2026-11-02T07:53:17+00:00",
 "sum": "Vermögende unterhalten im Schnitt mehr als drei Bankbeziehungen. Jeder Vierte hat in den letzten fünf Jahren seine wichtigste Anlagebank gewechselt. Eine neue Studie der Hochschule Luzern und der Luzerner Kantonalbank zeigt, wie umkämpft das Private Banking ist."
+},
+{
+"id": "70c02d97ac06",
+"title": "In eigener Sache – SRF-Stellungnahme zur Berichterstattung über Hans Jucker",
+"link": "https://www.srf.ch/sport/mehr-sport/allgemein/in-eigener-sache-srf-stellungnahme-zur-berichterstattung-ueber-hans-jucker",
+"text": "Der mittlerweile verstorbene Ex-SRF-Sportreporter wurde 1971 wegen sexueller Handlungen mit Minderjährigen verurteilt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/5b1e750.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-02T06:04:34+00:00",
+"sum": "Der mittlerweile verstorbene Ex-SRF-Sportreporter wurde 1971 wegen sexueller Handlungen mit Minderjährigen verurteilt."
 },
 {
 "id": "dc35ec0d6de0",
