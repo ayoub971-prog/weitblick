@@ -264,7 +264,7 @@ function splitFollow(t) {
   if (m) { f = m[1].split(/\s*\|\s*|\n+/).map(function (s) { return s.replace(/^[-*\d.\s]+/, '').trim(); }).filter(Boolean).slice(0, 3); t = t.slice(0, m.index); }
   return { text: t.trim(), follow: f };
 }
-var STOP = /^(was|wer|wie|wo|wann|warum|wieso|weshalb|welche[rsnm]?|ist|sind|war|hat|haben|gibt|es|der|die|das|den|dem|des|ein|eine[rnms]?|und|oder|in|im|am|an|auf|zu|zum|zur|von|vom|mit|für|über|bei|heute|gestern|morgen|aktuell|neu|neues|passiert|genau|bitte|mir|mich|ich|du|man|sich|sagen|sagt|bedeutet|dazu|noch|mehr)$/i;
+var STOP = /^(was|wer|wie|wo|wann|warum|wieso|weshalb|welche[rsnm]?|ist|sind|war|hat|haben|gibt|es|der|die|das|den|dem|des|ein|eine[rnms]?|und|oder|in|im|am|an|auf|zu|zum|zur|von|vom|mit|für|über|bei|heute|gestern|morgen|aktuell|neu|neues|passiert|genau|bitte|mir|mich|ich|du|man|sich|sagen|sagt|bedeutet|dazu|noch|mehr|erkläre?|erklär|kurz|macht|machen|tut|einfach|erzähl|erzähle|sag|zeig|weisst|kannst|könntest|bitte|eigentlich|so|denn|mal)$/i;
 function keywords(q) { return q.split(/[^A-Za-zÄÖÜäöüéèàç0-9-]+/).filter(function (w) { return w.length > 1 && !STOP.test(w); }).join(' ') || q; }
 function wikiSources(q) {
   q = keywords(q);
@@ -356,7 +356,7 @@ function ask(q) {
         ? callOne(item, SYS, history(q), { grounded: true }).then(groundedResult)
         : freeSources().then(function (src) {
             if (!src.length) throw httpErr(-1, 'keine Quellen');
-            var sys = SYS + ' Benutze NUR die nummerierten Quellen unten und setze nach jeder Aussage die Nummer der Quelle in eckigen Klammern, z. B. [1]. Ohne Quelle keine Aussage. Englische Quellen übersetzt du ins Deutsche. Wenn die Quellen die Frage nicht beantworten, sag das in einem Satz ehrlich.\n\nQUELLEN:\n' +
+            var sys = SYS + ' Benutze NUR die nummerierten Quellen unten und setze nach jeder Aussage die Nummer der Quelle in eckigen Klammern, z. B. [1]. Ohne Quelle keine Aussage. Englische Quellen übersetzt du ins Deutsche. Wenn die Quellen die Frage nicht beantworten, sag das in einem Satz ehrlich. Bei Fragen nach aktuellen Nachrichten fasse die wichtigsten 3 bis 5 Meldungen aus den Quellen in je einem ganzen Satz zusammen, jeweils mit Quellennummer.\n\nQUELLEN:\n' +
               src.map(function (s, n) { return '[' + (n + 1) + '] ' + s.title + ': ' + s.text.slice(0, 900); }).join('\n');
             return (item.provider === 'frei' ? callFree(sys, history(q), out) : callOne(item, sys, history(q))).then(function (r) { var sp = splitFollow(r.text); return { text: ss(sp.text), follow: sp.follow.map(ss), sources: src, web: false }; });
           });
