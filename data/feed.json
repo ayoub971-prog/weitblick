@@ -1,8 +1,30 @@
 {
-"updated": "2026-11-03T01:22:27+00:00",
+"updated": "2026-11-03T03:04:00+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "bbd939f10ee2",
+"title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+"link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
+"text": "Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab. Zuvor wurden der Gerichtspräsident und sein Stellvertreter suspendiert. Ein Kompromiss ist nicht in Sicht. Von P. Milling.",
+"img": "https://images.tagesschau.de/image/68b15cfe-a327-413c-8de4-27b126062e1a/AAABoZ8Sn_c/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-130.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-03T02:25:42+00:00",
+"sum": "Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab. Zuvor wurden der Gerichtspräsident und sein Stellvertreter suspendiert. Ein Kompromiss ist nicht in Sicht. Von P. Milling."
+},
+{
+"id": "6a070b90c9c2",
+"title": "Apples neuer CEO kann feiern – doch wie lange noch?",
+"link": "https://www.nzz.ch/technologie/apples-neuer-ceo-kann-feiern-doch-wie-lange-noch-ld.10052352",
+"text": "Der iPhone-Konzern feiert das erfolgreichste Jahr seiner Geschichte. Doch Probleme bei Speicherchips und KI dürften ihm bald zusetzen.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/28/2623d64c-bd3f-4d3b-bd0f-5b5480cb348b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2000,2000,x500,y0",
+"source": "NZZ",
+"topic": "Tech",
+"date": "2026-11-03T01:54:06+00:00",
+"sum": "Der iPhone-Konzern feiert das erfolgreichste Jahr seiner Geschichte. Doch Probleme bei Speicherchips und KI dürften ihm bald zusetzen."
+},
 {
 "id": "81ae389a2d31",
 "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
@@ -838,17 +860,6 @@
 "topic": "Welt",
 "date": "2026-11-02T14:12:48+00:00",
 "sum": "Viele Latinos wenden sich von den US-Republikanern ab. Floridas Kubanerinnen und Kubaner aber bleiben der Partei treu."
-},
-{
-"id": "04b5f5bb26b0",
-"title": "AfD und Linke: Warum Extremismus-Vergleiche zu kurz greifen",
-"link": "https://www.tagesschau.de/inland/innenpolitik/extremismus-linke-afd-100.html",
-"text": "SPD und Grüne laufen Sturm gegen die Gleichsetzung von AfD und der Linken durch CDU und CSU. Experten betonen deutliche Unterschiede, vor allem bei Ideologie und Bewertung des Verfassungsschutzes. Von Jürgen P. Lang.",
-"img": "https://images.tagesschau.de/image/34ca17ee-d2c9-4304-bb3c-874e044324fd/AAABoYzc8Eo/AAABnSSvrFg/16x9-big/deutschlandtag-jungen-union-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-02T14:09:31+00:00",
-"sum": "SPD und Grüne laufen Sturm gegen die Gleichsetzung von AfD und der Linken durch CDU und CSU. Experten betonen deutliche Unterschiede, vor allem bei Ideologie und Bewertung des Verfassungsschutzes. Von Jürgen P. Lang."
 },
 {
 "id": "6ae71e70cb23",
