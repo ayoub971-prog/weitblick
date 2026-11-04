@@ -1,40 +1,161 @@
 {
-"updated": "2026-11-04T03:03:55+00:00",
+"updated": "2026-11-04T05:12:53+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
-"id": "bb9a2dabc5b2",
-"title": "Liveblog zu den Midterms: ++ Demokrat erobert Senatssitz in North Carolina ++",
-"link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-"text": "Im Bundesstaat North Carolina haben die Demokraten bei der Wahl zum US-Senat Hochrechnungen zufolge einen Sitz hinzugewonnen. Auch für das Repräsentantenhaus gibt es erste Ergebnisse. Die Entwicklungen im Liveblog.",
-"img": "https://images.tagesschau.de/image/da839af2-a46a-4c50-bcf0-a150ee22010c/AAABoaQvv7o/AAABnSSvrFg/16x9-big/roy-cooper-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T03:00:34+00:00",
-"sum": "Im Bundesstaat North Carolina haben die Demokraten bei der Wahl zum US-Senat Hochrechnungen zufolge einen Sitz hinzugewonnen. Auch für das Repräsentantenhaus gibt es erste Ergebnisse. Die Entwicklungen im Liveblog."
-},
-{
-"id": "5a23a88540fa",
-"title": "Midterms 2026 – Positive Signale für Demokraten in beiden Kammern",
-"link": "https://www.srf.ch/news/international/midterms-2026-positive-signale-fuer-demokraten-in-beiden-kammern",
-"text": "Die Midterms bestimmen darüber, wer die Mehrheit im Kongress hat. Wir halten Sie über das Neueste auf dem Laufenden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/85a4cc.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-04T02:57:48+00:00",
-"sum": "Die Midterms bestimmen darüber, wer die Mehrheit im Kongress hat. Wir halten Sie über das Neueste auf dem Laufenden."
-},
-{
-"id": "b24936f342bd",
-"title": "Midterms in den USA – Wer kontrolliert künftig den US-Kongress? Die neuesten Resultate",
-"link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-wer-kontrolliert-kuenftig-den-us-kongress-die-neuesten-resultate",
-"text": "Wer erlangt die Mehrheit im Senat, wer im Repräsentantenhaus? Der aktuelle Stand in Grafiken.",
+"id": "678ab8714d0c",
+"title": "Midterms in den USA – Blaue Welle im US-Kongress: Die neuesten Resultate",
+"link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-blaue-welle-im-us-kongress-die-neuesten-resultate",
+"text": "Die Demokraten erlangen die Mehrheit im Senat und Repräsentantenhaus. Der aktuelle Stand in Grafiken.",
 "img": "https://www.srf.ch/static/cms/images//320ws/7cd843.webp",
 "source": "SRF",
 "topic": "Welt",
-"date": "2026-11-04T00:28:29+00:00",
-"sum": "Wer erlangt die Mehrheit im Senat, wer im Repräsentantenhaus? Der aktuelle Stand in Grafiken."
+"date": "2026-11-04T05:10:26+00:00",
+"sum": "Die Demokraten erlangen die Mehrheit im Senat und Repräsentantenhaus. Der aktuelle Stand in Grafiken."
+},
+{
+"id": "a6af39309837",
+"title": "US-Zwischenwahl: Demokraten erobern Mehrheit im Senat",
+"link": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html",
+"text": "Bei den Midterms haben sich die Demokraten nach Berechnungen der Nachrichtenagentur AP eine Mehrheit im Senat gesichert. Sie kommen demnach auf mindestens 51 der 100 Sitze.",
+"img": "https://images.tagesschau.de/image/8e6be664-a867-424d-82e0-a1f8ce29c500/AAABoaTfkVw/AAABnSSvrFg/16x9-big/demokraten-124.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T05:03:07+00:00",
+"sum": "Bei den Midterms haben sich die Demokraten nach Berechnungen der Nachrichtenagentur AP eine Mehrheit im Senat gesichert. Sie kommen demnach auf mindestens 51 der 100 Sitze."
+},
+{
+"id": "571bfa058c84",
+"title": "Midterms 2026 – Demokraten erobern Mehrheit im US-Senat",
+"link": "https://www.srf.ch/news/international/midterms-2026-demokraten-erobern-mehrheit-im-us-senat",
+"text": "Die Midterms bestimmen darüber, wer die Mehrheit im Kongress hat. Wir halten Sie über das Neueste auf dem Laufenden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f17de7.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-04T05:01:29+00:00",
+"sum": "Die Midterms bestimmen darüber, wer die Mehrheit im Kongress hat. Wir halten Sie über das Neueste auf dem Laufenden."
+},
+{
+"id": "179922abf473",
+"title": "Diagnosen: Das Profil von Autisten ist heute ein anderes als früher",
+"link": "https://www.spektrum.de/news/das-profil-von-menschen-mit-autismus-ist-heute-anders-als-frueher/2352500",
+"text": "Früher war eine Autismusdiagnose eher mit Erkrankungen wie Epilepsie oder Psychosen verbunden. Heute geht die Diagnose zunehmend mit ADHS, Ängsten und Depressionen einher.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-2244799101.jpeg.8421987.jpeg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-04T05:00:00+00:00",
+"sum": "Früher war eine Autismusdiagnose eher mit Erkrankungen wie Epilepsie oder Psychosen verbunden. Heute geht die Diagnose zunehmend mit ADHS, Ängsten und Depressionen einher."
+},
+{
+"id": "23dd2a659a9e",
+"title": "Serbien nach der Wahl – Wieso mit Vucic nicht auch der Nationalismus endet",
+"link": "https://www.srf.ch/news/international/serbien-nach-der-wahl-wieso-mit-vucic-nicht-auch-der-nationalismus-endet",
+"text": "Nach Vucics Abwahl hoffen viele in der Region auf bessere Beziehungen zu Belgrad. Doch Zweifel sind angebracht.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c6f4ae2.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-04T04:53:50+00:00",
+"sum": "Nach Vucics Abwahl hoffen viele in der Region auf bessere Beziehungen zu Belgrad. Doch Zweifel sind angebracht."
+},
+{
+"id": "c4f7cd062894",
+"title": "Projekt der SBB und ETH – Dieser Roboter soll bald im Gotthard-Basistunnel arbeiten",
+"link": "https://www.srf.ch/news/schweiz/projekt-der-sbb-und-eth-dieser-roboter-soll-bald-im-gotthard-basistunnel-arbeiten",
+"text": "Die Unterhaltsarbeiten im längsten Eisenbahntunnel sind anspruchsvoll. Künftig soll ein ferngesteuerter Roboter helfen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/2a5cfef.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-04T04:53:29+00:00",
+"sum": "Die Unterhaltsarbeiten im längsten Eisenbahntunnel sind anspruchsvoll. Künftig soll ein ferngesteuerter Roboter helfen."
+},
+{
+"id": "bb9a2dabc5b2",
+"title": "Liveblog zu den Midterms: ++ Trump will Wahlergebnisse anerkennen ++",
+"link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+"text": "US-Präsident Trump hat angekündigt die Wahlergebnisse der Midterms anzuerkennen. In Georgia wurde die erste schwarze Frau als Gouverneurin gewählt. Die Entwicklungen im Liveblog.",
+"img": "https://images.tagesschau.de/image/b780b014-d654-44f9-ae2e-ab85a7928960/AAABoSbjyVc/AAABnSSvrFg/16x9-big/trump-5328.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T04:46:46+00:00",
+"sum": "US-Präsident Trump hat angekündigt die Wahlergebnisse der Midterms anzuerkennen. In Georgia wurde die erste schwarze Frau als Gouverneurin gewählt. Die Entwicklungen im Liveblog."
+},
+{
+"id": "582660bef3e7",
+"title": "EuGH-Gutachten: KI-Chatbots können Urheberrecht verletzen",
+"link": "https://www.heise.de/news/EuGH-Gutachten-KI-Chatbots-koennen-Urheberrecht-verletzen-11510768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Presseverlage und Urheber wehren sich gegen die Nutzung ihrer Inhalte durch generative KI-Modelle. Im ersten EuGH-Verfahren zu dem Thema gibt es nun Hinweise.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-04T04:33:00+00:00",
+"sum": "Presseverlage und Urheber wehren sich gegen die Nutzung ihrer Inhalte durch generative KI-Modelle. Im ersten EuGH-Verfahren zu dem Thema gibt es nun Hinweise."
+},
+{
+"id": "234d1619f6d0",
+"title": "US-Zwischenwahlen: Demokraten steuern auf Wahlerfolg zu",
+"link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-wahl-100.html",
+"text": "Nach Schliessung vieler Wahllokale zeichnet sich ein Erfolg für die Demokraten ab. Laut US-Medien ist klar, dass sie vier Senatssitze von den Republikanern erobern. Auch im Rennen um die Mehrheit im Repräsentantenhaus machen sie wichtige Punkte.",
+"img": "https://images.tagesschau.de/image/097ce7bc-116f-412a-afd7-6d282afec0a1/AAABoaSK70w/AAABnSSvrFg/16x9-big/jon-ossoff-georgia-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T04:32:37+00:00",
+"sum": "Nach Schliessung vieler Wahllokale zeichnet sich ein Erfolg für die Demokraten ab. Laut US-Medien ist klar, dass sie vier Senatssitze von den Republikanern erobern. Auch im Rennen um die Mehrheit im Repräsentantenhaus machen sie wichtige Punkte."
+},
+{
+"id": "cff1dd82e5f7",
+"title": "Google liess in Finnland ohne Erlaubnis 530 Hektaren Wald roden. Wie konnte es so weit kommen?",
+"link": "https://www.nzz.ch/wirtschaft/google-laesst-in-finnland-illegal-wald-roden-skandal-um-530-hektar-ld.10046380",
+"text": "Rechenzentren sollten die marode Wirtschaft Finnlands retten, doch nun formiert sich im Land breiter Widerstand. Die Behörden haben die Arbeiten vorläufig gestoppt. Die Polizei ermittelt.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/28/9ed95838-2e68-4e9f-ba1f-45dfbaeedde2.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2531,2531,x1059,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-04T04:30:00+00:00",
+"sum": "Rechenzentren sollten die marode Wirtschaft Finnlands retten, doch nun formiert sich im Land breiter Widerstand. Die Behörden haben die Arbeiten vorläufig gestoppt. Die Polizei ermittelt."
+},
+{
+"id": "242ccf61bacc",
+"title": "INTERVIEW - «Das grösste Problem von Verwaltungsräten ist, dass niemand widerspricht»",
+"link": "https://www.nzz.ch/wirtschaft/das-groesste-problem-von-verwaltungsraeten-ist-dass-niemand-widerspricht-ld.10039538",
+"text": "Marc O. Stöckli hat über 200 Verwaltungsratssitzungen erlebt und darüber ein Buch geschrieben. Er sagt, warum erfolgreiche Chefs nicht automatisch gute Verwaltungsräte sind. Und was es mit dem Fall Lindt und Sprüngli auf sich hat.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/28/57f01756-f48f-447c-be0a-dc0e278b6875.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1703,1703,x0,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-04T04:30:00+00:00",
+"sum": "Marc O. Stöckli hat über 200 Verwaltungsratssitzungen erlebt und darüber ein Buch geschrieben. Er sagt, warum erfolgreiche Chefs nicht automatisch gute Verwaltungsräte sind. Und was es mit dem Fall Lindt und Sprüngli auf sich hat."
+},
+{
+"id": "17418a2113e5",
+"title": "Der «Speckgürtel» triumphiert: Kluge Hauskäufer und Investoren sollten einen grossen Bogen um die Städte machen",
+"link": "https://www.nzz.ch/wirtschaft/der-speckguertel-triumphiert-kluge-hauskaeufer-und-investoren-sollten-einen-grossen-bogen-um-die-staedte-machen-ld.10038459",
+"text": "In Zürich zahlen Investoren Höchstpreise für Immobilien mit wenig Ertrag. Ökonomen fordern ein Umdenken. Denn die Chancen liegen in den Vororten. Teil 2 der Immobilien-Serie «Raus aus der Stadt».",
+"img": "https://img-msp-prod.nzz.ch/2026/10/20/86951c96-cf9d-44aa-8d75-befef37acdc2.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-04T04:30:00+00:00",
+"sum": "In Zürich zahlen Investoren Höchstpreise für Immobilien mit wenig Ertrag. Ökonomen fordern ein Umdenken. Denn die Chancen liegen in den Vororten. Teil 2 der Immobilien-Serie «Raus aus der Stadt»."
+},
+{
+"id": "3e3e2e1ad023",
+"title": "ERKLÄRT - Es steckt in Trockenfrüchten, Pommes, Gemüsechips: Acrylamid. Wie schlimm ist das?",
+"link": "https://www.nzz.ch/wissenschaft/acrylamid-und-krebsrisiko-woraus-man-bei-der-ernaehrung-achten-sollte-ld.10024857",
+"text": "Fachleute empfehlen, den Risikostoff Acrylamid zu meiden. Er könnte Krebs verursachen. Worauf man bei der Ernährung achten kann und weshalb man Kartoffeln nicht im Kühlschrank lagern sollte.",
+"img": "https://img-msp-prod.nzz.ch/2026/09/24/fb75b25e-4bbb-43dc-b89d-4947c99825c1.gif?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1091,1091,x355,y55",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-04T04:30:00+00:00",
+"sum": "Fachleute empfehlen, den Risikostoff Acrylamid zu meiden. Er könnte Krebs verursachen. Worauf man bei der Ernährung achten kann und weshalb man Kartoffeln nicht im Kühlschrank lagern sollte."
+},
+{
+"id": "ecfe623bc3eb",
+"title": "AMD verdoppelt Gewinne dank Server-Geschäften, aber Gaming-Business leidet",
+"link": "https://www.heise.de/news/AMD-verdoppelt-Gewinne-dank-Server-Geschaeften-aber-Gaming-Business-leidet-11510772.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die Nachfrage nach KI-Rechenzentrumskapazitäten beflügelt AMD, Umsatz und Gewinne steigen enorm. Die Aktie zieht an, da AMD genug KI-Chips für 2027 verspricht.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-04T04:02:00+00:00",
+"sum": "Die Nachfrage nach KI-Rechenzentrumskapazitäten beflügelt AMD, Umsatz und Gewinne steigen enorm. Die Aktie zieht an, da AMD genug KI-Chips für 2027 verspricht."
 },
 {
 "id": "831facf2ef55",
@@ -637,7 +758,7 @@
 "text": "Mit einem Fleck auf der Tischdecke fing es an - und zwar in Bayern: Vor 70 Jahren wurde der erste Werbespot im deutschen Fernsehen ausgestrahlt. Seitdem hat sich Werbung massiv verändert. Und das grosse Geld fliesst längst in andere Kanäle. Von Laura Bisch.",
 "img": "https://images.tagesschau.de/image/cc682bd6-cf25-46b1-8f3c-014635274b46/AAABoaH0WmE/AAABnSSvrFg/16x9-big/werbung-114.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-03T15:46:23+00:00",
 "sum": "Mit einem Fleck auf der Tischdecke fing es an - und zwar in Bayern: Vor 70 Jahren wurde der erste Werbespot im deutschen Fernsehen ausgestrahlt. Seitdem hat sich Werbung massiv verändert. Und das grosse Geld fliesst längst in andere Kanäle. Von Laura Bisch."
 },
@@ -708,6 +829,17 @@
 "sum": "Der Vertrag gibt Schülern und Lehrkräften in sechs Bundesländern Zugriff auf den Ionos Nextcloud Workspace. ( Souveränität , Microsoft )"
 },
 {
+"id": "ef6ed6051903",
+"title": "Tareno-Chefin: «Wir arbeiten auf Akquisitionen im Raum Zürich hin»",
+"link": "https://www.finews.ch/news/finanzplatz/74316-interview-sybille-wyss-tareno-vermoegensverwalter-akquistionen-assets-under-management-tareno-fonds",
+"text": "Der Basler Vermögensverwalter Tareno steht kurz vor 4 Milliarden Franken. CEO Sybille Wyss über Ambitionen in Zürich, das Profil im Asset Management und die gelungene Nachfolge.",
+"img": "https://www.finews.ch/images/news/2026/11/sybille_wyss.jpg",
+"source": "finews",
+"topic": "Wirtschaft",
+"date": "2026-11-03T15:05:41+00:00",
+"sum": "Der Basler Vermögensverwalter Tareno steht kurz vor 4 Milliarden Franken. CEO Sybille Wyss über Ambitionen in Zürich, das Profil im Asset Management und die gelungene Nachfolge."
+},
+{
 "id": "02d4cb01ad07",
 "title": "Auslosung Nations League – Schweizerinnen müssen gegen Weltmeister Spanien ran",
 "link": "https://www.srf.ch/sport/fussball/frauen-nationalteam/auslosung-nations-league-schweizerinnen-muessen-gegen-weltmeister-spanien-ran",
@@ -719,17 +851,6 @@
 "sum": "In der Nations League im Frühjahr 2027 trifft die Schweizer Nati auf Spanien, Norwegen und Irland."
 },
 {
-"id": "0f3bd15d6063",
-"title": "Darknet Diaries Deutsch: Maxie – zwischen Netz und Meeresgrund – Teil 2",
-"link": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Maxie-zwischen-Netz-und-Meeresgrund-Teil-2-11505471.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Pentesterin Maxie Reynolds erzählt, wie sie sich im Auftrag ihrer Kunden Zugang zu Gebäuden verschafft – und warum Hacking manchmal ganz ohne Computer auskommt.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-03T15:02:00+00:00",
-"sum": "Pentesterin Maxie Reynolds erzählt, wie sie sich im Auftrag ihrer Kunden Zugang zu Gebäuden verschafft – und warum Hacking manchmal ganz ohne Computer auskommt."
-},
-{
 "id": "3a096d9efdc4",
 "title": "KOMMENTAR - «Gesund ist, was dir guttut»: Die Wohlfühl-Rhetorik der Krankenkassen verabschiedet sich vom Ideal des mündigen Patienten",
 "link": "https://www.nzz.ch/meinung/gesund-ist-was-dir-guttut-die-wohlfuehl-rhetorik-der-krankenkassen-verabschiedet-sich-vom-ideal-des-muendigen-patienten-ld.10048280",
@@ -739,17 +860,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-03T15:00:00+00:00",
 "sum": "Die Versicherer umwerben ihre Kunden mit infantilen Slogans. Dabei erfordert Gesundheit nicht Bauchgefühle, sondern die aktive Auseinandersetzung mit der wissenschaftlichen Beweislage."
-},
-{
-"id": "417ffbe86091",
-"title": "Huawei Freebuds Neo im Test: richtig gute In-Ear-Kopfhörer mit ANC für 109 Euro",
-"link": "https://www.heise.de/bestenlisten/testbericht/huawei-freebuds-neo-im-test-richtig-gute-in-ear-kopfhoerer-mit-anc-fuer-109-euro/svtnxg3?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Die Huawei Freebuds Neo sind die günstige Alternative zu den Freebuds Pro. Wie gut die knubbeligen In-Ear-Kopfhörer mit ANC sind, zeigt der Test.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-03T15:00:00+00:00",
-"sum": "Die Huawei Freebuds Neo sind die günstige Alternative zu den Freebuds Pro. Wie gut die knubbeligen In-Ear-Kopfhörer mit ANC sind, zeigt der Test."
 },
 {
 "id": "dc7e78755e65",
@@ -769,7 +879,7 @@
 "text": "Es wäre die grösste Fusion in der deutschen Chemiebranche: Wenn BASF und Evonik zusammengingen, entstünde ein Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro. Doch noch sträubt sich Evonik. Von Michael Heussen.",
 "img": "https://images.tagesschau.de/image/36b9faed-a98c-455e-a299-8c59c4b95517/AAABoaHi-Y0/AAABnSSvrFg/16x9-big/chemieindustrie-116.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-03T14:59:40+00:00",
 "sum": "Es wäre die grösste Fusion in der deutschen Chemiebranche: Wenn BASF und Evonik zusammengingen, entstünde ein Konzern mit einem Jahresumsatz von rund 74 Milliarden Euro. Doch noch sträubt sich Evonik. Von Michael Heussen."
 },
@@ -1335,17 +1445,6 @@
 "sum": "Was Optogenetik ist und wie der Medizinnobelpreis dafür dem gesamten Innovationsfeld hilft, darüber spricht der Host Thomas Ramge mit Daniel Keppeler. 🎙️"
 },
 {
-"id": "21ce1354b4d0",
-"title": "Natürliche Intelligenz",
-"link": "https://www.spektrum.de/podcast/eigenraum-natuerliche-intelligenz-mit-johannes/2352306",
-"text": "In dieser Folge des Podcasts »Eigenraum« geht es alles um das aktuell heisse Eisen KI. 🎙️",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-2281720679_7_Birnen.jpg.8388314.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-03T06:13:00+00:00",
-"sum": "In dieser Folge des Podcasts »Eigenraum« geht es alles um das aktuell heisse Eisen KI. 🎙️"
-},
-{
 "id": "775e61b8b774",
 "title": "11KM-Podcast: Chip im Gehirn - wie KI und Mensch verbunden werden",
 "link": "https://www.tagesschau.de/multimedia/podcast/11km/chips-hirn-schnittstelle-ki-100.html",
@@ -1489,17 +1588,6 @@
 "sum": "In Sachen KI hängt Deutschland international hinterher. Bei einem Digitalgipfel in Berlin forderte Kanzler Merz daher einen schnellen und energischen Ausbau der KI-Fähigkeiten. Doch viel Zeit bleibe dafür nicht mehr, sagen Experten."
 },
 {
-"id": "7d56f5769053",
-"title": "Ausschreitungen in Zürich – Krawallnacht befeuert Debatte um Polizeipersonal",
-"link": "https://www.srf.ch/news/schweiz/ausschreitungen-in-zuerich-krawallnacht-befeuert-debatte-um-polizeipersonal",
-"text": "Nach den Krawallen macht die SVP Druck für mehr Polizeistellen. Linke Parteien halten dagegen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7813b1.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-02T16:53:11+00:00",
-"sum": "Nach den Krawallen macht die SVP Druck für mehr Polizeistellen. Linke Parteien halten dagegen."
-},
-{
 "id": "a3a6e4bc3c72",
 "title": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
 "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-supermaerkte-100.html",
@@ -1577,17 +1665,6 @@
 "sum": "Kriege und Krisen in aller Welt bereiten den Schweizer Kaffeehändlern Sorge. Sie müssen alternative Lieferwege finden."
 },
 {
-"id": "8dd1be540497",
-"title": "Genfer Vermögensverwalter holt früheren Coutts-Anlagechef in VR",
-"link": "https://www.finews.ch/news/finanzplatz/74273-nfg-partners-verwaltungsrat-paul-sarosy-merrill-lynch-coutts-und-der-credit-suisse",
-"text": "NFG Partners hat seinen Verwaltungsrat mit einem Schwergewicht aus London verstärkt. Paul Sarosy bekleidete leitende Positionen bei Merrill Lynch, Coutts und der Credit Suisse.",
-"img": "https://www.finews.ch/images/news/2026/11/c.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-02T09:21:32+00:00",
-"sum": "NFG Partners hat seinen Verwaltungsrat mit einem Schwergewicht aus London verstärkt. Paul Sarosy bekleidete leitende Positionen bei Merrill Lynch, Coutts und der Credit Suisse."
-},
-{
 "id": "c6a336d4da4c",
 "title": "Lombard Odier holt langjährige UBS-Bankerin für das Geschäft mit Superreichen",
 "link": "https://www.finews.ch/news/banken/74271-lombard-odier-christina-staeger-ernst-ubs-uhnw-family-offices-deutschschweiz",
@@ -1654,39 +1731,6 @@
 "sum": "Neue Studie zeigt: US-Druck auf die Medikamentenpreise könnte die Schweiz jährlich Hunderte Millionen Franken kosten."
 },
 {
-"id": "330e3e89cfa8",
-"title": "Absage an Roms Dirigismus: Der Markt ordnet Italiens Bankenwelt neu",
-"link": "https://www.nzz.ch/wirtschaft/absage-an-roms-dirigismus-der-markt-ordnet-italiens-bankenwelt-neu-ld.10049760",
-"text": "Die Aktionäre der Bank Monte dei Paschi haben den Weg für eine Übernahme durch Intesa Sanpaolo geebnet. Doch das eigentliche Ziel des Intesa-Chefs Carlo Messina ist der Versicherungskonzern Generali.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/30/3a5ecae3-92de-4b35-9b2f-bd8a066cc219.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2667,2667,x880,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-02T04:30:00+00:00",
-"sum": "Die Aktionäre der Bank Monte dei Paschi haben den Weg für eine Übernahme durch Intesa Sanpaolo geebnet. Doch das eigentliche Ziel des Intesa-Chefs Carlo Messina ist der Versicherungskonzern Generali."
-},
-{
-"id": "3577f259ddba",
-"title": "Faule Romands? Von wegen: Die Genferseeregion überholt Zürich – und ist der wichtigste Wirtschaftsraum der Schweiz",
-"link": "https://www.nzz.ch/wirtschaft/faule-romands-von-wegen-die-genferseeregion-ueberholt-zuerich-und-ist-der-wichtigste-wirtschaftsraum-der-schweiz-ld.10048814",
-"text": "Die Waadt und Genf haben zusammen weniger Einwohner als der Kanton Zürich, aber ein grösseres Bruttoinlandprodukt. Das zeigen neue Zahlen des Bundes. Welsche Wirtschaftsvertreter fordern nun mehr Gehör in Bern.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/30/afa153d5-5442-4997-936b-ffc3a4db5396.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2667,2667,x667,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-02T04:30:00+00:00",
-"sum": "Die Waadt und Genf haben zusammen weniger Einwohner als der Kanton Zürich, aber ein grösseres Bruttoinlandprodukt. Das zeigen neue Zahlen des Bundes. Welsche Wirtschaftsvertreter fordern nun mehr Gehör in Bern."
-},
-{
-"id": "76b080e908b4",
-"title": "Zürcher Startup baut KI-Mitarbeiter: «Die haben keine Launen und machen, was man ihnen sagt»",
-"link": "https://www.nzz.ch/wirtschaft/zuercher-startup-baut-ki-mitarbeiter-die-haben-keine-launen-und-machen-was-man-ihnen-sagt-ld.10042513",
-"text": "Jetzt gibt es KI-Mitarbeiter mit Gesicht, E-Mail-Adresse und Monatslohn. Der Uhrenhersteller Breitling hat bereits einen künstlichen Controller im Einsatz. Die Gründer von Square8 sagen: «Irgendwann machen ‹AI Worker› jeden Job besser als Menschen.»",
-"img": "https://img-msp-prod.nzz.ch/2026/10/29/3b10dfb1-ff68-4936-950e-fbc778407f6b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1012,1012,x422,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-02T04:30:00+00:00",
-"sum": "Jetzt gibt es KI-Mitarbeiter mit Gesicht, E-Mail-Adresse und Monatslohn. Der Uhrenhersteller Breitling hat bereits einen künstlichen Controller im Einsatz. Die Gründer von Square8 sagen: «Irgendwann machen ‹AI Worker› jeden Job besser als Menschen.»"
-},
-{
 "id": "ff5b974e1450",
 "title": "Nach Hackerangriff – Binance ersetzt 90 Prozent der gestohlenen Werte",
 "link": "https://www.srf.ch/news/wirtschaft/nach-hackerangriff-binance-ersetzt-90-prozent-der-gestohlenen-werte",
@@ -1696,39 +1740,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-01T07:02:36+00:00",
 "sum": "Nach dem Hackerangriff hat Binance laut eigenen Angaben 90 Prozent der gestohlenen Summe absichern können."
-},
-{
-"id": "4d025db42d59",
-"title": "Die Überwachungssoftware Palantir ist in Europa umstritten. Jetzt sollen Firmen sie ersetzen",
-"link": "https://www.nzz.ch/technologie/die-ueberwachungssoftware-palantir-ist-in-europa-umstritten-jetzt-sollen-hiesige-firmen-sie-ersetzen-ld.10029485",
-"text": "Der französische Geheimdienst und der deutsche Verfassungsschutz satteln von Palantir auf Chapsvision um, das Europa und die Rechte von Menschen mit Behinderung verteidigen will. Und die Bundeswehr ist sogar mit kleinen und eher jungen Startups im Gespräch.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/26/ee225a27-973b-4d32-9ba0-6fd4e802835a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=920,920,x548,y92",
-"source": "NZZ",
-"topic": "Tech",
-"date": "2026-11-01T04:30:00+00:00",
-"sum": "Der französische Geheimdienst und der deutsche Verfassungsschutz satteln von Palantir auf Chapsvision um, das Europa und die Rechte von Menschen mit Behinderung verteidigen will. Und die Bundeswehr ist sogar mit kleinen und eher jungen Startups im Gespräch."
-},
-{
-"id": "625f91577c5d",
-"title": "Sie wollen Ihre Beziehung verbessern? Dann hören Sie mit den freundlichen Flunkereien auf",
-"link": "https://www.nzz.ch/wissenschaft/sie-wollen-ihre-beziehung-verbessern-dann-hoeren-sie-mit-den-freundlichen-flunkereien-auf-ld.10041760",
-"text": "Zufriedene Paare zeichnet etwas aus: Sie schonen sich nicht, sondern teilen sich auch unbequeme Wahrheiten mit. Die Kolumne «Psychologie des Alltags».",
-"img": "https://img-msp-prod.nzz.ch/2026/10/27/0fe0497e-44c8-4190-b85c-6788a00da276.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=708,708,x1533,y1913",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-01T04:30:00+00:00",
-"sum": "Zufriedene Paare zeichnet etwas aus: Sie schonen sich nicht, sondern teilen sich auch unbequeme Wahrheiten mit. Die Kolumne «Psychologie des Alltags»."
-},
-{
-"id": "ff22d237d6d1",
-"title": "Sie plündern die Meere: Wie künstliche Intelligenz und Satelliten helfen, illegale Fischerei aufzuspüren",
-"link": "https://www.nzz.ch/wissenschaft/sie-pluendern-die-meere-wie-kuenstliche-intelligenz-und-satelliten-helfen-illegale-fischerei-aufzuspueren-ld.10027152",
-"text": "Oft gelangt der Fang krimineller Fischer unbemerkt in globale Lieferketten. Früher konnten diese die Ortungssysteme einfach abschalten und sich so unsichtbar machen. Doch das Zusammenspiel von Satellitenbildern, Positionsdaten, Radar und künstlicher Intelligenz verändert den Kampf gegen die Schattenflotten.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/15/db5d806b-66eb-4630-9319-4672af939ed7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3415,3415,x1659,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-01T04:30:00+00:00",
-"sum": "Oft gelangt der Fang krimineller Fischer unbemerkt in globale Lieferketten. Früher konnten diese die Ortungssysteme einfach abschalten und sich so unsichtbar machen. Doch das Zusammenspiel von Satellitenbildern, Positionsdaten, Radar und künstlicher Intelligenz verändert den Kampf gegen die Schattenflotten."
 }
 ]
 }
