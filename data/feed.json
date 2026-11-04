@@ -1,29 +1,95 @@
 {
-"updated": "2026-11-04T21:04:45+00:00",
+"updated": "2026-11-04T22:59:27+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
-"id": "bb9a2dabc5b2",
-"title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
-"link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-"text": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren.",
-"img": "https://images.tagesschau.de/image/7383e65d-830d-44c4-914c-05a03a701938/AAABoaeCyWU/AAABnSSvrFg/16x9-big/jd-vance-134.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T21:00:54+00:00",
-"sum": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren."
+"id": "d92238bf2500",
+"title": "Champions League: Round-up – 9:1! Como schafft Historisches – Valverde erlöst Real Madrid spät",
+"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-9-1-como-schafft-historisches-valverde-erloest-real-madrid-spaet",
+"text": "Champions-League-Debütant Como watscht Lens mit 9:1 ab und sorgt für den höchsten Auswärtssieg der CL-Geschichte.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8b3c62.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-04T22:39:27+00:00",
+"sum": "Champions-League-Debütant Como watscht Lens mit 9:1 ab und sorgt für den höchsten Auswärtssieg der CL-Geschichte."
 },
 {
-"id": "004130764f44",
+"id": "ffb835e5e296",
+"title": "Tim Höttges: Telekom-Chef wirbt bei Bundesregierung für T-Mobile US-Fusion",
+"link": "https://www.golem.de/news/tim-hoettges-telekom-chef-wirbt-bei-bundesregierung-fuer-t-mobile-us-fusion-2611-214871.html",
+"text": "Während das vorläufige Aus für die Fusion zwischen der Deutschen Telekom und T-Mobile US vermeldet wurde, treibt Höttges das Projekt laut Insidern mit Nachdruck voran. ( Timotheus Höttges , Telekom )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214871&page=1&ts=1793830982",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-04T22:23:02+00:00",
+"sum": "Während das vorläufige Aus für die Fusion zwischen der Deutschen Telekom und T-Mobile US vermeldet wurde, treibt Höttges das Projekt laut Insidern mit Nachdruck voran. ( Timotheus Höttges , Telekom )"
+},
+{
+"id": "9f66f471eb3e",
 "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-"link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tot-104.html",
-"text": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger (Freie Wähler) ist tot. Das erfuhr das ARD-Hauptstadtstudio aus Regierungskreisen. Er starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
+"link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+"text": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
 "img": "https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
-"date": "2026-11-04T21:00:31+00:00",
-"sum": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger (Freie Wähler) ist tot. Das erfuhr das ARD-Hauptstadtstudio aus Regierungskreisen. Er starb demnach im Alter von 55 Jahren in einem Berliner Hotel."
+"date": "2026-11-04T22:14:46+00:00",
+"sum": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel."
+},
+{
+"id": "a2b6d5f82043",
+"title": "BVB besiegt Betis – Valles wird vom Hexer zur tragischen Figur",
+"link": "https://www.srf.ch/sport/fussball/champions-league/bvb-besiegt-betis-valles-wird-vom-hexer-zur-tragischen-figur",
+"text": "Dortmund rückt dank einem Heimsieg über Betis Sevilla in der Champions-League-Tabelle auf.",
+"img": "https://www.srf.ch/static/cms/images//320ws/702075.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-04T22:12:40+00:00",
+"sum": "Dortmund rückt dank einem Heimsieg über Betis Sevilla in der Champions-League-Tabelle auf."
+},
+{
+"id": "bb9a2dabc5b2",
+"title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+"link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+"text": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Aussenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
+"img": "https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T22:08:00+00:00",
+"sum": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Aussenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung."
+},
+{
+"id": "96e9098b2193",
+"title": "Chef der Freien Wähler – Bayerischer Wirtschaftsminister Hubert Aiwanger ist tot",
+"link": "https://www.srf.ch/news/international/chef-der-freien-waehler-bayerischer-wirtschaftsminister-hubert-aiwanger-ist-tot",
+"text": "Laut einem Bericht der «Bild»-Zeitung ist der Politiker leblos in einem Berliner Hotel aufgefunden worden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/3bc68a4.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-04T21:57:37+00:00",
+"sum": "Laut einem Bericht der «Bild»-Zeitung ist der Politiker leblos in einem Berliner Hotel aufgefunden worden."
+},
+{
+"id": "200203a4fa4c",
+"title": "Canva: Umstrukturierung und Stellenabbau",
+"link": "https://www.heise.de/news/Canva-Umstrukturierung-und-Stellenabbau-11512750.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Angesichts „neuer Technologien“ und langsameren Wachstums plant das Softwareunternehmen Canva eine umfassende Umstrukturierung mit schlankeren Strukturen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-04T21:25:00+00:00",
+"sum": "Angesichts „neuer Technologien“ und langsameren Wachstums plant das Softwareunternehmen Canva eine umfassende Umstrukturierung mit schlankeren Strukturen."
+},
+{
+"id": "581221f0b260",
+"title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+"link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html",
+"text": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuss.",
+"img": "https://images.tagesschau.de/image/dd13161f-e5e5-44f2-b730-449bb56102a0/AAABoI7eowY/AAABnSSvrFg/16x9-big/vance-184.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T21:15:24+00:00",
+"sum": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuss."
 },
 {
 "id": "f3fb9fc906dd",
@@ -79,17 +145,6 @@
 "topic": "Tech",
 "date": "2026-11-04T20:13:00+00:00",
 "sum": "Mit Investitionen in Höhe von 525 Millionen Euro fördert die EU eine neue Generation europäischer Chipdesign-Unternehmen. Europa will unabhängiger werden."
-},
-{
-"id": "8abe522516d9",
-"title": "Champions League: Round-up – Valverde erlöst Real Madrid spät – Liverpool taucht bei «Fener»",
-"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-valverde-erloest-real-madrid-spaet-liverpool-taucht-bei-fener",
-"text": "Real Madrid macht am 4. Spieltag der Champions League zweimal einen Rückstand wett und gewinnt bei AEK Athen noch 3:2.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6c33a7.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-04T20:03:23+00:00",
-"sum": "Real Madrid macht am 4. Spieltag der Champions League zweimal einen Rückstand wett und gewinnt bei AEK Athen noch 3:2."
 },
 {
 "id": "4b86f6287194",
@@ -741,17 +796,6 @@
 "sum": "Im dritten Quartal sanken die Smartphone-Auslieferungen weltweit um 20 Prozent, dennoch stieg der Umsatz im gleichen Zeitraum um drei Prozent."
 },
 {
-"id": "d3880795552b",
-"title": "Anzeige: Zum Release von GTA 6 - PS5 Slim Disc mit zwei Controllern nur 1 Euro im Tarif bei o2",
-"link": "https://www.golem.de/news/anzeige-zum-release-von-gta-6-ps5-slim-disc-mit-zwei-controllern-nur-1-euro-im-tarif-bei-o2-2611-214852.html",
-"text": "Die Vorfreude auf das Release von GTA 6 ist riesig. Bei o2 gibt es mit der PS5 Slim Disc jetzt die passende Hardware im Tarif für nur 1 Euro. ( O2 , Sony )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214852&page=1&ts=1793803081",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-04T14:38:01+00:00",
-"sum": "Die Vorfreude auf das Release von GTA 6 ist riesig. Bei o2 gibt es mit der PS5 Slim Disc jetzt die passende Hardware im Tarif für nur 1 Euro. ( O2 , Sony )"
-},
-{
 "id": "0c21eca645bb",
 "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
 "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
@@ -851,17 +895,6 @@
 "sum": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen."
 },
 {
-"id": "6b8170a178d9",
-"title": "Doku mit Mindesthaltbarkeitsdatum: Wiki.js markiert jetzt veraltete Seiten",
-"link": "https://www.heise.de/news/Wiki-js-3-0-Gemeinsam-tippen-wie-in-Google-Docs-11511348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Wiki.js 3.0 ist da: Die Wiki-Software wurde komplett neu geschrieben und bietet Echtzeit-Kollaboration, Multi-Site-Verwaltung und mehr.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-04T13:52:00+00:00",
-"sum": "Wiki.js 3.0 ist da: Die Wiki-Software wurde komplett neu geschrieben und bietet Echtzeit-Kollaboration, Multi-Site-Verwaltung und mehr."
-},
-{
 "id": "68b0200c2b77",
 "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
 "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
@@ -890,7 +923,7 @@
 "text": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen.",
 "img": "https://images.tagesschau.de/image/1dff1ba1-1ca1-426c-bd98-a978989a711e/AAABoaZX6-s/AAABnSSvrFg/16x9-big/rna-forschung-100.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wissenschaft",
 "date": "2026-11-04T13:21:52+00:00",
 "sum": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen."
 },
@@ -1025,17 +1058,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-04T11:00:00+00:00",
 "sum": "Was verrät das Abwasser einer Uni über das Studentenleben? Forscher suchten darin nach Spuren von Stress, Koffein und Antidepressiva. Die Prüfungszeit hinterliess deutliche Zeichen."
-},
-{
-"id": "76a8c061ce0d",
-"title": "Internationale Fussball-News – Trainer Fonseca per sofort von Lyon zu Sporting",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-trainer-fonseca-per-sofort-von-lyon-zu-sporting",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/df3a20.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-04T10:54:17+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
 },
 {
 "id": "469166bd21c3",
@@ -1333,17 +1355,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T05:19:22+00:00",
 "sum": "Die Banque Bonhôte hat einen neuen Leiter für ihre Niederlassung in Genf bestimmt. In Lausanne wird eine neue Kundenberaterin ihre Tätigkeit aufnehmen. Und mit der dritten Neueinstellung soll die Präsenz im südafrikanischen Markt ausgebaut werden."
-},
-{
-"id": "23dd2a659a9e",
-"title": "Serbien nach der Wahl – Wieso mit Vucic nicht auch der Nationalismus endet",
-"link": "https://www.srf.ch/news/international/serbien-nach-der-wahl-wieso-mit-vucic-nicht-auch-der-nationalismus-endet",
-"text": "Nach Vucics Abwahl hoffen viele in der Region auf bessere Beziehungen zu Belgrad. Doch Zweifel sind angebracht.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c6f4ae2.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-04T04:53:50+00:00",
-"sum": "Nach Vucics Abwahl hoffen viele in der Region auf bessere Beziehungen zu Belgrad. Doch Zweifel sind angebracht."
 },
 {
 "id": "c4f7cd062894",
