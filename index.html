@@ -59,6 +59,30 @@ footer{text-align:center;font-size:15px;color:var(--mut);padding:4px}
 #pinBox{display:none;position:fixed;inset:0;z-index:60;background:rgba(0,0,0,.7);align-items:center;justify-content:center}
 #pinBox .card{width:min(92vw,380px)}#pinBox input{margin:6px 0;font-size:26px;letter-spacing:.3em;text-align:center}
 h2{font-size:22px;margin:12px 0 4px}
+:root{--up:#3ccf91;--down:#ff8a7a}
+html.light{--bg:#f4f6fa;--card:#ffffff;--line:#c9d3e2;--text:#13203a;--mut:#4b5b75;--acc:#9a5b00;--btn:#cfe0f5;--up:#0b7a4b;--down:#c0392b}
+html.light textarea,html.light input,html.light select{background:#fff}
+html.light button.main,html.light button.on{background:#ffd166;border-color:#c99a2e}
+html.light header h1{color:#13203a}
+.chip{display:inline-flex;align-items:center;min-height:40px;padding:2px 12px;margin:2px 2px;border-radius:20px;font-size:18px;font-weight:800;vertical-align:baseline;line-height:1.2;border:2px solid currentColor;background:transparent}
+.chip.up{color:var(--up)}.chip.down{color:var(--down)}.chip.flat{color:var(--mut)}.chip.stale{border-style:dashed}
+.stocks{display:flex;flex-wrap:wrap;gap:8px 16px;margin:6px 0;font-size:18px}
+.big{font-size:40px;font-weight:800;margin:8px 0 0}.big span{font-size:22px;color:var(--mut)}
+.chg{font-size:24px;font-weight:800}.chg.up{color:var(--up)}.chg.down{color:var(--down)}
+.fx{margin:8px 0;padding:8px 10px;border:1px dashed var(--line);border-radius:12px}
+.facts{padding-left:0;list-style:none;font-size:18px}.facts li{margin:6px 0}
+.rg{display:flex;gap:6px;flex-wrap:wrap}.rg button{flex:1 1 15%;min-width:56px;padding:6px 4px}
+#tip{font-size:20px;font-weight:700;min-height:32px;margin:8px 0 4px}
+#chart{position:relative;height:240px;touch-action:pan-y;border-radius:10px;outline-offset:4px}#chart svg{width:100%;height:100%;display:block}
+#chart:focus{outline:3px solid var(--acc)}
+#dot{display:none;position:absolute;width:16px;height:16px;margin:-8px 0 0 -8px;border-radius:50%;background:var(--acc);border:2px solid var(--bg);pointer-events:none}
+.ax{position:absolute;right:4px;top:0;bottom:0;display:flex;flex-direction:column;justify-content:space-between;font-size:15px;color:var(--mut);pointer-events:none}
+#chartBox.fs{position:fixed;inset:0;z-index:70;margin:0;border-radius:0;overflow:auto;padding:calc(12px + env(safe-area-inset-top)) 12px 12px}
+#chartBox.fs #chart{height:calc(100vh - 300px);min-height:220px}
+.tgs{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}.tgs button{font-size:18px}
+select{font:inherit;font-size:19px;width:100%;min-height:54px;border-radius:14px;border:1px solid var(--line);background:#0a1322;color:var(--text);padding:8px}
+.pts{padding-left:22px}.pts li{margin:8px 0}
+h4{font-size:20px;margin:12px 0 4px}
 </style>
 </head>
 <body>
@@ -71,8 +95,11 @@ h2{font-size:22px;margin:12px 0 4px}
   <div id="feed"></div>
  </section>
  <section id="v-art" class="view"></section>
+ <section id="v-stock" class="view"></section>
  <section id="v-ask" class="view"><div id="thread"></div></section>
  <section id="v-set" class="view">
+  <h2>⚙️ Persönlich</h2>
+  <div id="prefs"></div>
   <h2>🔕 Abgeschaltet</h2>
   <p class="mut">Hier siehst du alles, was du abgeschaltet hast. Mit „Wieder zeigen“ machst du es rückgängig.</p>
   <div class="card"><b>Themen</b><div id="fTopics"></div></div>
@@ -92,6 +119,7 @@ h2{font-size:22px;margin:12px 0 4px}
 <input id="pin1" type="password" inputmode="numeric" maxlength="6" autocomplete="off" placeholder="PIN">
 <input id="pin2" type="password" inputmode="numeric" maxlength="6" autocomplete="off" placeholder="PIN wiederholen">
 <div class="mut" id="pinMsg"></div><div class="row"><button class="main" id="pinOk">OK</button><button id="pinCancel">Abbrechen</button><button id="pinForgot">PIN vergessen</button></div></div></div>
-<script src="app.js?v=2.2"></script>
+<script src="app.js?v=3.1"></script>
+<script src="stocks.js?v=3.1"></script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 /* Weitblick: Fragen mit Quellen + Nachrichten-Feed mit Abschalten. Zugaenge nur verschluesselt im Browser. */
-var APP_VERSION = 'v2';
+var APP_VERSION = 'v3';
 var $ = function (id) { return document.getElementById(id); };
 function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
 function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
@@ -298,7 +298,7 @@ function feedSources(q) {
 function ctxText() {
   return S.ctx ? ('Es geht um diese Nachrichten-Meldung: "' + S.ctx.title + '" (' + S.ctx.source + ', ' + S.ctx.link + '). Kurztext: ' + (S.ctx.sum || S.ctx.text) + '\n\n') : '';
 }
-function history(q) {
+function chatHistory(q) {
   var m = []; S.turns.slice(-3).forEach(function (t) { m.push({ role: 'user', text: t.q }); m.push({ role: 'assistant', text: t.a }); });
   m.push({ role: 'user', text: ctxText() + q }); return m;
 }
@@ -354,12 +354,12 @@ function ask(q) {
       var item = ready[i++], label = item.provider === 'frei' ? 'Gratis-KI ohne Anmeldung (Pollinations · GPT-OSS 20B)' : pname(item.provider) + ' · ' + item.model;
       out.innerHTML = '⏳ ' + (item.provider === 'gemini' ? 'Ich suche bei Google …' : 'Ich suche bei Wikipedia, DuckDuckGo und im Nachrichten-Feed …') + (fails.length ? '<div class="mut">Gewechselt zu ' + esc(label) + '</div>' : '');
       var job = item.provider === 'gemini'
-        ? callOne(item, SYS, history(q), { grounded: true }).then(groundedResult)
+        ? callOne(item, SYS, chatHistory(q), { grounded: true }).then(groundedResult)
         : freeSources().then(function (src) {
             if (!src.length) throw httpErr(-1, 'keine Quellen');
             var sys = SYS + ' Benutze NUR die nummerierten Quellen unten und setze nach jeder Aussage die Nummer der Quelle in eckigen Klammern, z. B. [1]. Ohne Quelle keine Aussage. Englische Quellen übersetzt du ins Deutsche. Wenn die Quellen die Frage nicht beantworten, sag das in einem Satz ehrlich. Bei Fragen nach aktuellen Nachrichten fasse die wichtigsten 3 bis 5 Meldungen aus den Quellen in je einem ganzen Satz zusammen, jeweils mit Quellennummer.\n\nQUELLEN:\n' +
               src.map(function (s, n) { return '[' + (n + 1) + '] ' + s.title + ': ' + s.text.slice(0, 900); }).join('\n');
-            return (item.provider === 'frei' ? callFree(sys, history(q), out) : callOne(item, sys, history(q))).then(function (r) { var sp = splitFollow(r.text); return { text: ss(sp.text), follow: sp.follow.map(ss), sources: src, web: false }; });
+            return (item.provider === 'frei' ? callFree(sys, chatHistory(q), out) : callOne(item, sys, chatHistory(q))).then(function (r) { var sp = splitFollow(r.text); return { text: ss(sp.text), follow: sp.follow.map(ss), sources: src, web: false }; });
           });
       return job.then(function (res) {
         S.turns.push({ q: q, a: res.text }); render(out, res, label); box.scrollIntoView();

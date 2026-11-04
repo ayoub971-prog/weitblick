@@ -19,6 +19,7 @@ FEEDS = [
   ("Golem", "Tech", "https://www.golem.de/rss.php?feed=RSS2.0"),
   ("Spektrum", "Wissenschaft", "https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406"),
   ("finews", "Wirtschaft", "https://www.finews.ch/news?format=feed"),
+  ("NZZ", "Wirtschaft", "https://www.nzz.ch/finanzen.rss"),
 ]
 PER_FEED = 15
 MAX_AGE_H = 72

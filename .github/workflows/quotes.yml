@@ -1,0 +1,21 @@
+name: Aktienkurse
+on:
+  schedule: [{ cron: "7,37 7-21 * * 1-5" }, { cron: "20 22 * * 1-5" }]
+  workflow_dispatch:
+permissions: { contents: write }
+concurrency: { group: feed, cancel-in-progress: false }
+jobs:
+  quotes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 scripts/build_quotes.py
+      - name: Speichern
+        run: |
+          git config user.name "ayoub971-prog"; git config user.email "ayoub971-prog@users.noreply.github.com"
+          git add data/quotes.json data/hist
+          git diff --cached --quiet && exit 0
+          git commit -qm "Kurse aktualisiert" && (git push || (git pull --rebase -X theirs && git push))

@@ -1,0 +1,617 @@
+{
+ "version": 1,
+ "note": "Kuratierte Zuordnung Firma -> genau ein Instrument. Aliase nur, wenn eindeutig. Fehlt ein Eintrag, zeigt die App keine Kursanzeige.",
+ "items": [
+  {
+   "id": "NVDA",
+   "name": "Nvidia",
+   "yahoo": "NVDA",
+   "ticker": "NVDA",
+   "exchange": "Nasdaq",
+   "group": "Halbleiter",
+   "aliases": [
+    "Nvidia",
+    "Nvidias",
+    "NVIDIA"
+   ],
+   "note": ""
+  },
+  {
+   "id": "AMD",
+   "name": "Advanced Micro Devices",
+   "yahoo": "AMD",
+   "ticker": "AMD",
+   "exchange": "Nasdaq",
+   "group": "Halbleiter",
+   "aliases": [
+    "AMD",
+    "Advanced Micro Devices"
+   ],
+   "note": ""
+  },
+  {
+   "id": "INTC",
+   "name": "Intel",
+   "yahoo": "INTC",
+   "ticker": "INTC",
+   "exchange": "Nasdaq",
+   "group": "Halbleiter",
+   "aliases": [
+    "Intel",
+    "Intels"
+   ],
+   "note": ""
+  },
+  {
+   "id": "TSM",
+   "name": "TSMC (ADR)",
+   "yahoo": "TSM",
+   "ticker": "TSM",
+   "exchange": "NYSE",
+   "group": "Halbleiter",
+   "aliases": [
+    "TSMC",
+    "Taiwan Semiconductor"
+   ],
+   "note": "ADR an der NYSE; die Hauptaktie 2330 notiert in Taipeh."
+  },
+  {
+   "id": "ASML",
+   "name": "ASML",
+   "yahoo": "ASML.AS",
+   "ticker": "ASML",
+   "exchange": "Euronext Amsterdam",
+   "group": "Halbleiter",
+   "aliases": [
+    "ASML"
+   ],
+   "note": "Heimatbörse Amsterdam (EUR), nicht die US-Notierung."
+  },
+  {
+   "id": "AVGO",
+   "name": "Broadcom",
+   "yahoo": "AVGO",
+   "ticker": "AVGO",
+   "exchange": "Nasdaq",
+   "group": "Halbleiter",
+   "aliases": [
+    "Broadcom"
+   ],
+   "note": ""
+  },
+  {
+   "id": "QCOM",
+   "name": "Qualcomm",
+   "yahoo": "QCOM",
+   "ticker": "QCOM",
+   "exchange": "Nasdaq",
+   "group": "Halbleiter",
+   "aliases": [
+    "Qualcomm"
+   ],
+   "note": ""
+  },
+  {
+   "id": "MU",
+   "name": "Micron Technology",
+   "yahoo": "MU",
+   "ticker": "MU",
+   "exchange": "Nasdaq",
+   "group": "Halbleiter",
+   "aliases": [
+    "Micron"
+   ],
+   "note": ""
+  },
+  {
+   "id": "ARM",
+   "name": "Arm Holdings",
+   "yahoo": "ARM",
+   "ticker": "ARM",
+   "exchange": "Nasdaq",
+   "group": "Halbleiter",
+   "aliases": [
+    "Arm Holdings"
+   ],
+   "note": "Nur bei «Arm Holdings», weil «Arm» ein gewöhnliches Wort ist."
+  },
+  {
+   "id": "IFX",
+   "name": "Infineon",
+   "yahoo": "IFX.DE",
+   "ticker": "IFX",
+   "exchange": "Xetra",
+   "group": "Halbleiter",
+   "aliases": [
+    "Infineon"
+   ],
+   "note": ""
+  },
+  {
+   "id": "MSFT",
+   "name": "Microsoft",
+   "yahoo": "MSFT",
+   "ticker": "MSFT",
+   "exchange": "Nasdaq",
+   "group": "KI & Cloud",
+   "aliases": [
+    "Microsoft",
+    "Microsofts"
+   ],
+   "note": ""
+  },
+  {
+   "id": "GOOGL",
+   "name": "Alphabet (Klasse A)",
+   "yahoo": "GOOGL",
+   "ticker": "GOOGL",
+   "exchange": "Nasdaq",
+   "group": "KI & Cloud",
+   "aliases": [
+    "Alphabet"
+   ],
+   "note": "Stimmberechtigte A-Aktie GOOGL, nicht GOOG (C-Aktie ohne Stimmrecht). «Google» allein bekommt keine Anzeige."
+  },
+  {
+   "id": "AMZN",
+   "name": "Amazon",
+   "yahoo": "AMZN",
+   "ticker": "AMZN",
+   "exchange": "Nasdaq",
+   "group": "KI & Cloud",
+   "aliases": [
+    "Amazon",
+    "Amazons"
+   ],
+   "note": ""
+  },
+  {
+   "id": "AAPL",
+   "name": "Apple",
+   "yahoo": "AAPL",
+   "ticker": "AAPL",
+   "exchange": "Nasdaq",
+   "group": "KI & Cloud",
+   "aliases": [
+    "Apple",
+    "Apples"
+   ],
+   "note": ""
+  },
+  {
+   "id": "META",
+   "name": "Meta Platforms",
+   "yahoo": "META",
+   "ticker": "META",
+   "exchange": "Nasdaq",
+   "group": "KI & Cloud",
+   "aliases": [
+    "Meta Platforms",
+    "Meta-Konzern",
+    "Facebook-Konzern"
+   ],
+   "note": "Nur eindeutige Schreibweisen, weil «Meta» auch ein gewöhnliches Wort ist."
+  },
+  {
+   "id": "ORCL",
+   "name": "Oracle",
+   "yahoo": "ORCL",
+   "ticker": "ORCL",
+   "exchange": "NYSE",
+   "group": "KI & Cloud",
+   "aliases": [
+    "Oracle"
+   ],
+   "note": ""
+  },
+  {
+   "id": "SAP",
+   "name": "SAP",
+   "yahoo": "SAP.DE",
+   "ticker": "SAP",
+   "exchange": "Xetra",
+   "group": "KI & Cloud",
+   "aliases": [
+    "SAP"
+   ],
+   "note": "Heimatbörse Xetra (EUR)."
+  },
+  {
+   "id": "CRM",
+   "name": "Salesforce",
+   "yahoo": "CRM",
+   "ticker": "CRM",
+   "exchange": "NYSE",
+   "group": "KI & Cloud",
+   "aliases": [
+    "Salesforce"
+   ],
+   "note": ""
+  },
+  {
+   "id": "NOW",
+   "name": "ServiceNow",
+   "yahoo": "NOW",
+   "ticker": "NOW",
+   "exchange": "NYSE",
+   "group": "KI & Cloud",
+   "aliases": [
+    "ServiceNow"
+   ],
+   "note": ""
+  },
+  {
+   "id": "PLTR",
+   "name": "Palantir",
+   "yahoo": "PLTR",
+   "ticker": "PLTR",
+   "exchange": "Nasdaq",
+   "group": "KI & Cloud",
+   "aliases": [
+    "Palantir"
+   ],
+   "note": ""
+  },
+  {
+   "id": "CRWD",
+   "name": "CrowdStrike",
+   "yahoo": "CRWD",
+   "ticker": "CRWD",
+   "exchange": "Nasdaq",
+   "group": "Cybersecurity",
+   "aliases": [
+    "CrowdStrike",
+    "Crowdstrike"
+   ],
+   "note": ""
+  },
+  {
+   "id": "PANW",
+   "name": "Palo Alto Networks",
+   "yahoo": "PANW",
+   "ticker": "PANW",
+   "exchange": "Nasdaq",
+   "group": "Cybersecurity",
+   "aliases": [
+    "Palo Alto Networks"
+   ],
+   "note": ""
+  },
+  {
+   "id": "ZS",
+   "name": "Zscaler",
+   "yahoo": "ZS",
+   "ticker": "ZS",
+   "exchange": "Nasdaq",
+   "group": "Cybersecurity",
+   "aliases": [
+    "Zscaler"
+   ],
+   "note": ""
+  },
+  {
+   "id": "FTNT",
+   "name": "Fortinet",
+   "yahoo": "FTNT",
+   "ticker": "FTNT",
+   "exchange": "Nasdaq",
+   "group": "Cybersecurity",
+   "aliases": [
+    "Fortinet"
+   ],
+   "note": ""
+  },
+  {
+   "id": "NET",
+   "name": "Cloudflare",
+   "yahoo": "NET",
+   "ticker": "NET",
+   "exchange": "NYSE",
+   "group": "Cybersecurity",
+   "aliases": [
+    "Cloudflare"
+   ],
+   "note": ""
+  },
+  {
+   "id": "TSLA",
+   "name": "Tesla",
+   "yahoo": "TSLA",
+   "ticker": "TSLA",
+   "exchange": "Nasdaq",
+   "group": "Energiespeicher",
+   "aliases": [
+    "Tesla",
+    "Teslas"
+   ],
+   "note": ""
+  },
+  {
+   "id": "CATL",
+   "name": "CATL",
+   "yahoo": "300750.SZ",
+   "ticker": "300750",
+   "exchange": "Shenzhen",
+   "group": "Energiespeicher",
+   "aliases": [
+    "CATL"
+   ],
+   "note": ""
+  },
+  {
+   "id": "LGES",
+   "name": "LG Energy Solution",
+   "yahoo": "373220.KS",
+   "ticker": "373220",
+   "exchange": "Korea Exchange",
+   "group": "Energiespeicher",
+   "aliases": [
+    "LG Energy Solution"
+   ],
+   "note": ""
+  },
+  {
+   "id": "ENPH",
+   "name": "Enphase Energy",
+   "yahoo": "ENPH",
+   "ticker": "ENPH",
+   "exchange": "Nasdaq",
+   "group": "Energiespeicher",
+   "aliases": [
+    "Enphase"
+   ],
+   "note": ""
+  },
+  {
+   "id": "FLNC",
+   "name": "Fluence Energy",
+   "yahoo": "FLNC",
+   "ticker": "FLNC",
+   "exchange": "Nasdaq",
+   "group": "Energiespeicher",
+   "aliases": [
+    "Fluence Energy"
+   ],
+   "note": ""
+  },
+  {
+   "id": "ALB",
+   "name": "Albemarle",
+   "yahoo": "ALB",
+   "ticker": "ALB",
+   "exchange": "NYSE",
+   "group": "Energiespeicher",
+   "aliases": [
+    "Albemarle"
+   ],
+   "note": ""
+  },
+  {
+   "id": "NOVN",
+   "name": "Novartis",
+   "yahoo": "NOVN.SW",
+   "ticker": "NOVN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Pharma",
+   "aliases": [
+    "Novartis"
+   ],
+   "note": ""
+  },
+  {
+   "id": "LONN",
+   "name": "Lonza",
+   "yahoo": "LONN.SW",
+   "ticker": "LONN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Pharma",
+   "aliases": [
+    "Lonza"
+   ],
+   "note": ""
+  },
+  {
+   "id": "SDZ",
+   "name": "Sandoz",
+   "yahoo": "SDZ.SW",
+   "ticker": "SDZ",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Pharma",
+   "aliases": [
+    "Sandoz"
+   ],
+   "note": ""
+  },
+  {
+   "id": "NOVO",
+   "name": "Novo Nordisk (B)",
+   "yahoo": "NOVO-B.CO",
+   "ticker": "NOVO B",
+   "exchange": "Nasdaq Kopenhagen",
+   "group": "Pharma",
+   "aliases": [
+    "Novo Nordisk"
+   ],
+   "note": ""
+  },
+  {
+   "id": "LLY",
+   "name": "Eli Lilly",
+   "yahoo": "LLY",
+   "ticker": "LLY",
+   "exchange": "NYSE",
+   "group": "Pharma",
+   "aliases": [
+    "Eli Lilly"
+   ],
+   "note": ""
+  },
+  {
+   "id": "PFE",
+   "name": "Pfizer",
+   "yahoo": "PFE",
+   "ticker": "PFE",
+   "exchange": "NYSE",
+   "group": "Pharma",
+   "aliases": [
+    "Pfizer"
+   ],
+   "note": ""
+  },
+  {
+   "id": "MRNA",
+   "name": "Moderna",
+   "yahoo": "MRNA",
+   "ticker": "MRNA",
+   "exchange": "Nasdaq",
+   "group": "Pharma",
+   "aliases": [
+    "Moderna"
+   ],
+   "note": ""
+  },
+  {
+   "id": "AZN",
+   "name": "AstraZeneca",
+   "yahoo": "AZN.L",
+   "ticker": "AZN",
+   "exchange": "London Stock Exchange",
+   "group": "Pharma",
+   "aliases": [
+    "AstraZeneca"
+   ],
+   "note": "Kurs in Pence (GBp)."
+  },
+  {
+   "id": "NESN",
+   "name": "Nestlé",
+   "yahoo": "NESN.SW",
+   "ticker": "NESN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "Nestlé",
+    "Nestle"
+   ],
+   "note": ""
+  },
+  {
+   "id": "UBSG",
+   "name": "UBS",
+   "yahoo": "UBSG.SW",
+   "ticker": "UBSG",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "UBS"
+   ],
+   "note": ""
+  },
+  {
+   "id": "ABBN",
+   "name": "ABB",
+   "yahoo": "ABBN.SW",
+   "ticker": "ABBN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "ABB"
+   ],
+   "note": ""
+  },
+  {
+   "id": "ZURN",
+   "name": "Zurich Insurance",
+   "yahoo": "ZURN.SW",
+   "ticker": "ZURN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "Zurich Insurance"
+   ],
+   "note": ""
+  },
+  {
+   "id": "SREN",
+   "name": "Swiss Re",
+   "yahoo": "SREN.SW",
+   "ticker": "SREN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "Swiss Re"
+   ],
+   "note": ""
+  },
+  {
+   "id": "SCMN",
+   "name": "Swisscom",
+   "yahoo": "SCMN.SW",
+   "ticker": "SCMN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "Swisscom"
+   ],
+   "note": ""
+  },
+  {
+   "id": "CFR",
+   "name": "Richemont",
+   "yahoo": "CFR.SW",
+   "ticker": "CFR",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "Richemont"
+   ],
+   "note": ""
+  },
+  {
+   "id": "HOLN",
+   "name": "Holcim",
+   "yahoo": "HOLN.SW",
+   "ticker": "HOLN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "Holcim"
+   ],
+   "note": ""
+  },
+  {
+   "id": "LOGN",
+   "name": "Logitech",
+   "yahoo": "LOGN.SW",
+   "ticker": "LOGN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "Logitech"
+   ],
+   "note": ""
+  },
+  {
+   "id": "TEMN",
+   "name": "Temenos",
+   "yahoo": "TEMN.SW",
+   "ticker": "TEMN",
+   "exchange": "SIX Swiss Exchange",
+   "group": "Schweiz",
+   "aliases": [
+    "Temenos"
+   ],
+   "note": ""
+  }
+ ],
+ "excluded": [
+  {
+   "name": "Roche",
+   "why": "Genussschein ROG ist bei der Datenquelle nicht abrufbar; die Inhaberaktie RO ist ein anderes Papier. Darum keine Kursanzeige."
+  },
+  {
+   "name": "Google",
+   "why": "Mehrdeutig (GOOGL/GOOG); nur «Alphabet» wird zugeordnet."
+  }
+ ]
+}
