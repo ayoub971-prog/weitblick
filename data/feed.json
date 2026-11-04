@@ -1,8 +1,118 @@
 {
-"updated": "2026-11-04T19:15:05+00:00",
+"updated": "2026-11-04T21:04:45+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "bb9a2dabc5b2",
+"title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
+"link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+"text": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren.",
+"img": "https://images.tagesschau.de/image/7383e65d-830d-44c4-914c-05a03a701938/AAABoaeCyWU/AAABnSSvrFg/16x9-big/jd-vance-134.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T21:00:54+00:00",
+"sum": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren."
+},
+{
+"id": "004130764f44",
+"title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+"link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tot-104.html",
+"text": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger (Freie Wähler) ist tot. Das erfuhr das ARD-Hauptstadtstudio aus Regierungskreisen. Er starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
+"img": "https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T21:00:31+00:00",
+"sum": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger (Freie Wähler) ist tot. Das erfuhr das ARD-Hauptstadtstudio aus Regierungskreisen. Er starb demnach im Alter von 55 Jahren in einem Berliner Hotel."
+},
+{
+"id": "f3fb9fc906dd",
+"title": "Handball: Euro Cup – Mangelnde Chancenauswertung: Nati verliert gegen Portugal",
+"link": "https://www.srf.ch/sport/mehr-sport/handball/handball-euro-cup-mangelnde-chancenauswertung-nati-verliert-gegen-portugal",
+"text": "Die Schweizer Handballer unterliegen Portugal zum Auftakt des Euro Cups mit 28:33.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f58159.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-04T20:43:52+00:00",
+"sum": "Die Schweizer Handballer unterliegen Portugal zum Auftakt des Euro Cups mit 28:33."
+},
+{
+"id": "28fe815e962f",
+"title": "Digital Health: Wie gut sind Gesundheitsämter auf Pandemien vorbereitet?",
+"link": "https://www.heise.de/news/Digital-Health-Wie-gut-sind-Gesundheitsaemter-auf-Pandemien-vorbereitet-11512713.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Trotz Millionenförderung bleibt in Gesundheitsämtern der digitale Flickenteppich. Im Digital-Health-Podcast geht es um die Frage, was für kommende Krisen fehlt.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-04T20:32:00+00:00",
+"sum": "Trotz Millionenförderung bleibt in Gesundheitsämtern der digitale Flickenteppich. Im Digital-Health-Podcast geht es um die Frage, was für kommende Krisen fehlt."
+},
+{
+"id": "bf07732d5fa6",
+"title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+"link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html",
+"text": "Die Krawalle vom Wochenende haben den Bundestag erreicht. In einer Aktuellen Stunde herrschte weitgehend Einigkeit in der Verurteilung der Gewalt - über ihre Ursachen und die angemessene Wortwahl gingen die Meinungen auseinander. Von F. Aischmann.",
+"img": "https://images.tagesschau.de/image/ec43f7a5-fa42-4386-a1a0-938af32f30ce/AAABoagAR6s/AAABnSSvrFg/16x9-big/dobrindt-bundestag-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T20:24:21+00:00",
+"sum": "Die Krawalle vom Wochenende haben den Bundestag erreicht. In einer Aktuellen Stunde herrschte weitgehend Einigkeit in der Verurteilung der Gewalt - über ihre Ursachen und die angemessene Wortwahl gingen die Meinungen auseinander. Von F. Aischmann."
+},
+{
+"id": "84a30bca5cda",
+"title": "Mobilität – Einheitliche Energieetikette: Neuerungen für Schweizer Autos",
+"link": "https://www.srf.ch/news/schweiz/mobilitaet-einheitliche-energieetikette-neuerungen-fuer-schweizer-autos",
+"text": "Künftig soll ein europaweit einheitliches Label die Schweizer Energieetikette für Neuwagen ablösen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/31d24e.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-04T20:20:51+00:00",
+"sum": "Künftig soll ein europaweit einheitliches Label die Schweizer Energieetikette für Neuwagen ablösen."
+},
+{
+"id": "6a86911557cb",
+"title": "Chipfertigung: EU investiert Hunderte Millionen in Chipdesign-Plattform",
+"link": "https://www.heise.de/news/Europaeische-Chipdesign-Plattform-EU-investiert-Hunderte-Millionen-11512717.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Mit Investitionen in Höhe von 525 Millionen Euro fördert die EU eine neue Generation europäischer Chipdesign-Unternehmen. Europa will unabhängiger werden.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-04T20:13:00+00:00",
+"sum": "Mit Investitionen in Höhe von 525 Millionen Euro fördert die EU eine neue Generation europäischer Chipdesign-Unternehmen. Europa will unabhängiger werden."
+},
+{
+"id": "8abe522516d9",
+"title": "Champions League: Round-up – Valverde erlöst Real Madrid spät – Liverpool taucht bei «Fener»",
+"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-valverde-erloest-real-madrid-spaet-liverpool-taucht-bei-fener",
+"text": "Real Madrid macht am 4. Spieltag der Champions League zweimal einen Rückstand wett und gewinnt bei AEK Athen noch 3:2.",
+"img": "https://www.srf.ch/static/cms/images//320ws/6c33a7.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-04T20:03:23+00:00",
+"sum": "Real Madrid macht am 4. Spieltag der Champions League zweimal einen Rückstand wett und gewinnt bei AEK Athen noch 3:2."
+},
+{
+"id": "4b86f6287194",
+"title": "EU-Parlament – EU-Abgeordnete stimmen für Aufweichung des Verbrenner-Aus",
+"link": "https://www.srf.ch/news/international/eu-parlament-eu-abgeordnete-stimmen-fuer-aufweichung-des-verbrenner-aus",
+"text": "Die Autoindustrie soll auch nach 2035 neue Verbrenner und Hybridfahrzeuge verkaufen können.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8cf2c3.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-04T19:48:41+00:00",
+"sum": "Die Autoindustrie soll auch nach 2035 neue Verbrenner und Hybridfahrzeuge verkaufen können."
+},
+{
+"id": "33ab4e914fcf",
+"title": "Keine gesetzliche Grundlage – Was das Bundesgerichtsurteil zum Stopp von Netzsperren bedeutet",
+"link": "https://www.srf.ch/news/schweiz/keine-gesetzliche-grundlage-was-das-bundesgerichtsurteil-zum-stopp-von-netzsperren-bedeutet",
+"text": "Grundsätzlich dürfen Webseiten in der Schweiz nicht blockiert werden. Doch was tun gegen die Internetkriminalität?",
+"img": "https://www.srf.ch/static/cms/images//320ws/18a480.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-04T19:17:53+00:00",
+"sum": "Grundsätzlich dürfen Webseiten in der Schweiz nicht blockiert werden. Doch was tun gegen die Internetkriminalität?"
+},
 {
 "id": "e707c9fca4ae",
 "title": "Finanzielle Massnahmen – So will der Bundesrat die Invalidenversicherung sanieren",
@@ -46,17 +156,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T18:58:13+00:00",
 "sum": "Wirtschaft vor acht vom 04.11.2026"
-},
-{
-"id": "bb9a2dabc5b2",
-"title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
-"link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-"text": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren.",
-"img": "https://images.tagesschau.de/image/7383e65d-830d-44c4-914c-05a03a701938/AAABoaeCyWU/AAABnSSvrFg/16x9-big/jd-vance-134.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T18:54:35+00:00",
-"sum": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren."
 },
 {
 "id": "89ef54f83382",
@@ -785,17 +884,6 @@
 "sum": "Der Verkehrsminister tritt nach dem verheerenden Zugunglück zurück. Der Druck auf die sozialistische Regierung bleibt."
 },
 {
-"id": "f2784bda998e",
-"title": "Smart Energy 201: Fritz bringt neue smarte Steckdose mit Verbrauchsmessung",
-"link": "https://www.heise.de/news/Smart-Energy-201-Fritz-bringt-neue-smarte-Steckdose-mit-Verbrauchsmessung-11511564.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Fritz bringt mit der FritzSmart Energy 201 eine neue Schaltsteckdose mit Verbrauchsmessung in den Handel. Sie ist kleiner als die bisherigen Fritz-Lösungen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-04T13:23:00+00:00",
-"sum": "Fritz bringt mit der FritzSmart Energy 201 eine neue Schaltsteckdose mit Verbrauchsmessung in den Handel. Sie ist kleiner als die bisherigen Fritz-Lösungen."
-},
-{
 "id": "6ca5bb0a0a3b",
 "title": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
 "link": "https://www.tagesschau.de/wissen/gesundheit/rna-forschung-chancen-und-risiken-100.html",
@@ -805,28 +893,6 @@
 "topic": "Welt",
 "date": "2026-11-04T13:21:52+00:00",
 "sum": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen."
-},
-{
-"id": "316daddd515a",
-"title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
-"link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html",
-"text": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
-"img": "https://images.tagesschau.de/image/87e3db69-9963-4b9d-a2cc-526e0306ecd2/AAABoaamGdo/AAABnSSvrFg/16x9-big/midterms-218.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T13:11:29+00:00",
-"sum": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten."
-},
-{
-"id": "935c8d91af8b",
-"title": "heise+ | Expertentalk: Günstiger heizen – Tarife, Förderung, Heizmythen",
-"link": "https://www.heise.de/ratgeber/Expertentalk-Guenstiger-heizen-Tarife-Foerderung-Heizmythen-11508874.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "So sparen Sie Geld beim Heizen: Im Live-Expertentalk am Dienstag, 10. November 2026, beantworten wir ab 17 Uhr Ihre Fragen zum Thema Heizkosten.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-04T13:01:00+00:00",
-"sum": "So sparen Sie Geld beim Heizen: Im Live-Expertentalk am Dienstag, 10. November 2026, beantworten wir ab 17 Uhr Ihre Fragen zum Thema Heizkosten."
 },
 {
 "id": "9fbec5128218",
@@ -846,7 +912,7 @@
 "text": "Die Lebenserwartung steigt - allerdings nicht überall gleichermassen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders gross. Und mancherorts sinkt die Lebenserwartung von Frauen sogar.",
 "img": "https://images.tagesschau.de/image/8538e917-0c43-46f3-bf84-f12f22d5945f/AAABoaZzDfM/AAABnSSvrFg/16x9-big/jogger-126.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wissenschaft",
 "date": "2026-11-04T12:38:29+00:00",
 "sum": "Die Lebenserwartung steigt - allerdings nicht überall gleichermassen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders gross. Und mancherorts sinkt die Lebenserwartung von Frauen sogar."
 },
@@ -961,6 +1027,17 @@
 "sum": "Was verrät das Abwasser einer Uni über das Studentenleben? Forscher suchten darin nach Spuren von Stress, Koffein und Antidepressiva. Die Prüfungszeit hinterliess deutliche Zeichen."
 },
 {
+"id": "76a8c061ce0d",
+"title": "Internationale Fussball-News – Trainer Fonseca per sofort von Lyon zu Sporting",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-trainer-fonseca-per-sofort-von-lyon-zu-sporting",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
+"img": "https://www.srf.ch/static/cms/images//320ws/df3a20.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-04T10:54:17+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
+},
+{
 "id": "469166bd21c3",
 "title": "Textilbranche – Bangladesch erhöht Mindestlohn für Textilarbeiter nach Protesten",
 "link": "https://www.srf.ch/news/wirtschaft/textilbranche-bangladesch-erhoeht-mindestlohn-fuer-textilarbeiter-nach-protesten",
@@ -1038,17 +1115,6 @@
 "sum": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von Niels Walker."
 },
 {
-"id": "686f23862416",
-"title": "RB Leipzig vs. ManCity – Gegen gute Freunde schmeckt ein Sieg besonders süss",
-"link": "https://www.srf.ch/sport/fussball/champions-league/rb-leipzig-vs-mancity-gegen-gute-freunde-schmeckt-ein-sieg-besonders-suess",
-"text": "Dem Kumpel die Startelf verraten? Nein, so weit reicht die Freundschaft zwischen Demichelis und Maresca dann doch nicht.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f3fe81.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-04T09:34:21+00:00",
-"sum": "Dem Kumpel die Startelf verraten? Nein, so weit reicht die Freundschaft zwischen Demichelis und Maresca dann doch nicht."
-},
-{
 "id": "3206626e3550",
 "title": "Update Wirtschaft vom 04.11.2026",
 "link": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1677864.html",
@@ -1080,28 +1146,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T09:02:50+00:00",
 "sum": "Die Demokraten dürften bei den US-Zwischenwahlen die Mehrheit sowohl im Repräsentantenhaus als auch im Senat gewonnen haben. Für Donald Trump bedeutet das einen erheblichen Machtverlust. Die Analysten und Volkswirte rechnen nicht mit grundlegenden Umwälzungen."
-},
-{
-"id": "2a15bad34d4b",
-"title": "Mit Betis zu Gast in Dortmund – Pellegrini kehrt an den Ort seiner bittersten Niederlage zurück",
-"link": "https://www.srf.ch/sport/fussball/champions-league/mit-betis-zu-gast-in-dortmund-pellegrini-kehrt-an-den-ort-seiner-bittersten-niederlage-zurueck",
-"text": "Betis Sevilla gastiert in der Champions League bei Dortmund – wie einst Pellegrini bei seinem Malaga-Drama.",
-"img": "https://www.srf.ch/static/cms/images//320ws/09bb8af.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-04T08:58:56+00:00",
-"sum": "Betis Sevilla gastiert in der Champions League bei Dortmund – wie einst Pellegrini bei seinem Malaga-Drama."
-},
-{
-"id": "c3b9bdd5bb1d",
-"title": "Neun Jahre nach Anschlag – Rumpeln in den Zehenspitzen: Bartra zurück in Dortmund",
-"link": "https://www.srf.ch/sport/fussball/champions-league/neun-jahre-nach-anschlag-rumpeln-in-den-zehenspitzen-bartra-zurueck-in-dortmund",
-"text": "Neun Jahre nach dem Anschlag auf die BVB-Mannschaft kehrt Marc Bartra mit Betis Sevilla nach Dortmund zurück.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cc01e92.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-04T08:57:27+00:00",
-"sum": "Neun Jahre nach dem Anschlag auf die BVB-Mannschaft kehrt Marc Bartra mit Betis Sevilla nach Dortmund zurück."
 },
 {
 "id": "019bdfbd1fa3",
@@ -1374,31 +1418,9 @@
 "text": "Olympia für die Jugend: Es geht nicht nur um Sport, es geht auch um Kulturvermittlung, dieses Jahr in Dakar.",
 "img": "https://www.srf.ch/static/cms/images//320ws/a20a98.webp",
 "source": "SRF",
-"topic": "Welt",
+"topic": "Sport",
 "date": "2026-11-03T19:59:11+00:00",
 "sum": "Olympia für die Jugend: Es geht nicht nur um Sport, es geht auch um Kulturvermittlung, dieses Jahr in Dakar."
-},
-{
-"id": "864968e54ff4",
-"title": "Krawallnacht in Zürich – Zwei Männer sollen nach Ausschreitungen in Zürich ins Gefängnis",
-"link": "https://www.srf.ch/news/schweiz/krawallnacht-in-zuerich-zwei-maenner-sollen-nach-ausschreitungen-in-zuerich-ins-gefaengnis",
-"text": "Nach den Ausschreitungen wurden zwei junge Männer jeweils zu mehreren Monaten Freiheitsstrafe ohne Bewährung verurteilt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/bba200.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-03T19:06:38+00:00",
-"sum": "Nach den Ausschreitungen wurden zwei junge Männer jeweils zu mehreren Monaten Freiheitsstrafe ohne Bewährung verurteilt."
-},
-{
-"id": "3eb26208995c",
-"title": "Exklusive, neue Zahlen – Immer mehr Krebsbetroffene in der Schweiz",
-"link": "https://www.srf.ch/news/schweiz/exklusive-neue-zahlen-immer-mehr-krebsbetroffene-in-der-schweiz",
-"text": "Fast eine halbe Million Menschen in der Schweiz haben oder hatten Krebs. Die Behandlungsmethoden werden derweil besser.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ffaca0.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-03T18:30:01+00:00",
-"sum": "Fast eine halbe Million Menschen in der Schweiz haben oder hatten Krebs. Die Behandlungsmethoden werden derweil besser."
 },
 {
 "id": "eaae5a672dbf",
@@ -1696,6 +1718,17 @@
 "topic": "Wirtschaft",
 "date": "2026-11-03T04:30:00+00:00",
 "sum": "Wo andere Länder Strassen bauen, setzt die Schweiz auf kleine Bergbahnen. Der Weg durch die Luft hat Vorteile, so auch nach der Katastrophe von Blatten. Trotzdem fehlt vielen Betreibern das Geld."
+},
+{
+"id": "55ab5ef62b82",
+"title": "Sehr grosse Unterschiede bei den Renditen von Säule-3a-Vorsorgefonds: Wie man das richtige Produkt auswählt",
+"link": "https://www.nzz.ch/finanzen/renditen-von-saeule-3a-fonds-im-vergleich-so-finden-sie-das-beste-produkt-ld.10048548",
+"text": "In den vergangenen fünf Jahren haben sich die Produkte für die Säule 3a sehr unterschiedlich entwickelt. Dafür gibt es verschiedene Gründe. Was bei der Vorsorge in der dritten Säule zu beachten ist.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/30/f5ea3a9f-b41f-45d1-ae33-09210be7f889.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1012,1012,x395,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-03T04:30:00+00:00",
+"sum": "In den vergangenen fünf Jahren haben sich die Produkte für die Säule 3a sehr unterschiedlich entwickelt. Dafür gibt es verschiedene Gründe. Was bei der Vorsorge in der dritten Säule zu beachten ist."
 },
 {
 "id": "6a070b90c9c2",
