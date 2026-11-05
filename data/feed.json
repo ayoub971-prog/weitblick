@@ -1,8 +1,30 @@
 {
-"updated": "2026-11-05T01:25:19+00:00",
+"updated": "2026-11-05T03:04:19+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "d03111c85a1d",
+"title": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
+"link": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html",
+"text": "Die wichtigsten Gewerkschaften haben für heute zu Streiks und landesweiten Protesten aufgerufen. Auch die Proteste der Schüler und Studierenden schliessen sich an. Kann das funktionieren? Von C. Dylla.",
+"img": "https://images.tagesschau.de/image/e892caa1-f741-42e7-a5bb-86e590c84907/AAABoak1rHw/AAABnSSvrFg/16x9-big/paris-protest-106.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-05T01:52:28+00:00",
+"sum": "Die wichtigsten Gewerkschaften haben für heute zu Streiks und landesweiten Protesten aufgerufen. Auch die Proteste der Schüler und Studierenden schliessen sich an. Kann das funktionieren? Von C. Dylla."
+},
+{
+"id": "bb9a2dabc5b2",
+"title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+"link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+"text": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Aussenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
+"img": "https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-05T01:31:11+00:00",
+"sum": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Aussenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung."
+},
 {
 "id": "79b29d7bacf1",
 "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
@@ -90,17 +112,6 @@
 "topic": "Sport",
 "date": "2026-11-04T22:12:40+00:00",
 "sum": "Dortmund rückt dank einem Heimsieg über Betis Sevilla in der Champions-League-Tabelle auf."
-},
-{
-"id": "bb9a2dabc5b2",
-"title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-"link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-"text": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Aussenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
-"img": "https://images.tagesschau.de/image/74e6c976-51e1-4bc8-b302-43b9965bad5e/AAABoagNzso/AAABnSSvrFg/16x9-big/trump-5418.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T22:08:00+00:00",
-"sum": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Aussenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung."
 },
 {
 "id": "200203a4fa4c",
@@ -849,17 +860,6 @@
 "topic": "Schweiz",
 "date": "2026-11-04T14:24:47+00:00",
 "sum": "Im Tessin wurde das Chikungunya-Virus erstmals übertragen. Was bedeutet das für die Schweiz und wie geht es weiter?"
-},
-{
-"id": "b63285c8caa5",
-"title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
-"link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
-"text": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive.",
-"img": "https://images.tagesschau.de/image/bfb067fd-4f50-4786-9bb3-536328b63559/AAABoaauQlo/AAABnSSvrFg/16x9-big/flagge-montenegro-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T14:11:39+00:00",
-"sum": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive."
 },
 {
 "id": "b4f7666c527d",
