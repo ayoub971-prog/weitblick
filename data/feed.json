@@ -1,8 +1,63 @@
 {
-"updated": "2026-11-04T22:59:27+00:00",
+"updated": "2026-11-05T01:25:19+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "79b29d7bacf1",
+"title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+"link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html",
+"text": "Die Wahlschlappe von Trumps Republikanern lässt viele in der Ukraine auf einen Kurswechsel der USA hoffen. Doch ob es tatsächlich so schnell zu Veränderungen kommt, daran zweifelt man. Von F. Kellermann.",
+"img": "https://images.tagesschau.de/image/f7922e28-6c0a-4519-ac03-9b0a79a53300/AAABoakCnb8/AAABnSSvrFg/16x9-big/kiew-statue-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-05T00:10:07+00:00",
+"sum": "Die Wahlschlappe von Trumps Republikanern lässt viele in der Ukraine auf einen Kurswechsel der USA hoffen. Doch ob es tatsächlich so schnell zu Veränderungen kommt, daran zweifelt man. Von F. Kellermann."
+},
+{
+"id": "96e9098b2193",
+"title": "Chef der Freien Wähler – Bayerischer Wirtschaftsminister Hubert Aiwanger ist tot",
+"link": "https://www.srf.ch/news/international/chef-der-freien-waehler-bayerischer-wirtschaftsminister-hubert-aiwanger-ist-tot",
+"text": "Laut einem Bericht der «Bild»-Zeitung ist der Politiker leblos in einem Berliner Hotel aufgefunden worden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/3bc68a4.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-05T00:08:11+00:00",
+"sum": "Laut einem Bericht der «Bild»-Zeitung ist der Politiker leblos in einem Berliner Hotel aufgefunden worden."
+},
+{
+"id": "9f66f471eb3e",
+"title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+"link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
+"text": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
+"img": "https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-04T23:35:58+00:00",
+"sum": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel."
+},
+{
+"id": "9e27644954df",
+"title": "EHT: Auftakt in WM-Vorlauf – Schweizer Nati: Als Weltnummer 1 nach Helsinki",
+"link": "https://www.srf.ch/sport/eishockey/nationalmannschaft/eht-auftakt-in-wm-vorlauf-schweizer-nati-als-weltnummer-1-nach-helsinki",
+"text": "Am Donnerstag startet Schweiz in Helsinki an der ersten Station der Euro Hockey Tour in die Saison. Ein paar Fakten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/27eaf2.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-04T23:16:58+00:00",
+"sum": "Am Donnerstag startet Schweiz in Helsinki an der ersten Station der Euro Hockey Tour in die Saison. Ein paar Fakten."
+},
+{
+"id": "2e976028bb95",
+"title": "Sven Knapp: Breko warnt vor Schein-Verhandlungen beim Open Access",
+"link": "https://www.golem.de/news/sven-knapp-breko-warnt-vor-schein-verhandlungen-beim-open-access-2611-214872.html",
+"text": "Der Bundestag debattiert über die Novelle des Telekommunikationsgesetzes - doch aus Sicht der alternativen Netzbetreiber steuert das Gesetz gegen die eigenen Ziele, so der Breko. ( Breko , Open Access )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214872&page=1&ts=1793834102",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-04T23:15:02+00:00",
+"sum": "Der Bundestag debattiert über die Novelle des Telekommunikationsgesetzes - doch aus Sicht der alternativen Netzbetreiber steuert das Gesetz gegen die eigenen Ziele, so der Breko. ( Breko , Open Access )"
+},
 {
 "id": "d92238bf2500",
 "title": "Champions League: Round-up – 9:1! Como schafft Historisches – Valverde erlöst Real Madrid spät",
@@ -26,17 +81,6 @@
 "sum": "Während das vorläufige Aus für die Fusion zwischen der Deutschen Telekom und T-Mobile US vermeldet wurde, treibt Höttges das Projekt laut Insidern mit Nachdruck voran. ( Timotheus Höttges , Telekom )"
 },
 {
-"id": "9f66f471eb3e",
-"title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-"link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
-"text": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
-"img": "https://images.tagesschau.de/image/330f6630-9913-4ebc-a661-85f4840220a5/AAABoahdBeA/AAABnSSvrFg/16x9-big/hubert-aiwanger-202.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T22:14:46+00:00",
-"sum": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel."
-},
-{
 "id": "a2b6d5f82043",
 "title": "BVB besiegt Betis – Valles wird vom Hexer zur tragischen Figur",
 "link": "https://www.srf.ch/sport/fussball/champions-league/bvb-besiegt-betis-valles-wird-vom-hexer-zur-tragischen-figur",
@@ -57,17 +101,6 @@
 "topic": "Welt",
 "date": "2026-11-04T22:08:00+00:00",
 "sum": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Aussenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung."
-},
-{
-"id": "96e9098b2193",
-"title": "Chef der Freien Wähler – Bayerischer Wirtschaftsminister Hubert Aiwanger ist tot",
-"link": "https://www.srf.ch/news/international/chef-der-freien-waehler-bayerischer-wirtschaftsminister-hubert-aiwanger-ist-tot",
-"text": "Laut einem Bericht der «Bild»-Zeitung ist der Politiker leblos in einem Berliner Hotel aufgefunden worden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/3bc68a4.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-04T21:57:37+00:00",
-"sum": "Laut einem Bericht der «Bild»-Zeitung ist der Politiker leblos in einem Berliner Hotel aufgefunden worden."
 },
 {
 "id": "200203a4fa4c",
@@ -96,7 +129,7 @@
 "title": "Handball: Euro Cup – Mangelnde Chancenauswertung: Nati verliert gegen Portugal",
 "link": "https://www.srf.ch/sport/mehr-sport/handball/handball-euro-cup-mangelnde-chancenauswertung-nati-verliert-gegen-portugal",
 "text": "Die Schweizer Handballer unterliegen Portugal zum Auftakt des Euro Cups mit 28:33.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f58159.webp",
+"img": "https://www.srf.ch/static/cms/images//320ws/b1cb7e.webp",
 "source": "SRF",
 "topic": "Sport",
 "date": "2026-11-04T20:43:52+00:00",
@@ -290,20 +323,9 @@
 "sum": "Neue Verbrenner könnten auch nach 2035 noch auf Europas Strassen kommen. Im EU-Parlament hat der Umweltausschuss sich für eine Lockerung ausgesprochen."
 },
 {
-"id": "bc04b8b3d903",
-"title": "Seit jeher Real-Madrid-Fan – Nadal vor Wahl in den Vorstand von Real Madrid",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/seit-jeher-real-madrid-fan-nadal-vor-wahl-in-den-vorstand-von-real-madrid",
-"text": "Der 22-fache Grand-Slam-Champion Rafael Nadal soll bald Vorstandsmitglied bei seinem Herzensklub Real Madrid werden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/95f7800.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-04T17:42:48+00:00",
-"sum": "Der 22-fache Grand-Slam-Champion Rafael Nadal soll bald Vorstandsmitglied bei seinem Herzensklub Real Madrid werden."
-},
-{
-"id": "4317ef3c624d",
+"id": "23c407f16ecd",
 "title": "ATP-1000-Turnier Paris-Bercy – Djokovic verpasst Finals – Zverev verliert bei Premiere als Nr. 1",
-"link": "https://www.srf.ch/sport/tennis/tennis-allgemein/atp-1000-turnier-paris-bercy-djokovic-verpasst-finals-zverev-verliert-bei-premiere-als-nr-1",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-1000-turnier-paris-bercy-djokovic-verpasst-finals-zverev-verliert-bei-premiere-als-nr-1",
 "text": "Nach seinem frühen Aus in Paris-Bercy steht fest: Die ATP-Finals finden in diesem Jahr ohne Novak Djokovic statt.",
 "img": "https://www.srf.ch/static/cms/images//320ws/8d7991.webp",
 "source": "SRF",
@@ -763,17 +785,6 @@
 "sum": "Ein Hackerangriff auf Kühltechnik traf Frankreichs Blutspendedienst. Schlimmeres konnte verhindert werden."
 },
 {
-"id": "9729b30ec0f1",
-"title": "KBA-Statistik: Neuer Rekordanteil von Elektroautos bei Neuwagen",
-"link": "https://www.golem.de/news/kba-statistik-neuer-rekordanteil-von-elektroautos-bei-neuwagen-2611-214853.html",
-"text": "Der Anteil von E-Autos an den Neuzulassungen nimmt weiter zu. Reine Verbrenner machen nicht einmal mehr ein Viertel der Neuwagen aus. ( Elektroauto , Tesla )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214853&page=1&ts=1793803862",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-04T14:51:02+00:00",
-"sum": "Der Anteil von E-Autos an den Neuzulassungen nimmt weiter zu. Reine Verbrenner machen nicht einmal mehr ein Viertel der Neuwagen aus. ( Elektroauto , Tesla )"
-},
-{
 "id": "3b8b2e7adbd5",
 "title": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
 "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
@@ -893,17 +904,6 @@
 "topic": "Tech",
 "date": "2026-11-04T14:00:00+00:00",
 "sum": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen."
-},
-{
-"id": "68b0200c2b77",
-"title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
-"link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html",
-"text": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten von E. Aretz und C. Schwanitz.",
-"img": "https://images.tagesschau.de/image/f44d6ac1-c09a-4c37-a1e1-86f6499d7ece/AAABoabOAVo/AAABnSSvrFg/16x9-big/trump-maga-caps-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T13:44:41+00:00",
-"sum": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten von E. Aretz und C. Schwanitz."
 },
 {
 "id": "e47a43164da1",
