@@ -1,8 +1,140 @@
 {
-"updated": "2026-11-05T03:04:19+00:00",
+"updated": "2026-11-05T05:14:40+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "50ae26a8ebc6",
+"title": "Jung, digital, skrupellos – Gefährliche «Gen-Z-Mafia» macht Basel zum Hotspot",
+"link": "https://www.srf.ch/news/schweiz/jung-digital-skrupellos-gefaehrliche-gen-z-mafia-macht-basel-zum-hotspot",
+"text": "SRF Investigativ verfolgt die Spur der «Tolhildan» in der Schweiz und deckt ein neues Mafia-Phänomen auf.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d1fafe.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-05T05:00:03+00:00",
+"sum": "SRF Investigativ verfolgt die Spur der «Tolhildan» in der Schweiz und deckt ein neues Mafia-Phänomen auf."
+},
+{
+"id": "8096d3154c4d",
+"title": "Stromreserve im Winter – Zweifel an geplanten Reservekraftwerken werden grösser",
+"link": "https://www.srf.ch/news/schweiz/stromreserve-im-winter-zweifel-an-geplanten-reservekraftwerken-werden-groesser",
+"text": "Nach den Energiepolitikern im Nationalrat stellt nun auch die Finanzkontrolle die geplanten Reservekraftwerke in Frage.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e310ee.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-05T04:58:00+00:00",
+"sum": "Nach den Energiepolitikern im Nationalrat stellt nun auch die Finanzkontrolle die geplanten Reservekraftwerke in Frage."
+},
+{
+"id": "a3cfc40f3b70",
+"title": "Blaue Welle und roter Frust – US-Publizist: «Die Maga-Bewegung ist am Ende»",
+"link": "https://www.srf.ch/news/international/usa/blaue-welle-und-roter-frust-us-publizist-die-maga-bewegung-ist-am-ende",
+"text": "Nach der Niederlage der Republikaner ist für Publizist Jacob Heilbrunn klar: Die Wählerschaft hat rebelliert.",
+"img": "https://www.srf.ch/static/cms/images//320ws/59d32b.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-05T04:53:56+00:00",
+"sum": "Nach der Niederlage der Republikaner ist für Publizist Jacob Heilbrunn klar: Die Wählerschaft hat rebelliert."
+},
+{
+"id": "89e98c571e3a",
+"title": "Blaue Welle in den USA – Die Warnung im Sieg der Demokraten",
+"link": "https://www.srf.ch/news/international/usa/blaue-welle-in-den-usa-die-warnung-im-sieg-der-demokraten",
+"text": "Die Republikaner verloren, weil Trumps Siegeskoalition von 2024 zerbrach. Eine Warnung für die Demokraten für 2028.",
+"img": "https://www.srf.ch/static/cms/images//320ws/715e66.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-05T04:50:47+00:00",
+"sum": "Die Republikaner verloren, weil Trumps Siegeskoalition von 2024 zerbrach. Eine Warnung für die Demokraten für 2028."
+},
+{
+"id": "ed7f4f88db24",
+"title": "KOMMENTAR - Open AI contra Mathematiker: Nach dem Drama um KI-generierte Beweise ist nun die Zeit für Kooperation gekommen",
+"link": "https://www.nzz.ch/meinung/open-ai-contra-mathematiker-nach-dem-drama-um-ki-generierte-beweise-ist-nun-die-zeit-fuer-kooperation-gekommen-ld.10050341",
+"text": "Die Tech-Branche hat die Mathematiker brüskiert. Die Forscher reagieren emotional. Nun sollten die beiden Seiten aufeinander zugehen. Die Wissenschaft gewinnt nur, wenn Mensch und Maschine zusammenspielen.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/04/b69797d6-1a1f-4660-a1dc-e82e9b099248.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1254,1254,x573,y0",
+"source": "NZZ",
+"topic": "Tech",
+"date": "2026-11-05T04:35:00+00:00",
+"sum": "Die Tech-Branche hat die Mathematiker brüskiert. Die Forscher reagieren emotional. Nun sollten die beiden Seiten aufeinander zugehen. Die Wissenschaft gewinnt nur, wenn Mensch und Maschine zusammenspielen."
+},
+{
+"id": "6294e855b37c",
+"title": "Sieben Prognosen zur Wirtschaft nach den Midterm-Wahlen – und wie plausibel sie sind",
+"link": "https://www.nzz.ch/wirtschaft/sieben-prognosen-zur-wirtschaft-nach-den-midterm-wahlen-und-wie-plausibel-sie-sind-ld.10053933",
+"text": "Stoppen die Demokraten den Bau neuer Rechenzentren? Ist der Handelskrieg bald vorbei? Oder setzt Donald Trump am Ende doch seine Vetomacht durch? So präsentiert sich die Lage für die amerikanische Volkswirtschaft.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/04/4dc116fe-3a51-4dcb-8285-2447dc5adcb3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1536,1536,x513,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-05T04:30:00+00:00",
+"sum": "Stoppen die Demokraten den Bau neuer Rechenzentren? Ist der Handelskrieg bald vorbei? Oder setzt Donald Trump am Ende doch seine Vetomacht durch? So präsentiert sich die Lage für die amerikanische Volkswirtschaft."
+},
+{
+"id": "10f6904ce600",
+"title": "«Ich wäre nie auf die Idee gekommen, dass er nicht einmal fünf Millionen hat»: Ein ehemaliger Partner rechnet vor Gericht mit René Benko ab",
+"link": "https://www.nzz.ch/wirtschaft/ich-waere-nie-auf-die-idee-gekommen-dass-er-nicht-einmal-fuenf-millionen-hat-ein-ehemaliger-partner-rechnet-vor-gericht-mit-rene-benko-ab-ld.10053056",
+"text": "Zwei Tiroler streiten sich vor Gericht: Jahrelang hat Österreichs prominentester Bauunternehmer Hans Peter Haselsteiner den Signa-Gründer René Benko verteidigt. Nun sagt er gegen seinen einstigen Partner aus.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/04/1734e92e-9af5-4ace-b4d3-520722e487e7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1376,1376,x1108,y181",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-05T04:30:00+00:00",
+"sum": "Zwei Tiroler streiten sich vor Gericht: Jahrelang hat Österreichs prominentester Bauunternehmer Hans Peter Haselsteiner den Signa-Gründer René Benko verteidigt. Nun sagt er gegen seinen einstigen Partner aus."
+},
+{
+"id": "611efce1a731",
+"title": "«Gewerkschaftsfresser» oder Stimme der Vernunft? So tickt der harte Mann im VW-Vorstand",
+"link": "https://www.nzz.ch/wirtschaft/gewerkschaftsfresser-oder-stimme-der-vernunft-so-tickt-der-harte-mann-im-vw-vorstand-ld.10042536",
+"text": "Manfred Döss kämpft im Führungsgremium von VW für einen kompromisslosen Kurs. Er hält den Konzern für bedroht – und sagt, die Ausgliederung von VW sei noch nicht vom Tisch.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/03/07554f3b-7709-4615-a079-74b90e1f6e93.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3068,3068,x1135,y109",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-05T04:30:00+00:00",
+"sum": "Manfred Döss kämpft im Führungsgremium von VW für einen kompromisslosen Kurs. Er hält den Konzern für bedroht – und sagt, die Ausgliederung von VW sei noch nicht vom Tisch."
+},
+{
+"id": "75dfdbfa94b5",
+"title": "Die Alzheimerforschung hat die enorme Bedeutung von Entzündungen jahrzehntelang übersehen",
+"link": "https://www.nzz.ch/wissenschaft/entzuendungen-statt-plaques-neue-sicht-auf-alzheimer-ld.10026488",
+"text": "Giftige Proteinklumpen galten als Auslöser der Demenz. Doch die Theorie geriet ins Wanken, als man Senioren mit einem Hirn voller Klumpen, aber ohne Demenzsymptome entdeckte. Jetzt heisst es: Eine bisher unterschätzte Hirnzelle namens Mikroglia startet die Demenz.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/03/cb85d02d-dc0e-49fd-96c2-e59b8ad554c4.png?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1800,1800,x300,y0",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-05T04:30:00+00:00",
+"sum": "Giftige Proteinklumpen galten als Auslöser der Demenz. Doch die Theorie geriet ins Wanken, als man Senioren mit einem Hirn voller Klumpen, aber ohne Demenzsymptome entdeckte. Jetzt heisst es: Eine bisher unterschätzte Hirnzelle namens Mikroglia startet die Demenz."
+},
+{
+"id": "91e9c19e23fc",
+"title": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
+"link": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html",
+"text": "Nach dem Wahlsieg der Studentischen Liste sind erste Veränderungen schon spürbar. Eine serbische Medienaufsichtsbehörde hat Zwangspausen gegen Vucic-Propagandasendungen verhängt. Von Oliver Soos.",
+"img": "https://images.tagesschau.de/image/ec39890e-6646-43e7-9fe4-722aa52eb9de/AAABoalNKbo/AAABnSSvrFg/16x9-big/medien-serbien-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-05T04:05:08+00:00",
+"sum": "Nach dem Wahlsieg der Studentischen Liste sind erste Veränderungen schon spürbar. Eine serbische Medienaufsichtsbehörde hat Zwangspausen gegen Vucic-Propagandasendungen verhängt. Von Oliver Soos."
+},
+{
+"id": "eac05600f447",
+"title": "OpenAI wird mit Übernahme von Pierre Computer zum GitHub-Konkurrenten",
+"link": "https://www.heise.de/news/OpenAI-wird-mit-Uebernahme-von-Pierre-Computer-zum-GitHub-Konkurrenten-11512804.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Entwicklerwerkzeuge von Pierre sollen in Codex integriert werden. Damit baut OpenAI eine Infrastruktur für KI-Coding auf - Konkurrenz zu GitHub und Microsoft?",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-05T04:05:00+00:00",
+"sum": "Entwicklerwerkzeuge von Pierre sollen in Codex integriert werden. Damit baut OpenAI eine Infrastruktur für KI-Coding auf - Konkurrenz zu GitHub und Microsoft?"
+},
+{
+"id": "86649f913849",
+"title": "Suche nach mehrheitsfähiger Kandidatin: Merz und die Bundespräsidentinnen-Frage",
+"link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html",
+"text": "Eine Frau soll es werden - so weit hat sich Kanzler Merz in der Bundespräsidenten-Frage festgelegt. Einige Namen kursieren, doch welche Kandidatin hätte genug Rückhalt? Eine Entscheidung dürfte in Kürze fallen. Von Tina Handel.",
+"img": "https://images.tagesschau.de/image/73406896-4829-4187-9def-0e859f03a207/AAABlgt9I-8/AAABnSSvrFg/16x9-big/bellevue-129.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-05T03:21:38+00:00",
+"sum": "Eine Frau soll es werden - so weit hat sich Kanzler Merz in der Bundespräsidenten-Frage festgelegt. Einige Namen kursieren, doch welche Kandidatin hätte genug Rückhalt? Eine Entscheidung dürfte in Kürze fallen. Von Tina Handel."
+},
 {
 "id": "d03111c85a1d",
 "title": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
@@ -41,7 +173,7 @@
 "title": "Chef der Freien Wähler – Bayerischer Wirtschaftsminister Hubert Aiwanger ist tot",
 "link": "https://www.srf.ch/news/international/chef-der-freien-waehler-bayerischer-wirtschaftsminister-hubert-aiwanger-ist-tot",
 "text": "Laut einem Bericht der «Bild»-Zeitung ist der Politiker leblos in einem Berliner Hotel aufgefunden worden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/3bc68a4.webp",
+"img": "https://www.srf.ch/static/cms/images//320ws/5eeebb.webp",
 "source": "SRF",
 "topic": "Welt",
 "date": "2026-11-05T00:08:11+00:00",
@@ -796,17 +928,6 @@
 "sum": "Ein Hackerangriff auf Kühltechnik traf Frankreichs Blutspendedienst. Schlimmeres konnte verhindert werden."
 },
 {
-"id": "3b8b2e7adbd5",
-"title": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
-"link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
-"text": "In Deutschland und Frankreich sind neue Fälle von durch Hacker manipulierten Kühlsystemen bekannt geworden. In Bayern traf es eine Metzgerei. In Frankreich einen besonders sensiblen Bereich: den Blutspendedienst.",
-"img": "https://images.tagesschau.de/image/2f3feb18-d476-442c-b74c-a730e790cef9/AAABm_B9Nrc/AAABnSSvrFg/16x9-big/tastatur-laptop-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-04T14:42:11+00:00",
-"sum": "In Deutschland und Frankreich sind neue Fälle von durch Hacker manipulierten Kühlsystemen bekannt geworden. In Bayern traf es eine Metzgerei. In Frankreich einen besonders sensiblen Bereich: den Blutspendedienst."
-},
-{
 "id": "14f8d23797a2",
 "title": "Globaler Smartphonemarkt: Mehr Umsatz trotz sinkenden Absatzes",
 "link": "https://www.heise.de/news/Globaler-Smartphonemarkt-Mehr-Umsatz-trotz-sinkenden-Absatzes-11512026.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -824,7 +945,7 @@
 "text": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde.",
 "img": "https://images.tagesschau.de/image/c8b6006a-2850-4e36-9caf-f20ee945d5d4/AAABoabiLPc/AAABnSSvrFg/16x9-big/klaas-knot-106.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-04T14:30:36+00:00",
 "sum": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde."
 },
@@ -893,17 +1014,6 @@
 "topic": "Welt",
 "date": "2026-11-04T14:02:08+00:00",
 "sum": "Kurz nach seiner Krebsoperation reist Leo nach Südamerika. Frieden und sozialer Ausgleich sind seine Botschaft."
-},
-{
-"id": "33aecac41fca",
-"title": "KI-Update: Nein zu Rechenzentren, Anthropic warnt, Google-Zwang, KI-Mythen",
-"link": "https://www.heise.de/news/KI-Update-Nein-zu-Rechenzentren-Anthropic-warnt-Google-Zwang-KI-Mythen-11509052.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-04T14:00:00+00:00",
-"sum": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen."
 },
 {
 "id": "e47a43164da1",
@@ -1115,6 +1225,17 @@
 "sum": "John Nash gilt heute als brillanter Mathematiker – er hat einen Nobelpreis bekommen und wurde mit dem Abelpreis ausgezeichnet. Doch die Anerkennung kam erst spät. 🎙️"
 },
 {
+"id": "d27fa65973f2",
+"title": "«Gold, Kupfer und Silber werden von Menschheit seit Jahrtausenden gebraucht»",
+"link": "https://www.finews.ch/news/finanzplatz/74328-alexandre-carrier-dnca-edelmetalle-industriemetalle-terminmarkt-debasement-transition",
+"text": "«Wir können bis heute nicht auf bestimmte Metalle verzichten, weil sie super Eigenschaften haben», sagt DNCA-Portfoliomanager Alexandre Carrier im Gespräch mit finews. Das veränderte geopolitische Umfeld und der neue rohstoffintensive Wirtschaftszyklus sprechen für Edel- und Industriemetalle. Darin zu investieren ist allerdings nicht trivial.",
+"img": "https://www.finews.ch/images/news/2026/11/Alexandre-Carrier-DNCA.jpg",
+"source": "finews",
+"topic": "Wirtschaft",
+"date": "2026-11-04T10:02:44+00:00",
+"sum": "«Wir können bis heute nicht auf bestimmte Metalle verzichten, weil sie super Eigenschaften haben», sagt DNCA-Portfoliomanager Alexandre Carrier im Gespräch mit finews. Das veränderte geopolitische Umfeld und der neue rohstoffintensive Wirtschaftszyklus sprechen für Edel- und Industriemetalle. Darin zu investieren ist allerdings nicht trivial."
+},
+{
 "id": "ebe5a67981ba",
 "title": "Bevölkerungsforschung: Männer leben länger. Frauen auch, aber nicht überall",
 "link": "https://www.spektrum.de/news/lebenserwartung-maenner-leben-laenger-frauen-auch-aber-nicht-ueberall/2352653",
@@ -1236,17 +1357,6 @@
 "sum": "Mina Hirsbrunner vertritt die Schweiz an den Olympischen Jugendspielen in Dakar. Die Leichtathletin will hoch hinaus."
 },
 {
-"id": "26f6139d2988",
-"title": "Knall in Brienzwiler – Viel Arbeit, wenig Ansehen: Wer will noch Gemeinderat sein?",
-"link": "https://www.srf.ch/news/schweiz/knall-in-brienzwiler-viel-arbeit-wenig-ansehen-wer-will-noch-gemeinderat-sein",
-"text": "Wegen persönlicher Angriffe ist im bernischen Brienzwiler der gesamte Gemeinderat zurückgetreten. Kein Einzelfall.",
-"img": "https://www.srf.ch/static/cms/images//320ws/3ff401.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-04T07:34:50+00:00",
-"sum": "Wegen persönlicher Angriffe ist im bernischen Brienzwiler der gesamte Gemeinderat zurückgetreten. Kein Einzelfall."
-},
-{
 "id": "273207812d97",
 "title": "Pictet Alternative Advisors ernennt neuen Leiter Real Estate",
 "link": "https://www.finews.ch/news/finanzplatz/74321-pictet-alternative-advisorsalexander-lukesch-multi-manager-real-estate",
@@ -1258,17 +1368,6 @@
 "sum": "Pictet Alternative Advisors verstärkt seinen Immobilienbereich mit einem erfahrenen Investmentexperten."
 },
 {
-"id": "bdce0899d3c2",
-"title": "Midterms 2026 – Machtwechsel im US-Kongress – die Reaktionen",
-"link": "https://www.srf.ch/news/international/midterms-2026-machtwechsel-im-us-kongress-die-reaktionen",
-"text": "Die Demokraten jubeln, die Republikaner wirken ratlos. Das sagen die Politikerinnen und Politiker.",
-"img": "https://www.srf.ch/static/cms/images//320ws/35aba8c.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-04T07:14:19+00:00",
-"sum": "Die Demokraten jubeln, die Republikaner wirken ratlos. Das sagen die Politikerinnen und Politiker."
-},
-{
 "id": "ed078bf56ed4",
 "title": "«Unüberbrückbare Differenzen» – Knall bei Rieter: Designierter CEO stolpert über Bonus-Streit",
 "link": "https://www.srf.ch/news/wirtschaft/unueberbrueckbare-differenzen-knall-bei-rieter-designierter-ceo-stolpert-ueber-bonus-streit",
@@ -1278,17 +1377,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T07:05:46+00:00",
 "sum": "Der Textilmaschinenhersteller muss den CEO-Wechsel kurzfristig neu regeln. Grund ist ein Bonus-Streit."
-},
-{
-"id": "6d6007dfe606",
-"title": "Zwischenwahlen in den USA – Republikaner für Trump-Treue bestraft – Demokraten mit Sensation",
-"link": "https://www.srf.ch/news/international/usa/zwischenwahlen-in-den-usa-republikaner-fuer-trump-treue-bestraft-demokraten-mit-sensation",
-"text": "Es ist eine blaue Welle bis nach Texas, die sich bei den Midterms abzeichnet. Was hinter dem Erdrutsch steckt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/fbd58d4.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-04T07:02:35+00:00",
-"sum": "Es ist eine blaue Welle bis nach Texas, die sich bei den Midterms abzeichnet. Was hinter dem Erdrutsch steckt."
 },
 {
 "id": "6180e941fe67",
@@ -1355,17 +1443,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T05:19:22+00:00",
 "sum": "Die Banque Bonhôte hat einen neuen Leiter für ihre Niederlassung in Genf bestimmt. In Lausanne wird eine neue Kundenberaterin ihre Tätigkeit aufnehmen. Und mit der dritten Neueinstellung soll die Präsenz im südafrikanischen Markt ausgebaut werden."
-},
-{
-"id": "c4f7cd062894",
-"title": "Projekt der SBB und ETH – Dieser Roboter soll bald im Gotthard-Basistunnel arbeiten",
-"link": "https://www.srf.ch/news/schweiz/projekt-der-sbb-und-eth-dieser-roboter-soll-bald-im-gotthard-basistunnel-arbeiten",
-"text": "Die Unterhaltsarbeiten im längsten Eisenbahntunnel sind anspruchsvoll. Künftig soll ein ferngesteuerter Roboter helfen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2a5cfef.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-04T04:53:29+00:00",
-"sum": "Die Unterhaltsarbeiten im längsten Eisenbahntunnel sind anspruchsvoll. Künftig soll ein ferngesteuerter Roboter helfen."
 },
 {
 "id": "cff1dd82e5f7",
@@ -1599,17 +1676,6 @@
 "sum": "Die Schweiz liegt gemäss einer neuen Studie bei der Finanzinfrastruktur im Mittelfeld. Schwächen sind die Umsetzung der Regulierung durch die Finma, die beschränkte Marktgrösse und fehlende Anwendungen der künstlichen Intelligenz, hält die Swiss Blockchain Federation fest."
 },
 {
-"id": "56275d315096",
-"title": "SIX: ETF-Handelsumsatz steigt im Oktober kräftig",
-"link": "https://www.finews.ch/news/finanzplatz/74304-six-bme-handelsumsatz-oktober-2026",
-"text": "Die Schweizer Börse hat im Oktober erneut ein starkes Volumenwachstum im Handel mit ETF’s verbucht.",
-"img": "https://www.finews.ch/images/news/2026/11/six_six.webp",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-03T09:04:05+00:00",
-"sum": "Die Schweizer Börse hat im Oktober erneut ein starkes Volumenwachstum im Handel mit ETF’s verbucht."
-},
-{
 "id": "643c7e99c73a",
 "title": "News aus der Super League – FCZ-Flügel Emmanuel hätte gegen YB vom Platz fliegen müssen",
 "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-fcz-fluegel-emmanuel-haette-gegen-yb-vom-platz-fliegen-muessen",
@@ -1696,39 +1762,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-03T04:57:44+00:00",
 "sum": "Der Vermögensverwalter DWS stellt sich unter der Dachmarke Deutsche Asset Management international neu auf. Dabei gewinnt der Finanzplatz Schweiz an Bedeutung, wie Sven Württemberger, CEO der DWS Schweiz, im Interview erklärt."
-},
-{
-"id": "ed57d60e40e0",
-"title": "Nach Binance-Raub: Das Crypto Valley rüstet sich gegen weitere Cyberangriffe",
-"link": "https://www.nzz.ch/wirtschaft/nach-binance-raub-das-crypto-valley-ruestet-sich-gegen-weitere-cyberangriffe-ld.10051936",
-"text": "In der Schweiz halten sich die Schäden wegen des Binance-Hackerangriffs bis anhin in Grenzen. Dennoch sind Cyberangriffe für die Krypto-Branche eine wachsende Bedrohung.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/31/cbe81eb6-be9b-4bad-96cb-4da49fad10da.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2984,2984,x460,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-03T04:30:00+00:00",
-"sum": "In der Schweiz halten sich die Schäden wegen des Binance-Hackerangriffs bis anhin in Grenzen. Dennoch sind Cyberangriffe für die Krypto-Branche eine wachsende Bedrohung."
-},
-{
-"id": "a4f6e301edfe",
-"title": "Die nordkoreanischen Hacker hinter dem Binance-Raub sind auch in der Schweiz aktiv – und locken mit vielversprechenden Jobangeboten",
-"link": "https://www.nzz.ch/wirtschaft/die-nordkoreanischen-hacker-hinter-dem-binance-raub-sind-auch-in-der-schweiz-aktiv-und-locken-mit-vielversprechenden-jobangeboten-ld.10051680",
-"text": "Die Zahl der Krypto-Diebstähle bei Schweizer Unternehmen steigt seit Anfang Jahr. Die Behörden warnen vor der Betrugsmasche über Linkedin.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/01/0a7aee4b-4a23-4f9f-b736-f712c201cab6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2912,2912,x1136,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-03T04:30:00+00:00",
-"sum": "Die Zahl der Krypto-Diebstähle bei Schweizer Unternehmen steigt seit Anfang Jahr. Die Behörden warnen vor der Betrugsmasche über Linkedin."
-},
-{
-"id": "92b59ba324ec",
-"title": "Lebensader für Blatten: Eine neue Seilbahn erschliesst das Ende vom Lötschental – und sie ist typisch schweizerisch",
-"link": "https://www.nzz.ch/wirtschaft/blatten-typische-schweizer-kleinseilbahn-von-bartholet-erschliesst-loetschental-ld.10032963",
-"text": "Wo andere Länder Strassen bauen, setzt die Schweiz auf kleine Bergbahnen. Der Weg durch die Luft hat Vorteile, so auch nach der Katastrophe von Blatten. Trotzdem fehlt vielen Betreibern das Geld.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/30/4fccd797-1d7c-4547-9c52-2aa024f5c2f5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1139,1139,x892,y165",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-03T04:30:00+00:00",
-"sum": "Wo andere Länder Strassen bauen, setzt die Schweiz auf kleine Bergbahnen. Der Weg durch die Luft hat Vorteile, so auch nach der Katastrophe von Blatten. Trotzdem fehlt vielen Betreibern das Geld."
 },
 {
 "id": "55ab5ef62b82",
@@ -1828,39 +1861,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-02T05:49:41+00:00",
 "sum": "Mit mehr als 20 Jahren Erfahrung im Bankgeschäft übernimmt Francesco Andreazzi die Leitung der LGT-Niederlassung in Lugano. Sein Ziel: Die Präsenz der Bank in seiner Heimatregion weiter zu stärken."
-},
-{
-"id": "dc35ec0d6de0",
-"title": "Abstimmung über Kriegsmaterial – Wie geht es der Schweizer Rüstungsindustrie?",
-"link": "https://www.srf.ch/news/dialog/abstimmung-ueber-kriegsmaterial-wie-geht-es-der-schweizer-ruestungsindustrie",
-"text": "Blendende Geschäfte oder existenzielle Krise? Zwei fundamental unterschiedliche Sichtweisen auf eine heikle Branche.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b8f29d.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-02T05:14:10+00:00",
-"sum": "Blendende Geschäfte oder existenzielle Krise? Zwei fundamental unterschiedliche Sichtweisen auf eine heikle Branche."
-},
-{
-"id": "e5ccb25c4c38",
-"title": "KI im Journalismus – Wie Schweizer Medienhäuser KI in der Berichterstattung einsetzen",
-"link": "https://www.srf.ch/news/wirtschaft/ki-im-journalismus-wie-schweizer-medienhaeuser-ki-in-der-berichterstattung-einsetzen",
-"text": "Kein grosses Schweizer Medienhaus will auf KI verzichten. Wie viel Zeit oder Geld sie spart, kann aber niemand sagen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2d8545.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-02T04:52:37+00:00",
-"sum": "Kein grosses Schweizer Medienhaus will auf KI verzichten. Wie viel Zeit oder Geld sie spart, kann aber niemand sagen."
-},
-{
-"id": "832a0f80b319",
-"title": "Pharmaindustrie – Medikamentenpreise: US-Preispolitik setzt die Schweiz unter Druck",
-"link": "https://www.srf.ch/news/wirtschaft/pharmaindustrie-medikamentenpreise-us-preispolitik-setzt-die-schweiz-unter-druck",
-"text": "Neue Studie zeigt: US-Druck auf die Medikamentenpreise könnte die Schweiz jährlich Hunderte Millionen Franken kosten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ea2efae.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-02T04:50:27+00:00",
-"sum": "Neue Studie zeigt: US-Druck auf die Medikamentenpreise könnte die Schweiz jährlich Hunderte Millionen Franken kosten."
 }
 ]
 }
