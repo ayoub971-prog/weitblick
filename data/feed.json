@@ -1,8 +1,294 @@
 {
-"updated": "2026-11-06T15:00:08+00:00",
+"updated": "2026-11-06T17:06:20+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "a44fab8b2201",
+"title": "Bezirksgericht Brig – Ex-Swiss-Ski-Vize Schmidhalter verurteilt",
+"link": "https://www.srf.ch/news/schweiz/bezirksgericht-brig-ex-swiss-ski-vize-schmidhalter-verurteilt",
+"text": "Der ehemalige Präsident der Ski-WM in Crans-Montana ist wegen ungetreuer Geschäftsbesorgung verurteilt worden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1b2f669.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-06T17:04:51+00:00",
+"sum": "Der ehemalige Präsident der Ski-WM in Crans-Montana ist wegen ungetreuer Geschäftsbesorgung verurteilt worden."
+},
+{
+"id": "f79b47d564d6",
+"title": "Bundestag berät über umstrittene Autobahn-Reform",
+"link": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
+"text": "Der Bundestag hat über eine geplante Reform der bundeseigenen Autobahn GmbH debattiert. Die Regierung will die Finanzierung ändern, um Autobahnen zu erhalten und ausbauen zu können. Doch das Vorhaben ist umstritten.",
+"img": "https://images.tagesschau.de/image/85f4522a-669a-4065-881f-10b8f9aa39c4/AAABobHRdOk/AAABnSSvrFg/16x9-big/autobahn-510.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T17:04:16+00:00",
+"sum": "Der Bundestag hat über eine geplante Reform der bundeseigenen Autobahn GmbH debattiert. Die Regierung will die Finanzierung ändern, um Autobahnen zu erhalten und ausbauen zu können. Doch das Vorhaben ist umstritten."
+},
+{
+"id": "681867fa8102",
+"title": "Höchstes Amt in Deutschland – Ilse Aigner soll Bundespräsidentin werden",
+"link": "https://www.srf.ch/news/international/hoechstes-amt-in-deutschland-ilse-aigner-soll-bundespraesidentin-werden",
+"text": "Die regierende CDU will sie für das Amt nominieren, berichten Medien.",
+"img": "https://www.srf.ch/static/cms/images//320ws/61480c.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-06T17:03:04+00:00",
+"sum": "Die regierende CDU will sie für das Amt nominieren, berichten Medien."
+},
+{
+"id": "1da8c54f91f6",
+"title": "Besitz von Kinderpornografie – Vater von Herzogin Meghan in den USA festgenommen",
+"link": "https://www.srf.ch/news/international/besitz-von-kinderpornografie-vater-von-herzogin-meghan-in-den-usa-festgenommen",
+"text": "Thomas Markle wurde wegen des mutmasslichen Besitzes kinderpornografischen Materials angeklagt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/37315ff.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-06T17:00:58+00:00",
+"sum": "Thomas Markle wurde wegen des mutmasslichen Besitzes kinderpornografischen Materials angeklagt."
+},
+{
+"id": "c65632529278",
+"title": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
+"link": "https://www.srf.ch/news/wirtschaft/nach-den-midterms-warum-sind-die-boersen-rund-um-den-globus-eingebrochen",
+"text": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b95169.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-06T16:55:00+00:00",
+"sum": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch."
+},
+{
+"id": "5cad87b83a85",
+"title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+"link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+"text": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+"img": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T16:47:36+00:00",
+"sum": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit."
+},
+{
+"id": "78708c580a0c",
+"title": "YouTuber ortet Videoaufnahmen anhand von Flugzeuggeräuschen",
+"link": "https://www.heise.de/news/YouTuber-ortet-Videoaufnahmen-anhand-von-Flugzeuggeraeuschen-11515927.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Ein YouTuber kombiniert Flugdaten mit Hintergrundgeräuschen in Videos, um Aufnahmeorte auf rund 100 Meter genau zu bestimmen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T16:31:00+00:00",
+"sum": "Ein YouTuber kombiniert Flugdaten mit Hintergrundgeräuschen in Videos, um Aufnahmeorte auf rund 100 Meter genau zu bestimmen."
+},
+{
+"id": "cce487f31d10",
+"title": "Lokale KI: Das läuft auf deinem Rechner",
+"link": "https://www.heise.de/news/Lokale-KI-Das-laeuft-auf-deinem-Rechner-11515316.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Lokale KI wird immer besser, die dafür benötigte Hardware immer teurer. c’t 3003 gibt Kaufberatung und Praxistipps.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T16:27:00+00:00",
+"sum": "Lokale KI wird immer besser, die dafür benötigte Hardware immer teurer. c’t 3003 gibt Kaufberatung und Praxistipps."
+},
+{
+"id": "d460fc60c729",
+"title": "Mehrheit der Unternehmen hat Homeoffice-Möglichkeiten reduziert",
+"link": "https://www.heise.de/news/Mehrheit-der-Unternehmen-hat-Homeoffice-Moeglichkeiten-reduziert-11515901.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Laut einer Bitkom-Umfrage haben viele deutsche Unternehmen Homeoffice reduziert. Noch bietet aber eine Mehrheit die Möglichkeit dazu.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T16:25:00+00:00",
+"sum": "Laut einer Bitkom-Umfrage haben viele deutsche Unternehmen Homeoffice reduziert. Noch bietet aber eine Mehrheit die Möglichkeit dazu."
+},
+{
+"id": "5141429534e5",
+"title": "Anzeige: USB4-SSD mit bis zu 3.800 MByte/s | Sandisk Extreme Pro so günstig wie seit September nicht",
+"link": "https://www.golem.de/news/anzeige-usb4-ssd-mit-bis-zu-3-800-mbyte-s-sandisk-extreme-pro-so-guenstig-wie-seit-september-nicht-2611-214953.html",
+"text": "Die Extreme Pro mit 2 TByte erreicht im Test enorme Geschwindigkeiten. Bei Amazon ist sie jetzt zum niedrigsten Preis seit September erhältlich. ( USB4 , Speichermedien )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214953&page=1&ts=1793982121",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T16:22:01+00:00",
+"sum": "Die Extreme Pro mit 2 TByte erreicht im Test enorme Geschwindigkeiten. Bei Amazon ist sie jetzt zum niedrigsten Preis seit September erhältlich. ( USB4 , Speichermedien )"
+},
+{
+"id": "4cb5286ffc52",
+"title": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
+"link": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
+"text": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich.",
+"img": "https://images.tagesschau.de/image/f6024f71-83b2-4e38-82f8-10f6db10df1c/AAABobGKEFc/AAABnSSvrFg/16x9-big/polen-parlament-103.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T16:19:52+00:00",
+"sum": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich."
+},
+{
+"id": "542540bec110",
+"title": "8-Zoll-Floppy: US-Flughäfen migrieren weg von der Diskette",
+"link": "https://www.golem.de/news/8-zoll-floppy-us-flughaefen-migrieren-weg-von-der-diskette-2611-214954.html",
+"text": "Bisher nutzt die FAA teils noch uralte Diskettensysteme aus den Anfängen des Computerzeitalters. Das soll sich ändern. ( Flugzeug , Luftfahrt )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214954&page=1&ts=1793981822",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T16:17:02+00:00",
+"sum": "Bisher nutzt die FAA teils noch uralte Diskettensysteme aus den Anfängen des Computerzeitalters. Das soll sich ändern. ( Flugzeug , Luftfahrt )"
+},
+{
+"id": "ae242be1f34c",
+"title": "Kanarische Inseln melden vermehrte Flüchtlingsankünfte",
+"link": "https://www.tagesschau.de/ausland/afrika/kanaren-fluechtlinge-106.html",
+"text": "Spanien schlägt Alarm. Die Zahl der ankommenden Flüchtlinge auf El Hierro, einer kleinen kanarischen Insel, steigt seit Anfang November wieder stark an. Die Behörden warnen vor Ausnahmezuständen wie 2024. Von Julia Macher.",
+"img": "https://images.tagesschau.de/image/ce689a84-04bb-493c-bb01-cd0414b13e17/AAABobEwB3U/AAABnSSvrFg/16x9-big/gefluechtete-el-hierro-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T15:48:14+00:00",
+"sum": "Spanien schlägt Alarm. Die Zahl der ankommenden Flüchtlinge auf El Hierro, einer kleinen kanarischen Insel, steigt seit Anfang November wieder stark an. Die Behörden warnen vor Ausnahmezuständen wie 2024. Von Julia Macher."
+},
+{
+"id": "a43c4fedb0a9",
+"title": "KI-Unternehmen nach Midterms – Müssen sich die Tech-Bros der USA neu erfinden?",
+"link": "https://www.srf.ch/news/international/usa/ki-unternehmen-nach-midterms-muessen-sich-die-tech-bros-der-usa-neu-erfinden",
+"text": "Nach den Midterm-Wahlen in den USA stürzen die Börsenkurse mehrerer KI- und Techunternehmen ab – die Hintergründe.",
+"img": "https://www.srf.ch/static/cms/images//320ws/2a7e63.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-06T15:45:51+00:00",
+"sum": "Nach den Midterm-Wahlen in den USA stürzen die Börsenkurse mehrerer KI- und Techunternehmen ab – die Hintergründe."
+},
+{
+"id": "5158a490f0f5",
+"title": "Anzeige: Microsoft Surface Pro 13'' reduziert bei Amazon",
+"link": "https://www.golem.de/news/anzeige-microsoft-surface-pro-13-reduziert-bei-amazon-2611-214952.html",
+"text": "Das Microsoft Surface Pro mit 13''-PixelSense-Touchscreen, Snapdragon X2 Plus und 16 + 256 GByte gibt es zum Aktionspreis bei Amazon. ( Surface , Microsoft )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214952&page=1&ts=1793979842",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T15:44:02+00:00",
+"sum": "Das Microsoft Surface Pro mit 13''-PixelSense-Touchscreen, Snapdragon X2 Plus und 16 + 256 GByte gibt es zum Aktionspreis bei Amazon. ( Surface , Microsoft )"
+},
+{
+"id": "3b5776b61fc5",
+"title": "Motion abgelehnt – Ständeratskommission gegen sechste Ferienwoche für Lernende",
+"link": "https://www.srf.ch/news/schweiz/motion-abgelehnt-staenderatskommission-gegen-sechste-ferienwoche-fuer-lernende",
+"text": "Was die Motion verlange, sei ein unnötiger, punktueller Eingriff in die Verantwortlichkeit von Arbeitgebern.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7806c2.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-06T15:35:25+00:00",
+"sum": "Was die Motion verlange, sei ein unnötiger, punktueller Eingriff in die Verantwortlichkeit von Arbeitgebern."
+},
+{
+"id": "933a0e7ea324",
+"title": "Die Aktienmärkte tauchen, Sorgen über einen Crash nehmen zu: Platzt nun die KI-Blase – oder gibt es gar keine?",
+"link": "https://www.nzz.ch/wirtschaft/kuenstliche-intelligenz-an-der-boerse-boom-oder-blase-aktienmaerkte-unter-druck-ld.10056132",
+"text": "Anleger haben jüngst Aktien verkauft, die mit dem KI-Boom zu tun haben. Eine Korrektur war überfällig. Aber wie geht es weiter? Die wichtigsten Fragen und Antworten.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/06/86b1410b-6320-425d-a3da-c74408655e20.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3533,3533,x330,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-06T15:20:35+00:00",
+"sum": "Anleger haben jüngst Aktien verkauft, die mit dem KI-Boom zu tun haben. Eine Korrektur war überfällig. Aber wie geht es weiter? Die wichtigsten Fragen und Antworten."
+},
+{
+"id": "bcca8c3922c6",
+"title": "US-Rechenzentren unter Druck: Europas Chance auf KI-Milliarden",
+"link": "https://www.golem.de/news/us-rechenzentren-unter-druck-europas-chance-auf-ki-milliarden-2611-214941.html",
+"text": "Immer mehr US-Bürger wehren sich gegen neue Rechenzentren. Milliardeninvestitionen könnten deshalb nach Europa fliessen, doch auch hier ist der Strom knapp. Eine Analyse von Mike Faust ( KI , Rechenzentrum )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214941&page=1&ts=1793977981",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T15:13:01+00:00",
+"sum": "Immer mehr US-Bürger wehren sich gegen neue Rechenzentren. Milliardeninvestitionen könnten deshalb nach Europa fliessen, doch auch hier ist der Strom knapp. Eine Analyse von Mike Faust ( KI , Rechenzentrum )"
+},
+{
+"id": "146cec1e5f3c",
+"title": "Euro Hockey Tour – Ein Neuling und ein Premierentorschütze",
+"link": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-ein-neuling-und-ein-premierentorschuetze",
+"text": "1:3-Niederlage gegen Finnland – für Rodwin Dionicio und Jamiro Reber war es trotzdem ein spezieller Abend.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ee9f33.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T15:12:18+00:00",
+"sum": "1:3-Niederlage gegen Finnland – für Rodwin Dionicio und Jamiro Reber war es trotzdem ein spezieller Abend."
+},
+{
+"id": "3b7da1805261",
+"title": "Schiess-WM in Doha – Männer und Frauen triumphieren: Doppel-Gold für Schweizer Teams",
+"link": "https://www.srf.ch/sport/mehr-sport/schiessen/schiess-wm-in-doha-maenner-und-frauen-triumphieren-doppel-gold-fuer-schweizer-teams",
+"text": "Erfolgsmeldung aus Doha: Die Schweizer Gewehrschützinnen und -schützen holen im Teamwettkampf über 50m liegend Gold.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1e5c2c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T15:11:36+00:00",
+"sum": "Erfolgsmeldung aus Doha: Die Schweizer Gewehrschützinnen und -schützen holen im Teamwettkampf über 50m liegend Gold."
+},
+{
+"id": "a5a7dabf3495",
+"title": "News aus dem Tennis – Cahill nicht mehr länger Coach von Sinner – Norman übernimmt",
+"link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-cahill-nicht-mehr-laenger-coach-von-sinner-norman-uebernimmt-1",
+"text": "Hier finden Sie die wichtigsten Tennis-Kurzmeldungen des Tages.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0560df.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T15:08:56+00:00",
+"sum": "Hier finden Sie die wichtigsten Tennis-Kurzmeldungen des Tages."
+},
+{
+"id": "84d959cbae86",
+"title": "Die Börsen erleben einen Kurssturz. Nach dem Triumph der Demokraten werden die KI-Investitionen infrage gestellt",
+"link": "https://www.nzz.ch/wirtschaft/die-boersen-erleben-einen-kurssturz-nach-dem-triumph-der-demokraten-werden-die-ki-investitionen-infrage-gestellt-ld.10056047",
+"text": "Die Aktienmärkte in den USA, Europa und Asien haben empfindliche Verluste erlitten. Am stärksten betroffen war der Technologiesektor. Der Nasdaq ist mit über sechs Prozent so stark wie nie seit dem Jahr 2000 gefallen.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/05/ba010fde-2a93-46c9-947b-cfe3770fc0e9.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-06T15:02:15+00:00",
+"sum": "Die Aktienmärkte in den USA, Europa und Asien haben empfindliche Verluste erlitten. Am stärksten betroffen war der Technologiesektor. Der Nasdaq ist mit über sechs Prozent so stark wie nie seit dem Jahr 2000 gefallen."
+},
+{
+"id": "835e91a9ddb1",
+"title": "EU-Staatsanwaltschaft ermittelt nach Zugunglück in Spanien",
+"link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-eu-ermittlungen-100.html",
+"text": "Nach dem schweren Zugunglück in Spanien mit 69 Toten ermittelt die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs. Im Fokus stehen Gelder für die Bahnsicherheit. Bereits nach einem Unglück im Januar gab es Ermittlungen.",
+"img": "https://images.tagesschau.de/image/4a524d3f-9c2c-47eb-8082-57fd41b73cdf/AAABobFb3Qg/AAABnSSvrFg/16x9-big/zugunglueck-spanien-160.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T15:01:09+00:00",
+"sum": "Nach dem schweren Zugunglück in Spanien mit 69 Toten ermittelt die EU-Staatsanwaltschaft wegen möglichen Subventionsbetrugs. Im Fokus stehen Gelder für die Bahnsicherheit. Bereits nach einem Unglück im Januar gab es Ermittlungen."
+},
+{
+"id": "a0719ea3ccf0",
+"title": "Eve Thermostat im Test: Fussbodenheizung lokal steuern – ohne Cloud, ohne Konto",
+"link": "https://www.heise.de/bestenlisten/testbericht/eve-thermostat-im-test-fussbodenheizung-lokal-steuern-ohne-cloud-ohne-konto/d2j8h58?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Das Eve Thermostat steuert wassergeführte Fussbodenheizungen per Matter und Thread. Der Test zeigt, wie sich das Triac-Gerät in Home Assistant schlägt.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T15:00:00+00:00",
+"sum": "Das Eve Thermostat steuert wassergeführte Fussbodenheizungen per Matter und Thread. Der Test zeigt, wie sich das Triac-Gerät in Home Assistant schlägt."
+},
+{
+"id": "ce1900095762",
+"title": "Algebra: 18-Jähriger macht Fortschritte beim Chicken-Nuggets-Problem",
+"link": "https://www.spektrum.de/news/algebra-18-jaehriger-macht-fortschritte-beim-chicken-nuggets-problem/2353042",
+"text": "Welche Nugget-Zahlen kann man mit vier Packungsgrössen bestellen? Ein Schüler hat das Zahlenproblem in eine Landschaft aus Würfeln verwandelt – und damit neue Lösungswege eröffnet.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/iStock-175447853.jpg.7026526.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-06T15:00:00+00:00",
+"sum": "Welche Nugget-Zahlen kann man mit vier Packungsgrössen bestellen? Ein Schüler hat das Zahlenproblem in eine Landschaft aus Würfeln verwandelt – und damit neue Lösungswege eröffnet."
+},
+{
+"id": "4155e18e522a",
+"title": "Beliebtes Päuschen: Fast jeder zweite Erwachsene hält Mittagsschlaf",
+"link": "https://www.spektrum.de/news/beliebtes-paeuschen-fast-jeder-zweite-erwachsene-haelt-mittagsschlaf/2353021",
+"text": "Ein kurzer Powernap kann wieder fit machen. Eine Analyse zeigt: Mittagsschlaf ist beliebt in Deutschland. Eines gilt es aber zu beachten.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_26270522.jpeg.2938849.jpeg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-06T15:00:00+00:00",
+"sum": "Ein kurzer Powernap kann wieder fit machen. Eine Analyse zeigt: Mittagsschlaf ist beliebt in Deutschland. Eines gilt es aber zu beachten."
+},
 {
 "id": "0e840f35c1b5",
 "title": "Artemis 2: Warum die NASA-Rakete GPS-Signale auf der Erde stört",
@@ -82,7 +368,7 @@
 },
 {
 "id": "1843ce0b19c1",
-"title": "Plattformen offline: Cyberangriff auf TU München",
+"title": "TU München schaltet nach Cyberangriff Campussystem ab",
 "link": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
 "text": "Die TUM hat ihr zentrales Campus-Management-System offline genommen, nachdem sich Angreifer unberechtigten Zugriff verschafft und Daten entwendet haben.",
 "img": "",
@@ -101,17 +387,6 @@
 "topic": "Welt",
 "date": "2026-11-06T14:01:12+00:00",
 "sum": "Israels Opposition hofft auf einen Neustart mit den USA. Ein Nahostexperte hält das für eine Fehleinschätzung."
-},
-{
-"id": "c119452d25d3",
-"title": "heise+ | Mit dem OSINT-Tool GHunt mehr über eine Gmail-Adresse herausfinden",
-"link": "https://www.heise.de/hintergrund/Mit-dem-OSINT-Tool-GHunt-mehr-ueber-eine-Gmail-Adresse-herausfinden-11460510.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Pentester oder Journalisten müssen manchmal mehr über eine Gmail-Adresse erfahren. Das Kommandozeilentool GHunt liefert tiefergehende Informationen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T14:00:00+00:00",
-"sum": "Pentester oder Journalisten müssen manchmal mehr über eine Gmail-Adresse erfahren. Das Kommandozeilentool GHunt liefert tiefergehende Informationen."
 },
 {
 "id": "a1e251b5ac60",
@@ -356,28 +631,6 @@
 "sum": "Das BSI warnt vor einem bislang empfohlenen Verfahren. Für IT-Verantwortliche wird die Wahl quantensicherer Verschlüsselung komplizierter. Wir geben Entscheidungshilfe. Ein Ratgebertext von Marvin Sprey ( Post-Quanten-Kryptografie , Verschlüsselung )"
 },
 {
-"id": "8b9a2ea1d9e6",
-"title": "heise+ | Daten mit dem Data Sharing Advisor bewerten",
-"link": "https://www.heise.de/hintergrund/Daten-mit-dem-Data-Sharing-Advisor-bewerten-11510281.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Unternehmen profitieren von einem Data Sharing Advisor, der Potenziale analysiert und Schutzbedarf durch LLM und Regeln bewertet.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T12:30:00+00:00",
-"sum": "Unternehmen profitieren von einem Data Sharing Advisor, der Potenziale analysiert und Schutzbedarf durch LLM und Regeln bewertet."
-},
-{
-"id": "c65632529278",
-"title": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
-"link": "https://www.srf.ch/news/wirtschaft/nach-den-midterms-warum-sind-die-boersen-rund-um-den-globus-eingebrochen",
-"text": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b95169.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-06T12:28:18+00:00",
-"sum": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch."
-},
-{
 "id": "0d4521105d39",
 "title": "Schwache Startelf-Bilanz – Jashari und Milan: So richtig will es noch nicht funktionieren",
 "link": "https://www.srf.ch/sport/fussball/europa-league/schwache-startelf-bilanz-jashari-und-milan-so-richtig-will-es-noch-nicht-funktionieren",
@@ -453,28 +706,6 @@
 "topic": "Tech",
 "date": "2026-11-06T11:43:02+00:00",
 "sum": "Mehr Ladekomfort, höhere Sicherheit: Volkswagen verteilt das Software-Update 3.9.1 für ausgewählte E-Autos. ( Volkswagen ID. , Elektroauto )"
-},
-{
-"id": "a4fee998a6ae",
-"title": "iOS-Blockierungsmodus umgangen: Wie der jüngste Exploit von Calif.io arbeitet",
-"link": "https://www.heise.de/news/iOS-Blockierungsmodus-umgangen-Wie-der-juengste-Exploit-von-Calif-io-arbeitet-11513469.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Erneut sind die Sicherheitsforscher von Calif.io in den Schlagzeilen. Nun gibt es erste Details zum jüngsten Exploit – und wie Apple reagieren kann.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T11:43:00+00:00",
-"sum": "Erneut sind die Sicherheitsforscher von Calif.io in den Schlagzeilen. Nun gibt es erste Details zum jüngsten Exploit – und wie Apple reagieren kann."
-},
-{
-"id": "40ae366e6250",
-"title": "EU-Kommission fordert Kaninchenbauverbot auf TikTok",
-"link": "https://www.heise.de/news/DSA-Verfahren-EU-Kommission-droht-TikTok-mit-Strafe-11515238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Im Streit mit TikTok-Betreiber Bytedance verschärft die EU-Kommission die Gangart und verlangt massive Änderungen an den algorithmischen Empfehlungssystemen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T11:34:00+00:00",
-"sum": "Im Streit mit TikTok-Betreiber Bytedance verschärft die EU-Kommission die Gangart und verlangt massive Änderungen an den algorithmischen Empfehlungssystemen."
 },
 {
 "id": "f2dd6f8d31d6",
@@ -576,39 +807,6 @@
 "sum": "Einige Linux-Systeme lassen sich durch sehr lange Passworteingaben über SSH infiltrieren, manchmal sogar mit Root-Zugriff. Angreifer nutzen das bereits aus. ( Sicherheitslücke , Linux )"
 },
 {
-"id": "84d959cbae86",
-"title": "Die Börsen erleben einen Kurssturz. Nach dem Triumph der Demokraten werden die KI-Investitionen infrage gestellt",
-"link": "https://www.nzz.ch/wirtschaft/die-boersen-erleben-einen-kurssturz-nach-dem-triumph-der-demokraten-werden-die-ki-investitionen-infrage-gestellt-ld.10056047",
-"text": "Die Aktienmärkte in den USA, Europa und Asien haben empfindliche Verluste erlitten. Am stärksten betroffen war der Technologiesektor. Der Nasdaq ist mit über sechs Prozent so stark wie nie seit dem Jahr 2000 gefallen.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/05/ba010fde-2a93-46c9-947b-cfe3770fc0e9.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-06T10:37:20+00:00",
-"sum": "Die Aktienmärkte in den USA, Europa und Asien haben empfindliche Verluste erlitten. Am stärksten betroffen war der Technologiesektor. Der Nasdaq ist mit über sechs Prozent so stark wie nie seit dem Jahr 2000 gefallen."
-},
-{
-"id": "3362a3c6f668",
-"title": "Jason Momoas Synchronsprecher klagt: Netflix verwendet deutsche Stimme unerlaubt für KI-Training",
-"link": "https://www.golem.de/news/jason-momoas-synchronsprecher-klagt-netflix-verwendet-deutsche-stimme-unerlaubt-fuer-ki-training-2611-214929.html",
-"text": "Netflix hat die Stimme von mindestens einem Synchronsprecher ohne Zustimmung für KI-Training genutzt. Dagegen wehrt sich nun ein Betroffener. ( Netflix , Urheberrecht )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214929&page=1&ts=1793960402",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T10:20:02+00:00",
-"sum": "Netflix hat die Stimme von mindestens einem Synchronsprecher ohne Zustimmung für KI-Training genutzt. Dagegen wehrt sich nun ein Betroffener. ( Netflix , Urheberrecht )"
-},
-{
-"id": "a5a7dabf3495",
-"title": "News aus dem Tennis – Cahill nicht mehr länger Coach von Sinner – Norman übernimmt",
-"link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-cahill-nicht-mehr-laenger-coach-von-sinner-norman-uebernimmt-1",
-"text": "Hier finden Sie die wichtigsten Tennis-Kurzmeldungen des Tages.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0560df.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T10:17:18+00:00",
-"sum": "Hier finden Sie die wichtigsten Tennis-Kurzmeldungen des Tages."
-},
-{
 "id": "0d24fb268f44",
 "title": "Reflektierendes Biomaterial: Pflanzen werden zu Spiegeln",
 "link": "https://www.spektrum.de/news/reflektierendes-biomaterial-pflanzen-werden-zu-spiegeln/2352925",
@@ -618,17 +816,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T10:00:00+00:00",
 "sum": "Das stark reflektierende Material besteht einzig aus Pektin und Cellulose und stellt sogar Prachtkäfer in den Schatten. Es könnte im Sommer etwa Häuser vor Hitze schützen."
-},
-{
-"id": "be7ff6db953f",
-"title": "PC-Gaming: Xbox-App startet nach Update bis zu 60 Prozent schneller",
-"link": "https://www.golem.de/news/pc-gaming-xbox-app-startet-nach-update-bis-zu-60-prozent-schneller-2611-214927.html",
-"text": "Microsoft überarbeitet seine Xbox-App für Windows-PCs. Auch beim Cloud Gaming gibt es Verbesserungen. ( Xbox , Microsoft )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214927&page=1&ts=1793959142",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T09:59:02+00:00",
-"sum": "Microsoft überarbeitet seine Xbox-App für Windows-PCs. Auch beim Cloud Gaming gibt es Verbesserungen. ( Xbox , Microsoft )"
 },
 {
 "id": "dba562b555a1",
@@ -675,28 +862,6 @@
 "sum": "Ob er eine Mehrheit findet, ist offen: Herzog dürfte aber Eisenkot am Sonntag mit der Regierungsbildung beauftragen."
 },
 {
-"id": "ed438214d08b",
-"title": "Smart Energy 201: Neue smarte Steckdose für die Fritzbox ist da",
-"link": "https://www.golem.de/news/smart-energy-201-neue-smarte-steckdose-fuer-die-fritzbox-ist-da-2611-214926.html",
-"text": "Die Fritz Smart Energy 201 ist wesentlich kompakter als der Vorgänger und benötigt weniger Energie. Einen Nachteil gibt es aber doch. ( AVM , Fritzbox )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214926&page=1&ts=1793958242",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T09:44:02+00:00",
-"sum": "Die Fritz Smart Energy 201 ist wesentlich kompakter als der Vorgänger und benötigt weniger Energie. Einen Nachteil gibt es aber doch. ( AVM , Fritzbox )"
-},
-{
-"id": "e537c8de6e70",
-"title": "Anzeige: Praktische Tracker-Karte für die Geldbörse jetzt nur 17 Euro bei Amazon",
-"link": "https://www.golem.de/news/anzeige-praktische-tracker-karte-fuer-die-geldboerse-jetzt-nur-17-euro-amazon-2611-214923.html",
-"text": "Die Tracker-Karte ist so dünn wie zwei Bankkarten und verschwindet mühelos im Portemonnaie. Sie meldet den Standort ans iPhone. ( Technik/Hardware )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214923&page=1&ts=1793957821",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T09:37:01+00:00",
-"sum": "Die Tracker-Karte ist so dünn wie zwei Bankkarten und verschwindet mühelos im Portemonnaie. Sie meldet den Standort ans iPhone. ( Technik/Hardware )"
-},
-{
 "id": "94c083bac0e5",
 "title": "Müssen wir Magnetismus neu denken?",
 "link": "https://www.spektrum.de/podcast/altermagnete-eine-neue-form-des-magnetismus/2353027",
@@ -708,37 +873,15 @@
 "sum": "Was macht einen Magneten zum Magneten? Die Antwort ist komplizierter als gedacht. Wissenschaftler erforschen neu entdeckte Altermagnete, deren Eigenschaften ungewöhnlich sind. 🎙️"
 },
 {
-"id": "144b2e076d85",
-"title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
-"link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html",
-"text": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert.",
-"img": "https://images.tagesschau.de/image/3f0f9936-ad9c-43b6-9b64-8a657fea245e/AAABoa435AM/AAABnSSvrFg/16x9-big/aiwanger-soeder-112.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T09:30:52+00:00",
-"sum": "Mit Hubert Aiwanger verlieren die Freien Wähler ihr Zentrum und ihre Anziehungskraft. Das könnte die politischen Verhältnisse in Bayern nachhaltig verändern. Noch sind sie Regierungspartner der CSU. Von J. Wengert."
-},
-{
 "id": "30b3433a8777",
 "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
 "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html",
 "text": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg.",
 "img": "https://images.tagesschau.de/image/cabee76e-ed5f-4d5c-aed9-ee1343460e65/AAABobAP44U/AAABnSSvrFg/16x9-big/protest-paraguay-100.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-06T09:29:54+00:00",
 "sum": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg."
-},
-{
-"id": "8f3c6a7f3f2e",
-"title": "Marktbericht: DAX fällt im Sog der Nasdaq",
-"link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-"text": "Der DAX kann sich dem Abwärtssog der Wall Street nicht entziehen. Der deutsche Leitindex stürzt zurück unter die Marke von 26.000 Punkten. Wie könnte es am Markt jetzt weitergehen?",
-"img": "https://images.tagesschau.de/image/5c52df02-e6ba-4229-a355-64a0f5be2ce1/AAABnLJUK0w/AAABnSSvrFg/16x9-big/boerse-492.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T09:29:32+00:00",
-"sum": "Der DAX kann sich dem Abwärtssog der Wall Street nicht entziehen. Der deutsche Leitindex stürzt zurück unter die Marke von 26.000 Punkten. Wie könnte es am Markt jetzt weitergehen?"
 },
 {
 "id": "0ae1c8f5d8ec",
@@ -780,7 +923,7 @@
 "text": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen.",
 "img": "https://images.tagesschau.de/image/0514bf57-934c-46c2-9076-d629e23c1a1b/AAABoa_dmvU/AAABnSSvrFg/16x9-big/daimler-truck-124.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-06T09:13:00+00:00",
 "sum": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen."
 },
@@ -829,17 +972,6 @@
 "sum": "Am Freitagmorgen musste ein Swiss-Flug wegen eines verdächtigen Geruchs im Cockpit und in der Kabine umkehren."
 },
 {
-"id": "9f80a2ad0881",
-"title": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
-"link": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html",
-"text": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador.",
-"img": "https://images.tagesschau.de/image/7ff87b4e-033b-44df-9a33-9bd87ab2865c/AAABoa62Ddk/AAABnSSvrFg/16x9-big/herzog-israel-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T08:25:15+00:00",
-"sum": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador."
-},
-{
 "id": "65d84a4f6502",
 "title": "Verdacht auf Salmonellen – Rückruf bei Migros: Alnatura «Salatkerne Mix» betroffen",
 "link": "https://www.srf.ch/news/schweiz/verdacht-auf-salmonellen-rueckruf-bei-migros-alnatura-salatkerne-mix-betroffen",
@@ -849,17 +981,6 @@
 "topic": "Schweiz",
 "date": "2026-11-06T08:13:05+00:00",
 "sum": "Rückruf bei Migros: Der Alnatura «Salatkerne Mix» könnte Salmonellen enthalten. Vom Verzehr wird abgeraten."
-},
-{
-"id": "31d5e34e47d0",
-"title": "NHL: Timo Meier mit Faustkampf – New Jersey führt klar, wankt und marschiert weiter",
-"link": "https://www.srf.ch/sport/eishockey/nhl/nhl-timo-meier-mit-faustkampf-new-jersey-fuehrt-klar-wankt-und-marschiert-weiter",
-"text": "Im Schweizer Duell mit Pius Suters St. Louis verspielen die «Swiss Devils» eine 4:1-Führung und siegen mit 5:4 n.V.",
-"img": "https://www.srf.ch/static/cms/images//320ws/705ac3.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T08:10:15+00:00",
-"sum": "Im Schweizer Duell mit Pius Suters St. Louis verspielen die «Swiss Devils» eine 4:1-Führung und siegen mit 5:4 n.V."
 },
 {
 "id": "d59e6a8a994f",
@@ -1049,19 +1170,8 @@
 "sum": "Der Bundesrat kommt den Autoimporteuren erneut entgegen. Schon letztes Jahr machte er Anpassungen zu ihren Gunsten."
 },
 {
-"id": "7303048f95c2",
-"title": "Nach Midterms-Debakel – Vizepräsident J.D. Vance übt scharfe Kritik an Trump-Regierung",
-"link": "https://www.srf.ch/news/international/usa/nach-midterms-debakel-vizepraesident-j-d-vance-uebt-scharfe-kritik-an-trump-regierung",
-"text": "Nach dem Wahldebakel der Republikaner positioniert sich der US-Vizepräsident – und übt Kritik an Trumps Regierung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c8d438.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T04:44:03+00:00",
-"sum": "Nach dem Wahldebakel der Republikaner positioniert sich der US-Vizepräsident – und übt Kritik an Trumps Regierung."
-},
-{
 "id": "248b7fa435a2",
-"title": "INTERVIEW - «Trumps Zölle sind toxisch geworden»",
+"title": "INTERVIEW - «Trumps Zölle sind toxisch geworden», sagt ein renommierter Wirtschaftsprofessor",
 "link": "https://www.nzz.ch/wirtschaft/trumps-zoelle-sind-toxisch-geworden-ld.10055292",
 "text": "Der Wirtschaftsprofessor Richard Baldwin erklärt im Interview, warum die Republikaner die Midterm-Wahlen so deutlich verloren haben. Er sagt, Trumps Handelskrieg könnte bald zum Erliegen kommen.",
 "img": "https://img-msp-prod.nzz.ch/2026/11/05/236b4a31-bf31-4fc8-bd54-57cee39bcf6b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4977,4977,x738,y311",
@@ -1126,39 +1236,6 @@
 "sum": "Lange befasst sich die Alzheimer-Forschung nur mit Ablagerungen im Gehirn. Heute wissen Forscher um die wichtige Rolle der hirneigenen Immunzellen, der Mikroglia. Sogar eine Impfung gegen Alzheimer könnte dank ihnen möglich werden."
 },
 {
-"id": "de6a717bd9e9",
-"title": "Haft statt Todesstrafe – Kaliforniens Gouverneur Newsom will alle Todesurteile umwandeln",
-"link": "https://www.srf.ch/news/international/usa/haft-statt-todesstrafe-kaliforniens-gouverneur-newsom-will-alle-todesurteile-umwandeln",
-"text": "Alle 548 Todesurteile im westlichen US-Bundesstaat sollen in lebenslange Haftstrafen umgewandelt werden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a554d75.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T03:20:45+00:00",
-"sum": "Alle 548 Todesurteile im westlichen US-Bundesstaat sollen in lebenslange Haftstrafen umgewandelt werden."
-},
-{
-"id": "2ed64eabfeb6",
-"title": "3:1 gegen Heart of Midlothian – Thun bestätigt gegen schwache Schotten seinen Aufwärtstrend",
-"link": "https://www.srf.ch/sport/fussball/conference-league/3-1-gegen-heart-of-midlothian-thun-bestaetigt-gegen-schwache-schotten-seinen-aufwaertstrend",
-"text": "Der FC Thun gewinnt am 3. Spieltag der Conference League zuhause gegen Heart of Midlothian mit 3:1.",
-"img": "https://www.srf.ch/static/cms/images//320ws/56a05c.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-05T21:55:56+00:00",
-"sum": "Der FC Thun gewinnt am 3. Spieltag der Conference League zuhause gegen Heart of Midlothian mit 3:1."
-},
-{
-"id": "c7d9852f0cfc",
-"title": "3:0 in der Conference League – 2 Traumtore inklusive: Lugano schlägt auch litauischen Meister",
-"link": "https://www.srf.ch/sport/fussball/conference-league/3-0-in-der-conference-league-2-traumtore-inklusive-lugano-schlaegt-auch-litauischen-meister",
-"text": "Die Tessiner siegen im 3. Spiel der Conference League zu Hause 3:0 und bleiben auch im 23. Pflichtspiel ungeschlagen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0891150.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-05T21:51:28+00:00",
-"sum": "Die Tessiner siegen im 3. Spiel der Conference League zu Hause 3:0 und bleiben auch im 23. Pflichtspiel ungeschlagen."
-},
-{
 "id": "4760846756f5",
 "title": "Oktopusse: Wie sich Kraken durch kleinste Löcher zwängen",
 "link": "https://www.spektrum.de/news/kraken-oktopusse-zwaengen-sich-durch-schmalste-loecher/2352868",
@@ -1192,17 +1269,6 @@
 "sum": "Das Bundesgericht hat ein Revisionsgesuch wegen der Beziehung zweier Bundesrichter einstimmig gutgeheissen."
 },
 {
-"id": "392926435e28",
-"title": "Schülerproteste – «Wir werden Frankreich»: Wut auf griechische Regierung",
-"link": "https://www.srf.ch/news/international/schuelerproteste-wir-werden-frankreich-wut-auf-griechische-regierung",
-"text": "Hohe Mieten, teure Nachhilfe, marode Schulen: Griechenlands Jugend macht ihrem Frust Luft.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cd865c.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-05T19:28:43+00:00",
-"sum": "Hohe Mieten, teure Nachhilfe, marode Schulen: Griechenlands Jugend macht ihrem Frust Luft."
-},
-{
 "id": "63789f995bae",
 "title": "Stellenmeldepflicht – Mehr arbeitslose Verkäuferinnen und Verkäufer im Detailhandel",
 "link": "https://www.srf.ch/news/wirtschaft/stellenmeldepflicht-mehr-arbeitslose-verkaeuferinnen-und-verkaeufer-im-detailhandel",
@@ -1234,6 +1300,17 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T19:11:03+00:00",
 "sum": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff"
+},
+{
+"id": "a659b6f13306",
+"title": "WM: Neuer Modus, altes Ziel – Eishockey-Frauen mit Olympia-Schwung zur nächsten Medaille?",
+"link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-neuer-modus-altes-ziel-eishockey-frauen-mit-olympia-schwung-zur-naechsten-medaille",
+"text": "Nach dem Olympia-Coup wollen die Schweizer Eishockey-Frauen auch an der WM in Dänemark um die Medaillen mitspielen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0198c1b.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-05T18:59:55+00:00",
+"sum": "Nach dem Olympia-Coup wollen die Schweizer Eishockey-Frauen auch an der WM in Dänemark um die Medaillen mitspielen."
 },
 {
 "id": "1aae963471e5",
@@ -1324,17 +1401,6 @@
 "sum": "In einer Rede outet sich der deutsche Kanzler als Anhänger des liberalen Vordenkers Friedrich August von Hayek. Genau wie dieser will sich Merz mutig für die Freiheit einsetzen – und verschweigt dabei die ordnungspolitischen Sündenfälle seiner Regierung."
 },
 {
-"id": "2b5e1a2d79c8",
-"title": "Streit um die Heiratsstrafe – Vier Jahrzehnte Gerichtsurteile, Initiativen, Zankereien",
-"link": "https://www.srf.ch/news/streit-um-die-heiratsstrafe-vier-jahrzehnte-gerichtsurteile-initiativen-zankereien",
-"text": "Vom Bundesgericht über die Politik – die Besteuerung von Ehepaaren beschäftigt schon lange. Ein Rückblick.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b16226.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-05T15:26:20+00:00",
-"sum": "Vom Bundesgericht über die Politik – die Besteuerung von Ehepaaren beschäftigt schon lange. Ein Rückblick."
-},
-{
 "id": "9b9cc446a501",
 "title": "Mehrwertsteuer im Vergleich – Warum die Schweiz besser dasteht als andere Länder",
 "link": "https://www.srf.ch/news/mehrwertsteuer-im-vergleich-warum-die-schweiz-besser-dasteht-als-andere-laender",
@@ -1357,17 +1423,6 @@
 "sum": "Streikende an einem Schweizer Spital sind zu Unrecht entlassen worden. Das entschied der Gerichtshof für Menschenrechte."
 },
 {
-"id": "2d664393c57b",
-"title": "Protest gegen Stellenabbau – Tamedia-Mitarbeitende streiken in der ganzen Schweiz",
-"link": "https://www.srf.ch/news/schweiz/protest-gegen-stellenabbau-tamedia-mitarbeitende-streiken-in-der-ganzen-schweiz",
-"text": "Wegen 41 Kündigungen haben Tamedia-Redaktionen in Zürich, Lausanne und Bern für eine Stunde protestiert.",
-"img": "https://www.srf.ch/static/cms/images//320ws/80c349.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-05T14:17:13+00:00",
-"sum": "Wegen 41 Kündigungen haben Tamedia-Redaktionen in Zürich, Lausanne und Bern für eine Stunde protestiert."
-},
-{
 "id": "dad6e69d3f8f",
 "title": "Wie sich der Wahlsieg der Demokraten auf Big Tech auswirkt",
 "link": "https://www.tagesschau.de/wirtschaft/digitales/midterms-bigtech-reaktionen-100.html",
@@ -1379,17 +1434,6 @@
 "sum": "Die Demokraten haben bei den Midterms in den USA Mehrheiten in beiden Kammern des Kongresses gewonnen. Für die Tech-Industrie könnte das in einigen Bereichen höhere Hürden bedeuten. Von Antje Sieb."
 },
 {
-"id": "4d7d89106a55",
-"title": "Ungewisse Zukunft: Kann Hubble gerettet werden?",
-"link": "https://www.spektrum.de/news/ungewisse-zukunft-wie-kann-hubble-gerettet-werden/2352668",
-"text": "Nach dem Absturz des Swift-Observatoriums blickt die NASA besorgt in Richtung des Weltraumteleskops Hubble und sucht nach Möglichkeiten, dessen Betriebsdauer zu verlängern.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/PIA18165.8377400.jpg.8377408.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-05T14:00:00+00:00",
-"sum": "Nach dem Absturz des Swift-Observatoriums blickt die NASA besorgt in Richtung des Weltraumteleskops Hubble und sucht nach Möglichkeiten, dessen Betriebsdauer zu verlängern."
-},
-{
 "id": "d95cb8586e5e",
 "title": "Die Schweizer Börse ist auf Rekordhoch – sie profitiert von der Krise im Nahen Osten",
 "link": "https://www.nzz.ch/wirtschaft/die-schweizer-boerse-ist-auf-rekordhoch-sie-profitiert-von-der-krise-im-nahen-osten-ld.10055381",
@@ -1399,17 +1443,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T13:36:13+00:00",
 "sum": "Auch die Unsicherheit rund um KI verhilft dem SMI zum Aufschwung. Viele Investoren richten ihre Portfolios derzeit neu aus."
-},
-{
-"id": "c0d37b7f37eb",
-"title": "Die grossen Fragen der Wissenschaft: Was ist Leben, Petra Schwille?",
-"link": "https://www.spektrum.de/news/kuenstliche-zellen-was-ist-leben-petra-schwille/2351192",
-"text": "Ein Baum gilt als lebendig, ein Stein nicht. Was unterscheidet sie? Die Biophysikerin Petra Schwille versucht, diese Frage zu beantworten, indem sie künstliche Zellen erschafft.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/Shunshi_Vesicle.jpg.8420599.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-05T13:00:00+00:00",
-"sum": "Ein Baum gilt als lebendig, ein Stein nicht. Was unterscheidet sie? Die Biophysikerin Petra Schwille versucht, diese Frage zu beantworten, indem sie künstliche Zellen erschafft."
 },
 {
 "id": "38dcb0505369",
@@ -1588,17 +1621,6 @@
 "sum": "Zwei Tiroler streiten sich vor Gericht: Jahrelang hat Österreichs prominentester Bauunternehmer Hans Peter Haselsteiner den Signa-Gründer René Benko verteidigt. Nun sagt er gegen seinen einstigen Partner aus."
 },
 {
-"id": "611efce1a731",
-"title": "«Gewerkschaftsfresser» oder Stimme der Vernunft? So tickt der harte Mann im VW-Vorstand",
-"link": "https://www.nzz.ch/wirtschaft/gewerkschaftsfresser-oder-stimme-der-vernunft-so-tickt-der-harte-mann-im-vw-vorstand-ld.10042536",
-"text": "Manfred Döss kämpft im Führungsgremium von VW für einen kompromisslosen Kurs. Er hält den Konzern für bedroht – und sagt, die Ausgliederung von VW sei noch nicht vom Tisch.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/03/07554f3b-7709-4615-a079-74b90e1f6e93.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3068,3068,x1135,y109",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-05T04:30:00+00:00",
-"sum": "Manfred Döss kämpft im Führungsgremium von VW für einen kompromisslosen Kurs. Er hält den Konzern für bedroht – und sagt, die Ausgliederung von VW sei noch nicht vom Tisch."
-},
-{
 "id": "75dfdbfa94b5",
 "title": "Die Alzheimerforschung hat die enorme Bedeutung von Entzündungen jahrzehntelang übersehen",
 "link": "https://www.nzz.ch/wissenschaft/entzuendungen-statt-plaques-neue-sicht-auf-alzheimer-ld.10026488",
@@ -1751,17 +1773,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-04T04:30:00+00:00",
 "sum": "Fachleute empfehlen, den Risikostoff Acrylamid zu meiden. Er könnte Krebs verursachen. Worauf man bei der Ernährung achten kann und weshalb man Kartoffeln nicht im Kühlschrank lagern sollte."
-},
-{
-"id": "eaae5a672dbf",
-"title": "Angriffe auf Kühlsysteme: Warum Supermärkte von Cyberangriffen kalt erwischt werden",
-"link": "https://www.tagesschau.de/wissen/kuehlsysteme-schutz-100.html",
-"text": "Nun sind auch deutsche Supermärkte von Cyberangriffen auf Kühlsysteme betroffen. Die Vorfälle weisen auf Sicherheitslücken hin - Handelsketten und Hersteller haben es den Angreifern offenbar leicht gemacht. Von Sven Kästner.",
-"img": "https://images.tagesschau.de/image/2aa1a7a0-1dfe-4f65-bcfc-8453b86450af/AAABoaHv5G4/AAABnSSvrFg/16x9-big/supermarkt-kuehlregale-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wissenschaft",
-"date": "2026-11-03T16:10:04+00:00",
-"sum": "Nun sind auch deutsche Supermärkte von Cyberangriffen auf Kühlsysteme betroffen. Die Vorfälle weisen auf Sicherheitslücken hin - Handelsketten und Hersteller haben es den Angreifern offenbar leicht gemacht. Von Sven Kästner."
 }
 ]
 }
