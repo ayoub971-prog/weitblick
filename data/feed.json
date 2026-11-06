@@ -1,18 +1,337 @@
 {
-"updated": "2026-11-06T11:14:52+00:00",
+"updated": "2026-11-06T13:23:20+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
+"id": "d877d777715c",
+"title": "Copernicus: 2026 liegt fast sicher über der 1,5-Grad-Marke",
+"link": "https://www.golem.de/news/copernicus-2026-liegt-fast-sicher-ueber-der-1-5-grad-marke-2611-214939.html",
+"text": "Aktuelle Klimadaten zeigen: Die globale Durchschnittstemperatur dürfte 2026 mehr als 1,5 Grad über dem vorindustriellen Niveau liegen. ( Klima & Umwelt , EU )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214939&page=1&ts=1793970602",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T13:10:02+00:00",
+"sum": "Aktuelle Klimadaten zeigen: Die globale Durchschnittstemperatur dürfte 2026 mehr als 1,5 Grad über dem vorindustriellen Niveau liegen. ( Klima & Umwelt , EU )"
+},
+{
+"id": "64f742cb3716",
+"title": "Tesla will Cybertruck-Produktion in Texas einstellen",
+"link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html",
+"text": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
+"img": "https://images.tagesschau.de/image/0e57ec04-bb0e-43a1-9ba3-42722e87581d/AAABobC8AqE/AAABnSSvrFg/16x9-big/tesla-cybertruck-106.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T13:09:10+00:00",
+"sum": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen."
+},
+{
+"id": "de58fea4c599",
+"title": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
+"link": "https://www.tagesschau.de/ausland/europa/copernicus-klimakrise-1komma5-grad-100.html",
+"text": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen.",
+"img": "https://images.tagesschau.de/image/7693aa04-0d1b-4d73-8c9e-41897f64b7e6/AAABobEEJ-k/AAABnSSvrFg/16x9-big/hitzeschutz-138.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T13:02:07+00:00",
+"sum": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen."
+},
+{
+"id": "330047e0bf48",
+"title": "Ein Dutzend Flüge betroffen – Bombendrohungen im Flugverkehr: «Das Risiko ist sehr klein»",
+"link": "https://www.srf.ch/news/wirtschaft/ein-dutzend-fluege-betroffen-bombendrohungen-im-flugverkehr-das-risiko-ist-sehr-klein",
+"text": "Bombendrohungen in Flugzeugen belasten Airlines massiv. Aviatik-Journalist Hansjörg Bürgi über Risiken und Kosten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d02b1c.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-06T13:01:50+00:00",
+"sum": "Bombendrohungen in Flugzeugen belasten Airlines massiv. Aviatik-Journalist Hansjörg Bürgi über Risiken und Kosten."
+},
+{
+"id": "007428b40f43",
+"title": "heise-Angebot: iX-Workshop: GitOps mit ArgoCD – Kubernetes-Deployments effizient automatisieren",
+"link": "https://www.heise.de/news/iX-Workshop-GitOps-mit-ArgoCD-Kubernetes-Deployments-effizient-automatisieren-11492982.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Lernen Sie, wie Sie Anwendungen in Kubernetes mit ArgoCD deklarativ verwalten und automatisiert bereitstellen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T13:00:00+00:00",
+"sum": "Lernen Sie, wie Sie Anwendungen in Kubernetes mit ArgoCD deklarativ verwalten und automatisiert bereitstellen."
+},
+{
+"id": "4932173891f8",
+"title": "Solares Geoengineering: Ein Sonnenschirm im Weltall für eine kühlere Erde",
+"link": "https://www.spektrum.de/news/geoengineering-ein-sonnenschirm-im-weltall-fuer-eine-kuehlere-erde/2352075",
+"text": "Könnte ein riesiger Sonnenschirm im All die Erderwärmung stoppen? Manche halten das Konzept für reine Fantasie, doch Forschende nehmen die Idee allmählich ernst.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_2069531193.jpeg.8422350.jpeg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-06T13:00:00+00:00",
+"sum": "Könnte ein riesiger Sonnenschirm im All die Erderwärmung stoppen? Manche halten das Konzept für reine Fantasie, doch Forschende nehmen die Idee allmählich ernst."
+},
+{
 "id": "2b2e33f51930",
 "title": "Schüler betroffen – Zwei Tote bei Busunglück in Frankreich",
 "link": "https://www.srf.ch/news/international/schueler-betroffen-zwei-tote-bei-busunglueck-in-frankreich",
-"text": "Zwei Kinder sind bei einem Unfall in Ostfrankreich gestorben. 16 weitere Passagiere wurden laut Polizei verletzt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/29a38b.webp",
+"text": "Zwei Menschen sind bei einem Unfall in Ostfrankreich gestorben. 16 weitere Passagiere wurden laut Polizei verletzt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/765a595.webp",
 "source": "SRF",
 "topic": "Welt",
-"date": "2026-11-06T11:09:58+00:00",
-"sum": "Zwei Kinder sind bei einem Unfall in Ostfrankreich gestorben. 16 weitere Passagiere wurden laut Polizei verletzt."
+"date": "2026-11-06T12:45:59+00:00",
+"sum": "Zwei Menschen sind bei einem Unfall in Ostfrankreich gestorben. 16 weitere Passagiere wurden laut Polizei verletzt."
+},
+{
+"id": "a82a29833692",
+"title": "Tesla: Elon Musk kündigt Aus für Cybertruck an",
+"link": "https://www.golem.de/news/tesla-elon-musk-kuendigt-aus-fuer-cybertruck-an-2611-214938.html",
+"text": "Der Cybertruck sollte Teslas nächstes grosses Ding werden, gut verkauft hat sich der elektrische Pickup nie. Jetzt wird die Produktion eingestellt. ( Tesla Cybertruck , Elektroauto )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214938&page=1&ts=1793968622",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T12:37:02+00:00",
+"sum": "Der Cybertruck sollte Teslas nächstes grosses Ding werden, gut verkauft hat sich der elektrische Pickup nie. Jetzt wird die Produktion eingestellt. ( Tesla Cybertruck , Elektroauto )"
+},
+{
+"id": "6499be66ff42",
+"title": "Microsoft ist kein Schicksal: Warum Europa jetzt handeln muss",
+"link": "https://www.heise.de/meinung/Microsoft-ist-kein-Schicksal-Warum-Europa-jetzt-handeln-muss-11514912.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die britische Wettbewerbsbehörde hat Microsofts Ökosystem untersucht und damit einen Massstab geschaffen, den Europa nicht länger ignorieren darf.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T12:37:00+00:00",
+"sum": "Die britische Wettbewerbsbehörde hat Microsofts Ökosystem untersucht und damit einen Massstab geschaffen, den Europa nicht länger ignorieren darf."
+},
+{
+"id": "f1a180ba7f8b",
+"title": "(g+) Post-Quanten-Kryptografie für Firmen: Warum Unternehmen ihre Verschlüsselung jetzt ...",
+"link": "https://www.golem.de/news/post-quanten-kryptografie-fuer-unternehme-warum-firmen-ihre-verschluesselung-jetzt-umstellen-muessen-2611-214930.html",
+"text": "Das BSI warnt vor einem bislang empfohlenen Verfahren. Für IT-Verantwortliche wird die Wahl quantensicherer Verschlüsselung komplizierter. Wir geben Entscheidungshilfe. Ein Ratgebertext von Marvin Sprey ( Post-Quanten-Kryptografie , Verschlüsselung )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214930&page=1&ts=1793968202",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T12:30:02+00:00",
+"sum": "Das BSI warnt vor einem bislang empfohlenen Verfahren. Für IT-Verantwortliche wird die Wahl quantensicherer Verschlüsselung komplizierter. Wir geben Entscheidungshilfe. Ein Ratgebertext von Marvin Sprey ( Post-Quanten-Kryptografie , Verschlüsselung )"
+},
+{
+"id": "8b9a2ea1d9e6",
+"title": "heise+ | Daten mit dem Data Sharing Advisor bewerten",
+"link": "https://www.heise.de/hintergrund/Daten-mit-dem-Data-Sharing-Advisor-bewerten-11510281.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+"text": "Unternehmen profitieren von einem Data Sharing Advisor, der Potenziale analysiert und Schutzbedarf durch LLM und Regeln bewertet.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T12:30:00+00:00",
+"sum": "Unternehmen profitieren von einem Data Sharing Advisor, der Potenziale analysiert und Schutzbedarf durch LLM und Regeln bewertet."
+},
+{
+"id": "c65632529278",
+"title": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
+"link": "https://www.srf.ch/news/wirtschaft/nach-den-midterms-warum-sind-die-boersen-rund-um-den-globus-eingebrochen",
+"text": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b95169.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-06T12:28:18+00:00",
+"sum": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch."
+},
+{
+"id": "0d4521105d39",
+"title": "Schwache Startelf-Bilanz – Jashari und Milan: So richtig will es noch nicht funktionieren",
+"link": "https://www.srf.ch/sport/fussball/europa-league/schwache-startelf-bilanz-jashari-und-milan-so-richtig-will-es-noch-nicht-funktionieren",
+"text": "Die AC Milan sucht auch unter Ruben Amorim noch nach ihrer Identität. Das gilt auf Spielerebene auch für Ardon Jashari.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7d25903.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T12:25:31+00:00",
+"sum": "Die AC Milan sucht auch unter Ruben Amorim noch nach ihrer Identität. Das gilt auf Spielerebene auch für Ardon Jashari."
+},
+{
+"id": "9a7159795554",
+"title": "M-Zuwachs: Der neue iMac M6 im Test – das kann der neue All-in-One-Mac",
+"link": "https://www.heise.de/tests/M-Zuwachs-Der-neue-iMac-M6-im-Test-das-kann-der-neue-All-in-One-Mac-11515399.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Apple hat dem iMac einen neuen Prozessor spendiert: Aus M4 wird M6. Unser Test zeigt, was das bringt und was sich sonst noch geändert hat.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T12:19:00+00:00",
+"sum": "Apple hat dem iMac einen neuen Prozessor spendiert: Aus M4 wird M6. Unser Test zeigt, was das bringt und was sich sonst noch geändert hat."
+},
+{
+"id": "c35ea1b3c972",
+"title": "Paraguay: Präsident stolpert über eine Digitalbank",
+"link": "https://www.finews.ch/news/banken/74365-wenn-der-praesident-ueber-eine-digitalbank-stolpert",
+"text": "Die Pleite der Ueno Bank hat in Paraguay zu einer Staatskrise geführt. Der Fall richtet den Scheinwerfer auf Korruption, Begünstigung und alte Netzwerke in dem südamerikanischen Land. Jetzt ist der rechtskonservative Präsident Santiago Peña zurückgetreten.",
+"img": "https://www.finews.ch/images/news/2026/11/Santiago_Pena-facebook-screenshot.jpg",
+"source": "finews",
+"topic": "Wirtschaft",
+"date": "2026-11-06T12:12:24+00:00",
+"sum": "Die Pleite der Ueno Bank hat in Paraguay zu einer Staatskrise geführt. Der Fall richtet den Scheinwerfer auf Korruption, Begünstigung und alte Netzwerke in dem südamerikanischen Land. Jetzt ist der rechtskonservative Präsident Santiago Peña zurückgetreten."
+},
+{
+"id": "5988a59fd22f",
+"title": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
+"link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html",
+"text": "Der \"Rabbit Hole\"-Effekt führt zu einer weiteren Konfrontation zwischen der EU und TikTok. Die Brüsseler werfen der App vor, die Gesundheit Nutzender zu gefährden. TikTok droht eine heftige Strafe.",
+"img": "https://images.tagesschau.de/image/224435ec-aaf5-46ba-be88-7ce069348b10/AAABobCyWYI/AAABnSSvrFg/16x9-big/tiktok-121.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T12:08:01+00:00",
+"sum": "Der \"Rabbit Hole\"-Effekt führt zu einer weiteren Konfrontation zwischen der EU und TikTok. Die Brüsseler werfen der App vor, die Gesundheit Nutzender zu gefährden. TikTok droht eine heftige Strafe."
+},
+{
+"id": "d837113af807",
+"title": "Anzeige: PS5 rechtzeitig für GTA 6 mit Rabatt bei Back Market sichern",
+"link": "https://www.golem.de/news/anzeige-ps5-rechtzeitig-fuer-gta-6-mit-rabatt-bei-back-market-sichern-2611-214932.html",
+"text": "Rechtzeitig zum Erscheinungstermin von GTA 6 bietet Back Market die PS5 in verschiedenen Versionen professionell erneuert mit Rabatt an. ( Playstation 5 , GTA 6 )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214932&page=1&ts=1793966701",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T12:05:01+00:00",
+"sum": "Rechtzeitig zum Erscheinungstermin von GTA 6 bietet Back Market die PS5 in verschiedenen Versionen professionell erneuert mit Rabatt an. ( Playstation 5 , GTA 6 )"
+},
+{
+"id": "b5a10552f37b",
+"title": "Millionen Euro verschwunden: Vucic-nahe Bank in Serbien geschlossen",
+"link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nationalbank-serbien-diebstahl-400-millionen-100.html",
+"text": "Die serbische Alta Bank ist geschlossen, ihr Besitzer verhaftet. Der mutmassliche Vertraute des früheren Präsidenten Vucic soll knapp 400 Millionen Euro gestohlen haben. Auch staatliche Gelder könnten betroffen sein. Von Silke Hahne.",
+"img": "https://images.tagesschau.de/image/9e28d3bc-64a1-41e4-99e2-cb1a1296fe08/AAABobBa0lg/AAABnSSvrFg/16x9-big/logo-alta-banka-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T11:58:26+00:00",
+"sum": "Die serbische Alta Bank ist geschlossen, ihr Besitzer verhaftet. Der mutmassliche Vertraute des früheren Präsidenten Vucic soll knapp 400 Millionen Euro gestohlen haben. Auch staatliche Gelder könnten betroffen sein. Von Silke Hahne."
+},
+{
+"id": "fcdf6c4d6963",
+"title": "Akku-Vorheizung und mehr Komfort: VW bringt wichtiges Update für ältere ID.-Modelle",
+"link": "https://www.golem.de/news/akku-vorheizung-und-mehr-komfort-vw-bringt-wichtiges-update-fuer-aeltere-id-modelle-2611-214935.html",
+"text": "Mehr Ladekomfort, höhere Sicherheit: Volkswagen verteilt das Software-Update 3.9.1 für ausgewählte E-Autos. ( Volkswagen ID. , Elektroauto )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214935&page=1&ts=1793965382",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T11:43:02+00:00",
+"sum": "Mehr Ladekomfort, höhere Sicherheit: Volkswagen verteilt das Software-Update 3.9.1 für ausgewählte E-Autos. ( Volkswagen ID. , Elektroauto )"
+},
+{
+"id": "a4fee998a6ae",
+"title": "iOS-Blockierungsmodus umgangen: Wie der jüngste Exploit von Calif.io arbeitet",
+"link": "https://www.heise.de/news/iOS-Blockierungsmodus-umgangen-Wie-der-juengste-Exploit-von-Calif-io-arbeitet-11513469.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Erneut sind die Sicherheitsforscher von Calif.io in den Schlagzeilen. Nun gibt es erste Details zum jüngsten Exploit – und wie Apple reagieren kann.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T11:43:00+00:00",
+"sum": "Erneut sind die Sicherheitsforscher von Calif.io in den Schlagzeilen. Nun gibt es erste Details zum jüngsten Exploit – und wie Apple reagieren kann."
+},
+{
+"id": "40ae366e6250",
+"title": "EU-Kommission fordert Kaninchenbauverbot auf TikTok",
+"link": "https://www.heise.de/news/DSA-Verfahren-EU-Kommission-droht-TikTok-mit-Strafe-11515238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Im Streit mit TikTok-Betreiber Bytedance verschärft die EU-Kommission die Gangart und verlangt massive Änderungen an den algorithmischen Empfehlungssystemen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T11:34:00+00:00",
+"sum": "Im Streit mit TikTok-Betreiber Bytedance verschärft die EU-Kommission die Gangart und verlangt massive Änderungen an den algorithmischen Empfehlungssystemen."
+},
+{
+"id": "f2dd6f8d31d6",
+"title": "Weitere Sport-News – Youth Olympic Games: Zweimal Gold für die Schweiz",
+"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-youth-olympic-games-zweimal-gold-fuer-die-schweiz",
+"text": "Hier finden Sie die weiteren Sportnews des Tages in kompakter Form.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7530a9.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T11:33:13+00:00",
+"sum": "Hier finden Sie die weiteren Sportnews des Tages in kompakter Form."
+},
+{
+"id": "b1410e7ba4cc",
+"title": "Bundestag beschliesst härtere Strafen für Einsatz von K.o.-Tropfen",
+"link": "https://www.tagesschau.de/inland/innenpolitik/strafen-ko-tropfen-bundestag-100.html",
+"text": "Täter mischen ihren Opfern K.o.-Mittel unter, um sie gezielt wehrlos zu machen. Der Bundestag hat für solche Taten härtere Strafen beschlossen. Wie können sich Opfer schützen - und was droht jetzt den Tätern?",
+"img": "https://images.tagesschau.de/image/1cc31900-53af-4471-a9f9-1400395a1d9e/AAABobDBMok/AAABnSSvrFg/16x9-big/bar-cocktail-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T11:28:21+00:00",
+"sum": "Täter mischen ihren Opfern K.o.-Mittel unter, um sie gezielt wehrlos zu machen. Der Bundestag hat für solche Taten härtere Strafen beschlossen. Wie können sich Opfer schützen - und was droht jetzt den Tätern?"
+},
+{
+"id": "1a183ecf8548",
+"title": "Krise nach Bankenskandal – Rücktritt gescheitert: Paraguays Präsident droht Amtsenthebung",
+"link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-ruecktritt-gescheitert-paraguays-praesident-droht-amtsenthebung",
+"text": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-06T11:23:27+00:00",
+"sum": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick."
+},
+{
+"id": "c8d6ba0acbd7",
+"title": "Bluetooth 7.0: HDT-Standard verspricht massive Verbesserung der Audioqualität",
+"link": "https://www.heise.de/news/Bluetooth-7-0-HDT-Standard-verspricht-massive-Verbesserung-der-Audioqualitaet-11515132.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Der neue Bluetooth HDT steigert die Übertragungsgeschwindigkeiten, die Effizienz sowie die Zuverlässigkeit und ermöglicht hohe Audioqualität ohne Verluste.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T11:23:00+00:00",
+"sum": "Der neue Bluetooth HDT steigert die Übertragungsgeschwindigkeiten, die Effizienz sowie die Zuverlässigkeit und ermöglicht hohe Audioqualität ohne Verluste."
+},
+{
+"id": "a2e7854f146d",
+"title": "Elektromobilitätsgesetz: Bundestag verlängert Sonderrechte für E-Autos bis 2035",
+"link": "https://www.golem.de/news/elektromobilitaetsgesetz-bundestag-verlaengert-sonderrechte-fuer-e-autos-bis-2035-2611-214931.html",
+"text": "Der Bundestag hat der Verlängerung der Sonderrechte für E-Autos zugestimmt. Die bisherigen Regelungen wären Ende 2026 ausgelaufen. ( Elektromobilität , Auto )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214931&page=1&ts=1793963941",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-06T11:19:01+00:00",
+"sum": "Der Bundestag hat der Verlängerung der Sonderrechte für E-Autos zugestimmt. Die bisherigen Regelungen wären Ende 2026 ausgelaufen. ( Elektromobilität , Auto )"
+},
+{
+"id": "32056b58c753",
+"title": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
+"link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html",
+"text": "Der Machtwechsel im US-Kongress könnte Unternehmen mehr Planbarkeit bringen. Zugleich befürchten Ökonomen, dass sich der Zollstreit fortsetzt. Worauf kann sich die deutsche Wirtschaft einstellen? Von Sebastian Schreiber.",
+"img": "https://images.tagesschau.de/image/8e61c995-8334-4421-8e7e-cb9aa0a2280a/AAABobC21T4/AAABnSSvrFg/16x9-big/kapitol-washington-134.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T11:17:25+00:00",
+"sum": "Der Machtwechsel im US-Kongress könnte Unternehmen mehr Planbarkeit bringen. Zugleich befürchten Ökonomen, dass sich der Zollstreit fortsetzt. Worauf kann sich die deutsche Wirtschaft einstellen? Von Sebastian Schreiber."
+},
+{
+"id": "c344467244aa",
+"title": "Apple checkt bald iCloud-Links auf „Harmful Content“",
+"link": "https://www.heise.de/news/Apple-checkt-bald-iCloud-Links-auf-Harmful-Content-11514250.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Wer Fotos oder Dateien aus seinem privaten iCloud-Konto mit anderen über Apples Publikationsdienst weitergibt, muss ab sofort mit einer Prüfung rechnen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T11:16:00+00:00",
+"sum": "Wer Fotos oder Dateien aus seinem privaten iCloud-Konto mit anderen über Apples Publikationsdienst weitergibt, muss ab sofort mit einer Prüfung rechnen."
+},
+{
+"id": "5481dd18ef64",
+"title": "Attacken auf Cisco UCS Central Software und Unified CM können bevorstehen",
+"link": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Sicherheitsupdates schliessen Lücken in Cisco UCS Central Software und Cisco Unified Communications Manager.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T11:11:00+00:00",
+"sum": "Sicherheitsupdates schliessen Lücken in Cisco UCS Central Software und Cisco Unified Communications Manager."
+},
+{
+"id": "b84707cf24e4",
+"title": "Neue Siri-AI-Funktionen: Datei-Zugriff, Entwicklerverbesserungen und mehr",
+"link": "https://www.heise.de/news/Siri-AI-Apples-Chatbot-kann-bald-mit-Dateien-operieren-11513459.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Apple liefert mit der Entwicklerbeta von iOS 27.3 grössere Verbesserungen für sein KI-System. Dazu gehören auch diverse neue Skills und mehr Developer-Zugriff.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T11:09:00+00:00",
+"sum": "Apple liefert mit der Entwicklerbeta von iOS 27.3 grössere Verbesserungen für sein KI-System. Dazu gehören auch diverse neue Skills und mehr Developer-Zugriff."
 },
 {
 "id": "20f1b73d1164",
@@ -81,17 +400,6 @@
 "sum": "Ein Marktbeobachter berichtet, dass chinesische Firmen für immer mehr Smartphones unter 200 Euro gebrauchte LPDDR4X-DRAM-Chips recyclen."
 },
 {
-"id": "b0b8a7fe5f60",
-"title": "Weitere Sport-News – Youth Olympic Games: Kimey Casanova holt Gold",
-"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-youth-olympic-games-kimey-casanova-holt-gold",
-"text": "Hier finden Sie die weiteren Sportnews des Tages in kompakter Form.",
-"img": "https://www.srf.ch/static/cms/images//320ws/8d101f.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T10:38:51+00:00",
-"sum": "Hier finden Sie die weiteren Sportnews des Tages in kompakter Form."
-},
-{
 "id": "d39674247fda",
 "title": "Fehler bei Passwortprüfung: Angreifer können über OpenSSH Linux-Konten kapern",
 "link": "https://www.golem.de/news/fehler-bei-passwortpruefung-angreifer-koennen-ueber-openssh-linux-konten-kapern-2611-214928.html",
@@ -134,17 +442,6 @@
 "topic": "Tech",
 "date": "2026-11-06T10:34:00+00:00",
 "sum": "Ausgerechnet reflektierende Einsatz- und Kinderkleidung bringt viele Notbremsassistenten aus dem Tritt. Der ADAC testete sechs Autos bei Nacht."
-},
-{
-"id": "dc736a2b159a",
-"title": "heise+ | Kodak Pixpro AZ653 im Test: Bridgekamera mit 65x Zoom",
-"link": "https://www.heise.de/tests/Kodak-Pixpro-AZ653-im-Test-Bridgekamera-mit-65x-Zoom-11507754.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Die Kodak Pixpro AZ653 bietet einen 65-fachen Zoom und einen 20-Megapixel-Sensor. Wir haben die Bridgekamera getestet.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T10:30:00+00:00",
-"sum": "Die Kodak Pixpro AZ653 bietet einen 65-fachen Zoom und einen 20-Megapixel-Sensor. Wir haben die Bridgekamera getestet."
 },
 {
 "id": "3362a3c6f668",
@@ -200,17 +497,6 @@
 "topic": "Sport",
 "date": "2026-11-06T09:52:46+00:00",
 "sum": "Jessica Pegula zieht im Training über Mirra Andrejewa her und hat keine Ahnung, dass alles aufgezeichnet wird."
-},
-{
-"id": "7b42565bcdaf",
-"title": "Kohlestrom unter 50 Prozent: Was Chinas CO2-Rückgang bedeutet",
-"link": "https://www.heise.de/news/Weniger-Kohle-weniger-Oel-Chinas-Emissionen-gehen-deutlich-zurueck-11514670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Weniger Kohlestrom, weniger Öl im Verkehr: Chinas CO2-Ausstoss fiel im dritten Quartal um 3,1 Prozent. Ein Teil geht allerdings auf Wetter und Konjunktur zurück.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T09:51:00+00:00",
-"sum": "Weniger Kohlestrom, weniger Öl im Verkehr: Chinas CO2-Ausstoss fiel im dritten Quartal um 3,1 Prozent. Ein Teil geht allerdings auf Wetter und Konjunktur zurück."
 },
 {
 "id": "94578daa11cb",
@@ -327,22 +613,11 @@
 "title": "Flughafen in Peru – Deutsche schmuggeln 3000 Vogelspinnen in getragenen Socken",
 "link": "https://www.srf.ch/news/international/flughafen-in-peru-deutsche-schmuggeln-3000-vogelspinnen-in-getragenen-socken",
 "text": "Peruanische Behörden haben den Schmuggel von Tausenden Vogelspinnen auf dem Weg nach Deutschland gestoppt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/538415.webp",
+"img": "https://www.srf.ch/static/cms/images//320ws/5e6d6e.webp",
 "source": "SRF",
 "topic": "Welt",
 "date": "2026-11-06T09:25:41+00:00",
 "sum": "Peruanische Behörden haben den Schmuggel von Tausenden Vogelspinnen auf dem Weg nach Deutschland gestoppt."
-},
-{
-"id": "e1b9e118f136",
-"title": "Weltraumteleskop James Webb: Technik macht Exoplaneten in Aufnahmen sichtbar",
-"link": "https://www.heise.de/news/Weltraumteleskop-James-Webb-Technik-macht-Exoplaneten-in-Aufnahmen-sichtbar-11514482.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Direkte Aufnahmen von Exoplaneten werden durch die enorme Helligkeit ihrer Sterne erschwert. Ein neues Verfahren kann dieses Licht deutlich besser entfernen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T09:23:00+00:00",
-"sum": "Direkte Aufnahmen von Exoplaneten werden durch die enorme Helligkeit ihrer Sterne erschwert. Ein neues Verfahren kann dieses Licht deutlich besser entfernen."
 },
 {
 "id": "09ab51c3523a",
@@ -367,17 +642,6 @@
 "sum": "Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt. In Seoul wurde der Handel zeitweise ausgesetzt. In den USA war es der schlimmste Einbruch seit 2020. Von Constantin Röse."
 },
 {
-"id": "c65632529278",
-"title": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
-"link": "https://www.srf.ch/news/wirtschaft/nach-den-midterms-warum-sind-die-boersen-rund-um-den-globus-eingebrochen",
-"text": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b95169.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-06T09:20:33+00:00",
-"sum": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch."
-},
-{
 "id": "6ac1ec2cfeb4",
 "title": "Bayerns Wirtschaftsminister – Journalist: «Hubert Aiwanger machte auf hemdsärmlige Art Politik»",
 "link": "https://www.srf.ch/news/international/bayerns-wirtschaftsminister-journalist-hubert-aiwanger-machte-auf-hemdsaermlige-art-politik",
@@ -398,28 +662,6 @@
 "topic": "Welt",
 "date": "2026-11-06T09:13:00+00:00",
 "sum": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen."
-},
-{
-"id": "d00569739654",
-"title": "heise-Angebot: iX-Workshop: Netzwerkarchitekturen in Proxmox aufbauen, verwalten und schützen",
-"link": "https://www.heise.de/news/iX-Workshop-Netzwerkarchitekturen-in-Proxmox-aufbauen-verwalten-und-schuetzen-11492974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Lernen Sie, Proxmox-VE-Netzwerke professionell zu planen, abzusichern und zu optimieren – inklusive Multi-Tenant-Architekturen und Performance-Tuning.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T09:00:00+00:00",
-"sum": "Lernen Sie, Proxmox-VE-Netzwerke professionell zu planen, abzusichern und zu optimieren – inklusive Multi-Tenant-Architekturen und Performance-Tuning."
-},
-{
-"id": "240fba19cb05",
-"title": "Post zum Freitag: Warum der Umstieg aufs E-Auto gar nicht so einfach ist",
-"link": "https://www.heise.de/meinung/Post-zum-Freitag-Warum-der-Umstieg-aufs-E-Auto-gar-nicht-so-einfach-ist-11514082.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Mein elf Jahre alter Verbrenner soll einem E-Auto weichen. Doch hohe Preise, Reichweite und Akkufragen machen mir die Entscheidung nicht leicht.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T09:00:00+00:00",
-"sum": "Mein elf Jahre alter Verbrenner soll einem E-Auto weichen. Doch hohe Preise, Reichweite und Akkufragen machen mir die Entscheidung nicht leicht."
 },
 {
 "id": "ca28430e70bc",
@@ -455,17 +697,6 @@
 "sum": "Update Wirtschaft vom 06.11.2026"
 },
 {
-"id": "3a780ff78eae",
-"title": "Microsoft: Im nächsten Jahr kommt wohl kein Windows 12",
-"link": "https://www.golem.de/news/microsoft-im-naechsten-jahr-kommt-wohl-kein-windows-12-2611-214920.html",
-"text": "Die Hoffnung auf einen Windows-11-Nachfolger wird durch einige Informationen geschmälert. Parallel wird 2027 die Zeit für Windows 10 ablaufen. ( Betriebssysteme , Steam )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214920&page=1&ts=1793955061",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T08:51:01+00:00",
-"sum": "Die Hoffnung auf einen Windows-11-Nachfolger wird durch einige Informationen geschmälert. Parallel wird 2027 die Zeit für Windows 10 ablaufen. ( Betriebssysteme , Steam )"
-},
-{
 "id": "a54811a3a83e",
 "title": "Wieder in Zürich gelandet – «Aussergewöhnlicher Geruch»: Swiss-Flug nach Paris muss umdrehen",
 "link": "https://www.srf.ch/news/international/wieder-in-zuerich-gelandet-aussergewoehnlicher-geruch-swiss-flug-nach-paris-muss-umdrehen",
@@ -475,28 +706,6 @@
 "topic": "Schweiz",
 "date": "2026-11-06T08:39:19+00:00",
 "sum": "Am Freitagmorgen musste ein Swiss-Flug wegen eines verdächtigen Geruchs im Cockpit und in der Kabine umkehren."
-},
-{
-"id": "96fac55bdf5b",
-"title": "Ausflug ins Grüne: Rasenmähroboter büxt aus und mäht fremden Rasen",
-"link": "https://www.golem.de/news/ausflug-ins-gruene-rasenmaehroboter-buext-aus-und-maeht-fremden-rasen-2611-214919.html",
-"text": "In einem niedersächsischen Dorf hat ein Mähroboter den Rasen gemäht - allerdings nicht den seines Besitzers. Der Roboter war ausgebüxt, seine Herkunft ist unbekannt. ( Mähroboter , Smart Home )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214919&page=1&ts=1793954102",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T08:35:02+00:00",
-"sum": "In einem niedersächsischen Dorf hat ein Mähroboter den Rasen gemäht - allerdings nicht den seines Besitzers. Der Roboter war ausgebüxt, seine Herkunft ist unbekannt. ( Mähroboter , Smart Home )"
-},
-{
-"id": "1ebd2cecac19",
-"title": "Exosuit für Taucher: Effektivere Fortbewegung bei geringerem Atemgasverbrauch",
-"link": "https://www.heise.de/news/Exosuit-fuer-Taucher-Effektivere-Fortbewegung-bei-geringerem-Atemgasverbrauch-11514455.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Ein flexibler Exosuit unterstützt Taucher bei Bewegungen unter Wasser. Der Kraftaufwand sinkt und Taucher benötigen weniger Atemgas.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T08:35:00+00:00",
-"sum": "Ein flexibler Exosuit unterstützt Taucher bei Bewegungen unter Wasser. Der Kraftaufwand sinkt und Taucher benötigen weniger Atemgas."
 },
 {
 "id": "9f80a2ad0881",
@@ -510,28 +719,6 @@
 "sum": "Am Sonntag entscheidet Israels Staatspräsident Herzog, wem er den Regierungsauftrag gibt. Die Konsultationen verliefen bisher allerdings wenig konstruktiv. Von Julio Segador."
 },
 {
-"id": "101e80750104",
-"title": "Tech-Aktien besonders betroffen: US-Börse verliert 3,2 Billionen US-Dollar an einem Tag",
-"link": "https://www.golem.de/news/tech-aktien-besonders-betroffen-us-boerse-verliert-3-2-billionen-us-dollar-an-einem-tag-2611-214918.html",
-"text": "Anleger sehen den Investitionshöhepunkt bei KI-Technologien erreicht und verkaufen Tech-Aktien im grossen Stil. ( Börse , KI )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214918&page=1&ts=1793953262",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T08:21:02+00:00",
-"sum": "Anleger sehen den Investitionshöhepunkt bei KI-Technologien erreicht und verkaufen Tech-Aktien im grossen Stil. ( Börse , KI )"
-},
-{
-"id": "70d23c3e1928",
-"title": "Sicherheitslücke in der Firmware: PHP2Shell bleibt in Firewalls und Industriegeräten gefährlich",
-"link": "https://www.golem.de/news/sicherheitsluecke-in-der-firmware-php2shell-bleibt-in-firewalls-und-industriegeraeten-gefaehrlich-2611-214898.html",
-"text": "Bei Firewalls, Routern und Industrieanlagen können Admins verwundbares PHP oft nicht selbst patchen. Selbst nach einem Update bleibt deshalb Handlungsbedarf. Ein Ratgebertext von Steffen Zahn ( Security , PHP )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214898&page=1&ts=1793952901",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T08:15:01+00:00",
-"sum": "Bei Firewalls, Routern und Industrieanlagen können Admins verwundbares PHP oft nicht selbst patchen. Selbst nach einem Update bleibt deshalb Handlungsbedarf. Ein Ratgebertext von Steffen Zahn ( Security , PHP )"
-},
-{
 "id": "65d84a4f6502",
 "title": "Verdacht auf Salmonellen – Rückruf bei Migros: Alnatura «Salatkerne Mix» betroffen",
 "link": "https://www.srf.ch/news/schweiz/verdacht-auf-salmonellen-rueckruf-bei-migros-alnatura-salatkerne-mix-betroffen",
@@ -541,17 +728,6 @@
 "topic": "Schweiz",
 "date": "2026-11-06T08:13:05+00:00",
 "sum": "Rückruf bei Migros: Der Alnatura «Salatkerne Mix» könnte Salmonellen enthalten. Vom Verzehr wird abgeraten."
-},
-{
-"id": "22f443251f6f",
-"title": "Studie warnt vor Wasserstress durch neue Mega-Rechenzentren in Deutschland",
-"link": "https://www.heise.de/news/Studie-warnt-vor-Wasserstress-durch-neue-Mega-Rechenzentren-in-Deutschland-11514447.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Der Wasserbedarf deutscher Rechenzentren könnte sich bis 2030 mehr als verdoppeln. Das Öko-Institut bringt Alternativen ins Gespräch.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T08:13:00+00:00",
-"sum": "Der Wasserbedarf deutscher Rechenzentren könnte sich bis 2030 mehr als verdoppeln. Das Öko-Institut bringt Alternativen ins Gespräch."
 },
 {
 "id": "31d5e34e47d0",
@@ -576,17 +752,6 @@
 "sum": "Nach der Wahlschlappe laufen Investoren davon, sie fürchten juristische und politische Folgen für Trump. Der Überblick."
 },
 {
-"id": "29c11b711bbd",
-"title": "Switch-2-Emulation: Zelda läuft per Emulator schon jetzt auf PCs",
-"link": "https://www.golem.de/news/switch-2-emulation-zelda-laeuft-per-emulator-schon-jetzt-auf-pcs-2611-214917.html",
-"text": "Der Emulator Lichii startet Ocarina of Time zeitgleich mit dem Release. Grafikfehler und Ruckler bremsen das Remake allerdings noch aus. ( Zelda , Nintendo )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214917&page=1&ts=1793952421",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T08:07:01+00:00",
-"sum": "Der Emulator Lichii startet Ocarina of Time zeitgleich mit dem Release. Grafikfehler und Ruckler bremsen das Remake allerdings noch aus. ( Zelda , Nintendo )"
-},
-{
 "id": "bc2c3436ce3b",
 "title": "UBS: Mehrwertsteuer würde Haushalte mit tiefen Einkommen stärker belasten",
 "link": "https://www.finews.ch/news/finanzplatz/74361-ubs-studie-ahv-finanzierung-mehrwertsteuer-rente-einkommen",
@@ -598,17 +763,6 @@
 "sum": "Die geplante Erhöhung der Mehrwertsteuer zur Mitfinanzierung der 13. AHV-Rente würde Haushalte mit tiefen Einkommen im Verhältnis zu ihren finanziellen Möglichkeiten deutlich stärker treffen als wohlhabendere Haushalte. Zu diesem Schluss kommt eine am 5. November veröffentlichte Studie des Chief Investment Office der UBS."
 },
 {
-"id": "2024896a6005",
-"title": "heise+ | Angriffe auf Prozessor-Hardware: Wie der TÜVIT Chips knackt",
-"link": "https://www.heise.de/hintergrund/Angriffe-auf-Prozessor-Hardware-Wie-der-TUeVIT-Chips-knackt-11480775.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Der TÜVIT greift gezielt Chips an, um ihren Schutz zu prüfen. Dabei spielen auch Laser eine Rolle, die 500.000 Euro kosten. Wir blicken hinter die Kulissen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T08:00:00+00:00",
-"sum": "Der TÜVIT greift gezielt Chips an, um ihren Schutz zu prüfen. Dabei spielen auch Laser eine Rolle, die 500.000 Euro kosten. Wir blicken hinter die Kulissen."
-},
-{
 "id": "812bf1a52301",
 "title": "Raumsonde Hera: Erstes Foto von Asteroid Didymos und seinem Mond Dimorphos",
 "link": "https://www.spektrum.de/news/hera-asteroid-didymos-voraus/2353023",
@@ -618,17 +772,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T08:00:00+00:00",
 "sum": "Anfang November 2026 nahm die europäische Raumsonde Hera das erste scharfe Bild des Asteroiden Didymos auf, sein Mond Dimorphos versteckt sich in dessen Schatten."
-},
-{
-"id": "4e65efdf3d66",
-"title": "Kundendaten abgeflossen: Digicert bestätigt Datenpanne nach Systemumzug",
-"link": "https://www.golem.de/news/kundendaten-abgeflossen-digicert-bestaetigt-datenpanne-nach-systemumzug-2611-214916.html",
-"text": "Bei Digicert hat ein unbefugter Akteur nach dem Umzug eines internen IT-Systems Kundendaten abgreifen können. Auch Ausweisdokumente sind betroffen. ( Datenleck , Sicherheitslücke )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214916&page=1&ts=1793951762",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T07:56:02+00:00",
-"sum": "Bei Digicert hat ein unbefugter Akteur nach dem Umzug eines internen IT-Systems Kundendaten abgreifen können. Auch Ausweisdokumente sind betroffen. ( Datenleck , Sicherheitslücke )"
 },
 {
 "id": "7ed1b4342f3a",
@@ -697,28 +840,6 @@
 "sum": "Claude-Alain Schmidhalter plante mit der Ski-WM in Crans-Montana ein grosses Skifest. Jetzt steht er vor Gericht."
 },
 {
-"id": "03882d19fddc",
-"title": "heise+ | Digitale Souveränität: Die Rechnung, die niemand macht",
-"link": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Die-Rechnung-die-niemand-macht-11509975.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Digitale Souveränität wird kaum umgesetzt, da die Kosten der Abhängigkeit in keiner Kalkulation stehen. Warum Unternehmen das besonders bei KI ändern sollten.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T07:15:00+00:00",
-"sum": "Digitale Souveränität wird kaum umgesetzt, da die Kosten der Abhängigkeit in keiner Kalkulation stehen. Warum Unternehmen das besonders bei KI ändern sollten."
-},
-{
-"id": "7592af5eb0f7",
-"title": "Brüssel pumpt Geld in europäische Halbleiterbranche",
-"link": "https://www.heise.de/news/Mehr-als-eine-halbe-Milliarde-Euro-fuer-Chips-aus-Europa-11514366.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Mikrochips stecken in Smartphones, Computern und Autos. Doch Europas Anteil an der weltweiten Fertigung ist gering. Das will die EU mit Partnern ändern.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T07:15:00+00:00",
-"sum": "Mikrochips stecken in Smartphones, Computern und Autos. Doch Europas Anteil an der weltweiten Fertigung ist gering. Das will die EU mit Partnern ändern."
-},
-{
 "id": "2e896fad168b",
 "title": "Softbank-Deal – Rückschlag für ABB: China blockiert Verkauf der Robotik-Sparte",
 "link": "https://www.srf.ch/news/wirtschaft/softbank-deal-rueckschlag-fuer-abb-china-blockiert-verkauf-der-robotik-sparte",
@@ -774,17 +895,6 @@
 "sum": "Die Zweifel an der Nachhaltigkeit des Booms des AI-Themas an den Aktienmärkten ist nicht neu. Nach den US-Midterms haben die Befürchtungen nochmal zugenommen und zu einem Kursrutsch geführt."
 },
 {
-"id": "b32b67eb9289",
-"title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
-"link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
-"text": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weissen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschliessend kündigte Trump einen möglichen Deal an, nannte aber keine Details.",
-"img": "https://images.tagesschau.de/image/8b4fd96d-51df-4799-a080-e7b3d1559804/AAABobAS0U0/AAABnSSvrFg/16x9-big/trump-5428.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T06:00:41+00:00",
-"sum": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weissen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschliessend kündigte Trump einen möglichen Deal an, nannte aber keine Details."
-},
-{
 "id": "38327a15bf3b",
 "title": "Geldanlagen – Nachhaltige Fonds im Trend: Gut fürs Klima und fürs Portemonnaie?",
 "link": "https://www.srf.ch/news/wirtschaft/geldanlagen-nachhaltige-fonds-im-trend-gut-fuers-klima-und-fuers-portemonnaie",
@@ -796,24 +906,13 @@
 "sum": "Noch nie war in der Schweiz so viel Geld in nachhaltige Fonds investiert wie heute. Doch was bringt das?"
 },
 {
-"id": "d57da7272d61",
-"title": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
-"link": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html",
-"text": "Immer wieder werden vor allem Frauen mit K.o.-Tropfen betäubt und erleben sexualisierte Gewalt. Der Bundestag will heute härtere Strafen beschliessen. Aus Sicht der Opposition verfehlt das Gesetz aber den Kern des Problems. Von Felix Jakobs.",
-"img": "https://images.tagesschau.de/image/c4d08bd7-cba7-4df9-8c87-b00ac693d1ba/AAABoM1W1xs/AAABnSSvrFg/16x9-big/ko-tropfen-glaeser-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T05:17:40+00:00",
-"sum": "Immer wieder werden vor allem Frauen mit K.o.-Tropfen betäubt und erleben sexualisierte Gewalt. Der Bundestag will heute härtere Strafen beschliessen. Aus Sicht der Opposition verfehlt das Gesetz aber den Kern des Problems. Von Felix Jakobs."
-},
-{
 "id": "75a4a5d4e452",
 "title": "Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar",
 "link": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html",
 "text": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so ernst.",
 "img": "https://images.tagesschau.de/image/10c9bfce-ba0b-4b57-932c-59c78b593359/AAABoO0-VxY/AAABnSSvrFg/16x9-big/ki-rechenzentrum-102.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-06T05:04:19+00:00",
 "sum": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so ernst."
 },
@@ -865,12 +964,12 @@
 "id": "248b7fa435a2",
 "title": "INTERVIEW - «Trumps Zölle sind toxisch geworden»",
 "link": "https://www.nzz.ch/wirtschaft/trumps-zoelle-sind-toxisch-geworden-ld.10055292",
-"text": "Der Wirtschaftsprofessor Richard Baldwin erklärt im Interview, warum die Republikaner die Midterm-Wahlen so deutlich verloren haben. Er sagt, die amerikanischen Wähler hassten die Inflation.",
+"text": "Der Wirtschaftsprofessor Richard Baldwin erklärt im Interview, warum die Republikaner die Midterm-Wahlen so deutlich verloren haben. Er sagt, Trumps Handelskrieg könnte bald zum Erliegen kommen.",
 "img": "https://img-msp-prod.nzz.ch/2026/11/05/236b4a31-bf31-4fc8-bd54-57cee39bcf6b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4977,4977,x738,y311",
 "source": "NZZ",
 "topic": "Wirtschaft",
 "date": "2026-11-06T04:30:00+00:00",
-"sum": "Der Wirtschaftsprofessor Richard Baldwin erklärt im Interview, warum die Republikaner die Midterm-Wahlen so deutlich verloren haben. Er sagt, die amerikanischen Wähler hassten die Inflation."
+"sum": "Der Wirtschaftsprofessor Richard Baldwin erklärt im Interview, warum die Republikaner die Midterm-Wahlen so deutlich verloren haben. Er sagt, Trumps Handelskrieg könnte bald zum Erliegen kommen."
 },
 {
 "id": "a970468741ca",
@@ -928,17 +1027,6 @@
 "sum": "Lange befasst sich die Alzheimer-Forschung nur mit Ablagerungen im Gehirn. Heute wissen Forscher um die wichtige Rolle der hirneigenen Immunzellen, der Mikroglia. Sogar eine Impfung gegen Alzheimer könnte dank ihnen möglich werden."
 },
 {
-"id": "bc6e199d1d3e",
-"title": "Kongress lehnt Peñas Rücktritt ab - Staatsanwalt ermittelt",
-"link": "https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html",
-"text": "Paraguay wird von einem Finanzskandal erschüttert, in den auch Präsident Peña verwickelt ist. Der Staatschef will zurücktreten, doch der Kongress nimmt das Rücktrittsgesuch nicht an - und leitet ein Amtsenthebungsverfahren ein.",
-"img": "https://images.tagesschau.de/image/5da93523-6b72-45ab-bd3a-40256b15fee5/AAABoa-ini8/AAABnSSvrFg/16x9-big/paraguay-abgeordnete-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T04:28:23+00:00",
-"sum": "Paraguay wird von einem Finanzskandal erschüttert, in den auch Präsident Peña verwickelt ist. Der Staatschef will zurücktreten, doch der Kongress nimmt das Rücktrittsgesuch nicht an - und leitet ein Amtsenthebungsverfahren ein."
-},
-{
 "id": "de6a717bd9e9",
 "title": "Haft statt Todesstrafe – Kaliforniens Gouverneur Newsom will alle Todesurteile umwandeln",
 "link": "https://www.srf.ch/news/international/usa/haft-statt-todesstrafe-kaliforniens-gouverneur-newsom-will-alle-todesurteile-umwandeln",
@@ -950,28 +1038,6 @@
 "sum": "Alle 548 Todesurteile im westlichen US-Bundesstaat sollen in lebenslange Haftstrafen umgewandelt werden."
 },
 {
-"id": "f2de1e36f651",
-"title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
-"link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
-"text": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heisst es per Gesetzesänderung: Kommando zurück.",
-"img": "https://images.tagesschau.de/image/d3876004-9fe6-4ca8-9b05-b85dd2090a2a/AAABoUWv6Dk/AAABnSSvrFg/16x9-big/161026-tabaksteuer-mediathek-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T00:55:35+00:00",
-"sum": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heisst es per Gesetzesänderung: Kommando zurück."
-},
-{
-"id": "4f2fed1cfa77",
-"title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
-"link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
-"text": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln.",
-"img": "https://images.tagesschau.de/image/4c256b6b-eb62-4393-8841-dc5cf276e08a/AAABngAMkuQ/AAABnSSvrFg/16x9-big/gavin-newsom-112.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-05T23:44:38+00:00",
-"sum": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln."
-},
-{
 "id": "a80d9d941a73",
 "title": "Vaduz-Shootingstar im Fokus – Pläne von Dalipi: Zurück zu YB, aber wohl nicht in die Nati",
 "link": "https://www.srf.ch/sport/fussball/super-league/vaduz-shootingstar-im-fokus-plaene-von-dalipi-zurueck-zu-yb-aber-wohl-nicht-in-die-nati",
@@ -981,17 +1047,6 @@
 "topic": "Sport",
 "date": "2026-11-05T22:49:10+00:00",
 "sum": "In der Vaduzer Offensive läuft alles über Lutfi Dalipi. Der Youngster ist im Hoch, auch Zukunftspläne scheinen gemacht."
-},
-{
-"id": "62dc85a71e9c",
-"title": "Europa League: 4. Spieltag – Milan erneut kalt geduscht – auch Sunderland verliert",
-"link": "https://www.srf.ch/sport/fussball/europa-league/europa-league-4-spieltag-milan-erneut-kalt-geduscht-auch-sunderland-verliert",
-"text": "Milan kassiert in der Europa League die dritte Niederlage im vierten Spiel. Auch Sunderland kommt nicht vom Fleck.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6c5a06.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-05T22:01:23+00:00",
-"sum": "Milan kassiert in der Europa League die dritte Niederlage im vierten Spiel. Auch Sunderland kommt nicht vom Fleck."
 },
 {
 "id": "2ed64eabfeb6",
@@ -1126,17 +1181,6 @@
 "sum": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff"
 },
 {
-"id": "ca6c0f981c5d",
-"title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
-"link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
-"text": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
-"img": "https://images.tagesschau.de/image/22c9fede-c3b6-42bf-9d65-2296423a5980/AAABoazFYc4/AAABnSSvrFg/16x9-big/rene-benko-126.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-05T17:56:47+00:00",
-"sum": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig."
-},
-{
 "id": "1aae963471e5",
 "title": "Das Gericht glaubt René Benko auch beim vierten Mal nicht. Sein einstiger Förderer rechnet mit ihm ab",
 "link": "https://www.nzz.ch/wirtschaft/zwei-jahre-haft-zusaetzlich-auch-beim-vierten-mal-glaubt-das-gericht-rene-benko-nicht-ld.10055551",
@@ -1223,17 +1267,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-05T16:08:41+00:00",
 "sum": "Eine neue Statistik belegt: Die Zahl der Opfer durch die hohen Sommer-Temperaturen wurde unterschätzt. Gleichzeitig ist den Daten zu entnehmen: Viele Todesfälle liessen sich verhindern."
-},
-{
-"id": "bef196dd0367",
-"title": "Europas Flugverkehr gestört – Bombendrohung gegen mehrere Flüge: Notlandungen und Umleitungen",
-"link": "https://www.srf.ch/news/international/europas-flugverkehr-gestoert-bombendrohung-gegen-mehrere-fluege-notlandungen-und-umleitungen",
-"text": "Wegen Bombendrohungen sind mehrere Passagierflugzeuge in Europa umgeleitet und teils eskortiert worden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/5babd7.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-05T15:46:16+00:00",
-"sum": "Wegen Bombendrohungen sind mehrere Passagierflugzeuge in Europa umgeleitet und teils eskortiert worden."
 },
 {
 "id": "2291582044fa",
@@ -1434,28 +1467,6 @@
 "sum": "Alpha Street Financial, eine Genfer Neugründung, berät kleine externe Vermögensverwalter. Geplant ist ein Immobilien-Club-Deal mit Viager-Objekten. Dabei verkaufen Eigentümer ihre Immobilie gegen eine Leibrente und behalten ein lebenslanges Wohnrecht."
 },
 {
-"id": "1ebdf256bd43",
-"title": "Schlafforschung: Guter Schlaf ist ein Wirtschaftsfaktor",
-"link": "https://www.spektrum.de/news/schlafforschung-guter-schlaf-ist-ein-wirtschaftsfaktor/2352840",
-"text": "Wer müde zur Arbeit kommt, kann weniger leisten. Das verursacht laut Fachleuten hohe Kosten. Guter Schlaf sollte daher auch im Interesse der Unternehmen liegen.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-1387956598.jpg.8276573.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-05T10:00:00+00:00",
-"sum": "Wer müde zur Arbeit kommt, kann weniger leisten. Das verursacht laut Fachleuten hohe Kosten. Guter Schlaf sollte daher auch im Interesse der Unternehmen liegen."
-},
-{
-"id": "e97cfb996d76",
-"title": "Cyberangriffe auf Kühlanlagen – Erst Kühltruhen, nun Blutkonserven: Cyberangriffe weiten sich aus",
-"link": "https://www.srf.ch/news/international/cyberangriffe-auf-kuehlanlagen-erst-kuehltruhen-nun-blutkonserven-cyberangriffe-weiten-sich-aus",
-"text": "Die Hackerangriffe auf Kühlgeräte mit Blutkonserven seien eine neue Eskalationsstufe, sagt Digitalredaktor Reto Widmer.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d97edb.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-05T08:42:10+00:00",
-"sum": "Die Hackerangriffe auf Kühlgeräte mit Blutkonserven seien eine neue Eskalationsstufe, sagt Digitalredaktor Reto Widmer."
-},
-{
 "id": "7a467ddd6701",
 "title": "«Bundesrat» Martin Schlegel gegen die UBS",
 "link": "https://www.finews.ch/news/finanzplatz/74351-martin-schlegel-snb-politik-tbtf-bundesrat-keller-sutter-kommentar",
@@ -1542,17 +1553,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T06:17:11+00:00",
 "sum": "Sechs Wochen nach der EU hat auch die Schweiz die Sanktionen gegen Alischer Usmanow aufgehoben. Gleichzeitig wird ein Beschluss des deutschen Bundesgerichtshofs publik, der Usmanows Klage gegen den EU-Rat neuen Schub verleiht."
-},
-{
-"id": "107b1f1ddf22",
-"title": "Aargauische Kantonalbank verpflichtet den CEO der Baloise Bank",
-"link": "https://www.finews.ch/news/banken/74337-aargauische-kantonalbank-thomas-schoeb-dieter-widmer-baloise-direktionspraesident",
-"text": "Thomas Schöb, CEO der Baloise Bank, wird im Juni 2027 Direktionspräsident der Aargauischen Kantonalbank werden. Für ihn spricht die breite Führungserfahrung – und die Verwurzelung im Kanton.",
-"img": "https://www.finews.ch/images/news/2026/11/Thomas_Schoeb_AKB.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-05T05:55:02+00:00",
-"sum": "Thomas Schöb, CEO der Baloise Bank, wird im Juni 2027 Direktionspräsident der Aargauischen Kantonalbank werden. Für ihn spricht die breite Führungserfahrung – und die Verwurzelung im Kanton."
 },
 {
 "id": "ed7f4f88db24",
@@ -1654,17 +1654,6 @@
 "sum": "Die Weltgesundheitsorganisation (WHO) hat den Gesundheitsnotstand ausgerufen. Die Infektionszahlen steigen weiterhin an. Die wichtigsten Antworten zum Ebola-Virus."
 },
 {
-"id": "50f59fe93515",
-"title": "Neues Wirtschaftsranking – Eine Schweiz voller Cluster",
-"link": "https://www.srf.ch/news/wirtschaft/neues-wirtschaftsranking-eine-schweiz-voller-cluster",
-"text": "Eine neue Statistik zur kantonalen Wirtschaft zeigt Verschiebungen von Ost nach West und von den Rändern zu den Zentren.",
-"img": "https://www.srf.ch/static/cms/images//320ws/017fd7.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-04T15:24:12+00:00",
-"sum": "Eine neue Statistik zur kantonalen Wirtschaft zeigt Verschiebungen von Ost nach West und von den Rändern zu den Zentren."
-},
-{
 "id": "3b8b2e7adbd5",
 "title": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
 "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
@@ -1696,17 +1685,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-04T12:38:29+00:00",
 "sum": "Die Lebenserwartung steigt - allerdings nicht überall gleichermassen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders gross. Und mancherorts sinkt die Lebenserwartung von Frauen sogar."
-},
-{
-"id": "4e3977f2c25b",
-"title": "Inflation im Euroraum steigt auf 4,0 Prozent",
-"link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
-"text": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung.",
-"img": "https://images.tagesschau.de/image/82dfb70d-edf5-4e3d-861e-fb7e97fe6c3f/AAABoYzyluk/AAABnSSvrFg/16x9-big/inflation-262.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-04T11:12:00+00:00",
-"sum": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung."
 },
 {
 "id": "469166bd21c3",
