@@ -1,18 +1,128 @@
 {
-"updated": "2026-11-06T19:09:25+00:00",
+"updated": "2026-11-06T20:58:52+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
-"id": "24370770a22b",
-"title": "Verkehr beeinträchtigt – Bahnhof in Schaffhausen wegen Polizeieinsatz gesperrt",
-"link": "https://www.srf.ch/news/schweiz/verkehr-beeintraechtigt-bahnhof-in-schaffhausen-wegen-polizeieinsatz-gesperrt",
-"text": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Gegenstands gesperrt.",
+"id": "16b3d14334d0",
+"title": "Bahnhof in Schaffhausen – Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
+"link": "https://www.srf.ch/news/schweiz/bahnhof-in-schaffhausen-verdaechtiger-koffer-am-bahnhof-polizei-gibt-entwarnung",
+"text": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Koffers gesperrt.",
 "img": "https://www.srf.ch/static/cms/images//320ws/b56282.webp",
 "source": "SRF",
 "topic": "Schweiz",
-"date": "2026-11-06T19:01:09+00:00",
-"sum": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Gegenstands gesperrt."
+"date": "2026-11-06T20:55:00+00:00",
+"sum": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Koffers gesperrt."
+},
+{
+"id": "9527064b23e8",
+"title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+"link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+"text": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
+"img": "https://images.tagesschau.de/image/2318f54d-088f-41db-9531-aa12fdd85b99/AAABobKcTVs/AAABnSSvrFg/16x9-big/sendungsbild-1823618.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T20:54:46+00:00",
+"sum": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht."
+},
+{
+"id": "5cad87b83a85",
+"title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+"link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+"text": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+"img": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T20:36:48+00:00",
+"sum": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit."
+},
+{
+"id": "0b1931d4d37e",
+"title": "Eishockey-WM in Dänemark – Schweizerinnen gegen die USA auf verlorenem Posten",
+"link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/eishockey-wm-in-daenemark-schweizerinnen-gegen-die-usa-auf-verlorenem-posten",
+"text": "Das Team von Shannon Miller hält im WM-Auftaktspiel zunächst gut mit, muss sich am Ende aber mit 0:7 geschlagen geben.",
+"img": "https://www.srf.ch/static/cms/images//320ws/6e524e.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T20:35:16+00:00",
+"sum": "Das Team von Shannon Miller hält im WM-Auftaktspiel zunächst gut mit, muss sich am Ende aber mit 0:7 geschlagen geben."
+},
+{
+"id": "c41a3d2d3b66",
+"title": "GP von Brasilien – Kein Kater nach Titelparty: Antonelli im 2. Training klar vorne",
+"link": "https://www.srf.ch/sport/motorsport/formel-1/gp-von-brasilien-kein-kater-nach-titelparty-antonelli-im-2-training-klar-vorne",
+"text": "Kimi Antonelli hat auch als neuer Weltmeister einmal mehr die Konkurrenz distanziert.",
+"img": "https://www.srf.ch/static/cms/images//320ws/cabdb4.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T20:23:21+00:00",
+"sum": "Kimi Antonelli hat auch als neuer Weltmeister einmal mehr die Konkurrenz distanziert."
+},
+{
+"id": "39e9b30e779d",
+"title": "Trumps Stabschefin Wiles verlässt das Weisse Haus",
+"link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+"text": "Seit der verheerenden Wahlniederlage der Republikaner bei den Midterms gibt es Spekulationen darüber, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht eine Personalie fest: Die Strippenzieherin Wiles geht.",
+"img": "https://images.tagesschau.de/image/1cd77871-0b49-4151-8d19-989f245b430d/AAABobKFGkk/AAABnSSvrFg/16x9-big/susie-wiles-104.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T20:20:30+00:00",
+"sum": "Seit der verheerenden Wahlniederlage der Republikaner bei den Midterms gibt es Spekulationen darüber, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht eine Personalie fest: Die Strippenzieherin Wiles geht."
+},
+{
+"id": "6ee17b5421a2",
+"title": "EU-Vertragspaket – Nationalratskommission befürwortet Schweizer Erasmus-Beitrag",
+"link": "https://www.srf.ch/news/schweiz/eu-vertragspaket-nationalratskommission-befuerwortet-schweizer-erasmus-beitrag",
+"text": "Eine Mehrheit der APK-N ist für den Beitrag von 193 Millionen Franken für den Bildungsaustausch im nächsten Jahr.",
+"img": "https://www.srf.ch/static/cms/images//320ws/5ec624.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-06T20:10:14+00:00",
+"sum": "Eine Mehrheit der APK-N ist für den Beitrag von 193 Millionen Franken für den Bildungsaustausch im nächsten Jahr."
+},
+{
+"id": "8c175c3cd15a",
+"title": "3:1-Erfolg gegen Basel – Eiskalte Dysli schiesst YB zum 6. Sieg in Serie",
+"link": "https://www.srf.ch/sport/fussball/women-s-super-league/3-1-erfolg-gegen-basel-eiskalte-dysli-schiesst-yb-zum-6-sieg-in-serie",
+"text": "Die Bernerinnen sind in der Liga weiter kaum zu stoppen und übernehmen nun die Tabellenführung.",
+"img": "https://www.srf.ch/static/cms/images//320ws/5cc4800.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T19:55:41+00:00",
+"sum": "Die Bernerinnen sind in der Liga weiter kaum zu stoppen und übernehmen nun die Tabellenführung."
+},
+{
+"id": "65d8d0c93bad",
+"title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+"link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+"text": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
+"img": "https://images.tagesschau.de/image/bc698291-00e6-4417-b67d-f273c2c25cb1/AAABobJfbWA/AAABnSSvrFg/16x9-big/ryanair-lissabon-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T19:39:20+00:00",
+"sum": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\"."
+},
+{
+"id": "a9a2ca36d63f",
+"title": "MELDUNGEN WIRTSCHAFT - Elon Musk kündigt das Ende der Cybertruck-Produktion in Texas an +++ Commerzbank verzeichnet Rekordergebnis nach neun Monaten",
+"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
+"text": "Die neuesten Meldungen aus der Wirtschaft.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/06/b6b34498-b371-4eab-8183-33ed649f2a34.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3648,3648,x0,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-06T19:23:31+00:00",
+"sum": "Die neuesten Meldungen aus der Wirtschaft."
+},
+{
+"id": "7c155a4bfbff",
+"title": "Erneut Hackerangriff auf Münchener Universität - TUM betroffen",
+"link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html",
+"text": "Unbekannte haben Hochschulsysteme der Technischen Universität München gehackt. Sie konnten etwa Adressen und Passwörter einsehen. Es ist bereits der zweite Hackerangriff auf eine grosse Uni in München.",
+"img": "https://images.tagesschau.de/image/884ab4b0-42e8-4393-920d-f9faa5f64eb1/AAABobG9GPA/AAABnSSvrFg/16x9-big/br-haupteingang-der-technischen-universitaet-muenchen-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T19:23:12+00:00",
+"sum": "Unbekannte haben Hochschulsysteme der Technischen Universität München gehackt. Sie konnten etwa Adressen und Passwörter einsehen. Es ist bereits der zweite Hackerangriff auf eine grosse Uni in München."
 },
 {
 "id": "c5633ddff674",
@@ -255,17 +365,6 @@
 "topic": "Tech",
 "date": "2026-11-06T17:22:00+00:00",
 "sum": "Hardwarehändler Mindfactory ist Opfer eines Cyberangriffs geworden. Kunden und die Datenschutzbehörde wurden informiert, die Ermittlungen laufen."
-},
-{
-"id": "5cad87b83a85",
-"title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
-"link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
-"text": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
-"img": "https://images.tagesschau.de/image/9aea46e7-124f-4c55-8c85-5a3c827109f2/AAABobF9tAA/AAABnSSvrFg/16x9-big/ilse-aigner-298.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T17:17:22+00:00",
-"sum": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit."
 },
 {
 "id": "9309285f74ed",
@@ -587,17 +686,6 @@
 "sum": "Überraschende Folgen der Mondmission Artemis 2: Die SLS-Trägerrakete hat die Konzentration von Elektronen in der Ionosphäre verändert. Das sind mögliche Folgen."
 },
 {
-"id": "20bdfc4dfa15",
-"title": "Schweizer Fussball-News – Frauen-Nati startet in Irland in die Nations League",
-"link": "https://www.srf.ch/sport/fussball/super-league/schweizer-fussball-news-frauen-nati-startet-in-irland-in-die-nations-league",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem Schweizer Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/79786c.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T14:42:12+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem Schweizer Fussball."
-},
-{
 "id": "2d79debfe9e2",
 "title": "Fasten bis zum Tod – Sektenführer in Kenia wegen Mordes an 190 Kindern verurteilt",
 "link": "https://www.srf.ch/news/international/fasten-bis-zum-tod-sektenfuehrer-in-kenia-wegen-mordes-an-190-kindern-verurteilt",
@@ -719,17 +807,6 @@
 "sum": "Die Sunderland-Baisse hat inzwischen auch in der Europa League Einzug gehalten. Die Anzeichen sind besorgniserregend."
 },
 {
-"id": "664277efc28d",
-"title": "Bombendrohungen auch gegen irische Medien",
-"link": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
-"text": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar.",
-"img": "https://images.tagesschau.de/image/d29db17e-c52b-4210-8a01-5420e5ec67e6/AAABobEAuy0/AAABnSSvrFg/16x9-big/beamte-sender-rte-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T13:49:52+00:00",
-"sum": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar."
-},
-{
 "id": "c307bcb96b26",
 "title": "Anzeige: Faltbare Tastatur plus flache Maus für Smartphones",
 "link": "https://www.golem.de/news/anzeige-faltbare-tastatur-plus-flache-maus-fuer-smartphones-2611-214943.html",
@@ -769,7 +846,7 @@
 "text": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff.",
 "img": "https://images.tagesschau.de/image/4db0c3ea-709b-476e-a44e-7fc19abcb99e/AAABobD47bw/AAABnSSvrFg/16x9-big/anthropic-114.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-06T13:22:11+00:00",
 "sum": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff."
 },
@@ -791,7 +868,7 @@
 "text": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen.",
 "img": "https://images.tagesschau.de/image/0e57ec04-bb0e-43a1-9ba3-42722e87581d/AAABobC8AqE/AAABnSSvrFg/16x9-big/tesla-cybertruck-106.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-06T13:09:10+00:00",
 "sum": "Der Cybertruck sollte Teslas Antwort auf die beliebten US-Pickups sein. Doch das Elektroauto blieb hinter den Erwartungen zurück. Nun will Elon Musk die Produktion in Texas beenden und Platz für ein anderes Produkt schaffen."
 },
@@ -802,7 +879,7 @@
 "text": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen.",
 "img": "https://images.tagesschau.de/image/f4bebb41-025e-4f86-a438-8a0981db65af/AAABobE1LXo/AAABnSSvrFg/16x9-big/hitze-852.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wissenschaft",
 "date": "2026-11-06T13:02:07+00:00",
 "sum": "Kurz vor der Klimakonferenz COP31 in Antalya gibt es ernüchternde Zahlen: Das 1,5-Grad-Ziel wird 2026 laut EU-Dienst Copernicus höchstwahrscheinlich überschritten. Der Oktober war zudem der wärmste seit Beginn der Aufzeichnungen."
 },
@@ -959,28 +1036,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T10:00:00+00:00",
 "sum": "Das stark reflektierende Material besteht einzig aus Pektin und Cellulose und stellt sogar Prachtkäfer in den Schatten. Es könnte im Sommer etwa Häuser vor Hitze schützen."
-},
-{
-"id": "dba562b555a1",
-"title": "«Sie ist eine Diva» – Livestream-Panne: Pegula lästert über Andrejewa und wird ertappt",
-"link": "https://www.srf.ch/sport/tennis/wta-tour/sie-ist-eine-diva-livestream-panne-pegula-laestert-ueber-andrejewa-und-wird-ertappt",
-"text": "Jessica Pegula zieht im Training über Mirra Andrejewa her und hat keine Ahnung, dass alles aufgezeichnet wird.",
-"img": "https://www.srf.ch/static/cms/images//320ws/380b75.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T09:52:46+00:00",
-"sum": "Jessica Pegula zieht im Training über Mirra Andrejewa her und hat keine Ahnung, dass alles aufgezeichnet wird."
-},
-{
-"id": "94578daa11cb",
-"title": "WTA Finals beginnen am Sonntag – Konsolidiert Rybakina in Indian Wells ihre Vormachtstellung?",
-"link": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-beginnen-am-sonntag-konsolidiert-rybakina-in-indian-wells-ihre-vormachtstellung",
-"text": "Seit über 10 Jahren konnte keine Spielerin den Titel an den WTA Finals verteidigen. Jelena Rybakina will das ändern.",
-"img": "https://www.srf.ch/static/cms/images//320ws/fb63589.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T09:50:29+00:00",
-"sum": "Seit über 10 Jahren konnte keine Spielerin den Titel an den WTA Finals verteidigen. Jelena Rybakina will das ändern."
 },
 {
 "id": "75759c165183",
@@ -1379,17 +1434,6 @@
 "sum": "Gewerkschaften des öffentlichen Dienstes fordern die Rücknahme der im Kantonshaushalt 2027 vorgesehenen Sparmassnahmen."
 },
 {
-"id": "d17a3481ae85",
-"title": "Liebesaffäre am Bundesgericht – Urteil gefällt: Beziehung von Bundesrichtern war unzulässig",
-"link": "https://www.srf.ch/news/schweiz/liebesaffaere-am-bundesgericht-urteil-gefaellt-beziehung-von-bundesrichtern-war-unzulaessig",
-"text": "Das Bundesgericht hat ein Revisionsgesuch wegen der Beziehung zweier Bundesrichter einstimmig gutgeheissen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cee104.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-05T19:55:58+00:00",
-"sum": "Das Bundesgericht hat ein Revisionsgesuch wegen der Beziehung zweier Bundesrichter einstimmig gutgeheissen."
-},
-{
 "id": "63789f995bae",
 "title": "Stellenmeldepflicht – Mehr arbeitslose Verkäuferinnen und Verkäufer im Detailhandel",
 "link": "https://www.srf.ch/news/wirtschaft/stellenmeldepflicht-mehr-arbeitslose-verkaeuferinnen-und-verkaeufer-im-detailhandel",
@@ -1632,17 +1676,6 @@
 "sum": "Kevin Brand wechselt von der visavis Versicherung zur Pax. Er übernimmt die Funktion, die bisher Yvonne Häring bekleidete. Diese wird bald CEO der Pax-Gruppe werden."
 },
 {
-"id": "a9a2ca36d63f",
-"title": "MELDUNGEN WIRTSCHAFT - Commerzbank verzeichnet Rekordergebnis nach neun Monaten",
-"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
-"text": "Die neuesten Meldungen aus der Wirtschaft.",
-"img": "https://img-msp-prod.nzz.ch/2025/02/13/9dd83755-5226-4bea-a998-3601032c89dd.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x644,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-05T06:18:25+00:00",
-"sum": "Die neuesten Meldungen aus der Wirtschaft."
-},
-{
 "id": "3ea99dc3f139",
 "title": "Schweiz nimmt Alischer Usmanow von der Sanktionsliste",
 "link": "https://www.finews.ch/news/finanzplatz/74340-alischer-usmanow-sanktionen-schweiz-aufgehoben-fridman-bgh-eu-rat-klage",
@@ -1657,12 +1690,12 @@
 "id": "835d6999a944",
 "title": "Der Schweizer Blockchain-Standort braucht weniger Lamento und mehr Geschäft",
 "link": "https://www.finews.ch/news/finanzplatz/74333-schweiz-blockchain-standort-finma-regulierung-geschaeft-marcel-hostettler",
-"text": "Rang sechs ist kein Abgesang auf den Finanzplatz, sondern zeigt eine Schweizer Conversion-Lücke: Wir verfügen über Regeln, Infrastruktur und Vertrauen – übersetzen dies aber zu selten in skalierbare, internationale Geschäftsmodelle, schreibt Rechtsanwalt Marcel Hofstetter.",
+"text": "Rang sechs ist kein Abgesang auf den Finanzplatz, sondern zeigt eine Schweizer Conversion-Lücke: Wir verfügen über Regeln, Infrastruktur und Vertrauen – übersetzen dies aber zu selten in skalierbare, internationale Geschäftsmodelle, schreibt Rechtsanwalt Marcel Hostettler.",
 "img": "https://www.finews.ch/images/news/2026/11/finews_first_Hofstetter_Marcel.jpg",
 "source": "finews",
 "topic": "Wirtschaft",
 "date": "2026-11-05T05:20:11+00:00",
-"sum": "Rang sechs ist kein Abgesang auf den Finanzplatz, sondern zeigt eine Schweizer Conversion-Lücke: Wir verfügen über Regeln, Infrastruktur und Vertrauen – übersetzen dies aber zu selten in skalierbare, internationale Geschäftsmodelle, schreibt Rechtsanwalt Marcel Hofstetter."
+"sum": "Rang sechs ist kein Abgesang auf den Finanzplatz, sondern zeigt eine Schweizer Conversion-Lücke: Wir verfügen über Regeln, Infrastruktur und Vertrauen – übersetzen dies aber zu selten in skalierbare, internationale Geschäftsmodelle, schreibt Rechtsanwalt Marcel Hostettler."
 },
 {
 "id": "ed7f4f88db24",
