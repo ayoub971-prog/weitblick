@@ -1,8 +1,30 @@
 {
-"updated": "2026-11-05T22:59:03+00:00",
+"updated": "2026-11-06T01:27:02+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "f2de1e36f651",
+"title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+"link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+"text": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heisst es per Gesetzesänderung: Kommando zurück.",
+"img": "https://images.tagesschau.de/image/d3876004-9fe6-4ca8-9b05-b85dd2090a2a/AAABoUWv6Dk/AAABnSSvrFg/16x9-big/161026-tabaksteuer-mediathek-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T00:55:35+00:00",
+"sum": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heisst es per Gesetzesänderung: Kommando zurück."
+},
+{
+"id": "4f2fed1cfa77",
+"title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+"link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+"text": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln.",
+"img": "https://images.tagesschau.de/image/6fb17741-aab1-4e9e-80ce-190e83c5a5bc/AAABoa1ffvo/AAABnSSvrFg/16x9-big/newsom-120.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-05T23:44:38+00:00",
+"sum": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln."
+},
 {
 "id": "a80d9d941a73",
 "title": "Vaduz-Shootingstar im Fokus – Pläne von Dalipi: Zurück zu YB, aber wohl nicht in die Nati",
@@ -444,17 +466,6 @@
 "sum": "Die Märkte bleiben im Aufwind: Nach den US-Zwischenwahlen erreicht der DAX im frühen Handel einen neuen Höchststand. Rückenwind erhält er von günstigeren Ölpreisen und positiven Signalen aus der Industrie."
 },
 {
-"id": "c35959786444",
-"title": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-"link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html",
-"text": "Wechsel an der Spitze der Bundeswehr: Christian Freuding wird neuer Generalinspekteur und damit ranghöchster Soldat der Truppe. Freuding sei der Richtige für \"das neue Zeitalter\", sagte Verteidigungsminister Pistorius.",
-"img": "https://images.tagesschau.de/image/8ed7e67b-7972-48fe-bcaf-cb3420cc0f2b/AAABoavrqLI/AAABnSSvrFg/16x9-big/christian-freuding-108.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-05T17:15:48+00:00",
-"sum": "Wechsel an der Spitze der Bundeswehr: Christian Freuding wird neuer Generalinspekteur und damit ranghöchster Soldat der Truppe. Freuding sei der Richtige für \"das neue Zeitalter\", sagte Verteidigungsminister Pistorius."
-},
-{
 "id": "673d1cc725d1",
 "title": "Anzeige: Ugreen Nexode Pro USB-Ladegerät mit 100 W und Display für unter 45 Euro",
 "link": "https://www.golem.de/news/anzeige-ugreen-nexode-pro-usb-ladegeraet-mit-100-w-und-display-fuer-unter-45-euro-2611-214905.html",
@@ -838,17 +849,6 @@
 "topic": "Welt",
 "date": "2026-11-05T14:11:59+00:00",
 "sum": "Die Bundesregierung übernimmt alle Anteile der Eigentümerfamilien am Panzerbauer KNDS. Damit sichert sich der Bund den Einfluss auf Schlüsseltechnologien - und gibt offenbar weniger Geld aus als geplant."
-},
-{
-"id": "7c40fc42477b",
-"title": "Linnemann kündigt Nachbesserungen bei Pflegereform an",
-"link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html",
-"text": "Die Pläne für eine Reform der Pflegeversicherung sind umstritten. Patientenschützer sprechen von einer Mogelpackung. Im Bundestag verteidigte Gesundheitsminister Linnemann das Vorhaben - und kündigte zugleich Korrekturen an.",
-"img": "https://images.tagesschau.de/image/345d519b-e209-4a15-aa18-51f87149395f/AAABoau5wgI/AAABnSSvrFg/16x9-big/linnemann-214.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-05T14:07:06+00:00",
-"sum": "Die Pläne für eine Reform der Pflegeversicherung sind umstritten. Patientenschützer sprechen von einer Mogelpackung. Im Bundestag verteidigte Gesundheitsminister Linnemann das Vorhaben - und kündigte zugleich Korrekturen an."
 },
 {
 "id": "1ecd726f2f7c",
