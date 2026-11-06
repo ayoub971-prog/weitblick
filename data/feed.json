@@ -1,8 +1,41 @@
 {
-"updated": "2026-11-06T20:58:52+00:00",
+"updated": "2026-11-06T22:54:52+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "e96cf62df22f",
+"title": "Krise nach Bankenskandal – Paraguays Senat beschliesst Absetzung von Präsident Peña",
+"link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-paraguays-senat-beschliesst-absetzung-von-praesident-pena",
+"text": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-06T22:44:14+00:00",
+"sum": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick."
+},
+{
+"id": "2760a40f5d3f",
+"title": "ATP-1000-Turnier in Paris – Alcaraz siegt – und verhilft damit Jodar an die ATP Finals",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-1000-turnier-in-paris-alcaraz-siegt-und-verhilft-damit-jodar-an-die-atp-finals",
+"text": "Der Spanier gewinnt gegen Taylor Fritz und leistet einem Landsmann damit Schützenhilfe.",
+"img": "https://www.srf.ch/static/cms/images//320ws/11ab55.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T22:03:36+00:00",
+"sum": "Der Spanier gewinnt gegen Taylor Fritz und leistet einem Landsmann damit Schützenhilfe."
+},
+{
+"id": "eaffea903b9b",
+"title": "«Abstimmungs-Arena» – Soll das Kriegsmaterialgesetz gelockert werden?",
+"link": "https://www.srf.ch/news/schweiz/abstimmungs-arena-soll-das-kriegsmaterialgesetz-gelockert-werden",
+"text": "«Anti-Ukraine-Gesetz» oder wichtig für Verteidigungsfähigkeit: Die wichtigsten Argumente aus dem «Arena»-Showdown.",
+"img": "https://www.srf.ch/static/cms/images//320ws/70aa81.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-06T21:56:13+00:00",
+"sum": "«Anti-Ukraine-Gesetz» oder wichtig für Verteidigungsfähigkeit: Die wichtigsten Argumente aus dem «Arena»-Showdown."
+},
 {
 "id": "16b3d14334d0",
 "title": "Bahnhof in Schaffhausen – Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
@@ -11,15 +44,37 @@
 "img": "https://www.srf.ch/static/cms/images//320ws/b56282.webp",
 "source": "SRF",
 "topic": "Schweiz",
-"date": "2026-11-06T20:55:00+00:00",
+"date": "2026-11-06T21:43:25+00:00",
 "sum": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Koffers gesperrt."
+},
+{
+"id": "dba390f6c109",
+"title": "MotoGP gastiert in Katar – Ein GP im Zeichen der Unruhe – und des möglichen WM-Titels",
+"link": "https://www.srf.ch/sport/motorsport/motorrad/motogp-gastiert-in-katar-ein-gp-im-zeichen-der-unruhe-und-des-moeglichen-wm-titels",
+"text": "Trotz politischer Unruhen sind die Motorrad-Teams in Katar fast geschlossen am Start.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ffd206.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T21:33:09+00:00",
+"sum": "Trotz politischer Unruhen sind die Motorrad-Teams in Katar fast geschlossen am Start."
+},
+{
+"id": "5b82c74256e0",
+"title": "Bundesliga: 9. Spieltag – Muheim leitet HSV-Sieg mit weiterem Traumtor ein",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-9-spieltag-muheim-leitet-hsv-sieg-mit-weiterem-traumtor-ein",
+"text": "Der Schweizer Internationale hat auch beim 3:1 gegen Borussia Mönchengladbach seine Lust am Toreschiessen bewiesen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1262a2.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T21:29:45+00:00",
+"sum": "Der Schweizer Internationale hat auch beim 3:1 gegen Borussia Mönchengladbach seine Lust am Toreschiessen bewiesen."
 },
 {
 "id": "9527064b23e8",
 "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
 "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
 "text": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
-"img": "https://images.tagesschau.de/image/2318f54d-088f-41db-9531-aa12fdd85b99/AAABobKcTVs/AAABnSSvrFg/16x9-big/sendungsbild-1823618.jpg?width=1920",
+"img": "https://images.tagesschau.de/image/890830ce-f3e2-4cc6-9c60-48f856b24345/AAABobKrX_4/AAABnSSvrFg/16x9-big/aigner-140.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
 "date": "2026-11-06T20:54:46+00:00",
@@ -62,12 +117,12 @@
 "id": "39e9b30e779d",
 "title": "Trumps Stabschefin Wiles verlässt das Weisse Haus",
 "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
-"text": "Seit der verheerenden Wahlniederlage der Republikaner bei den Midterms gibt es Spekulationen darüber, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht eine Personalie fest: Die Strippenzieherin Wiles geht.",
+"text": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
 "img": "https://images.tagesschau.de/image/1cd77871-0b49-4151-8d19-989f245b430d/AAABobKFGkk/AAABnSSvrFg/16x9-big/susie-wiles-104.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
 "date": "2026-11-06T20:20:30+00:00",
-"sum": "Seit der verheerenden Wahlniederlage der Republikaner bei den Midterms gibt es Spekulationen darüber, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht eine Personalie fest: Die Strippenzieherin Wiles geht."
+"sum": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt."
 },
 {
 "id": "6ee17b5421a2",
@@ -224,17 +279,6 @@
 "sum": "Im Sommer waren Feuerwehrleute europaweit Helden. Aber ihre Zahl geht in vielen Ländern zurück. Jetzt protestieren sie."
 },
 {
-"id": "dba390f6c109",
-"title": "MotoGP gastiert in Katar – Ein GP im Zeichen der Unruhe – und des möglichen WM-Titels",
-"link": "https://www.srf.ch/sport/motorsport/motorrad/motogp-gastiert-in-katar-ein-gp-im-zeichen-der-unruhe-und-des-moeglichen-wm-titels",
-"text": "Trotz politischer Unruhen sind die Motorrad-Teams in Katar fast geschlossen am Start.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ffd206.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T18:13:16+00:00",
-"sum": "Trotz politischer Unruhen sind die Motorrad-Teams in Katar fast geschlossen am Start."
-},
-{
 "id": "136b083e9375",
 "title": "US-Wirtschaft – «Die Zölle haben die Preise in den USA nach oben getrieben»",
 "link": "https://www.srf.ch/news/international/us-wirtschaft-die-zoelle-haben-die-preise-in-den-usa-nach-oben-getrieben",
@@ -343,17 +387,6 @@
 "topic": "Welt",
 "date": "2026-11-06T17:30:36+00:00",
 "sum": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln."
-},
-{
-"id": "4aadd624e195",
-"title": "18. resp. 19. Skicross-Saison – Smith und Fiva: Die «Alten» haben noch nicht genug",
-"link": "https://www.srf.ch/sport/mehr-sport/wintersport/18-resp-19-skicross-saison-smith-und-fiva-die-alten-haben-noch-nicht-genug",
-"text": "Fanny Smith (34) und Alex Fiva (40) gehen als Teamleader in die neue Weltcupsaison, die in rund einem Monat startet.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6c163d.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T17:30:08+00:00",
-"sum": "Fanny Smith (34) und Alex Fiva (40) gehen als Teamleader in die neue Weltcupsaison, die in rund einem Monat startet."
 },
 {
 "id": "6ce93bdd7b5c",
@@ -587,17 +620,6 @@
 "sum": "Immer mehr US-Bürger wehren sich gegen neue Rechenzentren. Milliardeninvestitionen könnten deshalb nach Europa fliessen, doch auch hier ist der Strom knapp. Eine Analyse von Mike Faust ( KI , Rechenzentrum )"
 },
 {
-"id": "146cec1e5f3c",
-"title": "Euro Hockey Tour – Ein Neuling und ein Premierentorschütze",
-"link": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-ein-neuling-und-ein-premierentorschuetze",
-"text": "1:3-Niederlage gegen Finnland – für Rodwin Dionicio und Jamiro Reber war es trotzdem ein spezieller Abend.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ee9f33.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T15:12:18+00:00",
-"sum": "1:3-Niederlage gegen Finnland – für Rodwin Dionicio und Jamiro Reber war es trotzdem ein spezieller Abend."
-},
-{
 "id": "3b7da1805261",
 "title": "Schiess-WM in Doha – Männer und Frauen triumphieren: Doppel-Gold für Schweizer Teams",
 "link": "https://www.srf.ch/sport/mehr-sport/schiessen/schiess-wm-in-doha-maenner-und-frauen-triumphieren-doppel-gold-fuer-schweizer-teams",
@@ -684,6 +706,17 @@
 "topic": "Tech",
 "date": "2026-11-06T14:43:00+00:00",
 "sum": "Überraschende Folgen der Mondmission Artemis 2: Die SLS-Trägerrakete hat die Konzentration von Elektronen in der Ionosphäre verändert. Das sind mögliche Folgen."
+},
+{
+"id": "20bdfc4dfa15",
+"title": "Schweizer Fussball-News – Frauen-Nati startet in Irland in die Nations League",
+"link": "https://www.srf.ch/sport/fussball/super-league/schweizer-fussball-news-frauen-nati-startet-in-irland-in-die-nations-league",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem Schweizer Fussball.",
+"img": "https://www.srf.ch/static/cms/images//320ws/79786c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T14:42:12+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem Schweizer Fussball."
 },
 {
 "id": "2d79debfe9e2",
@@ -992,17 +1025,6 @@
 "topic": "Sport",
 "date": "2026-11-06T11:33:13+00:00",
 "sum": "Hier finden Sie die weiteren Sportnews des Tages in kompakter Form."
-},
-{
-"id": "1a183ecf8548",
-"title": "Krise nach Bankenskandal – Rücktritt gescheitert: Paraguays Präsident droht Amtsenthebung",
-"link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-ruecktritt-gescheitert-paraguays-praesident-droht-amtsenthebung",
-"text": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T11:23:27+00:00",
-"sum": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick."
 },
 {
 "id": "32056b58c753",
@@ -1445,17 +1467,6 @@
 "sum": "Offene Stellen beim Detailhandel-Verkaufspersonal müssen neu den regionalen Arbeitsvermittlungszentren gemeldet werden."
 },
 {
-"id": "c845857757fb",
-"title": "Provisorische Auswertung – Hitzesommer 2026 forderte in der Schweiz rund 1260 Todesopfer",
-"link": "https://www.srf.ch/news/schweiz/provisorische-auswertung-hitzesommer-2026-forderte-in-der-schweiz-rund-1260-todesopfer",
-"text": "Rund 85 Prozent der Betroffenen waren 75 Jahre oder älter. Dies gab der Bund bekannt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c4a25c.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-05T19:14:14+00:00",
-"sum": "Rund 85 Prozent der Betroffenen waren 75 Jahre oder älter. Dies gab der Bund bekannt."
-},
-{
 "id": "dfed495e675c",
 "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
 "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
@@ -1498,17 +1509,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T16:47:57+00:00",
 "sum": "Das Immobilien- und Detailhandelsreich des österreichischen Investors René Benko ist zusammengebrochen. Die Signa-Holding und mehrere Tochtergesellschaften stecken in einem Insolvenzverfahren. Die wichtigsten Fragen und Antworten."
-},
-{
-"id": "08d4b996352c",
-"title": "Nach TAS-Urteil – Russland-Frage: Schweizer Verband wartet ab",
-"link": "https://www.srf.ch/sport/eishockey/nationalmannschaft/nach-tas-urteil-russland-frage-schweizer-verband-wartet-ab",
-"text": "Der Schweizer Eishockeyverband übt sich bei der Thematik um die Rückkehr Russlands in Zurückhaltung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b76ad8.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-05T16:38:45+00:00",
-"sum": "Der Schweizer Eishockeyverband übt sich bei der Thematik um die Rückkehr Russlands in Zurückhaltung."
 },
 {
 "id": "86084f4dc7b3",
