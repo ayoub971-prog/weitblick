@@ -1,8 +1,195 @@
 {
-"updated": "2026-11-06T03:03:38+00:00",
+"updated": "2026-11-06T05:13:08+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "75a4a5d4e452",
+"title": "Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar",
+"link": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html",
+"text": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so ernst.",
+"img": "https://images.tagesschau.de/image/10c9bfce-ba0b-4b57-932c-59c78b593359/AAABoO0-VxY/AAABnSSvrFg/16x9-big/ki-rechenzentrum-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T05:04:19+00:00",
+"sum": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so ernst."
+},
+{
+"id": "95e745d1fe65",
+"title": "Asylstreit Italien-Schweiz – Italien blockierte Asyl-Überstellungen, doch gelobt nun Besserung",
+"link": "https://www.srf.ch/news/schweiz/asylstreit-italien-schweiz-italien-blockierte-asyl-ueberstellungen-doch-gelobt-nun-besserung",
+"text": "Italien verhinderte Überstellungen von Asylsuchenden und intervenierte auch bei Airlines. Nun macht Rom Zusicherungen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/510157.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-06T05:03:09+00:00",
+"sum": "Italien verhinderte Überstellungen von Asylsuchenden und intervenierte auch bei Airlines. Nun macht Rom Zusicherungen."
+},
+{
+"id": "b572959f451d",
+"title": "heise+ | The Piano Tuner im Heimkinotest: Hyperakusis in Dolby Atmos",
+"link": "https://www.heise.de/tests/The-Piano-Tuner-im-Heimkinotest-Hyperakusis-in-Dolby-Atmos-11500500.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+"text": "Ein überempfindliches Gehör hilft nicht nur beim Klavierstimmen, sondern auch beim Safeknacken. Trifft dieser ungewöhnliche Thriller die richtigen Töne?",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T05:02:00+00:00",
+"sum": "Ein überempfindliches Gehör hilft nicht nur beim Klavierstimmen, sondern auch beim Safeknacken. Trifft dieser ungewöhnliche Thriller die richtigen Töne?"
+},
+{
+"id": "990a4b67b32b",
+"title": "Vorsicht, Kunde: Rechte bei Internetstörung und Router-Fehlern",
+"link": "https://www.heise.de/news/Vorsicht-Kunde-Rechte-bei-Internetstoerung-und-Router-Fehlern-11514236.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Fällt das Internet aus oder landen fremde Rufnummern auf dem Router, müssen Provider schnell handeln. Andernfalls stehen Betroffenen saftige Entschädigungen zu.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T05:00:00+00:00",
+"sum": "Fällt das Internet aus oder landen fremde Rufnummern auf dem Router, müssen Provider schnell handeln. Andernfalls stehen Betroffenen saftige Entschädigungen zu."
+},
+{
+"id": "c4374c8c4fde",
+"title": "Blue Origins Rakete New Glenn soll Anfang 2027 wieder starten",
+"link": "https://www.heise.de/news/Blue-Origins-Rakete-New-Glenn-soll-Anfang-2027-wieder-starten-11514122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Blue Origin hat die Reparatur der bei der Explosion im Mai beschädigten Startrampe fast abgeschlossen. Die Rakete New Glenn kann aber erst Anfang 2027 starten.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T04:58:00+00:00",
+"sum": "Blue Origin hat die Reparatur der bei der Explosion im Mai beschädigten Startrampe fast abgeschlossen. Die Rakete New Glenn kann aber erst Anfang 2027 starten."
+},
+{
+"id": "d05a3e0593c4",
+"title": "Koloniales Erbe – Zürich prüft die umstrittenen Büsten im Hirschengraben erneut",
+"link": "https://www.srf.ch/news/schweiz/koloniales-erbe-zuerich-prueft-die-umstrittenen-buesten-im-hirschengraben-erneut",
+"text": "Rassistisch? Der Zürcher Stadtrat soll den Umgang mit Figuren im Schulhaus Hirschengraben neu prüfen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/258df18.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-06T04:54:00+00:00",
+"sum": "Rassistisch? Der Zürcher Stadtrat soll den Umgang mit Figuren im Schulhaus Hirschengraben neu prüfen."
+},
+{
+"id": "f6b334cc4849",
+"title": "Weniger Sanktionen – Rösti ändert CO2-Gesetz zu Gunsten der Autobranche",
+"link": "https://www.srf.ch/news/schweiz/weniger-sanktionen-roesti-aendert-co2-gesetz-zu-gunsten-der-autobranche",
+"text": "Der Bundesrat kommt den Autoimporteuren erneut entgegen. Schon letztes Jahr machte er Anpassungen zu ihren Gunsten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0ce7815.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-06T04:53:19+00:00",
+"sum": "Der Bundesrat kommt den Autoimporteuren erneut entgegen. Schon letztes Jahr machte er Anpassungen zu ihren Gunsten."
+},
+{
+"id": "1a7beb800af0",
+"title": "Nach Midterms-Debakel – Kritik an Trump-Regierung: Bringt sich J.D. Vance in Position?",
+"link": "https://www.srf.ch/news/international/usa/nach-midterms-debakel-kritik-an-trump-regierung-bringt-sich-j-d-vance-in-position",
+"text": "Nach dem Wahldebakel der Republikaner positioniert sich der US-Vizepräsident – und übt Kritik an Trumps Regierung.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c8d438.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-06T04:44:03+00:00",
+"sum": "Nach dem Wahldebakel der Republikaner positioniert sich der US-Vizepräsident – und übt Kritik an Trumps Regierung."
+},
+{
+"id": "248b7fa435a2",
+"title": "INTERVIEW - «Trumps Zölle sind toxisch geworden»",
+"link": "https://www.nzz.ch/wirtschaft/trumps-zoelle-sind-toxisch-geworden-ld.10055292",
+"text": "Der Wirtschaftsprofessor Richard Baldwin erklärt im Interview, warum die Republikaner die Midterm-Wahlen so deutlich verloren haben. Er sagt, die amerikanischen Wähler hassten die Inflation.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/05/236b4a31-bf31-4fc8-bd54-57cee39bcf6b.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4977,4977,x738,y311",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-06T04:30:00+00:00",
+"sum": "Der Wirtschaftsprofessor Richard Baldwin erklärt im Interview, warum die Republikaner die Midterm-Wahlen so deutlich verloren haben. Er sagt, die amerikanischen Wähler hassten die Inflation."
+},
+{
+"id": "a970468741ca",
+"title": "Im Dezember fliesst die 13. AHV-Rente zum ersten Mal: Wer wie viel Geld erhält",
+"link": "https://www.nzz.ch/wirtschaft/im-dezember-fliesst-die-13-ahv-rente-zum-ersten-mal-so-hoch-faellt-die-zahlung-aus-und-deshalb-erhalten-verheiratete-weniger-ld.10048457",
+"text": "Nicht alle profitieren gleich stark von der «Dreizehnten». Der ausbezahlte Betrag hängt davon ab, wie gut man die Kriterien der AHV erfüllen kann. Und für Verheiratete gibt es eine Obergrenze.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/05/cda10352-d3cf-49d3-be28-6714189227f3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2848,2848,x553,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-06T04:30:00+00:00",
+"sum": "Nicht alle profitieren gleich stark von der «Dreizehnten». Der ausbezahlte Betrag hängt davon ab, wie gut man die Kriterien der AHV erfüllen kann. Und für Verheiratete gibt es eine Obergrenze."
+},
+{
+"id": "070827bc73c7",
+"title": "Vom Brau- zum Brausemeister: Paulaner trotzt mit Spezi der Bierkrise",
+"link": "https://www.nzz.ch/wirtschaft/vom-brau-zum-brausemeister-paulaner-trotzt-mit-spezi-der-bierkrise-ld.10026396",
+"text": "Vielen Brauereien geht es schlecht, weil die Leute immer weniger Bier trinken. Paulaner hingegen profitiert vom Hype um ein Süssgetränk – und will diesen jetzt in die Schweiz bringen.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/28/b8ead606-732c-4791-8dee-c17b278dd666.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2151,2151,x1293,y952",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-06T04:30:00+00:00",
+"sum": "Vielen Brauereien geht es schlecht, weil die Leute immer weniger Bier trinken. Paulaner hingegen profitiert vom Hype um ein Süssgetränk – und will diesen jetzt in die Schweiz bringen."
+},
+{
+"id": "8920b84f7154",
+"title": "Zustellung in 30 Minuten aus der Luft: Amazon und Walmart liefern ihre Produkte nun mit Drohnen aus",
+"link": "https://www.nzz.ch/technologie/zustellung-in-30-minuten-aus-der-luft-amazon-und-walmart-liefern-ihre-produkte-nun-mit-drohnen-aus-ld.10029757",
+"text": "Amerikas Tech-Konzerne versprechen ultraschnelle Lieferungen per Drohne und weniger Diebstahl. Doch funktioniert die Technologie tatsächlich so gut? Ein Selbstversuch.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/19/ee74c30c-8700-4c07-abcf-4e2b4d67bf41.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4186,4186,x439,y0",
+"source": "NZZ",
+"topic": "Tech",
+"date": "2026-11-06T04:30:00+00:00",
+"sum": "Amerikas Tech-Konzerne versprechen ultraschnelle Lieferungen per Drohne und weniger Diebstahl. Doch funktioniert die Technologie tatsächlich so gut? Ein Selbstversuch."
+},
+{
+"id": "b5e7e97caf1c",
+"title": "Künstliche Intelligenz soll die Wissenschaft revolutionieren. Diese Forscher zeigen, wie es gelingt",
+"link": "https://www.nzz.ch/wissenschaft/kuenstliche-intelligenz-soll-die-wissenschaft-revolutionieren-diese-forscher-zeigen-wie-es-gelingt-ld.10025838",
+"text": "Von der Biologie bis zur Geschichtswissenschaft: KI macht Fortschritte möglich, die bislang undenkbar waren.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/01/04c89bab-d790-4e9d-b9fc-633511931669.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2479,2479,x894,y257",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-06T04:30:00+00:00",
+"sum": "Von der Biologie bis zur Geschichtswissenschaft: KI macht Fortschritte möglich, die bislang undenkbar waren."
+},
+{
+"id": "4d71b9a84f98",
+"title": "PODCAST «NZZ QUANTENSPRUNG» - Mikroglia: Heilen diese unterschätzten Zellen Alzheimer?",
+"link": "https://www.nzz.ch/podcast/mikroglia-heilen-diese-unterschaetzten-zellen-alzheimer-ld.10052152",
+"text": "Lange befasst sich die Alzheimer-Forschung nur mit Ablagerungen im Gehirn. Heute wissen Forscher um die wichtige Rolle der hirneigenen Immunzellen, der Mikroglia. Sogar eine Impfung gegen Alzheimer könnte dank ihnen möglich werden.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/05/235aa5f0-2120-4b48-a6d2-e75a1474fb28.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3226,3226,x570,y0",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-06T04:30:00+00:00",
+"sum": "Lange befasst sich die Alzheimer-Forschung nur mit Ablagerungen im Gehirn. Heute wissen Forscher um die wichtige Rolle der hirneigenen Immunzellen, der Mikroglia. Sogar eine Impfung gegen Alzheimer könnte dank ihnen möglich werden."
+},
+{
+"id": "bc6e199d1d3e",
+"title": "Kongress lehnt Peñas Rücktritt an - Staatsanwalt ermittelt",
+"link": "https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html",
+"text": "In Paraguay schaltet sich nun die Staatsanwaltschaft ein. Präsident Peña erklärte zwar seinen Rücktritt - der Kongress nahm diesen aber nicht an und eröffnete ein Amtsenthebungsverfahren.",
+"img": "https://images.tagesschau.de/image/94c28f9f-19db-42b3-affc-89e97f426193/AAABoa7G9xc/AAABnSSvrFg/16x9-big/paraguay-kongress-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-06T04:28:23+00:00",
+"sum": "In Paraguay schaltet sich nun die Staatsanwaltschaft ein. Präsident Peña erklärte zwar seinen Rücktritt - der Kongress nahm diesen aber nicht an und eröffnete ein Amtsenthebungsverfahren."
+},
+{
+"id": "027fd46a8752",
+"title": "OpenAIs für Cybersecurity verbessertes KI-Modell GPT-6 Cyber hält sich an Regeln",
+"link": "https://www.heise.de/news/OpenAIs-fuer-Cybersecurity-verbessertes-KI-Modell-GPT-6-Cyber-haelt-sich-an-Regeln-11514280.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Das neue KI-Modell GPT-6 Cyber soll mehr Schwachstellen finden können, aber innerhalb vorgegebener Grenzen bleiben. Ausbrüche will OpenAI damit nun vermeiden.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-06T04:04:00+00:00",
+"sum": "Das neue KI-Modell GPT-6 Cyber soll mehr Schwachstellen finden können, aber innerhalb vorgegebener Grenzen bleiben. Ausbrüche will OpenAI damit nun vermeiden."
+},
+{
+"id": "de6a717bd9e9",
+"title": "Haft statt Todesstrafe – Kaliforniens Gouverneur Newsom will alle Todesurteile umwandeln",
+"link": "https://www.srf.ch/news/international/usa/haft-statt-todesstrafe-kaliforniens-gouverneur-newsom-will-alle-todesurteile-umwandeln",
+"text": "Alle 548 Todesurteile im westlichen US-Bundesstaat sollen in lebenslange Haftstrafen umgewandelt werden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a554d75.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-06T03:20:45+00:00",
+"sum": "Alle 548 Todesurteile im westlichen US-Bundesstaat sollen in lebenslange Haftstrafen umgewandelt werden."
+},
 {
 "id": "f2de1e36f651",
 "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
@@ -576,17 +763,6 @@
 "sum": "Die Google Pixel Watch 5 mit Actua-360-Display, präziser Schlafanalyse und bis zu 40 Stunden Akkulaufzeit ist bei Amazon reduziert. ( Google Pixel , Smartwatch )"
 },
 {
-"id": "21ef659663ba",
-"title": "SpaceX treibt Mobilfunkpläne voran",
-"link": "https://www.heise.de/news/SpaceX-treibt-Mobilfunkplaene-voran-11513211.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "SpaceX will Starlink in den USA als integrierten Mobilfunkanbieter etablieren und greift dabei zu Technik von Qualcomm. Auch eine Übernahme ist im Gespräch.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-05T16:30:00+00:00",
-"sum": "SpaceX will Starlink in den USA als integrierten Mobilfunkanbieter etablieren und greift dabei zu Technik von Qualcomm. Auch eine Übernahme ist im Gespräch."
-},
-{
 "id": "86084f4dc7b3",
 "title": "Bilder der Woche: Eine Schönheit, die keiner haben will",
 "link": "https://www.spektrum.de/alias/bilder-der-woche/laternentraegerzikade-eine-schoenheit-die-keiner-haben-will/2352920",
@@ -620,17 +796,6 @@
 "sum": "Im Interview mit Jan Böhmermann glaubt Wolodomir Selenski an eine Kehrtwende in Washington. Wunsch oder Wirklichkeit?"
 },
 {
-"id": "abdd0f6bb76d",
-"title": "heise+ | Organisches Wachstum: Apples neues iPad mini 8 im Test",
-"link": "https://www.heise.de/tests/Organisches-Wachstum-Apples-neues-iPad-mini-8-im-Test-11513928.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Erstmals baut Apple in das iPad mini einen OLED-Screen. Die neue Version hebt ausserdem die Performance auf ein zeitgemässes Level. Wir prüfen alle Neuerungen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-05T16:14:00+00:00",
-"sum": "Erstmals baut Apple in das iPad mini einen OLED-Screen. Die neue Version hebt ausserdem die Performance auf ein zeitgemässes Level. Wir prüfen alle Neuerungen."
-},
-{
 "id": "abe59682e362",
 "title": "Vize-Regierungschef Bayerns – Nach Aiwangers Tod kein Hinweis auf Fremdverschulden",
 "link": "https://www.srf.ch/news/international/vize-regierungschef-bayerns-nach-aiwangers-tod-kein-hinweis-auf-fremdverschulden",
@@ -651,17 +816,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-05T16:08:41+00:00",
 "sum": "Eine neue Statistik belegt: Die Zahl der Opfer durch die hohen Sommer-Temperaturen wurde unterschätzt. Gleichzeitig ist den Daten zu entnehmen: Viele Todesfälle liessen sich verhindern."
-},
-{
-"id": "e398324d01e1",
-"title": "Kopfhörer MDR-3R: Sony bringt „Ikone der Walkman-Ära“ zurück",
-"link": "https://www.heise.de/news/Kopfhoerer-MDR-3R-Sony-bringt-Ikone-der-Walkman-Aera-zurueck-11512800.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Sony nimmt am Achtziger-Hype teil und modernisiert klassische Walkman-Ohrhörer mit USB-C. Interessant dürfte der Klang werden – auch für die Umgebung.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-05T16:00:00+00:00",
-"sum": "Sony nimmt am Achtziger-Hype teil und modernisiert klassische Walkman-Ohrhörer mit USB-C. Interessant dürfte der Klang werden – auch für die Umgebung."
 },
 {
 "id": "e205d219fa08",
@@ -695,17 +849,6 @@
 "topic": "Welt",
 "date": "2026-11-05T15:42:30+00:00",
 "sum": "Russell Brand - der britische Komiker und Schauspieler - blickt einer Gefängnisstrafe entgegen. Der 51-Jährige ist in einem Prozess um sexuelle Gewalt in mehreren Punkten für schuldig befunden worden."
-},
-{
-"id": "94231755b2a4",
-"title": "Nach US-Zwischenwahlen: OpenAI verspricht anwohnerfreundliche Rechenzentren",
-"link": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "OpenAI kündigt zwei Tage nach den Zwischenwahlen in den USA neue Regeln für sozialverträglichere Rechenzentren an. Anwohner sollen entlastet werden.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-05T15:40:00+00:00",
-"sum": "OpenAI kündigt zwei Tage nach den Zwischenwahlen in den USA neue Regeln für sozialverträglichere Rechenzentren an. Anwohner sollen entlastet werden."
 },
 {
 "id": "2291582044fa",
@@ -807,17 +950,6 @@
 "sum": "Vor der Veröffentlichung des KI-Bilderkennungstools hat Pangram Anpassungen für Smartphone-Fotos vornehmen müssen. ( KI , Audio/Video )"
 },
 {
-"id": "17ef50f99a6a",
-"title": "Grossangelegter TV-Streich sorgt in Dänemark für Skandal",
-"link": "https://www.tagesschau.de/ausland/daenemark-tv-skandal-100.html",
-"text": "Ist es in Ordnung, wenn 150 Menschen über Monate einen Freund und Kollegen belügen, um am Ende aufzulösen, dass alles nur ein Spass fürs Fernsehen war? In Dänemark wird heftig über ein TV-Format diskutiert. Von Arne Bartram.",
-"img": "https://images.tagesschau.de/image/2460cd03-bee3-4439-8157-17c7a3a50c9d/AAABoa0DFUo/AAABnSSvrFg/16x9-big/wallbdrige-daenemark-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-05T14:32:28+00:00",
-"sum": "Ist es in Ordnung, wenn 150 Menschen über Monate einen Freund und Kollegen belügen, um am Ende aufzulösen, dass alles nur ein Spass fürs Fernsehen war? In Dänemark wird heftig über ein TV-Format diskutiert. Von Arne Bartram."
-},
-{
 "id": "2d664393c57b",
 "title": "Protest gegen Stellenabbau – Tamedia-Mitarbeitende streiken in der ganzen Schweiz",
 "link": "https://www.srf.ch/news/schweiz/protest-gegen-stellenabbau-tamedia-mitarbeitende-streiken-in-der-ganzen-schweiz",
@@ -846,7 +978,7 @@
 "text": "Die Bundesregierung übernimmt alle Anteile der Eigentümerfamilien am Panzerbauer KNDS. Damit sichert sich der Bund den Einfluss auf Schlüsseltechnologien - und gibt offenbar weniger Geld aus als geplant.",
 "img": "https://images.tagesschau.de/image/6f75b1ab-b532-402d-aeda-80741bbaa204/AAABoatgVf0/AAABnSSvrFg/16x9-big/knds-156.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-05T14:11:59+00:00",
 "sum": "Die Bundesregierung übernimmt alle Anteile der Eigentümerfamilien am Panzerbauer KNDS. Damit sichert sich der Bund den Einfluss auf Schlüsseltechnologien - und gibt offenbar weniger Geld aus als geplant."
 },
@@ -1027,17 +1159,6 @@
 "sum": "Ein Hongkonger Gericht hat den Aktivisten Joshua Wong zu zehn weiteren Jahren Gefängnis verurteilt."
 },
 {
-"id": "342ab3dac724",
-"title": "Midterms 2026 – Sechs historische Premieren der US-Zwischenwahlen",
-"link": "https://www.srf.ch/news/international/midterms-2026-sechs-historische-premieren-der-us-zwischenwahlen",
-"text": "Mehr Frauen und Minderheiten in Spitzenämtern: Die US-Midterms schreiben Geschichte. Sechs historische Ereignisse.",
-"img": "https://www.srf.ch/static/cms/images//320ws/faf35a.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-05T11:52:24+00:00",
-"sum": "Mehr Frauen und Minderheiten in Spitzenämtern: Die US-Midterms schreiben Geschichte. Sechs historische Ereignisse."
-},
-{
 "id": "11ec54b193bf",
 "title": "Weitere Sport-News – Badminton-Elite-Turnier in Genf – Unihockey-Kader so jung wie nie",
 "link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-badminton-elite-turnier-in-genf-unihockey-kader-so-jung-wie-nie",
@@ -1157,17 +1278,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-05T08:00:00+00:00",
 "sum": "Trockenübung für den Ernstfall: Mäuse, die Artgenossen beim Kämpfen bloss zusehen, sind selbst besser auf einen späteren Kampf vorbereitet."
-},
-{
-"id": "a8a22278e22f",
-"title": "Hightech in Rüstungsindustrie – Schweizer Firmen sind im Markt für Kriegsdrohnen vorne mit dabei",
-"link": "https://www.srf.ch/news/dialog/hightech-in-ruestungsindustrie-schweizer-firmen-sind-im-markt-fuer-kriegsdrohnen-vorne-mit-dabei",
-"text": "Drohnen sind das grosse neue Ding der Rüstungsindustrie. Wie es Schweizer Unternehmen gelingt, vorne mitzumischen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/10650b2.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-05T07:51:53+00:00",
-"sum": "Drohnen sind das grosse neue Ding der Rüstungsindustrie. Wie es Schweizer Unternehmen gelingt, vorne mitzumischen."
 },
 {
 "id": "035c08c5508c",
@@ -1335,28 +1445,6 @@
 "sum": "Der Rückversicherer hat einen höheren Nettogewinn erzielt. Alle Bereiche hätten einen Beitrag geliefert. Bei der Erreichung der Jahresziele sieh sich der Konzern auf Kurs."
 },
 {
-"id": "50ae26a8ebc6",
-"title": "Jung, digital, skrupellos – Gefährliche «Gen-Z-Mafia» macht Basel zum Hotspot",
-"link": "https://www.srf.ch/news/schweiz/jung-digital-skrupellos-gefaehrliche-gen-z-mafia-macht-basel-zum-hotspot",
-"text": "SRF Investigativ verfolgt die Spur der «Tolhildan» in der Schweiz und deckt ein neues Mafia-Phänomen auf.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d1fafe.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-05T05:00:03+00:00",
-"sum": "SRF Investigativ verfolgt die Spur der «Tolhildan» in der Schweiz und deckt ein neues Mafia-Phänomen auf."
-},
-{
-"id": "8096d3154c4d",
-"title": "Stromreserve im Winter – Zweifel an geplanten Reservekraftwerken werden grösser",
-"link": "https://www.srf.ch/news/schweiz/stromreserve-im-winter-zweifel-an-geplanten-reservekraftwerken-werden-groesser",
-"text": "Nach den Energiepolitikern im Nationalrat stellt nun auch die Finanzkontrolle die geplanten Reservekraftwerke in Frage.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e310ee.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-05T04:58:00+00:00",
-"sum": "Nach den Energiepolitikern im Nationalrat stellt nun auch die Finanzkontrolle die geplanten Reservekraftwerke in Frage."
-},
-{
 "id": "a3cfc40f3b70",
 "title": "Blaue Welle und roter Frust – US-Publizist: «Die Maga-Bewegung ist am Ende»",
 "link": "https://www.srf.ch/news/international/usa/blaue-welle-und-roter-frust-us-publizist-die-maga-bewegung-ist-am-ende",
@@ -1522,17 +1610,6 @@
 "sum": "Die Weltgesundheitsorganisation (WHO) hat den Gesundheitsnotstand ausgerufen. Die Infektionszahlen steigen weiterhin an. Die wichtigsten Antworten zum Ebola-Virus."
 },
 {
-"id": "e93d7ccccb26",
-"title": "Wahlversprechen von Magyar – Ungarn macht erstmals Stasi-Akten umfassend zugänglich",
-"link": "https://www.srf.ch/news/international/wahlversprechen-von-magyar-ungarn-macht-erstmals-stasi-akten-umfassend-zugaenglich",
-"text": "Rund 55'000 Namen stehen in den ungarischen Stasi-Unterlagen – manche Betroffene könnten noch leben.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f036a6.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-04T16:15:52+00:00",
-"sum": "Rund 55'000 Namen stehen in den ungarischen Stasi-Unterlagen – manche Betroffene könnten noch leben."
-},
-{
 "id": "03b2231439fe",
 "title": "Deutsche verbrauchen 2026 weniger Energie - das hat einen Grund",
 "link": "https://www.tagesschau.de/wirtschaft/energie/energiebilanz-heizoel-100.html",
@@ -1542,17 +1619,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T16:05:31+00:00",
 "sum": "Deutschlands Energieverbrauch sinkt laut Experten in diesem Jahr. Besonders beim Heizöl halten sich die Haushalte zurück, zugleich wächst der Anteil Erneuerbarer Energien."
-},
-{
-"id": "5c1f01ce320d",
-"title": "Midterms in den USA – Machtwechsel im Kongress: Die Ergebnisse auf einen Blick",
-"link": "https://www.srf.ch/news/international/usa/midterms-in-den-usa-machtwechsel-im-kongress-die-ergebnisse-auf-einen-blick",
-"text": "So kam es zur Niederlage der Republikaner – und in diesen Bundesstaaten verzeichnen die Demokraten historische Siege.",
-"img": "https://www.srf.ch/static/cms/images//320ws/dd733f.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-04T15:59:30+00:00",
-"sum": "So kam es zur Niederlage der Republikaner – und in diesen Bundesstaaten verzeichnen die Demokraten historische Siege."
 },
 {
 "id": "50f59fe93515",
@@ -1643,17 +1709,6 @@
 "sum": "Nach massiven Protesten in Dhaka hebt die Regierung den Mindestlohn für Millionen Textilarbeiter ab Januar an."
 },
 {
-"id": "d27fa65973f2",
-"title": "«Gold, Kupfer und Silber werden von Menschheit seit Jahrtausenden gebraucht»",
-"link": "https://www.finews.ch/news/finanzplatz/74328-alexandre-carrier-dnca-edelmetalle-industriemetalle-terminmarkt-debasement-transition",
-"text": "«Wir können bis heute nicht auf bestimmte Metalle verzichten, weil sie super Eigenschaften haben», sagt DNCA-Portfoliomanager Alexandre Carrier im Gespräch mit finews. Das veränderte geopolitische Umfeld und der neue rohstoffintensive Wirtschaftszyklus sprechen für Edel- und Industriemetalle. Darin zu investieren ist allerdings nicht trivial.",
-"img": "https://www.finews.ch/images/news/2026/11/Alexandre-Carrier-DNCA.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-04T10:02:44+00:00",
-"sum": "«Wir können bis heute nicht auf bestimmte Metalle verzichten, weil sie super Eigenschaften haben», sagt DNCA-Portfoliomanager Alexandre Carrier im Gespräch mit finews. Das veränderte geopolitische Umfeld und der neue rohstoffintensive Wirtschaftszyklus sprechen für Edel- und Industriemetalle. Darin zu investieren ist allerdings nicht trivial."
-},
-{
 "id": "393a6f0ba82e",
 "title": "Sind Männer gesundheitlich schlechter dran als Frauen?",
 "link": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
@@ -1707,39 +1762,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T05:23:01+00:00",
 "sum": "Fluggesellschaften klagen über zu hohe Steuern und Abgaben in Deutschland. Die Airlines haben zuletzt etliche Verbindungen gestrichen. Verliert die deutsche Luftfahrt den Anschluss? Von Sebastian Schreiber."
-},
-{
-"id": "cff1dd82e5f7",
-"title": "Google liess in Finnland ohne Erlaubnis 530 Hektaren Wald roden. Wie konnte es so weit kommen?",
-"link": "https://www.nzz.ch/wirtschaft/google-laesst-in-finnland-illegal-wald-roden-skandal-um-530-hektar-ld.10046380",
-"text": "Rechenzentren sollten die marode Wirtschaft Finnlands retten, doch nun formiert sich im Land breiter Widerstand. Die Behörden haben die Arbeiten vorläufig gestoppt. Die Polizei ermittelt.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/28/9ed95838-2e68-4e9f-ba1f-45dfbaeedde2.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2531,2531,x1059,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-04T04:30:00+00:00",
-"sum": "Rechenzentren sollten die marode Wirtschaft Finnlands retten, doch nun formiert sich im Land breiter Widerstand. Die Behörden haben die Arbeiten vorläufig gestoppt. Die Polizei ermittelt."
-},
-{
-"id": "242ccf61bacc",
-"title": "INTERVIEW - «Das grösste Problem von Verwaltungsräten ist, dass niemand widerspricht»",
-"link": "https://www.nzz.ch/wirtschaft/das-groesste-problem-von-verwaltungsraeten-ist-dass-niemand-widerspricht-ld.10039538",
-"text": "Marc O. Stöckli hat über 200 Verwaltungsratssitzungen erlebt und darüber ein Buch geschrieben. Er sagt, warum erfolgreiche Chefs nicht automatisch gute Verwaltungsräte sind. Und was es mit dem Fall Lindt und Sprüngli auf sich hat.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/28/57f01756-f48f-447c-be0a-dc0e278b6875.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1703,1703,x0,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-04T04:30:00+00:00",
-"sum": "Marc O. Stöckli hat über 200 Verwaltungsratssitzungen erlebt und darüber ein Buch geschrieben. Er sagt, warum erfolgreiche Chefs nicht automatisch gute Verwaltungsräte sind. Und was es mit dem Fall Lindt und Sprüngli auf sich hat."
-},
-{
-"id": "17418a2113e5",
-"title": "Der «Speckgürtel» triumphiert: Kluge Hauskäufer und Investoren sollten einen grossen Bogen um die Städte machen",
-"link": "https://www.nzz.ch/wirtschaft/der-speckguertel-triumphiert-kluge-hauskaeufer-und-investoren-sollten-einen-grossen-bogen-um-die-staedte-machen-ld.10038459",
-"text": "In Zürich zahlen Investoren Höchstpreise für Immobilien mit wenig Ertrag. Ökonomen fordern ein Umdenken. Denn die Chancen liegen in den Vororten. Teil 2 der Immobilien-Serie «Raus aus der Stadt».",
-"img": "https://img-msp-prod.nzz.ch/2026/10/20/86951c96-cf9d-44aa-8d75-befef37acdc2.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-04T04:30:00+00:00",
-"sum": "In Zürich zahlen Investoren Höchstpreise für Immobilien mit wenig Ertrag. Ökonomen fordern ein Umdenken. Denn die Chancen liegen in den Vororten. Teil 2 der Immobilien-Serie «Raus aus der Stadt»."
 },
 {
 "id": "4d9214590b18",
@@ -1830,26 +1852,15 @@
 "sum": "Die KI ist gekommen, um zu bleiben. Der Rat der Expertin: mitgestalten, weiterbilden und sich auf den Wandel einlassen."
 },
 {
-"id": "66d8682a1c81",
-"title": "Jahresbilanz – Apple macht 132 Milliarden Dollar Gewinn – ein neuer Rekord",
-"link": "https://www.srf.ch/news/wirtschaft/jahresbilanz-apple-macht-132-milliarden-dollar-gewinn-ein-neuer-rekord",
-"text": "Erstmals hat der neue Chef die Zahlen präsentiert. Apple ist nun wieder das wertvollste Unternehmen der Welt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6d2bde.webp",
-"source": "SRF",
+"id": "46207990a700",
+"title": "Liontrust-CEO: «Wollen Schweizer Geschäft auf breitere Beine stellen»",
+"link": "https://www.finews.ch/news/finanzplatz/74286-liontrust-john-ions-schweiz-expansion-uebernahme-gam-asset-management",
+"text": "Liontrust-Chef John Ions will das Geschäft in der Schweiz ausbauen und prüft dazu auch den Kauf eines Vermögensverwalters. Im Interview erklärt er, weshalb ihn das Scheitern der GAM-Übernahme nicht von seinem Kurs abbringt.",
+"img": "https://www.finews.ch/images/news/2026/11/Liontrust_john_ions.png",
+"source": "finews",
 "topic": "Wirtschaft",
-"date": "2026-11-03T05:00:06+00:00",
-"sum": "Erstmals hat der neue Chef die Zahlen präsentiert. Apple ist nun wieder das wertvollste Unternehmen der Welt."
-},
-{
-"id": "55ab5ef62b82",
-"title": "Sehr grosse Unterschiede bei den Renditen von Säule-3a-Vorsorgefonds: Wie man das richtige Produkt auswählt",
-"link": "https://www.nzz.ch/finanzen/renditen-von-saeule-3a-fonds-im-vergleich-so-finden-sie-das-beste-produkt-ld.10048548",
-"text": "In den vergangenen fünf Jahren haben sich die Produkte für die Säule 3a sehr unterschiedlich entwickelt. Dafür gibt es verschiedene Gründe. Was bei der Vorsorge in der dritten Säule zu beachten ist.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/30/f5ea3a9f-b41f-45d1-ae33-09210be7f889.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1012,1012,x395,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-03T04:30:00+00:00",
-"sum": "In den vergangenen fünf Jahren haben sich die Produkte für die Säule 3a sehr unterschiedlich entwickelt. Dafür gibt es verschiedene Gründe. Was bei der Vorsorge in der dritten Säule zu beachten ist."
+"date": "2026-11-03T05:44:14+00:00",
+"sum": "Liontrust-Chef John Ions will das Geschäft in der Schweiz ausbauen und prüft dazu auch den Kauf eines Vermögensverwalters. Im Interview erklärt er, weshalb ihn das Scheitern der GAM-Übernahme nicht von seinem Kurs abbringt."
 }
 ]
 }
