@@ -1,18 +1,29 @@
 {
-"updated": "2026-11-06T22:54:52+00:00",
+"updated": "2026-11-07T01:18:19+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
-"id": "e96cf62df22f",
-"title": "Krise nach Bankenskandal – Paraguays Senat beschliesst Absetzung von Präsident Peña",
-"link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-paraguays-senat-beschliesst-absetzung-von-praesident-pena",
+"id": "e6b76213a0c3",
+"title": "Krise nach Bankenskandal – Nach Amtsenthebung: Paraguays Präsident Peña unter Hausarrest",
+"link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-nach-amtsenthebung-paraguays-praesident-pena-unter-hausarrest",
 "text": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
 "img": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
 "source": "SRF",
 "topic": "Welt",
-"date": "2026-11-06T22:44:14+00:00",
+"date": "2026-11-07T00:43:23+00:00",
 "sum": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick."
+},
+{
+"id": "c9b2b6d5d316",
+"title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+"link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+"text": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
+"img": "https://images.tagesschau.de/image/7bd1dc74-b219-499d-9b06-dc6fe94316da/AAABobNOoTQ/AAABnSSvrFg/16x9-big/pena-106.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T00:06:18+00:00",
+"sum": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt."
 },
 {
 "id": "2760a40f5d3f",
@@ -739,17 +750,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T14:30:00+00:00",
 "sum": "Schmetterlinge flattern vielleicht nicht mehr im Bauch, wenn man jahrzehntelang mit dem gleichen Partner zusammen ist. Dafür hat die Liebe im Alter andere Qualitäten."
-},
-{
-"id": "f598051841d5",
-"title": "Übergriffe mit K.-o.-Tropfen: Warum anonyme Spurensicherung so wichtig ist",
-"link": "https://www.tagesschau.de/inland/gesellschaft/ko-tropfen-sexualisierte-gewalt-nachweis-100.html",
-"text": "Ob im Club, an der Bar oder beim Karneval: K.-o.-Tropfen werden oft zur unsichtbaren Gefahr. Die anonyme Spurensicherung in Kliniken ermöglicht Betroffenen, Beweise zu sichern, ohne sofort die Polizei einschalten zu müssen. Von Jan Koch.",
-"img": "https://images.tagesschau.de/image/e8251f35-0ee3-4d33-bb05-06f4c1145f82/AAABniHYgeg/AAABnSSvrFg/16x9-big/getraenk-106.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T14:27:53+00:00",
-"sum": "Ob im Club, an der Bar oder beim Karneval: K.-o.-Tropfen werden oft zur unsichtbaren Gefahr. Die anonyme Spurensicherung in Kliniken ermöglicht Betroffenen, Beweise zu sichern, ohne sofort die Polizei einschalten zu müssen. Von Jan Koch."
 },
 {
 "id": "d12c6f61c0e6",
