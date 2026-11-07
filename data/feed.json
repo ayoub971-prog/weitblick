@@ -1,8 +1,217 @@
 {
-"updated": "2026-11-07T18:59:43+00:00",
+"updated": "2026-11-07T20:52:06+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "3ec5331b3dab",
+"title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
+"link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+"text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden.",
+"img": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T20:49:31+00:00",
+"sum": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden."
+},
+{
+"id": "8fa3a4458419",
+"title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+"link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+"text": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
+"img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T20:49:05+00:00",
+"sum": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist."
+},
+{
+"id": "476893b6f1b0",
+"title": "Erst auf Tauchstation, nun in Panik: Der Möchtegern-Wirtschaftsminister Beat Jans ordnet eine Untersuchung zur «Lex On» an",
+"link": "https://www.nzz.ch/wirtschaft/erst-auf-tauchstation-nun-in-panik-der-moechtegern-wirtschaftsminister-beat-jans-ordnet-eine-untersuchung-zur-lex-on-an-ld.10053042",
+"text": "On setzte den Bund massiv unter Druck, damit Schuhe aus Asien das Schweizerkreuz tragen dürfen. Der verantwortliche Justizminister wollte von dem Konflikt nichts wissen – bis er selbst in den Fokus geriet.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/31/da72d2dc-d983-4ad6-8e2c-f7e774d79cf9.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2274,2274,x952,y347",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-07T20:45:00+00:00",
+"sum": "On setzte den Bund massiv unter Druck, damit Schuhe aus Asien das Schweizerkreuz tragen dürfen. Der verantwortliche Justizminister wollte von dem Konflikt nichts wissen – bis er selbst in den Fokus geriet."
+},
+{
+"id": "1c9db96ecdea",
+"title": "Biodiversität und Klimaschutz – Indien kämpft mit künstlichen Korallenriffen gegen Insel-Erosion",
+"link": "https://www.srf.ch/news/international/biodiversitaet-und-klimaschutz-indien-kaempft-mit-kuenstlichen-korallenriffen-gegen-insel-erosion",
+"text": "Künstliche Riffe, angesiedelte Korallen und renaturiertes Seegras sollen Inseln vor dem Meer retten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7527ea.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T20:38:16+00:00",
+"sum": "Künstliche Riffe, angesiedelte Korallen und renaturiertes Seegras sollen Inseln vor dem Meer retten."
+},
+{
+"id": "71a1532102c4",
+"title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+"link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+"text": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+"img": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T20:33:23+00:00",
+"sum": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft."
+},
+{
+"id": "e68a8d456af9",
+"title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+"link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+"text": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
+"img": "https://images.tagesschau.de/image/1468c2f0-97fc-4df3-8608-e7ff13e7a1a9/AAABobeoupM/AAABnSSvrFg/16x9-big/eisenkot-116.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T20:31:48+00:00",
+"sum": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden."
+},
+{
+"id": "1cf0acaaa1b5",
+"title": "Formel 1: GP Brasilien – Verregnetes Qualifying spült Norris auf die Pole – Hülkenberg 4.",
+"link": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-gp-brasilien-verregnetes-qualifying-spuelt-norris-auf-die-pole-huelkenberg-4",
+"text": "Eine lange Regenpause und Lando Norris im McLaren prägten das Qualifying zum GP von Brasilien.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b222f7.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T20:30:35+00:00",
+"sum": "Eine lange Regenpause und Lando Norris im McLaren prägten das Qualifying zum GP von Brasilien."
+},
+{
+"id": "667f63556b52",
+"title": "Polen – Sechs Tote und über ein Dutzend Verletzte bei Schüssen in Krakau",
+"link": "https://www.srf.ch/news/international/polen-sechs-tote-und-ueber-ein-dutzend-verletzte-bei-schuessen-in-krakau",
+"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T20:18:41+00:00",
+"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
+},
+{
+"id": "c02576319e41",
+"title": "Kostyuk rückt nach – Rybakania verzichtet auf Teilnahme an den WTA Finals",
+"link": "https://www.srf.ch/sport/tennis/wta-tour/kostyuk-rueckt-nach-rybakania-verzichtet-auf-teilnahme-an-den-wta-finals",
+"text": "Die Weltnummer 1 nimmt aus gesundheitlichen Gründen nicht am Saisonendturnier der Jahresbesten teil.",
+"img": "https://www.srf.ch/static/cms/images//320ws/bda84d.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T20:17:33+00:00",
+"sum": "Die Weltnummer 1 nimmt aus gesundheitlichen Gründen nicht am Saisonendturnier der Jahresbesten teil."
+},
+{
+"id": "b9590bd21fb4",
+"title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
+"link": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
+"text": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e628e3.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T20:03:58+00:00",
+"sum": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren."
+},
+{
+"id": "14455d5e1cbc",
+"title": "Trauerfeier nach Todesfall – Teneriffa nimmt unter Tränen Abschied von de Miguel",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/trauerfeier-nach-todesfall-teneriffa-nimmt-unter-traenen-abschied-von-de-miguel",
+"text": "Mit Sprechchören haben Fans, Mannschaft und Fussball-Prominenz auf Teneriffa Abschied von Jesus de Miguel genommen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/4bb28e.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T20:03:13+00:00",
+"sum": "Mit Sprechchören haben Fans, Mannschaft und Fussball-Prominenz auf Teneriffa Abschied von Jesus de Miguel genommen."
+},
+{
+"id": "b97a41bd7c16",
+"title": "Fussball aus den Topligen – Erstes Tor für Vincent Sierro bei Parma",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-erstes-tor-fuer-vincent-sierro-bei-parma",
+"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a299e8.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T19:58:02+00:00",
+"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
+},
+{
+"id": "fd176b8d8e00",
+"title": "Economiesuisse-Präsident – «Es tut weh, wenn sehr gut ausgebildete Junge keinen Job finden»",
+"link": "https://www.srf.ch/news/schweiz/economiesuisse-praesident-es-tut-weh-wenn-sehr-gut-ausgebildete-junge-keinen-job-finden",
+"text": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber.",
+"img": "https://www.srf.ch/static/cms/images//320ws/cebc46.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T19:57:36+00:00",
+"sum": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber."
+},
+{
+"id": "2a662087ac22",
+"title": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+"link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+"text": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+"img": "https://images.tagesschau.de/image/c08b02e7-e2b9-49aa-9293-2aedfefde92c/AAABobeMIMM/AAABnSSvrFg/16x9-big/papst-leo-226.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T19:56:52+00:00",
+"sum": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg."
+},
+{
+"id": "29312c41a1f2",
+"title": "Fussball aus den Topligen – Joker Okafor sticht gegen Tottenham – Arsenal enteilt ManCity",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-joker-okafor-sticht-gegen-tottenham-arsenal-enteilt-mancity",
+"text": "Noah Okafor erzielt für Leeds sein zweites Saisontor. Arsenal distanziert Manchester City auf sechs Punkte.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8aef01.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T19:34:06+00:00",
+"sum": "Noah Okafor erzielt für Leeds sein zweites Saisontor. Arsenal distanziert Manchester City auf sechs Punkte."
+},
+{
+"id": "8c0cc696dcfd",
+"title": "SIHF bezieht Position – U20-Eishockeynati tritt an WM nicht gegen Russland an",
+"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/sihf-bezieht-position-u20-eishockeynati-tritt-an-wm-nicht-gegen-russland-an",
+"text": "An der U20-WM in Kanada Ende Jahr wird die Schweiz nicht gegen Russland antreten. Das beschloss Swiss Ice Hockey.",
+"img": "https://www.srf.ch/static/cms/images//320ws/adb79d.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T19:25:30+00:00",
+"sum": "An der U20-WM in Kanada Ende Jahr wird die Schweiz nicht gegen Russland antreten. Das beschloss Swiss Ice Hockey."
+},
+{
+"id": "627e24edb273",
+"title": "Siegtor in der 92. Minute – Dank Essende und viel Dusel: YB gewinnt in Luzern",
+"link": "https://www.srf.ch/sport/fussball/super-league/siegtor-in-der-92-minute-dank-essende-und-viel-dusel-yb-gewinnt-in-luzern",
+"text": "YB besiegt den FC Luzern mit 3:2. Goalgetter Samuel Essende trifft in der Nachspielzeit, Luzerns Ausgleich zählt nicht.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c734d96.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T19:15:22+00:00",
+"sum": "YB besiegt den FC Luzern mit 3:2. Goalgetter Samuel Essende trifft in der Nachspielzeit, Luzerns Ausgleich zählt nicht."
+},
+{
+"id": "d20a067ad5e7",
+"title": "4:0-Sieg in Vaduz – Früher Doppelpack: Boteli-Ersatz Nivokazi ebnet Sion den Weg",
+"link": "https://www.srf.ch/sport/fussball/super-league/4-0-sieg-in-vaduz-frueher-doppelpack-boteli-ersatz-nivokazi-ebnet-sion-den-weg",
+"text": "Winsley Boteli fehlte dem FC Sion in Vaduz. Kein Problem: Ersatz Rilind Nivokazi trifft in der 13. SL-Runde doppelt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b9247e.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T19:06:27+00:00",
+"sum": "Winsley Boteli fehlte dem FC Sion in Vaduz. Kein Problem: Ersatz Rilind Nivokazi trifft in der 13. SL-Runde doppelt."
+},
+{
+"id": "ca4d3b50ca66",
+"title": "Top 10: Das beste Heizkörperthermostat im Test – Testsieger heizt ohne Cloud",
+"link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-testsieger-heizt-ohne-cloud/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft sogar komplett ohne Cloud. Die besten Modelle ab 45 Euro.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T19:00:00+00:00",
+"sum": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft sogar komplett ohne Cloud. Die besten Modelle ab 45 Euro."
+},
 {
 "id": "1d8f430f7920",
 "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
@@ -13,39 +222,6 @@
 "topic": "Welt",
 "date": "2026-11-07T18:57:56+00:00",
 "sum": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer."
-},
-{
-"id": "e34ed5f20a7f",
-"title": "Kunstturnen: Swiss Cup – Frankreich triumphiert – Schweizer im «Hundertstel-Pech»",
-"link": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturnen-swiss-cup-frankreich-triumphiert-schweizer-im-hundertstel-pech",
-"text": "Frankreich gewinnt den Swiss Cup im Zürcher Hallenstadion. Die Schweiz scheitert im Halbfinal denkbar knapp.",
-"img": "https://www.srf.ch/static/cms/images//320ws/085aa3.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T18:37:12+00:00",
-"sum": "Frankreich gewinnt den Swiss Cup im Zürcher Hallenstadion. Die Schweiz scheitert im Halbfinal denkbar knapp."
-},
-{
-"id": "3ec5331b3dab",
-"title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
-"link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-"text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden.",
-"img": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T18:27:27+00:00",
-"sum": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden."
-},
-{
-"id": "667f63556b52",
-"title": "Polen – Sechs Tote und über ein Dutzend Verletzte bei Schüssen in Krakau",
-"link": "https://www.srf.ch/news/international/polen-sechs-tote-und-ueber-ein-dutzend-verletzte-bei-schuessen-in-krakau",
-"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
-"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T18:21:15+00:00",
-"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
 },
 {
 "id": "65852a2a7948",
@@ -191,17 +367,6 @@
 "sum": "Die Zahl junger Erwachsener ohne Berufsabschluss ist alarmierend. Sie haben schlechtere Chancen am Jobmarkt und verdienen weniger. Zugleich suchen viele Unternehmen Fachkräfte. Von Nicole Würth."
 },
 {
-"id": "15775f30b9f2",
-"title": "Euro Hockey Tour in Helsinki – Die Schweiz muss sich auch Schweden beugen",
-"link": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-in-helsinki-die-schweiz-muss-sich-auch-schweden-beugen",
-"text": "Beim 2. Spiel der Euro Hockey Tour in Helsinki hält die Nati gegen «Tre Kronor» phasenweise gut mit, verliert aber 2:4.",
-"img": "https://www.srf.ch/static/cms/images//320ws/46e70c.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T15:49:37+00:00",
-"sum": "Beim 2. Spiel der Euro Hockey Tour in Helsinki hält die Nati gegen «Tre Kronor» phasenweise gut mit, verliert aber 2:4."
-},
-{
 "id": "611bf63823d7",
 "title": "Teure Spitzenmedizin – Krebserkrankungen durch das Medikament Zolgensma?",
 "link": "https://www.srf.ch/news/international/teure-spitzenmedizin-krebserkrankungen-durch-das-medikament-zolgensma",
@@ -235,17 +400,6 @@
 "sum": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?"
 },
 {
-"id": "132c0ecc5646",
-"title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-"link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
-"text": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
-"img": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T14:45:52+00:00",
-"sum": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders."
-},
-{
 "id": "ade362f1fd78",
 "title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
 "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
@@ -255,17 +409,6 @@
 "topic": "Welt",
 "date": "2026-11-07T14:41:43+00:00",
 "sum": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen."
-},
-{
-"id": "1dc35f1eeb36",
-"title": "Fussball aus den Topligen – Joker Okafor sticht gegen Tottenham",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-joker-okafor-sticht-gegen-tottenham",
-"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/8aef01.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T14:41:35+00:00",
-"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
 },
 {
 "id": "975a0f8b4cd5",
@@ -310,17 +453,6 @@
 "topic": "Tech",
 "date": "2026-11-07T13:17:02+00:00",
 "sum": "Netflix bringt ein Spin-off von Stranger Things: Other Worlds spielt in den 50er Jahren und kommt mit neuen Charakteren. ( Netflix , Streaming )"
-},
-{
-"id": "8aa36beaef13",
-"title": "Optionen sollen geprüft werden – Nach tagelangen Beratungen: IIHF spielt auf Zeit",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/optionen-sollen-geprueft-werden-nach-tagelangen-beratungen-iihf-spielt-auf-zeit",
-"text": "In der Debatte um die Teilnahme Russlands an Eishockey-Turnieren lässt der Weltverband endlich wieder von sich hören.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a66a36.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T13:12:37+00:00",
-"sum": "In der Debatte um die Teilnahme Russlands an Eishockey-Turnieren lässt der Weltverband endlich wieder von sich hören."
 },
 {
 "id": "92265631c137",
@@ -378,17 +510,6 @@
 "sum": "Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. ( BYD , Elektroauto )"
 },
 {
-"id": "78a606015ac0",
-"title": "Schwere Schäden nach Raketenangriffen auf Kiew",
-"link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-"text": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
-"img": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T12:13:38+00:00",
-"sum": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung."
-},
-{
 "id": "9cc253ce5c2e",
 "title": "heise-Angebot: Vom Skill zum Plugin: KI mit Werkzeugen und Daten verbinden",
 "link": "https://www.heise.de/news/Vom-Skill-zum-Plugin-KI-mit-Werkzeugen-und-Daten-verbinden-11512012.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -433,17 +554,6 @@
 "sum": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können."
 },
 {
-"id": "fd176b8d8e00",
-"title": "Economiesuisse-Präsident – «Es tut weh, wenn sehr gut ausgebildete Junge keinen Job finden»",
-"link": "https://www.srf.ch/news/schweiz/economiesuisse-praesident-es-tut-weh-wenn-sehr-gut-ausgebildete-junge-keinen-job-finden",
-"text": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cebc46.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-07T11:39:41+00:00",
-"sum": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber."
-},
-{
 "id": "27a5ff7a076a",
 "title": "Drohnen-Vorfall in Leipzig: BKA fahndet mit KI-Bild",
 "link": "https://www.heise.de/news/BKA-fahndet-nach-Drohnen-Vorfall-in-Leipzig-mit-KI-Bild-11516328.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -486,17 +596,6 @@
 "topic": "Welt",
 "date": "2026-11-07T10:51:13+00:00",
 "sum": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer."
-},
-{
-"id": "b9590bd21fb4",
-"title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
-"link": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
-"text": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e628e3.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T10:44:37+00:00",
-"sum": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren."
 },
 {
 "id": "0e68300e8a61",
@@ -697,17 +796,6 @@
 "sum": "Wer erfand die Ammoniaksynthese und konnte damit Leben retten, aber auch vernichten?"
 },
 {
-"id": "0267b1404645",
-"title": "Super League live bei SRF – GC: Mit Klarheit und Kompaktheit gegen die Kompliziertheit",
-"link": "https://www.srf.ch/sport/fussball/super-league/super-league-live-bei-srf-gc-mit-klarheit-und-kompaktheit-gegen-die-kompliziertheit",
-"text": "Das Super-League-Kellerduell GC vs. Lausanne hat Zunder drin. Coach Janssen sieht mehr als einen Funken Hoffnung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1e33f1.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T07:43:02+00:00",
-"sum": "Das Super-League-Kellerduell GC vs. Lausanne hat Zunder drin. Coach Janssen sieht mehr als einen Funken Hoffnung."
-},
-{
 "id": "f57a589f9c49",
 "title": "Gina Hinojosa: Texas will Ausbau von KI-Rechenzentren auf Eis legen",
 "link": "https://www.golem.de/news/gina-hinojosa-texas-will-ausbau-von-ki-rechenzentren-auf-eis-legen-2611-214946.html",
@@ -829,17 +917,6 @@
 "sum": "Die EU-Kommission sieht Hinweise darauf, dass Tiktok seine Nutzer durch das Empfehlungssystem der App gesundheitlich gefährdet. ( Tiktok , Politik )"
 },
 {
-"id": "eeadf3771f5f",
-"title": "Gesundheitsbehörde: Grösster Masernausbruch in den USA seit 35 Jahren",
-"link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
-"text": "Die USA erleben laut der Gesundheitsbehörde CDC den grössten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
-"img": "https://images.tagesschau.de/image/dda9c1bf-5f7a-4eb5-996d-5b26807a5c39/AAABobQ9m2c/AAABnSSvrFg/16x9-big/cdc-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T06:01:55+00:00",
-"sum": "Die USA erleben laut der Gesundheitsbehörde CDC den grössten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby."
-},
-{
 "id": "56d30333e04e",
 "title": "Smart Glasses zwischen Teilhabe, Missbrauch und Lifestyle | c't uplink",
 "link": "https://www.heise.de/news/Smart-Glasses-zwischen-Teilhabe-Missbrauch-und-Lifestyle-c-t-uplink-11514694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -849,17 +926,6 @@
 "topic": "Tech",
 "date": "2026-11-07T05:30:00+00:00",
 "sum": "Manche Menschen fürchten lückenlose Überwachung durch KI-Brillen, andere geniessen dank der Technik mehr Lebensqualität. Der c’t uplink beleuchtet das Thema."
-},
-{
-"id": "2106d5e313b9",
-"title": "AfD-Leak: Die interne Sorge vor finanziellen Folgen",
-"link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
-"text": "Wer trägt die Verantwortung für das AfD-Leak? Der Landesverband Mecklenburg-Vorpommern fordert NDR und WDR zufolge, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt. Von S. Pittelkow, M. Sarti und K. Riedel.",
-"img": "https://images.tagesschau.de/image/bd60b617-030a-4c86-812a-c873b8d8e2b1/AAABobF4JXc/AAABnSSvrFg/16x9-big/afd-774.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T05:00:12+00:00",
-"sum": "Wer trägt die Verantwortung für das AfD-Leak? Der Landesverband Mecklenburg-Vorpommern fordert NDR und WDR zufolge, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt. Von S. Pittelkow, M. Sarti und K. Riedel."
 },
 {
 "id": "0b14da4743ea",
@@ -970,17 +1036,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T19:23:31+00:00",
 "sum": "Die neuesten Meldungen aus der Wirtschaft."
-},
-{
-"id": "c5633ddff674",
-"title": "Top 10: Die beste Powerbank ab 20.000 mAh",
-"link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-powerbank-ab-20000-mah-im-test-anker-nicht-testsieger/b1dg6rh?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Zum Laden von Laptops unterwegs braucht es starke Powerbanks. Wir haben die besten mobilen Akkus ab 20.000 mAh getestet.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T19:00:00+00:00",
-"sum": "Zum Laden von Laptops unterwegs braucht es starke Powerbanks. Wir haben die besten mobilen Akkus ab 20.000 mAh getestet."
 },
 {
 "id": "6d916b002c70",
@@ -1253,7 +1308,7 @@
 "text": "Bombendrohungen in Flugzeugen belasten Airlines massiv. Aviatik-Journalist Hansjörg Bürgi über Risiken und Kosten.",
 "img": "https://www.srf.ch/static/cms/images//320ws/d02b1c.webp",
 "source": "SRF",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-06T13:01:50+00:00",
 "sum": "Bombendrohungen in Flugzeugen belasten Airlines massiv. Aviatik-Journalist Hansjörg Bürgi über Risiken und Kosten."
 },
@@ -1322,28 +1377,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T10:00:00+00:00",
 "sum": "Das stark reflektierende Material besteht einzig aus Pektin und Cellulose und stellt sogar Prachtkäfer in den Schatten. Es könnte im Sommer etwa Häuser vor Hitze schützen."
-},
-{
-"id": "dba562b555a1",
-"title": "«Sie ist eine Diva» – Livestream-Panne: Pegula lästert über Andrejewa und wird ertappt",
-"link": "https://www.srf.ch/sport/tennis/wta-tour/sie-ist-eine-diva-livestream-panne-pegula-laestert-ueber-andrejewa-und-wird-ertappt",
-"text": "Jessica Pegula zieht im Training über Mirra Andrejewa her und hat keine Ahnung, dass alles aufgezeichnet wird.",
-"img": "https://www.srf.ch/static/cms/images//320ws/380b75.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T09:52:46+00:00",
-"sum": "Jessica Pegula zieht im Training über Mirra Andrejewa her und hat keine Ahnung, dass alles aufgezeichnet wird."
-},
-{
-"id": "94578daa11cb",
-"title": "WTA Finals beginnen am Sonntag – Konsolidiert Rybakina in Indian Wells ihre Vormachtstellung?",
-"link": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-beginnen-am-sonntag-konsolidiert-rybakina-in-indian-wells-ihre-vormachtstellung",
-"text": "Seit über 10 Jahren konnte keine Spielerin den Titel an den WTA Finals verteidigen. Jelena Rybakina will das ändern.",
-"img": "https://www.srf.ch/static/cms/images//320ws/fb63589.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T09:50:29+00:00",
-"sum": "Seit über 10 Jahren konnte keine Spielerin den Titel an den WTA Finals verteidigen. Jelena Rybakina will das ändern."
 },
 {
 "id": "75759c165183",
@@ -1608,28 +1641,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-05T16:08:41+00:00",
 "sum": "Eine neue Statistik belegt: Die Zahl der Opfer durch die hohen Sommer-Temperaturen wurde unterschätzt. Gleichzeitig ist den Daten zu entnehmen: Viele Todesfälle liessen sich verhindern."
-},
-{
-"id": "2291582044fa",
-"title": "Freiheit oder Sozialismus: Das sei die zentrale Fragestellung dieser Zeit, sagt Friedrich Merz",
-"link": "https://www.nzz.ch/wirtschaft/freiheit-oder-sozialismus-das-sei-die-zentrale-fragestellung-dieser-zeit-sagt-friedrich-merz-ld.10055326",
-"text": "In einer Rede outet sich der deutsche Kanzler als Anhänger des liberalen Vordenkers Friedrich August von Hayek. Genau wie dieser will sich Merz mutig für die Freiheit einsetzen – und verschweigt dabei die ordnungspolitischen Sündenfälle seiner Regierung.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/05/f6ef564a-c314-48ad-a3b4-9b6c121a17d9.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2677,2677,x1508,y631",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-05T15:32:42+00:00",
-"sum": "In einer Rede outet sich der deutsche Kanzler als Anhänger des liberalen Vordenkers Friedrich August von Hayek. Genau wie dieser will sich Merz mutig für die Freiheit einsetzen – und verschweigt dabei die ordnungspolitischen Sündenfälle seiner Regierung."
-},
-{
-"id": "6159f2547017",
-"title": "Soll die Klasse halten – Magnin steht bei seiner Rückkehr vor «schwierigstem Auftrag»",
-"link": "https://www.srf.ch/sport/fussball/super-league/soll-die-klasse-halten-magnin-steht-bei-seiner-rueckkehr-vor-schwierigstem-auftrag",
-"text": "Ludovic Magnin hat bei seiner Rückkehr zu Lausanne-Sport einen klaren Auftrag: mit dem Schlusslicht die Klasse halten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1e0874.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-05T15:30:39+00:00",
-"sum": "Ludovic Magnin hat bei seiner Rückkehr zu Lausanne-Sport einen klaren Auftrag: mit dem Schlusslicht die Klasse halten."
 },
 {
 "id": "9b9cc446a501",
