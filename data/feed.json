@@ -1,8 +1,151 @@
 {
-"updated": "2026-11-07T09:01:45+00:00",
+"updated": "2026-11-07T10:56:07+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "82c0aeb8731f",
+"title": "Bandenchef bittet UN um Vermittlung in Haiti",
+"link": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html",
+"text": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer.",
+"img": "https://images.tagesschau.de/image/73d0bee3-e219-4c15-a9b1-f2f303685d6f/AAABobWYY5E/AAABnSSvrFg/16x9-big/soldaten-transportflugzeuge-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T10:51:13+00:00",
+"sum": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer."
+},
+{
+"id": "ae28feb060ba",
+"title": "Umweltschäden des Krieges – Gaza: Satellitenbilder zeigen dramatischen Verlust an Anbaufläche",
+"link": "https://www.srf.ch/news/dialog/umweltschaeden-des-krieges-gaza-satellitenbilder-zeigen-dramatischen-verlust-an-anbauflaeche",
+"text": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können.",
+"img": "https://www.srf.ch/static/cms/images//320ws/43a1f9.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T10:46:03+00:00",
+"sum": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können."
+},
+{
+"id": "b9590bd21fb4",
+"title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
+"link": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
+"text": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e628e3.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T10:44:37+00:00",
+"sum": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren."
+},
+{
+"id": "0e68300e8a61",
+"title": "Protest gegen Microsoft-Rechenzentrum in Amsterdam – viele Festnahmen",
+"link": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Hunderte dringen auf die Baustelle eines Microsoft-Rechenzentrums in Amsterdam vor, die Polizei nimmt bis zu 200 Menschen fest. Was trieb die beiden Gruppen an?",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T10:31:00+00:00",
+"sum": "Hunderte dringen auf die Baustelle eines Microsoft-Rechenzentrums in Amsterdam vor, die Polizei nimmt bis zu 200 Menschen fest. Was trieb die beiden Gruppen an?"
+},
+{
+"id": "7cce7b98b8fa",
+"title": "Gewerbe im Stadtverkehr – Parkplatznot in Städten schreckt viele Handwerksbetriebe ab",
+"link": "https://www.srf.ch/news/schweiz/gewerbe-im-stadtverkehr-parkplatznot-in-staedten-schreckt-viele-handwerksbetriebe-ab",
+"text": "Weil es in den Städten an Parkplätzen fehlt, nehmen zahlreiche Handwerksbetriebe dort keine Aufträge mehr an.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0e13fd0.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T09:52:23+00:00",
+"sum": "Weil es in den Städten an Parkplätzen fehlt, nehmen zahlreiche Handwerksbetriebe dort keine Aufträge mehr an."
+},
+{
+"id": "975a0f8b4cd5",
+"title": "Schweizer Milchindustrie – Cremo in der Krise – ein Problem für die ganze Milchbranche",
+"link": "https://www.srf.ch/news/schweiz/schweizer-milchindustrie-cremo-in-der-krise-ein-problem-fuer-die-ganze-milchbranche",
+"text": "Der zweitgrösste Schweizer Milchverarbeiter steckt tief in den roten Zahlen. Das hat Folgen für die ganze Branche.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d2197a1.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T09:47:37+00:00",
+"sum": "Der zweitgrösste Schweizer Milchverarbeiter steckt tief in den roten Zahlen. Das hat Folgen für die ganze Branche."
+},
+{
+"id": "5c95fdf987f6",
+"title": "Spielerinnen-Wohl bei YB – Mit Anlaufstelle für Mental Health und sukzessivem Support",
+"link": "https://www.srf.ch/sport/fussball/women-s-super-league/spielerinnen-wohl-bei-yb-mit-anlaufstelle-fuer-mental-health-und-sukzessivem-support",
+"text": "Bei den YB Frauen legt man Wert auf die Belastungssteuerung und passt Strukturen an – aber nicht von heute auf morgen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a7cae38.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T09:47:20+00:00",
+"sum": "Bei den YB Frauen legt man Wert auf die Belastungssteuerung und passt Strukturen an – aber nicht von heute auf morgen."
+},
+{
+"id": "11b5048df9d0",
+"title": "Midterm-Wahlen: VW untersucht Döllner-Auftritt mit Trump",
+"link": "https://www.golem.de/news/midterm-wahlen-vw-untersucht-doellner-auftritt-mit-trump-2611-214959.html",
+"text": "Für seinen Auftritt auf einer Wahlveranstaltung wurde Audi-Chef Döllner stark kritisiert. Nun soll VW eine interne Untersuchung starten. ( Audi , Politik )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214959&page=1&ts=1794044821",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T09:47:01+00:00",
+"sum": "Für seinen Auftritt auf einer Wahlveranstaltung wurde Audi-Chef Döllner stark kritisiert. Nun soll VW eine interne Untersuchung starten. ( Audi , Politik )"
+},
+{
+"id": "01929f5e22a9",
+"title": "Welche Fakes rund um die Midterms kursieren",
+"link": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html",
+"text": "Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen. Von C. Reveland und K. König.",
+"img": "https://images.tagesschau.de/image/d775fd00-1fc3-49de-88a2-37912a1b02cb/AAABoaAmjE8/AAABnSSvrFg/16x9-big/us-zwischenwahl-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T09:46:47+00:00",
+"sum": "Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen. Von C. Reveland und K. König."
+},
+{
+"id": "3d6b490fa433",
+"title": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
+"link": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html",
+"text": "Jahrelang kaum Regen in Deutschland, heisse Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll. Von P. Sonnenberg.",
+"img": "https://images.tagesschau.de/image/ced7e003-2805-42cf-8d4a-136cf8aaf057/AAABobDXrcI/AAABnSSvrFg/16x9-big/duerre-rhein-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T09:44:35+00:00",
+"sum": "Jahrelang kaum Regen in Deutschland, heisse Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll. Von P. Sonnenberg."
+},
+{
+"id": "068faf3e38cd",
+"title": "Anzeige: Outdoor-Smartphone von Blackview jetzt mit 18 GByte RAM und riesigem Akku zum Angebotspreis",
+"link": "https://www.golem.de/news/anzeige-outdoor-smartphone-von-blackview-jetzt-mit-18-gbyte-ram-und-riesigem-akku-zum-angebotspreis-2611-214947.html",
+"text": "Kurz vor dem Black Friday hat Blackview ein neues Outdoor-Smartphone im Angebot. Es bietet einen ausdauernden Akku und gut 180 Euro Rabatt. ( Smartphone , Mobil )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214947&page=1&ts=1794044402",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T09:40:02+00:00",
+"sum": "Kurz vor dem Black Friday hat Blackview ein neues Outdoor-Smartphone im Angebot. Es bietet einen ausdauernden Akku und gut 180 Euro Rabatt. ( Smartphone , Mobil )"
+},
+{
+"id": "bb23cbed4325",
+"title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+"link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
+"text": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
+"img": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T09:28:52+00:00",
+"sum": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten."
+},
+{
+"id": "771f3b2c31f6",
+"title": "News aus den US Sports – George nahe an seinem Rekord – Doncic wie einst Chamberlain",
+"link": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-george-nahe-an-seinem-rekord-doncic-wie-einst-chamberlain",
+"text": "Hier finden Sie die wichtigsten Meldungen des Tages aus den US Sports.",
+"img": "https://www.srf.ch/static/cms/images//320ws/45e83c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T09:12:19+00:00",
+"sum": "Hier finden Sie die wichtigsten Meldungen des Tages aus den US Sports."
+},
 {
 "id": "7627e8b4f78f",
 "title": "(g+) Surveillance Pricing: Wie weit dürfen Händler Preise personalisieren?",
@@ -13,6 +156,28 @@
 "topic": "Tech",
 "date": "2026-11-07T09:00:01+00:00",
 "sum": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen ( Verbraucherschutz , KI )"
+},
+{
+"id": "787d651dfcfc",
+"title": "Kameramarkt wächst, Canon und Nikon updaten – Fotonews der Woche 45/2026",
+"link": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T09:00:00+00:00",
+"sum": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor."
+},
+{
+"id": "2848006d2916",
+"title": "heise-Angebot: iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+"link": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11492918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T09:00:00+00:00",
+"sum": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak."
 },
 {
 "id": "a695f86eff78",
@@ -156,17 +321,6 @@
 "topic": "Tech",
 "date": "2026-11-07T07:17:00+00:00",
 "sum": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu BoxLang AI, VS Code, Google DevFest, JetBrains, Apache Spark, Devart, Laravel und Spinel."
-},
-{
-"id": "e74144822216",
-"title": "News aus den US Sports – George schrammt mit 33 Punkten knapp am Rekord vorbei",
-"link": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-george-schrammt-mit-33-punkten-knapp-am-rekord-vorbei",
-"text": "Hier finden Sie die wichtigsten Meldungen des Tages aus den US Sports.",
-"img": "https://www.srf.ch/static/cms/images//320ws/45e83c.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T07:05:28+00:00",
-"sum": "Hier finden Sie die wichtigsten Meldungen des Tages aus den US Sports."
 },
 {
 "id": "1e7ac0dbecc5",
@@ -334,9 +488,9 @@
 "sum": "Mit ihrer Mehrheit im Kongress kann die Partei bald Untersuchungen gegen Donald Trumps Umfeld lancieren. Auch Trumps Familie könnte durchleutet werden."
 },
 {
-"id": "26490d280fad",
-"title": "INTERVIEW - «Im Silicon Valley fühlen sie sich der restlichen Welt weit überlegen und sind für Kritik nicht empfänglich»",
-"link": "https://www.nzz.ch/wirtschaft/im-silicon-valley-fuehlen-sie-sich-der-restlichen-welt-weit-ueberlegen-und-sind-fuer-kritik-nicht-empfaenglich-ld.10054351",
+"id": "3f45680a9987",
+"title": "INTERVIEW - «Das ist ein völlig abgedrehtes, gefährliches Weltbild»: Ein CEO-Berater und Ethiker rechnet mit den Tech-Baronen ab",
+"link": "https://www.nzz.ch/wirtschaft/das-ist-ein-voellig-abgedrehtes-gefaehrliches-weltbild-ein-ceo-berater-und-ethiker-rechnet-mit-den-tech-baronen-ab-ld.10054351",
 "text": "Der renommierte Wirtschaftsethiker Guido Palazzo forscht zu toxischen Unternehmenskulturen – und zieht Parallelen zwischen dem KI-Hype und den Skandalen bei der Credit Suisse und Volkswagen.",
 "img": "https://img-msp-prod.nzz.ch/2026/11/05/1566548b-607c-4838-9637-bcf5b6e66a28.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3584,3584,x896,y0",
 "source": "NZZ",
@@ -455,17 +609,6 @@
 "sum": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Koffers gesperrt."
 },
 {
-"id": "dba390f6c109",
-"title": "MotoGP gastiert in Katar – Ein GP im Zeichen der Unruhe – und des möglichen WM-Titels",
-"link": "https://www.srf.ch/sport/motorsport/motorrad/motogp-gastiert-in-katar-ein-gp-im-zeichen-der-unruhe-und-des-moeglichen-wm-titels",
-"text": "Trotz politischer Unruhen sind die Motorrad-Teams in Katar fast geschlossen am Start.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ffd206.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T21:33:09+00:00",
-"sum": "Trotz politischer Unruhen sind die Motorrad-Teams in Katar fast geschlossen am Start."
-},
-{
 "id": "5b82c74256e0",
 "title": "Bundesliga: 9. Spieltag – Muheim leitet HSV-Sieg mit weiterem Traumtor ein",
 "link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-9-spieltag-muheim-leitet-hsv-sieg-mit-weiterem-traumtor-ein",
@@ -499,17 +642,6 @@
 "sum": "Das Team von Shannon Miller hält im WM-Auftaktspiel zunächst gut mit, muss sich am Ende aber mit 0:7 geschlagen geben."
 },
 {
-"id": "39e9b30e779d",
-"title": "Trumps Stabschefin Wiles verlässt das Weisse Haus",
-"link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
-"text": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
-"img": "https://images.tagesschau.de/image/1cd77871-0b49-4151-8d19-989f245b430d/AAABobKFGkk/AAABnSSvrFg/16x9-big/susie-wiles-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T20:20:30+00:00",
-"sum": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt."
-},
-{
 "id": "6ee17b5421a2",
 "title": "EU-Vertragspaket – Nationalratskommission befürwortet Schweizer Erasmus-Beitrag",
 "link": "https://www.srf.ch/news/schweiz/eu-vertragspaket-nationalratskommission-befuerwortet-schweizer-erasmus-beitrag",
@@ -532,17 +664,6 @@
 "sum": "Die Bernerinnen sind in der Liga weiter kaum zu stoppen und übernehmen nun die Tabellenführung."
 },
 {
-"id": "65d8d0c93bad",
-"title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
-"link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
-"text": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
-"img": "https://images.tagesschau.de/image/bc698291-00e6-4417-b67d-f273c2c25cb1/AAABobJfbWA/AAABnSSvrFg/16x9-big/ryanair-lissabon-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T19:39:20+00:00",
-"sum": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\"."
-},
-{
 "id": "a9a2ca36d63f",
 "title": "MELDUNGEN WIRTSCHAFT - Elon Musk kündigt das Ende der Cybertruck-Produktion in Texas an",
 "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
@@ -554,26 +675,15 @@
 "sum": "Die neuesten Meldungen aus der Wirtschaft."
 },
 {
-"id": "7c155a4bfbff",
-"title": "Erneut Hackerangriff auf Münchener Universität - TUM betroffen",
-"link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html",
-"text": "Unbekannte haben Hochschulsysteme der Technischen Universität München gehackt. Sie konnten etwa Adressen und Passwörter einsehen. Es ist bereits der zweite Hackerangriff auf eine grosse Uni in München.",
-"img": "https://images.tagesschau.de/image/884ab4b0-42e8-4393-920d-f9faa5f64eb1/AAABobG9GPA/AAABnSSvrFg/16x9-big/br-haupteingang-der-technischen-universitaet-muenchen-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T19:23:12+00:00",
-"sum": "Unbekannte haben Hochschulsysteme der Technischen Universität München gehackt. Sie konnten etwa Adressen und Passwörter einsehen. Es ist bereits der zweite Hackerangriff auf eine grosse Uni in München."
-},
-{
 "id": "c5633ddff674",
-"title": "Top 10: Die beste Powerbank ab 20.000 mAh im Test – Anker nicht Testsieger",
+"title": "Top 10: Die beste Powerbank ab 20.000 mAh",
 "link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-powerbank-ab-20000-mah-im-test-anker-nicht-testsieger/b1dg6rh?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Zum Laden von Laptops unterwegs braucht es starke Powerbanks mit hoher Kapazität. Wir haben die besten mobilen Akkus ab 20.000 mAh getestet.",
+"text": "Zum Laden von Laptops unterwegs braucht es starke Powerbanks. Wir haben die besten mobilen Akkus ab 20.000 mAh getestet.",
 "img": "",
 "source": "heise",
 "topic": "Tech",
 "date": "2026-11-06T19:00:00+00:00",
-"sum": "Zum Laden von Laptops unterwegs braucht es starke Powerbanks mit hoher Kapazität. Wir haben die besten mobilen Akkus ab 20.000 mAh getestet."
+"sum": "Zum Laden von Laptops unterwegs braucht es starke Powerbanks. Wir haben die besten mobilen Akkus ab 20.000 mAh getestet."
 },
 {
 "id": "6d916b002c70",
@@ -585,17 +695,6 @@
 "topic": "Schweiz",
 "date": "2026-11-06T18:56:01+00:00",
 "sum": "Weil Gründächer bei Hitze vertrocknen, testet Basel eine Rettung mit Brauerei-Brauchwasser."
-},
-{
-"id": "c2a83240c6f4",
-"title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
-"link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
-"text": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
-"img": "https://images.tagesschau.de/image/f06decaf-b051-4d8e-80d5-8d1459e0cba1/AAABlgUgph8/AAABnSSvrFg/16x9-big/eishockey-163.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T18:53:38+00:00",
-"sum": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs."
 },
 {
 "id": "31cfbee747ed",
@@ -818,28 +917,6 @@
 "sum": "Ein YouTuber kombiniert Flugdaten mit Hintergrundgeräuschen in Videos, um Aufnahmeorte auf rund 100 Meter genau zu bestimmen."
 },
 {
-"id": "cce487f31d10",
-"title": "Lokale KI: Das läuft auf deinem Rechner",
-"link": "https://www.heise.de/news/Lokale-KI-Das-laeuft-auf-deinem-Rechner-11515316.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Lokale KI wird immer besser, die dafür benötigte Hardware immer teurer. c’t 3003 gibt Kaufberatung und Praxistipps.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T16:27:00+00:00",
-"sum": "Lokale KI wird immer besser, die dafür benötigte Hardware immer teurer. c’t 3003 gibt Kaufberatung und Praxistipps."
-},
-{
-"id": "d460fc60c729",
-"title": "Mehrheit der Unternehmen hat Homeoffice-Möglichkeiten reduziert",
-"link": "https://www.heise.de/news/Mehrheit-der-Unternehmen-hat-Homeoffice-Moeglichkeiten-reduziert-11515901.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Laut einer Bitkom-Umfrage haben viele deutsche Unternehmen Homeoffice reduziert. Noch bietet aber eine Mehrheit die Möglichkeit dazu.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T16:25:00+00:00",
-"sum": "Laut einer Bitkom-Umfrage haben viele deutsche Unternehmen Homeoffice reduziert. Noch bietet aber eine Mehrheit die Möglichkeit dazu."
-},
-{
 "id": "5141429534e5",
 "title": "Anzeige: USB4-SSD mit bis zu 3.800 MByte/s | Sandisk Extreme Pro so günstig wie seit September nicht",
 "link": "https://www.golem.de/news/anzeige-usb4-ssd-mit-bis-zu-3-800-mbyte-s-sandisk-extreme-pro-so-guenstig-wie-seit-september-nicht-2611-214953.html",
@@ -906,17 +983,6 @@
 "sum": "Anleger haben jüngst Aktien verkauft, die mit dem KI-Boom zu tun haben. Eine Korrektur war überfällig. Aber wie geht es weiter? Die wichtigsten Fragen und Antworten."
 },
 {
-"id": "bcca8c3922c6",
-"title": "US-Rechenzentren unter Druck: Europas Chance auf KI-Milliarden",
-"link": "https://www.golem.de/news/us-rechenzentren-unter-druck-europas-chance-auf-ki-milliarden-2611-214941.html",
-"text": "Immer mehr US-Bürger wehren sich gegen neue Rechenzentren. Milliardeninvestitionen könnten deshalb nach Europa fliessen, doch auch hier ist der Strom knapp. Eine Analyse von Mike Faust ( KI , Rechenzentrum )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214941&page=1&ts=1793977981",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T15:13:01+00:00",
-"sum": "Immer mehr US-Bürger wehren sich gegen neue Rechenzentren. Milliardeninvestitionen könnten deshalb nach Europa fliessen, doch auch hier ist der Strom knapp. Eine Analyse von Mike Faust ( KI , Rechenzentrum )"
-},
-{
 "id": "a5a7dabf3495",
 "title": "News aus dem Tennis – Cahill nicht mehr länger Coach von Sinner – Norman übernimmt",
 "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-cahill-nicht-mehr-laenger-coach-von-sinner-norman-uebernimmt-1",
@@ -937,17 +1003,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T15:02:15+00:00",
 "sum": "Die Aktienmärkte in den USA, Europa und Asien haben empfindliche Verluste erlitten. Am stärksten betroffen war der Technologiesektor. Der Nasdaq ist mit über sechs Prozent so stark wie nie seit dem Jahr 2000 gefallen."
-},
-{
-"id": "a0719ea3ccf0",
-"title": "Eve Thermostat im Test: Fussbodenheizung lokal steuern – ohne Cloud, ohne Konto",
-"link": "https://www.heise.de/bestenlisten/testbericht/eve-thermostat-im-test-fussbodenheizung-lokal-steuern-ohne-cloud-ohne-konto/d2j8h58?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das Eve Thermostat steuert wassergeführte Fussbodenheizungen per Matter und Thread. Der Test zeigt, wie sich das Triac-Gerät in Home Assistant schlägt.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T15:00:00+00:00",
-"sum": "Das Eve Thermostat steuert wassergeführte Fussbodenheizungen per Matter und Thread. Der Test zeigt, wie sich das Triac-Gerät in Home Assistant schlägt."
 },
 {
 "id": "ce1900095762",
@@ -1047,17 +1102,6 @@
 "topic": "Sport",
 "date": "2026-11-06T13:53:36+00:00",
 "sum": "Die Sunderland-Baisse hat inzwischen auch in der Europa League Einzug gehalten. Die Anzeichen sind besorgniserregend."
-},
-{
-"id": "c307bcb96b26",
-"title": "Anzeige: Faltbare Tastatur plus flache Maus für Smartphones",
-"link": "https://www.golem.de/news/anzeige-faltbare-tastatur-plus-flache-maus-fuer-smartphones-2611-214943.html",
-"text": "Unterwegs im Zug, im Flugzeug oder im Café tippen, das geht mit einer faltbaren Tastatur, die es gerade bei Amazon günstiger gibt. ( Tastatur , Eingabegerät )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214943&page=1&ts=1793972881",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T13:48:01+00:00",
-"sum": "Unterwegs im Zug, im Flugzeug oder im Café tippen, das geht mit einer faltbaren Tastatur, die es gerade bei Amazon günstiger gibt. ( Tastatur , Eingabegerät )"
 },
 {
 "id": "fcf7b5415aa8",
@@ -1247,17 +1291,6 @@
 "sum": "In Paraguay zieht die Krise um die Ueno Bank immer weitere Kreise: Weil Präsident Peña die Risiken zu lange ignorierte, leitete das Parlament ein Amtsenthebungsverfahren ein. Auch die Staatsanwaltschaft ermittelt. Von Anne Herrberg."
 },
 {
-"id": "0ae1c8f5d8ec",
-"title": "Flughafen in Peru – In getragenen Socken – Schmuggel von 3000 Vogelspinnen gestoppt",
-"link": "https://www.srf.ch/news/international/flughafen-in-peru-in-getragenen-socken-schmuggel-von-3000-vogelspinnen-gestoppt",
-"text": "Peruanische Behörden haben den Schmuggel von Tausenden Vogelspinnen auf dem Weg nach Deutschland gestoppt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/5e6d6e.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T09:25:41+00:00",
-"sum": "Peruanische Behörden haben den Schmuggel von Tausenden Vogelspinnen auf dem Weg nach Deutschland gestoppt."
-},
-{
 "id": "6776e5f1cd7a",
 "title": "Chipaktien an den internationalen Börsen im freien Fall",
 "link": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html",
@@ -1267,17 +1300,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T09:21:42+00:00",
 "sum": "Ein weltweiter Abverkauf von Chip- und Techaktien schickt wichtige Aktienindizes auf Talfahrt. In Seoul wurde der Handel zeitweise ausgesetzt. In den USA war es der schlimmste Einbruch seit 2020. Von Constantin Röse."
-},
-{
-"id": "6ac1ec2cfeb4",
-"title": "Bayerns Wirtschaftsminister – Journalist: «Hubert Aiwanger machte auf hemdsärmlige Art Politik»",
-"link": "https://www.srf.ch/news/international/bayerns-wirtschaftsminister-journalist-hubert-aiwanger-machte-auf-hemdsaermlige-art-politik",
-"text": "Der verstorbene Politiker machte die Freien Wähler gross. Ein Kenner der Bayern-Politik erklärt, was ihn ausmachte.",
-"img": "https://www.srf.ch/static/cms/images//320ws/46f11a.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T09:15:25+00:00",
-"sum": "Der verstorbene Politiker machte die Freien Wähler gross. Ein Kenner der Bayern-Politik erklärt, was ihn ausmachte."
 },
 {
 "id": "882dbb212f4e",
@@ -1379,17 +1401,6 @@
 "sum": "Teurer Frust statt haarfreier Haut: «Venus Beauty» schliesst viele Filialen und lässt Kundinnen auf Abokosten sitzen."
 },
 {
-"id": "a4a15fe5fe51",
-"title": "Ski-WM in Crans-Montana – Betrugsvorwurf: Ex-Swiss-Ski-Vize Schmidhalter vor Gericht",
-"link": "https://www.srf.ch/news/schweiz/ski-wm-in-crans-montana-betrugsvorwurf-ex-swiss-ski-vize-schmidhalter-vor-gericht",
-"text": "Claude-Alain Schmidhalter plante mit der Ski-WM in Crans-Montana ein grosses Skifest. Jetzt steht er vor Gericht.",
-"img": "https://www.srf.ch/static/cms/images//320ws/def12c.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T07:17:17+00:00",
-"sum": "Claude-Alain Schmidhalter plante mit der Ski-WM in Crans-Montana ein grosses Skifest. Jetzt steht er vor Gericht."
-},
-{
 "id": "2e896fad168b",
 "title": "Softbank-Deal – Rückschlag für ABB: China blockiert Verkauf der Robotik-Sparte",
 "link": "https://www.srf.ch/news/wirtschaft/softbank-deal-rueckschlag-fuer-abb-china-blockiert-verkauf-der-robotik-sparte",
@@ -1432,17 +1443,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T05:04:19+00:00",
 "sum": "Rechenzentren verbrauchen enorme Mengen Strom und Wasser. Betreiber sind gesetzlich verpflichtet, ihren Verbrauch zu veröffentlichen. Doch Anfragen des SWR an mehr als 30 Unternehmen zeigen: Viele nehmen es mit der Transparenz nicht so ernst."
-},
-{
-"id": "95e745d1fe65",
-"title": "Asylstreit Italien-Schweiz – Italien blockierte Asyl-Überstellungen, doch gelobt nun Besserung",
-"link": "https://www.srf.ch/news/schweiz/asylstreit-italien-schweiz-italien-blockierte-asyl-ueberstellungen-doch-gelobt-nun-besserung",
-"text": "Italien verhinderte Überstellungen von Asylsuchenden und intervenierte auch bei Airlines. Nun macht Rom Zusicherungen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/510157.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T05:03:09+00:00",
-"sum": "Italien verhinderte Überstellungen von Asylsuchenden und intervenierte auch bei Airlines. Nun macht Rom Zusicherungen."
 },
 {
 "id": "248b7fa435a2",
@@ -1839,39 +1839,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-04T12:38:29+00:00",
 "sum": "Die Lebenserwartung steigt - allerdings nicht überall gleichermassen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders gross. Und mancherorts sinkt die Lebenserwartung von Frauen sogar."
-},
-{
-"id": "469166bd21c3",
-"title": "Textilbranche – Bangladesch erhöht Mindestlohn für Textilarbeiter nach Protesten",
-"link": "https://www.srf.ch/news/wirtschaft/textilbranche-bangladesch-erhoeht-mindestlohn-fuer-textilarbeiter-nach-protesten",
-"text": "Nach massiven Protesten in Dhaka hebt die Regierung den Mindestlohn für Millionen Textilarbeiter ab Januar an.",
-"img": "https://www.srf.ch/static/cms/images//320ws/57e3ce1.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-04T10:34:05+00:00",
-"sum": "Nach massiven Protesten in Dhaka hebt die Regierung den Mindestlohn für Millionen Textilarbeiter ab Januar an."
-},
-{
-"id": "393a6f0ba82e",
-"title": "Sind Männer gesundheitlich schlechter dran als Frauen?",
-"link": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
-"text": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von Niels Walker.",
-"img": "https://images.tagesschau.de/image/71ca6187-199a-4547-aad2-bc6a67e42216/AAABoZwCSlw/AAABnSSvrFg/16x9-big/spaziergang-mann-regen-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wissenschaft",
-"date": "2026-11-04T09:54:43+00:00",
-"sum": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von Niels Walker."
-},
-{
-"id": "61f2dd5eb235",
-"title": "Flucht in die kühlen Berge – Guter Sommer für Schweizer Bergbahnen",
-"link": "https://www.srf.ch/news/wirtschaft/flucht-in-die-kuehlen-berge-guter-sommer-fuer-schweizer-bergbahnen",
-"text": "Der heisse und trockene Sommer hat vielen Bergbahnen in der Schweiz mehr Gäste beschert.",
-"img": "https://www.srf.ch/static/cms/images//320ws/145d04.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-04T09:27:52+00:00",
-"sum": "Der heisse und trockene Sommer hat vielen Bergbahnen in der Schweiz mehr Gäste beschert."
 }
 ]
 }
