@@ -1,8 +1,173 @@
 {
-"updated": "2026-11-07T10:56:07+00:00",
+"updated": "2026-11-07T13:08:29+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "92265631c137",
+"title": "Andwil SG – Autofahrer flüchtet vor Polizei und kracht in Wohnhaus",
+"link": "https://www.srf.ch/news/schweiz/andwil-sg-autofahrer-fluechtet-vor-polizei-und-kracht-in-wohnhaus",
+"text": "Der Lenker verunfallte schwer, das Haus ist einsturzgefährdet.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1c480de.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T13:01:52+00:00",
+"sum": "Der Lenker verunfallte schwer, das Haus ist einsturzgefährdet."
+},
+{
+"id": "cfe89b399721",
+"title": "Zweite Wahl innert kurzer Zeit – Nach vier Monaten – Thuner Bevölkerung wählt bereits wieder",
+"link": "https://www.srf.ch/news/schweiz/zweite-wahl-innert-kurzer-zeit-nach-vier-monaten-thuner-bevoelkerung-waehlt-bereits-wieder",
+"text": "Im November wählt die Stadt Thun Regierung und Parlament neu. Es ist der zweite Urnengang innert vier Monaten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/314ef0.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T12:55:35+00:00",
+"sum": "Im November wählt die Stadt Thun Regierung und Parlament neu. Es ist der zweite Urnengang innert vier Monaten."
+},
+{
+"id": "ea3717c21071",
+"title": "Uri erhält erste Kunsteisbahn – Da war ein Hockeyclub, aber weit und breit kein Eis",
+"link": "https://www.srf.ch/news/schweiz/uri-erhaelt-erste-kunsteisbahn-da-war-ein-hockeyclub-aber-weit-und-breit-kein-eis",
+"text": "Der EHC Uri besteht seit 13 Jahren. Spielen musste er bislang stets ausserkantonal. Ein eigenes Eisfeld ändert dies nun.",
+"img": "https://www.srf.ch/static/cms/images//320ws/14bffd5.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T12:53:59+00:00",
+"sum": "Der EHC Uri besteht seit 13 Jahren. Spielen musste er bislang stets ausserkantonal. Ein eigenes Eisfeld ändert dies nun."
+},
+{
+"id": "6a4bc148d2a3",
+"title": "Anzeige: Carplay Display mit Android Auto günstig bei Amazon",
+"link": "https://www.golem.de/news/anzeige-carplay-display-mit-android-auto-guenstig-bei-amazon-2611-214944.html",
+"text": "Amazon hat ein Carplay Display im Angebot, das sowohl Apple Carplay als auch Android Auto unterstützt und als Freisprecheinrichtung dient. ( Technik/Hardware )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214944&page=1&ts=1794055201",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T12:40:01+00:00",
+"sum": "Amazon hat ein Carplay Display im Angebot, das sowohl Apple Carplay als auch Android Auto unterstützt und als Freisprecheinrichtung dient. ( Technik/Hardware )"
+},
+{
+"id": "564718804c36",
+"title": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze",
+"link": "https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html",
+"text": "Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. ( BYD , Elektroauto )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214962&page=1&ts=1794054422",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T12:27:02+00:00",
+"sum": "Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. ( BYD , Elektroauto )"
+},
+{
+"id": "78a606015ac0",
+"title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+"link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+"text": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
+"img": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T12:13:38+00:00",
+"sum": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung."
+},
+{
+"id": "9cc253ce5c2e",
+"title": "heise-Angebot: Vom Skill zum Plugin: KI mit Werkzeugen und Daten verbinden",
+"link": "https://www.heise.de/news/Vom-Skill-zum-Plugin-KI-mit-Werkzeugen-und-Daten-verbinden-11512012.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Das heise KI PRO Webinar zeigt, wie Skills, Konnektoren und Werkzeuge zusammenspielen und daraus nutzbare Plugins für wiederkehrende Aufgaben entstehen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T12:00:00+00:00",
+"sum": "Das heise KI PRO Webinar zeigt, wie Skills, Konnektoren und Werkzeuge zusammenspielen und daraus nutzbare Plugins für wiederkehrende Aufgaben entstehen."
+},
+{
+"id": "24c84a73365c",
+"title": "Angriff auf Hugging Face: Der grösste KI-Hack ist deutlich beunruhigender als gedacht",
+"link": "https://www.spektrum.de/news/ki-agenten-hackten-hugging-face-um-ihre-taten-zu-vertuschen/2352869",
+"text": "Hunderte KI-Agenten griffen Hugging Face an. Zunächst schien klar, wonach sie suchten. Doch eine unabhängige Untersuchung offenbart ein weitaus beunruhigenderes Motiv.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_141587159.jpeg.8422756.jpeg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-07T12:00:00+00:00",
+"sum": "Hunderte KI-Agenten griffen Hugging Face an. Zunächst schien klar, wonach sie suchten. Doch eine unabhängige Untersuchung offenbart ein weitaus beunruhigenderes Motiv."
+},
+{
+"id": "641eb144669d",
+"title": "Amsterdam: Eskalation vor Microsoft-RZ-Baustelle endet mit 200 Festnahmen",
+"link": "https://www.golem.de/news/amsterdam-eskalation-vor-microsoft-rz-baustelle-endet-mit-200-festnahmen-2611-214961.html",
+"text": "Was als Demonstration gegen ein neues Rechenzentrum begann, mündete in Amsterdam in einen der grössten Polizeieinsätze der jüngsten Zeit. ( Microsoft , Rechenzentrum )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214961&page=1&ts=1794052382",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T11:53:02+00:00",
+"sum": "Was als Demonstration gegen ein neues Rechenzentrum begann, mündete in Amsterdam in einen der grössten Polizeieinsätze der jüngsten Zeit. ( Microsoft , Rechenzentrum )"
+},
+{
+"id": "ae28feb060ba",
+"title": "Umweltschäden des Krieges – Gaza: Satellitenbilder zeigen dramatischen Verlust an Anbaufläche",
+"link": "https://www.srf.ch/news/dialog/umweltschaeden-des-krieges-gaza-satellitenbilder-zeigen-dramatischen-verlust-an-anbauflaeche",
+"text": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können.",
+"img": "https://www.srf.ch/static/cms/images//320ws/43a1f9.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T11:47:16+00:00",
+"sum": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können."
+},
+{
+"id": "fd176b8d8e00",
+"title": "Economiesuisse-Präsident – «Es tut weh, wenn sehr gut ausgebildete Junge keinen Job finden»",
+"link": "https://www.srf.ch/news/schweiz/economiesuisse-praesident-es-tut-weh-wenn-sehr-gut-ausgebildete-junge-keinen-job-finden",
+"text": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber.",
+"img": "https://www.srf.ch/static/cms/images//320ws/cebc46.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T11:39:41+00:00",
+"sum": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber."
+},
+{
+"id": "27a5ff7a076a",
+"title": "Drohnen-Vorfall in Leipzig: BKA fahndet mit KI-Bild",
+"link": "https://www.heise.de/news/BKA-fahndet-nach-Drohnen-Vorfall-in-Leipzig-mit-KI-Bild-11516328.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Nachdem im August am Flughafen Leipzig/Halle eine Drohne mit Sprengstoff gefunden wurde, fahndet das BKA nun mit KI-Bildern von Verdächtigen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T11:37:00+00:00",
+"sum": "Nachdem im August am Flughafen Leipzig/Halle eine Drohne mit Sprengstoff gefunden wurde, fahndet das BKA nun mit KI-Bildern von Verdächtigen."
+},
+{
+"id": "92b52009770f",
+"title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+"link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
+"text": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+"img": "https://images.tagesschau.de/image/63349e36-d85c-4d78-ae34-e74ef5be0d6e/AAABobXFrsg/AAABnSSvrFg/16x9-big/ilse-aigner-308.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T11:30:37+00:00",
+"sum": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger."
+},
+{
+"id": "40da6f30891d",
+"title": "News aus dem Skirennsport – Feller verpasst den Slalom-Auftakt in Levi",
+"link": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/news-aus-dem-skirennsport-feller-verpasst-den-slalom-auftakt-in-levi",
+"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Skirennsport.",
+"img": "https://www.srf.ch/static/cms/images//320ws/99b0e7.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T11:28:55+00:00",
+"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Skirennsport."
+},
+{
+"id": "d264405bf000",
+"title": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
+"link": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
+"text": "2027 ist Schluss mit dem Cybertruck - Elon Musks Auto, das nur Fans oder Hater zu haben scheint. Die Geschichte eines Fahrzeugs, das stets auf der Suche nach einer Zielgruppe war. Ein IMHO von Tobias Költzsch ( Tesla Cybertruck , Elektroauto )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214960&page=1&ts=1794050522",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T11:22:02+00:00",
+"sum": "2027 ist Schluss mit dem Cybertruck - Elon Musks Auto, das nur Fans oder Hater zu haben scheint. Die Geschichte eines Fahrzeugs, das stets auf der Suche nach einer Zielgruppe war. Ein IMHO von Tobias Költzsch ( Tesla Cybertruck , Elektroauto )"
+},
 {
 "id": "82c0aeb8731f",
 "title": "Bandenchef bittet UN um Vermittlung in Haiti",
@@ -13,17 +178,6 @@
 "topic": "Welt",
 "date": "2026-11-07T10:51:13+00:00",
 "sum": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer."
-},
-{
-"id": "ae28feb060ba",
-"title": "Umweltschäden des Krieges – Gaza: Satellitenbilder zeigen dramatischen Verlust an Anbaufläche",
-"link": "https://www.srf.ch/news/dialog/umweltschaeden-des-krieges-gaza-satellitenbilder-zeigen-dramatischen-verlust-an-anbauflaeche",
-"text": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können.",
-"img": "https://www.srf.ch/static/cms/images//320ws/43a1f9.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T10:46:03+00:00",
-"sum": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können."
 },
 {
 "id": "b9590bd21fb4",
@@ -158,17 +312,6 @@
 "sum": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen ( Verbraucherschutz , KI )"
 },
 {
-"id": "787d651dfcfc",
-"title": "Kameramarkt wächst, Canon und Nikon updaten – Fotonews der Woche 45/2026",
-"link": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T09:00:00+00:00",
-"sum": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor."
-},
-{
 "id": "2848006d2916",
 "title": "heise-Angebot: iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
 "link": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11492918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -178,6 +321,17 @@
 "topic": "Tech",
 "date": "2026-11-07T09:00:00+00:00",
 "sum": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak."
+},
+{
+"id": "787d651dfcfc",
+"title": "Kameramarkt wächst, Canon und Nikon updaten – Fotonews der Woche 45/2026",
+"link": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T09:00:00+00:00",
+"sum": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor."
 },
 {
 "id": "a695f86eff78",
@@ -277,17 +431,6 @@
 "topic": "Sport",
 "date": "2026-11-07T07:43:02+00:00",
 "sum": "Das Super-League-Kellerduell GC vs. Lausanne hat Zunder drin. Coach Janssen sieht mehr als einen Funken Hoffnung."
-},
-{
-"id": "78a606015ac0",
-"title": "Schwere Schäden nach Raketenangriffen auf Kiew",
-"link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-"text": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
-"img": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T07:40:23+00:00",
-"sum": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt."
 },
 {
 "id": "f57a589f9c49",
@@ -587,17 +730,6 @@
 "sum": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt."
 },
 {
-"id": "2760a40f5d3f",
-"title": "ATP-1000-Turnier in Paris – Alcaraz siegt – und verhilft damit Jodar an die ATP Finals",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-1000-turnier-in-paris-alcaraz-siegt-und-verhilft-damit-jodar-an-die-atp-finals",
-"text": "Der Spanier gewinnt gegen Taylor Fritz und leistet einem Landsmann damit Schützenhilfe.",
-"img": "https://www.srf.ch/static/cms/images//320ws/11ab55.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T22:03:36+00:00",
-"sum": "Der Spanier gewinnt gegen Taylor Fritz und leistet einem Landsmann damit Schützenhilfe."
-},
-{
 "id": "16b3d14334d0",
 "title": "Bahnhof in Schaffhausen – Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
 "link": "https://www.srf.ch/news/schweiz/bahnhof-in-schaffhausen-verdaechtiger-koffer-am-bahnhof-polizei-gibt-entwarnung",
@@ -618,17 +750,6 @@
 "topic": "Sport",
 "date": "2026-11-06T21:29:45+00:00",
 "sum": "Der Schweizer Internationale hat auch beim 3:1 gegen Borussia Mönchengladbach seine Lust am Toreschiessen bewiesen."
-},
-{
-"id": "9527064b23e8",
-"title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
-"link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
-"text": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
-"img": "https://images.tagesschau.de/image/890830ce-f3e2-4cc6-9c60-48f856b24345/AAABobKrX_4/AAABnSSvrFg/16x9-big/aigner-140.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T20:54:46+00:00",
-"sum": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht."
 },
 {
 "id": "0b1931d4d37e",
@@ -851,17 +972,6 @@
 "sum": "Eine KOF-Studie zeigt: Auch Firmenwagen oder Homeoffice sind attraktiv. Erläuterungen von Co-Autor Michael Siegenthaler."
 },
 {
-"id": "307f0790fc99",
-"title": "TUMonline: Cyberangriff auf die TU München",
-"link": "https://www.golem.de/news/tumonline-cyberangriff-auf-die-tu-muenchen-2611-214955.html",
-"text": "Hacker sind über ein Altsystem in die IT der TU München eingedrungen und könnten Daten von rund 60.000 Personen erbeutet haben. ( Cybercrime , Security )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214955&page=1&ts=1793985002",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T17:10:02+00:00",
-"sum": "Hacker sind über ein Altsystem in die IT der TU München eingedrungen und könnten Daten von rund 60.000 Personen erbeutet haben. ( Cybercrime , Security )"
-},
-{
 "id": "a44fab8b2201",
 "title": "Bezirksgericht Brig – Ex-Swiss-Ski-Vize Schmidhalter verurteilt",
 "link": "https://www.srf.ch/news/schweiz/bezirksgericht-brig-ex-swiss-ski-vize-schmidhalter-verurteilt",
@@ -884,17 +994,6 @@
 "sum": "Die regierende CDU will sie für das Amt nominieren, berichten Medien."
 },
 {
-"id": "a55517b09037",
-"title": "Apple führt Bleibeangebote beim Abo-Kündigen im App Store ein",
-"link": "https://www.heise.de/news/Apple-fuehrt-Bleibeangebote-beim-Abo-Kuendigen-im-App-Store-ein-11515969.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Apple hat Retention Messages freigeschaltet: Entwickler können beim Kündigen eines Abos Bleibeangebote oder Hinweise auf neue Funktionen einblenden.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T17:02:00+00:00",
-"sum": "Apple hat Retention Messages freigeschaltet: Entwickler können beim Kündigen eines Abos Bleibeangebote oder Hinweise auf neue Funktionen einblenden."
-},
-{
 "id": "1da8c54f91f6",
 "title": "Besitz von Kinderpornografie – Vater von Herzogin Meghan in den USA festgenommen",
 "link": "https://www.srf.ch/news/international/besitz-von-kinderpornografie-vater-von-herzogin-meghan-in-den-usa-festgenommen",
@@ -904,39 +1003,6 @@
 "topic": "Welt",
 "date": "2026-11-06T17:00:58+00:00",
 "sum": "Thomas Markle wurde wegen des mutmasslichen Besitzes kinderpornografischen Materials angeklagt."
-},
-{
-"id": "78708c580a0c",
-"title": "YouTuber ortet Videoaufnahmen anhand von Flugzeuggeräuschen",
-"link": "https://www.heise.de/news/YouTuber-ortet-Videoaufnahmen-anhand-von-Flugzeuggeraeuschen-11515927.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Ein YouTuber kombiniert Flugdaten mit Hintergrundgeräuschen in Videos, um Aufnahmeorte auf rund 100 Meter genau zu bestimmen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T16:31:00+00:00",
-"sum": "Ein YouTuber kombiniert Flugdaten mit Hintergrundgeräuschen in Videos, um Aufnahmeorte auf rund 100 Meter genau zu bestimmen."
-},
-{
-"id": "5141429534e5",
-"title": "Anzeige: USB4-SSD mit bis zu 3.800 MByte/s | Sandisk Extreme Pro so günstig wie seit September nicht",
-"link": "https://www.golem.de/news/anzeige-usb4-ssd-mit-bis-zu-3-800-mbyte-s-sandisk-extreme-pro-so-guenstig-wie-seit-september-nicht-2611-214953.html",
-"text": "Die Extreme Pro mit 2 TByte erreicht im Test enorme Geschwindigkeiten. Bei Amazon ist sie jetzt zum niedrigsten Preis seit September erhältlich. ( USB4 , Speichermedien )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214953&page=1&ts=1793982121",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T16:22:01+00:00",
-"sum": "Die Extreme Pro mit 2 TByte erreicht im Test enorme Geschwindigkeiten. Bei Amazon ist sie jetzt zum niedrigsten Preis seit September erhältlich. ( USB4 , Speichermedien )"
-},
-{
-"id": "542540bec110",
-"title": "8-Zoll-Floppy: US-Flughäfen migrieren weg von der Diskette",
-"link": "https://www.golem.de/news/8-zoll-floppy-us-flughaefen-migrieren-weg-von-der-diskette-2611-214954.html",
-"text": "Bisher nutzt die FAA teils noch uralte Diskettensysteme aus den Anfängen des Computerzeitalters. Das soll sich ändern. ( Flugzeug , Luftfahrt )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214954&page=1&ts=1793981822",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T16:17:02+00:00",
-"sum": "Bisher nutzt die FAA teils noch uralte Diskettensysteme aus den Anfängen des Computerzeitalters. Das soll sich ändern. ( Flugzeug , Luftfahrt )"
 },
 {
 "id": "a43c4fedb0a9",
@@ -950,28 +1016,6 @@
 "sum": "Nach den Midterm-Wahlen in den USA stürzen die Börsenkurse mehrerer KI- und Techunternehmen ab – die Hintergründe."
 },
 {
-"id": "5158a490f0f5",
-"title": "Anzeige: Microsoft Surface Pro 13'' reduziert bei Amazon",
-"link": "https://www.golem.de/news/anzeige-microsoft-surface-pro-13-reduziert-bei-amazon-2611-214952.html",
-"text": "Das Microsoft Surface Pro mit 13''-PixelSense-Touchscreen, Snapdragon X2 Plus und 16 + 256 GByte gibt es zum Aktionspreis bei Amazon. ( Surface , Microsoft )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214952&page=1&ts=1793979842",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T15:44:02+00:00",
-"sum": "Das Microsoft Surface Pro mit 13''-PixelSense-Touchscreen, Snapdragon X2 Plus und 16 + 256 GByte gibt es zum Aktionspreis bei Amazon. ( Surface , Microsoft )"
-},
-{
-"id": "3b5776b61fc5",
-"title": "Motion abgelehnt – Ständeratskommission gegen sechste Ferienwoche für Lernende",
-"link": "https://www.srf.ch/news/schweiz/motion-abgelehnt-staenderatskommission-gegen-sechste-ferienwoche-fuer-lernende",
-"text": "Was die Motion verlange, sei ein unnötiger, punktueller Eingriff in die Verantwortlichkeit von Arbeitgebern.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7806c2.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T15:35:25+00:00",
-"sum": "Was die Motion verlange, sei ein unnötiger, punktueller Eingriff in die Verantwortlichkeit von Arbeitgebern."
-},
-{
 "id": "933a0e7ea324",
 "title": "Die Aktienmärkte tauchen, Sorgen über einen Crash nehmen zu: Platzt nun die KI-Blase – oder gibt es gar keine?",
 "link": "https://www.nzz.ch/wirtschaft/kuenstliche-intelligenz-an-der-boerse-boom-oder-blase-aktienmaerkte-unter-druck-ld.10056132",
@@ -981,17 +1025,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T15:20:35+00:00",
 "sum": "Anleger haben jüngst Aktien verkauft, die mit dem KI-Boom zu tun haben. Eine Korrektur war überfällig. Aber wie geht es weiter? Die wichtigsten Fragen und Antworten."
-},
-{
-"id": "a5a7dabf3495",
-"title": "News aus dem Tennis – Cahill nicht mehr länger Coach von Sinner – Norman übernimmt",
-"link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-cahill-nicht-mehr-laenger-coach-von-sinner-norman-uebernimmt-1",
-"text": "Hier finden Sie die wichtigsten Tennis-Kurzmeldungen des Tages.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0560df.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T15:08:56+00:00",
-"sum": "Hier finden Sie die wichtigsten Tennis-Kurzmeldungen des Tages."
 },
 {
 "id": "84d959cbae86",
@@ -1247,6 +1280,17 @@
 "sum": "Das stark reflektierende Material besteht einzig aus Pektin und Cellulose und stellt sogar Prachtkäfer in den Schatten. Es könnte im Sommer etwa Häuser vor Hitze schützen."
 },
 {
+"id": "94578daa11cb",
+"title": "WTA Finals beginnen am Sonntag – Konsolidiert Rybakina in Indian Wells ihre Vormachtstellung?",
+"link": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-beginnen-am-sonntag-konsolidiert-rybakina-in-indian-wells-ihre-vormachtstellung",
+"text": "Seit über 10 Jahren konnte keine Spielerin den Titel an den WTA Finals verteidigen. Jelena Rybakina will das ändern.",
+"img": "https://www.srf.ch/static/cms/images//320ws/fb63589.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T09:50:29+00:00",
+"sum": "Seit über 10 Jahren konnte keine Spielerin den Titel an den WTA Finals verteidigen. Jelena Rybakina will das ändern."
+},
+{
 "id": "75759c165183",
 "title": "Partners Group baut Infrastrukturteam Europa aus",
 "link": "https://www.finews.ch/news/finanzplatz/74363-partners-group-einstellungen-infrastruktur-europa",
@@ -1324,28 +1368,6 @@
 "sum": "Die Sonnenaktivität nähert sich zwar ihrem Minimum, jedoch wurden im Oktober 2026 zwei Eruptionen beobachtet, gefolgt von einem Polarlicht, das in Teilen Deutschlands sichtbar war."
 },
 {
-"id": "a54811a3a83e",
-"title": "Wieder in Zürich gelandet – «Aussergewöhnlicher Geruch»: Swiss-Flug nach Paris muss umdrehen",
-"link": "https://www.srf.ch/news/international/wieder-in-zuerich-gelandet-aussergewoehnlicher-geruch-swiss-flug-nach-paris-muss-umdrehen",
-"text": "Am Freitagmorgen musste ein Swiss-Flug wegen eines verdächtigen Geruchs im Cockpit und in der Kabine umkehren.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a74fe7.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T08:39:19+00:00",
-"sum": "Am Freitagmorgen musste ein Swiss-Flug wegen eines verdächtigen Geruchs im Cockpit und in der Kabine umkehren."
-},
-{
-"id": "65d84a4f6502",
-"title": "Verdacht auf Salmonellen – Rückruf bei Migros: Alnatura «Salatkerne Mix» betroffen",
-"link": "https://www.srf.ch/news/schweiz/verdacht-auf-salmonellen-rueckruf-bei-migros-alnatura-salatkerne-mix-betroffen",
-"text": "Rückruf bei Migros: Der Alnatura «Salatkerne Mix» könnte Salmonellen enthalten. Vom Verzehr wird abgeraten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/feb2b9.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T08:13:05+00:00",
-"sum": "Rückruf bei Migros: Der Alnatura «Salatkerne Mix» könnte Salmonellen enthalten. Vom Verzehr wird abgeraten."
-},
-{
 "id": "d59e6a8a994f",
 "title": "Midterms-Niederlage – Trump Media stürzt an der Börse ab – Anleger flüchten",
 "link": "https://www.srf.ch/news/wirtschaft/midterms-niederlage-trump-media-stuerzt-an-der-boerse-ab-anleger-fluechten",
@@ -1377,28 +1399,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T08:00:00+00:00",
 "sum": "Anfang November 2026 nahm die europäische Raumsonde Hera das erste scharfe Bild des Asteroiden Didymos auf, sein Mond Dimorphos versteckt sich in dessen Schatten."
-},
-{
-"id": "749198635d16",
-"title": "Erforschung des Roten Planeten: ESCAPADE geht auf Kurs zum Mars",
-"link": "https://www.spektrum.de/news/escapade-sonden-auf-kurs-zum-mars/2352660",
-"text": "Am 7. und 9. November 2026 werden die beiden ESCAPADE-Raumsonden dicht an der Erde vorbeifliegen. Im September 2027 sollen sie den Mars erreichen und seine Atmosphäre erkunden.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/escapade_twins_Mars2-crop.jpg.8422323.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-06T07:30:00+00:00",
-"sum": "Am 7. und 9. November 2026 werden die beiden ESCAPADE-Raumsonden dicht an der Erde vorbeifliegen. Im September 2027 sollen sie den Mars erreichen und seine Atmosphäre erkunden."
-},
-{
-"id": "9ffe191c2350",
-"title": "Haarlaser-Studio – Günstige Preise, teure Folgen: «Venus Beauty» verärgert Kundinnen",
-"link": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/haarlaser-studio-guenstige-preise-teure-folgen-venus-beauty-veraergert-kundinnen",
-"text": "Teurer Frust statt haarfreier Haut: «Venus Beauty» schliesst viele Filialen und lässt Kundinnen auf Abokosten sitzen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/68f74c.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T07:28:31+00:00",
-"sum": "Teurer Frust statt haarfreier Haut: «Venus Beauty» schliesst viele Filialen und lässt Kundinnen auf Abokosten sitzen."
 },
 {
 "id": "2e896fad168b",
@@ -1828,17 +1828,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-04T13:21:52+00:00",
 "sum": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen."
-},
-{
-"id": "960709ec8ed3",
-"title": "Wo die Menschen in Deutschland am längsten leben",
-"link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html",
-"text": "Die Lebenserwartung steigt - allerdings nicht überall gleichermassen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders gross. Und mancherorts sinkt die Lebenserwartung von Frauen sogar.",
-"img": "https://images.tagesschau.de/image/8538e917-0c43-46f3-bf84-f12f22d5945f/AAABoaZzDfM/AAABnSSvrFg/16x9-big/jogger-126.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wissenschaft",
-"date": "2026-11-04T12:38:29+00:00",
-"sum": "Die Lebenserwartung steigt - allerdings nicht überall gleichermassen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders gross. Und mancherorts sinkt die Lebenserwartung von Frauen sogar."
 }
 ]
 }
