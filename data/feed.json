@@ -1,8 +1,162 @@
 {
-"updated": "2026-11-07T07:17:23+00:00",
+"updated": "2026-11-07T09:01:45+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "7627e8b4f78f",
+"title": "(g+) Surveillance Pricing: Wie weit dürfen Händler Preise personalisieren?",
+"link": "https://www.golem.de/news/surveillance-pricing-wie-weit-duerfen-haendler-preise-personalisieren-2611-214937.html",
+"text": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen ( Verbraucherschutz , KI )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214937&page=1&ts=1794042001",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T09:00:01+00:00",
+"sum": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen ( Verbraucherschutz , KI )"
+},
+{
+"id": "a695f86eff78",
+"title": "Bundesgericht – Über die Liebe gestolpert: Eine Intrige der SVP?",
+"link": "https://www.srf.ch/news/schweiz/bundesgericht-ueber-die-liebe-gestolpert-eine-intrige-der-svp",
+"text": "Bundesrichter Yves Donzallaz erhebt schwere Vorwürfe gegen seine frühere Partei.",
+"img": "https://www.srf.ch/static/cms/images//320ws/5f8ff4.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T08:44:03+00:00",
+"sum": "Bundesrichter Yves Donzallaz erhebt schwere Vorwürfe gegen seine frühere Partei."
+},
+{
+"id": "4001286312b5",
+"title": "Leipzig: Fahnder suchen mutmasslichen Drohnen-Täter mit KI-Gesicht",
+"link": "https://www.golem.de/news/leipzig-fahnder-suchen-mutmasslichen-drohnen-taeter-mit-ki-gesicht-2611-214948.html",
+"text": "Nach dem Drohnenanschlag auf den Flughafen Leipzig suchen Generalbundesanwalt und BKA mit einem ungewöhnlichen Mittel nach einer unbekannten Person. ( KI , Security )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214948&page=1&ts=1794039962",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T08:26:02+00:00",
+"sum": "Nach dem Drohnenanschlag auf den Flughafen Leipzig suchen Generalbundesanwalt und BKA mit einem ungewöhnlichen Mittel nach einer unbekannten Person. ( KI , Security )"
+},
+{
+"id": "ee31269f375d",
+"title": "Unbewilligte Demonstrationen – «dialog»-Community fordert mehr Befugnisse für die Polizei",
+"link": "https://www.srf.ch/news/dialog/unbewilligte-demonstrationen-dialog-community-fordert-mehr-befugnisse-fuer-die-polizei",
+"text": "Mehr Polizeibefugnisse, härtere Strafen: Die «dialog»-Community fordert ein konsequenteres Vorgehen bei Demo-Krawallen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/dff9aa.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T08:17:44+00:00",
+"sum": "Mehr Polizeibefugnisse, härtere Strafen: Die «dialog»-Community fordert ein konsequenteres Vorgehen bei Demo-Krawallen."
+},
+{
+"id": "eaffea903b9b",
+"title": "«Abstimmungs-Arena» – Soll das Kriegsmaterialgesetz gelockert werden?",
+"link": "https://www.srf.ch/news/schweiz/abstimmungs-arena-soll-das-kriegsmaterialgesetz-gelockert-werden",
+"text": "«Anti-Ukraine-Gesetz» oder wichtig für Verteidigungsfähigkeit: Die wichtigsten Argumente aus dem «Arena»-Showdown.",
+"img": "https://www.srf.ch/static/cms/images//320ws/70aa81.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T08:15:08+00:00",
+"sum": "«Anti-Ukraine-Gesetz» oder wichtig für Verteidigungsfähigkeit: Die wichtigsten Argumente aus dem «Arena»-Showdown."
+},
+{
+"id": "dec41ba918ef",
+"title": "NVKE: Nvidia bringt eigene Kubernetes Engine als Preview",
+"link": "https://www.heise.de/news/NVKE-Nvidia-bringt-eigene-Kubernetes-Engine-als-Preview-11515947.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Mit Nvidias NVKE sollen Betreiber von GPU-Rechenzentren Managed Kubernetes anbieten können. Die Preview lässt sich jetzt ausprobieren.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T08:15:00+00:00",
+"sum": "Mit Nvidias NVKE sollen Betreiber von GPU-Rechenzentren Managed Kubernetes anbieten können. Die Preview lässt sich jetzt ausprobieren."
+},
+{
+"id": "b23ea7561be4",
+"title": "Was passiert bei einer Bombendrohung im Flugzeug?",
+"link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
+"text": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
+"img": "https://images.tagesschau.de/image/09372948-5e30-4d1a-a149-94422fc7b84a/AAABobQRL9c/AAABnSSvrFg/16x9-big/flugzeug-193.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T08:10:26+00:00",
+"sum": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen."
+},
+{
+"id": "d0995e73d28a",
+"title": "4. Amtszeit für Infantino? – Mit dem Karibikverband ist ein weiterer Wählerblock pro Infantino",
+"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/4-amtszeit-fuer-infantino-mit-dem-karibikverband-ist-ein-weiterer-waehlerblock-pro-infantino",
+"text": "Hier erfahren Sie alles Wichtige im Vorfeld der Fifa-Präsidentenwahl, die im März 2027 stattfindet.",
+"img": "https://www.srf.ch/static/cms/images//320ws/078849.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T08:00:14+00:00",
+"sum": "Hier erfahren Sie alles Wichtige im Vorfeld der Fifa-Präsidentenwahl, die im März 2027 stattfindet."
+},
+{
+"id": "9e4687ad3d72",
+"title": "Reich durch heisse Luft",
+"link": "https://www.spektrum.de/raetsel/reich-durch-heisse-luft-ammoniaksynthese/2338501",
+"text": "Wer erfand die Ammoniaksynthese und konnte damit Leben retten, aber auch vernichten?",
+"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_538907026.jpg.8086349.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-07T07:50:00+00:00",
+"sum": "Wer erfand die Ammoniaksynthese und konnte damit Leben retten, aber auch vernichten?"
+},
+{
+"id": "0267b1404645",
+"title": "Super League live bei SRF – GC: Mit Klarheit und Kompaktheit gegen die Kompliziertheit",
+"link": "https://www.srf.ch/sport/fussball/super-league/super-league-live-bei-srf-gc-mit-klarheit-und-kompaktheit-gegen-die-kompliziertheit",
+"text": "Das Super-League-Kellerduell GC vs. Lausanne hat Zunder drin. Coach Janssen sieht mehr als einen Funken Hoffnung.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1e33f1.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T07:43:02+00:00",
+"sum": "Das Super-League-Kellerduell GC vs. Lausanne hat Zunder drin. Coach Janssen sieht mehr als einen Funken Hoffnung."
+},
+{
+"id": "78a606015ac0",
+"title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+"link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+"text": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
+"img": "https://images.tagesschau.de/image/5c28c4b2-5237-4160-9e05-4876625a031a/AAABobTGlpg/AAABnSSvrFg/16x9-big/ukraine-angriffe-216.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T07:40:23+00:00",
+"sum": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt."
+},
+{
+"id": "f57a589f9c49",
+"title": "Gina Hinojosa: Texas will Ausbau von KI-Rechenzentren auf Eis legen",
+"link": "https://www.golem.de/news/gina-hinojosa-texas-will-ausbau-von-ki-rechenzentren-auf-eis-legen-2611-214946.html",
+"text": "Die künftige texanische Gouverneurin reagiert auf Proteste aus der Bevölkerung und will den Ausbau von Rechenzentren stoppen, bis Schutzgesetze stehen. ( Rechenzentrum , KI )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214946&page=1&ts=1794036182",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T07:23:02+00:00",
+"sum": "Die künftige texanische Gouverneurin reagiert auf Proteste aus der Bevölkerung und will den Ausbau von Rechenzentren stoppen, bis Schutzgesetze stehen. ( Rechenzentrum , KI )"
+},
+{
+"id": "d672566c09dc",
+"title": "Sichere Architektur für KI-Agenten im Backoffice",
+"link": "https://www.heise.de/hintergrund/Sichere-Architektur-fuer-KI-Agenten-im-Backoffice-11514414.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "KI-Agenten lassen sich nur sicher in Systeme einbinden, wenn die Architektur für eine Trennung von Daten und Handlungen sorgt.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T07:21:00+00:00",
+"sum": "KI-Agenten lassen sich nur sicher in Systeme einbinden, wenn die Architektur für eine Trennung von Daten und Handlungen sorgt."
+},
+{
+"id": "dcfaf4148faa",
+"title": "Developer-Häppchen: JetBrains ohne eMudhra-Lücke, Ruby nativ in C, VS Code 1.145",
+"link": "https://www.heise.de/news/Developer-Haeppchen-JetBrains-ohne-eMudhra-Luecke-Ruby-nativ-in-C-VS-Code-1-145-11512904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu BoxLang AI, VS Code, Google DevFest, JetBrains, Apache Spark, Devart, Laravel und Spinel.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T07:17:00+00:00",
+"sum": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu BoxLang AI, VS Code, Google DevFest, JetBrains, Apache Spark, Devart, Laravel und Spinel."
+},
 {
 "id": "e74144822216",
 "title": "News aus den US Sports – George schrammt mit 33 Punkten knapp am Rekord vorbei",
@@ -82,7 +236,7 @@
 },
 {
 "id": "52f4b4e46d2f",
-"title": "Arcade: Hier blinkt und piepst ein halbes Jahrhundert Videospielgeschichte",
+"title": "Arcade in Tokio: Hier blinkt und piepst ein halbes Jahrhundert Videospielgeschichte",
 "link": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html",
 "text": "Blinkende Röhrenmonitore, klackernde Joysticks, Spiele aus den 1970ern: Im Mikado lebt Videospielgeschichte. Daneben wirken moderne Arcades wie Spielzeugläden. Eine Reportage von Peter Steinlechner ( PC , Bandai Namco )",
 "img": "https://cpx.golem.de/cpx.php?class=17&aid=214689&page=1&ts=1794033001",
@@ -290,17 +444,6 @@
 "sum": "Der Spanier gewinnt gegen Taylor Fritz und leistet einem Landsmann damit Schützenhilfe."
 },
 {
-"id": "eaffea903b9b",
-"title": "«Abstimmungs-Arena» – Soll das Kriegsmaterialgesetz gelockert werden?",
-"link": "https://www.srf.ch/news/schweiz/abstimmungs-arena-soll-das-kriegsmaterialgesetz-gelockert-werden",
-"text": "«Anti-Ukraine-Gesetz» oder wichtig für Verteidigungsfähigkeit: Die wichtigsten Argumente aus dem «Arena»-Showdown.",
-"img": "https://www.srf.ch/static/cms/images//320ws/70aa81.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T21:56:13+00:00",
-"sum": "«Anti-Ukraine-Gesetz» oder wichtig für Verteidigungsfähigkeit: Die wichtigsten Argumente aus dem «Arena»-Showdown."
-},
-{
 "id": "16b3d14334d0",
 "title": "Bahnhof in Schaffhausen – Verdächtiger Koffer am Bahnhof: Polizei gibt Entwarnung",
 "link": "https://www.srf.ch/news/schweiz/bahnhof-in-schaffhausen-verdaechtiger-koffer-am-bahnhof-polizei-gibt-entwarnung",
@@ -356,17 +499,6 @@
 "sum": "Das Team von Shannon Miller hält im WM-Auftaktspiel zunächst gut mit, muss sich am Ende aber mit 0:7 geschlagen geben."
 },
 {
-"id": "c41a3d2d3b66",
-"title": "GP von Brasilien – Kein Kater nach Titelparty: Antonelli im 2. Training klar vorne",
-"link": "https://www.srf.ch/sport/motorsport/formel-1/gp-von-brasilien-kein-kater-nach-titelparty-antonelli-im-2-training-klar-vorne",
-"text": "Kimi Antonelli hat auch als neuer Weltmeister einmal mehr die Konkurrenz distanziert.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cabdb4.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T20:23:21+00:00",
-"sum": "Kimi Antonelli hat auch als neuer Weltmeister einmal mehr die Konkurrenz distanziert."
-},
-{
 "id": "39e9b30e779d",
 "title": "Trumps Stabschefin Wiles verlässt das Weisse Haus",
 "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
@@ -412,7 +544,7 @@
 },
 {
 "id": "a9a2ca36d63f",
-"title": "MELDUNGEN WIRTSCHAFT - Elon Musk kündigt das Ende der Cybertruck-Produktion in Texas an +++ Commerzbank verzeichnet Rekordergebnis nach neun Monaten",
+"title": "MELDUNGEN WIRTSCHAFT - Elon Musk kündigt das Ende der Cybertruck-Produktion in Texas an",
 "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
 "text": "Die neuesten Meldungen aus der Wirtschaft.",
 "img": "https://img-msp-prod.nzz.ch/2026/11/06/b6b34498-b371-4eab-8183-33ed649f2a34.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3648,3648,x0,y0",
@@ -475,17 +607,6 @@
 "topic": "Schweiz",
 "date": "2026-11-06T18:51:21+00:00",
 "sum": "Französischunterricht steht in der Deutschschweiz unter Druck. Nun wollen zwei Bildungsdirektoren auf Austausch setzen."
-},
-{
-"id": "93a9170bf0c6",
-"title": "Der Teamchef gibt Entwarnung – «Können neues Kapitel aufschlagen» – Zoff bei Ferrari ausgeräumt?",
-"link": "https://www.srf.ch/sport/motorsport/formel-1/der-teamchef-gibt-entwarnung-koennen-neues-kapitel-aufschlagen-zoff-bei-ferrari-ausgeraeumt",
-"text": "Nach den Vorkommnissen beim GP in Mexiko möchte man beim italienischen Rennstall nun in die Zukunft schauen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a5e8da.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T18:38:45+00:00",
-"sum": "Nach den Vorkommnissen beim GP in Mexiko möchte man beim italienischen Rennstall nun in die Zukunft schauen."
 },
 {
 "id": "95d3d2ee7dbf",
@@ -552,28 +673,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T18:00:21+00:00",
 "sum": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch."
-},
-{
-"id": "41162a6c5b20",
-"title": "Die gestohlenen Kinder von Oleschky",
-"link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
-"text": "2022 verschleppten russische Soldaten Hannas Sohn Anton aus einem Heim in Oleschky. Eine niederländische NGO hilft bei der Suche - doch selbst wenn sie ihn findet, ist eine Rückkehr in die Ukraine nicht sicher. Von R. Barth.",
-"img": "https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T17:48:38+00:00",
-"sum": "2022 verschleppten russische Soldaten Hannas Sohn Anton aus einem Heim in Oleschky. Eine niederländische NGO hilft bei der Suche - doch selbst wenn sie ihn findet, ist eine Rückkehr in die Ukraine nicht sicher. Von R. Barth."
-},
-{
-"id": "e06a3ef31e8a",
-"title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
-"link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
-"text": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"grosses\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
-"img": "https://images.tagesschau.de/image/f1e87fc9-03d2-4e6d-8446-01b16e2ce7e5/AAABobH4baM/AAABnSSvrFg/16x9-big/trump-5432.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T17:46:51+00:00",
-"sum": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"grosses\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen."
 },
 {
 "id": "81fcc5eea486",
@@ -873,17 +972,6 @@
 "sum": "Ein kurzer Powernap kann wieder fit machen. Eine Analyse zeigt: Mittagsschlaf ist beliebt in Deutschland. Eines gilt es aber zu beachten."
 },
 {
-"id": "0e840f35c1b5",
-"title": "Artemis 2: Warum die NASA-Rakete GPS-Signale auf der Erde stört",
-"link": "https://www.heise.de/news/Artemis-2-Warum-die-NASA-Rakete-GPS-Signale-auf-der-Erde-stoert-11515698.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Überraschende Folgen der Mondmission Artemis 2: Die SLS-Trägerrakete hat die Konzentration von Elektronen in der Ionosphäre verändert. Das sind mögliche Folgen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T14:43:00+00:00",
-"sum": "Überraschende Folgen der Mondmission Artemis 2: Die SLS-Trägerrakete hat die Konzentration von Elektronen in der Ionosphäre verändert. Das sind mögliche Folgen."
-},
-{
 "id": "20bdfc4dfa15",
 "title": "Schweizer Fussball-News – Frauen-Nati startet in Irland in die Nations League",
 "link": "https://www.srf.ch/sport/fussball/super-league/schweizer-fussball-news-frauen-nati-startet-in-irland-in-die-nations-league",
@@ -939,17 +1027,6 @@
 "sum": "Die EU-Kommission wirft Tiktok vor, mit personalisierten Feeds die mentale Gesundheit seiner Nutzer zu gefährden."
 },
 {
-"id": "1843ce0b19c1",
-"title": "TU München schaltet nach Cyberangriff Campussystem ab",
-"link": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Die TUM hat ihr zentrales Campus-Management-System offline genommen, nachdem sich Angreifer unberechtigten Zugriff verschafft und Daten entwendet haben.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T14:06:00+00:00",
-"sum": "Die TUM hat ihr zentrales Campus-Management-System offline genommen, nachdem sich Angreifer unberechtigten Zugriff verschafft und Daten entwendet haben."
-},
-{
 "id": "3c12003288ad",
 "title": "Militärhilfe für Israel – Was löst die US-Kritik an Israel im Land aus?",
 "link": "https://www.srf.ch/news/international/nahost/militaerhilfe-fuer-israel-was-loest-die-us-kritik-an-israel-im-land-aus",
@@ -959,17 +1036,6 @@
 "topic": "Welt",
 "date": "2026-11-06T14:01:12+00:00",
 "sum": "Israels Opposition hofft auf einen Neustart mit den USA. Ein Nahostexperte hält das für eine Fehleinschätzung."
-},
-{
-"id": "a1e251b5ac60",
-"title": "KI-Update Deep-Dive: Wie Mistral mit ML4 im KI-Rennen aufholen will",
-"link": "https://www.heise.de/news/KI-Update-Deep-Dive-Wie-Mistral-mit-ML4-im-KI-Rennen-aufholen-will-11513626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Mistrals wissenschaftlicher Leiter Pierre Stock erklärt im Podcast, wie das neueste Modell ML4 entstand und warum Offenheit für Europas Souveränität zählt.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T14:00:00+00:00",
-"sum": "Mistrals wissenschaftlicher Leiter Pierre Stock erklärt im Podcast, wie das neueste Modell ML4 entstand und warum Offenheit für Europas Souveränität zählt."
 },
 {
 "id": "01fac3ff4391",
@@ -994,17 +1060,6 @@
 "sum": "Unterwegs im Zug, im Flugzeug oder im Café tippen, das geht mit einer faltbaren Tastatur, die es gerade bei Amazon günstiger gibt. ( Tastatur , Eingabegerät )"
 },
 {
-"id": "f5f6a104f18a",
-"title": "Gaming: So unterschiedlich gehen EA und Nintendo mit Spielestudios um",
-"link": "https://www.golem.de/news/gaming-so-unterschiedlich-gehen-ea-und-nintendo-mit-spielestudios-um-2611-214940.html",
-"text": "Manche Publisher haben fast alle übernommenen Studios geschwächt oder geschlossen, andere kaum eines. Eine Analyse zeigt die Unterschiede. ( Electronic Arts , Nintendo )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214940&page=1&ts=1793971861",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T13:31:01+00:00",
-"sum": "Manche Publisher haben fast alle übernommenen Studios geschwächt oder geschlossen, andere kaum eines. Eine Analyse zeigt die Unterschiede. ( Electronic Arts , Nintendo )"
-},
-{
 "id": "fcf7b5415aa8",
 "title": "Studie des Öko-Instituts: Mit neuen Rechenzentren droht Wasserstress",
 "link": "https://www.spektrum.de/news/studie-zum-ki-boom-mit-neuen-rechenzentren-droht-wasserstress/2353019",
@@ -1025,17 +1080,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T13:22:11+00:00",
 "sum": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff."
-},
-{
-"id": "d877d777715c",
-"title": "Copernicus: 2026 liegt fast sicher über der 1,5-Grad-Marke",
-"link": "https://www.golem.de/news/copernicus-2026-liegt-fast-sicher-ueber-der-1-5-grad-marke-2611-214939.html",
-"text": "Aktuelle Klimadaten zeigen: Die globale Durchschnittstemperatur dürfte 2026 mehr als 1,5 Grad über dem vorindustriellen Niveau liegen. ( Klima & Umwelt , EU )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214939&page=1&ts=1793970602",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T13:10:02+00:00",
-"sum": "Aktuelle Klimadaten zeigen: Die globale Durchschnittstemperatur dürfte 2026 mehr als 1,5 Grad über dem vorindustriellen Niveau liegen. ( Klima & Umwelt , EU )"
 },
 {
 "id": "64f742cb3716",
@@ -1091,17 +1135,6 @@
 "topic": "Welt",
 "date": "2026-11-06T12:45:59+00:00",
 "sum": "Zwei Menschen sind bei einem Unfall in Ostfrankreich gestorben. 16 weitere Passagiere wurden laut Polizei verletzt."
-},
-{
-"id": "a82a29833692",
-"title": "Tesla: Elon Musk kündigt Aus für Cybertruck an",
-"link": "https://www.golem.de/news/tesla-elon-musk-kuendigt-aus-fuer-cybertruck-an-2611-214938.html",
-"text": "Der Cybertruck sollte Teslas nächstes grosses Ding werden, gut verkauft hat sich der elektrische Pickup nie. Jetzt wird die Produktion eingestellt. ( Tesla Cybertruck , Elektroauto )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214938&page=1&ts=1793968622",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T12:37:02+00:00",
-"sum": "Der Cybertruck sollte Teslas nächstes grosses Ding werden, gut verkauft hat sich der elektrische Pickup nie. Jetzt wird die Produktion eingestellt. ( Tesla Cybertruck , Elektroauto )"
 },
 {
 "id": "0d4521105d39",
@@ -1269,17 +1302,6 @@
 "sum": "Die Sonnenaktivität nähert sich zwar ihrem Minimum, jedoch wurden im Oktober 2026 zwei Eruptionen beobachtet, gefolgt von einem Polarlicht, das in Teilen Deutschlands sichtbar war."
 },
 {
-"id": "af87d9798108",
-"title": "Russland-Frage polarisiert – Anders als Swiss Ice Hockey: Lettischer Verband zählt die IIHF an",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/russland-frage-polarisiert-anders-als-swiss-ice-hockey-lettischer-verband-zaehlt-die-iihf-an",
-"text": "Abwarten oder vorpreschen: Das TAS-Urteil spaltet die Verbände bei der Beurteilung in zwei Lager.",
-"img": "https://www.srf.ch/static/cms/images//320ws/48628e.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T08:54:43+00:00",
-"sum": "Abwarten oder vorpreschen: Das TAS-Urteil spaltet die Verbände bei der Beurteilung in zwei Lager."
-},
-{
 "id": "a54811a3a83e",
 "title": "Wieder in Zürich gelandet – «Aussergewöhnlicher Geruch»: Swiss-Flug nach Paris muss umdrehen",
 "link": "https://www.srf.ch/news/international/wieder-in-zuerich-gelandet-aussergewoehnlicher-geruch-swiss-flug-nach-paris-muss-umdrehen",
@@ -1379,17 +1401,6 @@
 "sum": "ABB erleidet einen Dämpfer: Die Abgabe der Robotiksparte an Softbank gerät durch Zweifel im Fernost-Geschäft ins Wanken."
 },
 {
-"id": "3b6e41ace77c",
-"title": "Angst vor Datenklau: Wenn die KI mitliest",
-"link": "https://www.spektrum.de/news/angst-vor-datenklau-wenn-die-ki-mitliest/2351353",
-"text": "Profitieren KI-Firmen von Ideen, die Forschende ihnen anvertrauen? Aus Sorge um ihre Daten setzt die deutsche Wissenschaft verstärkt auf eigene Modelle und Infrastruktur.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-2186604642.jpg.8422014.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-06T07:00:00+00:00",
-"sum": "Profitieren KI-Firmen von Ideen, die Forschende ihnen anvertrauen? Aus Sorge um ihre Daten setzt die deutsche Wissenschaft verstärkt auf eigene Modelle und Infrastruktur."
-},
-{
 "id": "e975bf9231fa",
 "title": "Kursrutsch: Tech-Bubble lässt etwas Luft ab",
 "link": "https://www.finews.ch/news/finanzplatz/74357-tech-aktien-bubble-verluste-usa-boersen-nasdaq",
@@ -1432,28 +1443,6 @@
 "topic": "Schweiz",
 "date": "2026-11-06T05:03:09+00:00",
 "sum": "Italien verhinderte Überstellungen von Asylsuchenden und intervenierte auch bei Airlines. Nun macht Rom Zusicherungen."
-},
-{
-"id": "d05a3e0593c4",
-"title": "Koloniales Erbe – Zürich prüft die umstrittenen Büsten im Hirschengraben erneut",
-"link": "https://www.srf.ch/news/schweiz/koloniales-erbe-zuerich-prueft-die-umstrittenen-buesten-im-hirschengraben-erneut",
-"text": "Rassistisch? Der Zürcher Stadtrat soll den Umgang mit Figuren im Schulhaus Hirschengraben neu prüfen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/258df18.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T04:54:00+00:00",
-"sum": "Rassistisch? Der Zürcher Stadtrat soll den Umgang mit Figuren im Schulhaus Hirschengraben neu prüfen."
-},
-{
-"id": "c929a331c038",
-"title": "Weniger Sanktionen – Rösti ändert CO₂‑Gesetz zugunsten der Autobranche",
-"link": "https://www.srf.ch/news/schweiz/weniger-sanktionen-roesti-aendert-co2-gesetz-zugunsten-der-autobranche",
-"text": "Der Bundesrat kommt den Autoimporteuren erneut entgegen. Schon letztes Jahr machte er Anpassungen zu ihren Gunsten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0ce7815.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T04:53:19+00:00",
-"sum": "Der Bundesrat kommt den Autoimporteuren erneut entgegen. Schon letztes Jahr machte er Anpassungen zu ihren Gunsten."
 },
 {
 "id": "248b7fa435a2",
@@ -1520,6 +1509,17 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T04:30:00+00:00",
 "sum": "Lange befasst sich die Alzheimer-Forschung nur mit Ablagerungen im Gehirn. Heute wissen Forscher um die wichtige Rolle der hirneigenen Immunzellen, der Mikroglia. Sogar eine Impfung gegen Alzheimer könnte dank ihnen möglich werden."
+},
+{
+"id": "a80d9d941a73",
+"title": "Vaduz-Shootingstar im Fokus – Pläne von Dalipi: Zurück zu YB, aber wohl nicht in die Nati",
+"link": "https://www.srf.ch/sport/fussball/super-league/vaduz-shootingstar-im-fokus-plaene-von-dalipi-zurueck-zu-yb-aber-wohl-nicht-in-die-nati",
+"text": "In der Vaduzer Offensive läuft alles über Lutfi Dalipi. Der Youngster ist im Hoch, auch Zukunftspläne scheinen gemacht.",
+"img": "https://www.srf.ch/static/cms/images//320ws/fc4f411.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-05T22:49:10+00:00",
+"sum": "In der Vaduzer Offensive läuft alles über Lutfi Dalipi. Der Youngster ist im Hoch, auch Zukunftspläne scheinen gemacht."
 },
 {
 "id": "63789f995bae",
@@ -1597,6 +1597,17 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T15:32:42+00:00",
 "sum": "In einer Rede outet sich der deutsche Kanzler als Anhänger des liberalen Vordenkers Friedrich August von Hayek. Genau wie dieser will sich Merz mutig für die Freiheit einsetzen – und verschweigt dabei die ordnungspolitischen Sündenfälle seiner Regierung."
+},
+{
+"id": "6159f2547017",
+"title": "Soll die Klasse halten – Magnin steht bei seiner Rückkehr vor «schwierigstem Auftrag»",
+"link": "https://www.srf.ch/sport/fussball/super-league/soll-die-klasse-halten-magnin-steht-bei-seiner-rueckkehr-vor-schwierigstem-auftrag",
+"text": "Ludovic Magnin hat bei seiner Rückkehr zu Lausanne-Sport einen klaren Auftrag: mit dem Schlusslicht die Klasse halten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1e0874.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-05T15:30:39+00:00",
+"sum": "Ludovic Magnin hat bei seiner Rückkehr zu Lausanne-Sport einen klaren Auftrag: mit dem Schlusslicht die Klasse halten."
 },
 {
 "id": "9b9cc446a501",
@@ -1861,17 +1872,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T09:27:52+00:00",
 "sum": "Der heisse und trockene Sommer hat vielen Bergbahnen in der Schweiz mehr Gäste beschert."
-},
-{
-"id": "9d39379535e1",
-"title": "Gewinne der Ölkonzerne – Sprudelnde Einnahmen, doch Übergewinnsteuer hat schweren Stand",
-"link": "https://www.srf.ch/news/wirtschaft/gewinne-der-oelkonzerne-sprudelnde-einnahmen-doch-uebergewinnsteuer-hat-schweren-stand",
-"text": "Wenig deutet darauf hin, dass die Schweiz bald die Gewinne von Firmen abschöpfen will, die Öl fördern oder handeln.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1f2645.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-04T08:37:43+00:00",
-"sum": "Wenig deutet darauf hin, dass die Schweiz bald die Gewinne von Firmen abschöpfen will, die Öl fördern oder handeln."
 }
 ]
 }
