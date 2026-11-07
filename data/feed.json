@@ -1,18 +1,62 @@
 {
-"updated": "2026-11-07T20:52:06+00:00",
+"updated": "2026-11-07T22:50:44+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
+"id": "53c33ad9c5f2",
+"title": "Auf der Suche nach Exoplaneten: Dem Sternenlicht ein Schnippchen schlagen",
+"link": "https://www.spektrum.de/news/suche-nach-exoplaneten-dem-sternenlicht-ein-schnippchen-schlagen/2352788",
+"text": "Eine neue Software für das James-Webb-Weltraumteleskop macht bislang verborgene Welten sichtbar. Auch erdähnliche Planeten könnten damit aufgespürt werden.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/STScI-01GB2S5HKVNRJ4CRBR9RKM9CEB_zuschnitt.jpg.8422540.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-07T22:30:00+00:00",
+"sum": "Eine neue Software für das James-Webb-Weltraumteleskop macht bislang verborgene Welten sichtbar. Auch erdähnliche Planeten könnten damit aufgespürt werden."
+},
+{
+"id": "31f874f35c20",
+"title": "Weitere Sport-News – Siffert neu schnellste Schweizerin über die Ironman-Distanz",
+"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-siffert-neu-schnellste-schweizerin-ueber-die-ironman-distanz",
+"text": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a79ba77.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T22:21:49+00:00",
+"sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
+},
+{
+"id": "9a9b4153aabe",
+"title": "Fussball aus den Topligen – Erstes Tor für Sierro bei Parma – Real weiter im Hoch",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-erstes-tor-fuer-sierro-bei-parma-real-weiter-im-hoch",
+"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a299e8.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T22:06:38+00:00",
+"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
+},
+{
+"id": "c2e07fcc4df3",
+"title": "Polen – Schüsse in Krakau: Drei Tote im Haus des Schützen gefunden",
+"link": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-drei-tote-im-haus-des-schuetzen-gefunden",
+"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T21:54:43+00:00",
+"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
+},
+{
 "id": "3ec5331b3dab",
 "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
 "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-"text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden.",
+"text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt.",
 "img": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
-"date": "2026-11-07T20:49:31+00:00",
-"sum": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden."
+"date": "2026-11-07T21:51:26+00:00",
+"sum": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt."
 },
 {
 "id": "8fa3a4458419",
@@ -22,8 +66,41 @@
 "img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
-"date": "2026-11-07T20:49:05+00:00",
+"date": "2026-11-07T21:48:55+00:00",
 "sum": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist."
+},
+{
+"id": "7ad64bf40409",
+"title": "1:1 im Kellerduell – Magnin punktet bei Rückkehr – Janssens Warten geht weiter",
+"link": "https://www.srf.ch/sport/fussball/super-league/1-1-im-kellerduell-magnin-punktet-bei-rueckkehr-janssens-warten-geht-weiter",
+"text": "Schlusslicht Lausanne-Sport kommt im Letzigrund in der 13. Runde der Super League zu einem verdienten 1:1 bei GC.",
+"img": "https://www.srf.ch/static/cms/images//320ws/5e6782.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T21:46:16+00:00",
+"sum": "Schlusslicht Lausanne-Sport kommt im Letzigrund in der 13. Runde der Super League zu einem verdienten 1:1 bei GC."
+},
+{
+"id": "ab2c35bb4f11",
+"title": "NHL am Samstagabend – 2 Assists: Josi führt Nashville zum Sieg über Suters St. Louis",
+"link": "https://www.srf.ch/sport/eishockey/nhl/nhl-am-samstagabend-2-assists-josi-fuehrt-nashville-zum-sieg-ueber-suters-st-louis",
+"text": "Der Schweizer Verteidiger steuert zum 3:1-Erfolg seines Teams gegen die St. Louis Blues 2 Vorlagen bei.",
+"img": "https://www.srf.ch/static/cms/images//320ws/eb0995.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T21:32:12+00:00",
+"sum": "Der Schweizer Verteidiger steuert zum 3:1-Erfolg seines Teams gegen die St. Louis Blues 2 Vorlagen bei."
+},
+{
+"id": "0c7facb9d925",
+"title": "Der Bund muss seine Pflichtlager für Kerosin öffnen. Nun drohen auch beim Heizöl Engpässe",
+"link": "https://www.nzz.ch/wirtschaft/der-bund-muss-seine-pflichtlager-fuer-kerosin-oeffnen-nun-drohen-auch-beim-heizoel-engpaesse-ld.10055054",
+"text": "Viele Hauseigentümer haben ihre Tanks wegen der hohen Preise nicht ausreichend gefüllt. Doch wegen des Niedrigwassers auf dem Rhein können die Händler nur begrenzt Nachschub beschaffen. Jetzt warnen sie vor einer Zuspitzung der Lage in den kommenden Wochen.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/05/cc03bf2d-b021-451a-9cf2-d85556cdc3a2.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-07T20:57:08+00:00",
+"sum": "Viele Hauseigentümer haben ihre Tanks wegen der hohen Preise nicht ausreichend gefüllt. Doch wegen des Niedrigwassers auf dem Rhein können die Händler nur begrenzt Nachschub beschaffen. Jetzt warnen sie vor einer Zuspitzung der Lage in den kommenden Wochen."
 },
 {
 "id": "476893b6f1b0",
@@ -81,26 +158,15 @@
 "sum": "Eine lange Regenpause und Lando Norris im McLaren prägten das Qualifying zum GP von Brasilien."
 },
 {
-"id": "667f63556b52",
-"title": "Polen – Sechs Tote und über ein Dutzend Verletzte bei Schüssen in Krakau",
-"link": "https://www.srf.ch/news/international/polen-sechs-tote-und-ueber-ein-dutzend-verletzte-bei-schuessen-in-krakau",
-"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
-"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T20:18:41+00:00",
-"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
-},
-{
-"id": "c02576319e41",
-"title": "Kostyuk rückt nach – Rybakania verzichtet auf Teilnahme an den WTA Finals",
-"link": "https://www.srf.ch/sport/tennis/wta-tour/kostyuk-rueckt-nach-rybakania-verzichtet-auf-teilnahme-an-den-wta-finals",
-"text": "Die Weltnummer 1 nimmt aus gesundheitlichen Gründen nicht am Saisonendturnier der Jahresbesten teil.",
-"img": "https://www.srf.ch/static/cms/images//320ws/bda84d.webp",
+"id": "020803ade904",
+"title": "Swiss Athletics Night – Werro und Ehammer Schweizer Leichtathleten des Jahres",
+"link": "https://www.srf.ch/sport/leichtathletik/swiss-athletics-night-werro-und-ehammer-schweizer-leichtathleten-des-jahres",
+"text": "Grosse Ehre für Audrey Werro und Simon Ehammer: Sie werden zu den Schweizer Leichtathleten des Jahres 2026 gekürt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8740040.webp",
 "source": "SRF",
 "topic": "Sport",
-"date": "2026-11-07T20:17:33+00:00",
-"sum": "Die Weltnummer 1 nimmt aus gesundheitlichen Gründen nicht am Saisonendturnier der Jahresbesten teil."
+"date": "2026-11-07T20:18:34+00:00",
+"sum": "Grosse Ehre für Audrey Werro und Simon Ehammer: Sie werden zu den Schweizer Leichtathleten des Jahres 2026 gekürt."
 },
 {
 "id": "b9590bd21fb4",
@@ -123,17 +189,6 @@
 "topic": "Sport",
 "date": "2026-11-07T20:03:13+00:00",
 "sum": "Mit Sprechchören haben Fans, Mannschaft und Fussball-Prominenz auf Teneriffa Abschied von Jesus de Miguel genommen."
-},
-{
-"id": "b97a41bd7c16",
-"title": "Fussball aus den Topligen – Erstes Tor für Vincent Sierro bei Parma",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-erstes-tor-fuer-vincent-sierro-bei-parma",
-"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a299e8.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T19:58:02+00:00",
-"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
 },
 {
 "id": "fd176b8d8e00",
@@ -224,17 +279,6 @@
 "sum": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer."
 },
 {
-"id": "65852a2a7948",
-"title": "News aus dem Tennis – Shelton und Alcaraz im Paris-Final – Neue Aufgabe für Monfils",
-"link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-shelton-und-alcaraz-im-paris-final-neue-aufgabe-fuer-monfils",
-"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Tennis.",
-"img": "https://www.srf.ch/static/cms/images//320ws/4cb874.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T18:07:38+00:00",
-"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Tennis."
-},
-{
 "id": "c3ad85f61174",
 "title": "Klinische Studien – Pharma: Streit um Ethikkommissionen bremst Forschung",
 "link": "https://www.srf.ch/news/wirtschaft/klinische-studien-pharma-streit-um-ethikkommissionen-bremst-forschung",
@@ -244,17 +288,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-07T17:52:27+00:00",
 "sum": "Die Pharmaverbände lobbyieren für mehr Tempo bei klinischen Studien. Darum geht es."
-},
-{
-"id": "c784d14c74b4",
-"title": "Genferinnen drehen Rückstand – Auch Terchoun trifft: Servette nach Sieg beim FCZ wieder Leader",
-"link": "https://www.srf.ch/sport/fussball/women-s-super-league/genferinnen-drehen-rueckstand-auch-terchoun-trifft-servette-nach-sieg-beim-fcz-wieder-leader",
-"text": "Servette-Chênois übernimmt nach einem 3:1-Erfolg in Zürich wieder die Tabellenführung der Women's Super League.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1d5739.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T17:46:18+00:00",
-"sum": "Servette-Chênois übernimmt nach einem 3:1-Erfolg in Zürich wieder die Tabellenführung der Women's Super League."
 },
 {
 "id": "34d66ab467fc",
@@ -455,6 +488,17 @@
 "sum": "Netflix bringt ein Spin-off von Stranger Things: Other Worlds spielt in den 50er Jahren und kommt mit neuen Charakteren. ( Netflix , Streaming )"
 },
 {
+"id": "8aa36beaef13",
+"title": "Optionen sollen geprüft werden – Nach tagelangen Beratungen: IIHF spielt auf Zeit",
+"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/optionen-sollen-geprueft-werden-nach-tagelangen-beratungen-iihf-spielt-auf-zeit",
+"text": "In der Debatte um die Teilnahme Russlands an Eishockey-Turnieren lässt der Weltverband endlich wieder von sich hören.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a66a36.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T13:12:37+00:00",
+"sum": "In der Debatte um die Teilnahme Russlands an Eishockey-Turnieren lässt der Weltverband endlich wieder von sich hören."
+},
+{
 "id": "92265631c137",
 "title": "Andwil SG – Autofahrer flüchtet vor Polizei und kracht in Wohnhaus",
 "link": "https://www.srf.ch/news/schweiz/andwil-sg-autofahrer-fluechtet-vor-polizei-und-kracht-in-wohnhaus",
@@ -620,17 +664,6 @@
 "sum": "Weil es in den Städten an Parkplätzen fehlt, nehmen zahlreiche Handwerksbetriebe dort keine Aufträge mehr an."
 },
 {
-"id": "5c95fdf987f6",
-"title": "Spielerinnen-Wohl bei YB – Mit Anlaufstelle für Mental Health und sukzessivem Support",
-"link": "https://www.srf.ch/sport/fussball/women-s-super-league/spielerinnen-wohl-bei-yb-mit-anlaufstelle-fuer-mental-health-und-sukzessivem-support",
-"text": "Bei den YB Frauen legt man Wert auf die Belastungssteuerung und passt Strukturen an – aber nicht von heute auf morgen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a7cae38.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T09:47:20+00:00",
-"sum": "Bei den YB Frauen legt man Wert auf die Belastungssteuerung und passt Strukturen an – aber nicht von heute auf morgen."
-},
-{
 "id": "11b5048df9d0",
 "title": "Midterm-Wahlen: VW untersucht Döllner-Auftritt mit Trump",
 "link": "https://www.golem.de/news/midterm-wahlen-vw-untersucht-doellner-auftritt-mit-trump-2611-214959.html",
@@ -697,17 +730,6 @@
 "sum": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen ( Verbraucherschutz , KI )"
 },
 {
-"id": "2848006d2916",
-"title": "heise-Angebot: iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
-"link": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11492918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T09:00:00+00:00",
-"sum": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak."
-},
-{
 "id": "787d651dfcfc",
 "title": "Kameramarkt wächst, Canon und Nikon updaten – Fotonews der Woche 45/2026",
 "link": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -717,6 +739,17 @@
 "topic": "Tech",
 "date": "2026-11-07T09:00:00+00:00",
 "sum": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor."
+},
+{
+"id": "2848006d2916",
+"title": "heise-Angebot: iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+"link": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11492918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T09:00:00+00:00",
+"sum": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak."
 },
 {
 "id": "a695f86eff78",
@@ -1014,17 +1047,6 @@
 "topic": "Schweiz",
 "date": "2026-11-06T20:10:14+00:00",
 "sum": "Eine Mehrheit der APK-N ist für den Beitrag von 193 Millionen Franken für den Bildungsaustausch im nächsten Jahr."
-},
-{
-"id": "8c175c3cd15a",
-"title": "3:1-Erfolg gegen Basel – Eiskalte Dysli schiesst YB zum 6. Sieg in Serie",
-"link": "https://www.srf.ch/sport/fussball/women-s-super-league/3-1-erfolg-gegen-basel-eiskalte-dysli-schiesst-yb-zum-6-sieg-in-serie",
-"text": "Die Bernerinnen sind in der Liga weiter kaum zu stoppen und übernehmen nun die Tabellenführung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/5cc4800.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T19:55:41+00:00",
-"sum": "Die Bernerinnen sind in der Liga weiter kaum zu stoppen und übernehmen nun die Tabellenführung."
 },
 {
 "id": "a9a2ca36d63f",
@@ -1434,17 +1456,6 @@
 "sum": "Der Nutzfahrzeughersteller Daimler Truck hat wieder auf die Erfolgsspur zurückgefunden. Dank eines anspringenden US-Geschäfts verbucht das Unternehmen einen Milliardengewinn und kann sich etwas erholen."
 },
 {
-"id": "ca28430e70bc",
-"title": "Sonne aktuell: Rückblick und Prognose: Buntes Treiben im Herbst",
-"link": "https://www.spektrum.de/news/sonnenaktivitaet-im-oktober-2026/2350541",
-"text": "Die Sonnenaktivität nähert sich zwar ihrem Minimum, jedoch wurden im Oktober 2026 zwei Eruptionen beobachtet, gefolgt von einem Polarlicht, das in Teilen Deutschlands sichtbar war.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/DSC01007_mod.jpg.8421788.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-06T09:00:00+00:00",
-"sum": "Die Sonnenaktivität nähert sich zwar ihrem Minimum, jedoch wurden im Oktober 2026 zwei Eruptionen beobachtet, gefolgt von einem Polarlicht, das in Teilen Deutschlands sichtbar war."
-},
-{
 "id": "d59e6a8a994f",
 "title": "Midterms-Niederlage – Trump Media stürzt an der Börse ab – Anleger flüchten",
 "link": "https://www.srf.ch/news/wirtschaft/midterms-niederlage-trump-media-stuerzt-an-der-boerse-ab-anleger-fluechten",
@@ -1619,17 +1630,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T17:27:08+00:00",
 "sum": "Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden."
-},
-{
-"id": "2d7536bd767f",
-"title": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko ist wegen Millionenbetrugs verurteilt worden",
-"link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
-"text": "Das Immobilien- und Detailhandelsreich des österreichischen Investors René Benko ist zusammengebrochen. Die Signa-Holding und mehrere Tochtergesellschaften stecken in einem Insolvenzverfahren. Die wichtigsten Fragen und Antworten.",
-"img": "https://img-msp-prod.nzz.ch/2026/03/11/7823ccee-a6b3-4441-8222-b171b5891662.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3528,3528,x179,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-05T16:47:57+00:00",
-"sum": "Das Immobilien- und Detailhandelsreich des österreichischen Investors René Benko ist zusammengebrochen. Die Signa-Holding und mehrere Tochtergesellschaften stecken in einem Insolvenzverfahren. Die wichtigsten Fragen und Antworten."
 },
 {
 "id": "2888b1f021d7",
