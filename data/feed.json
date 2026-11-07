@@ -1,18 +1,172 @@
 {
-"updated": "2026-11-07T05:03:43+00:00",
+"updated": "2026-11-07T07:17:23+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
+"id": "e74144822216",
+"title": "News aus den US Sports – George schrammt mit 33 Punkten knapp am Rekord vorbei",
+"link": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-george-schrammt-mit-33-punkten-knapp-am-rekord-vorbei",
+"text": "Hier finden Sie die wichtigsten Meldungen des Tages aus den US Sports.",
+"img": "https://www.srf.ch/static/cms/images//320ws/45e83c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T07:05:28+00:00",
+"sum": "Hier finden Sie die wichtigsten Meldungen des Tages aus den US Sports."
+},
+{
+"id": "1e7ac0dbecc5",
+"title": "Nachwehen des Hitzesommers – Trockene Felder führen zu leeren Kassen bei Bauernbetrieben",
+"link": "https://www.srf.ch/news/schweiz/nachwehen-des-hitzesommers-trockene-felder-fuehren-zu-leeren-kassen-bei-bauernbetrieben",
+"text": "Ein Landwirt aus dem Berner Seeland erzählt, welche Spuren der trockene Sommer in finanzieller Hinsicht hinterlässt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/142991.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T07:04:26+00:00",
+"sum": "Ein Landwirt aus dem Berner Seeland erzählt, welche Spuren der trockene Sommer in finanzieller Hinsicht hinterlässt."
+},
+{
+"id": "e6b76213a0c3",
+"title": "Krise nach Bankenskandal – Nach Amtsenthebung: Paraguays Präsident Peña unter Hausarrest",
+"link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-nach-amtsenthebung-paraguays-praesident-pena-unter-hausarrest",
+"text": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T07:04:13+00:00",
+"sum": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick."
+},
+{
+"id": "132c0ecc5646",
+"title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+"link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
+"text": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen.",
+"img": "https://images.tagesschau.de/image/bb9ce348-9f2a-41b0-80cb-98f103d36a67/AAABnmguNt8/AAABnSSvrFg/16x9-big/pistorius-606.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T07:02:40+00:00",
+"sum": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen."
+},
+{
+"id": "4c25de438ad4",
+"title": "Wie lang ist die Teilstrecke?",
+"link": "https://www.spektrum.de/raetsel/wie-lang-ist-die-teilstrecke/2292026",
+"text": "Wie lässt sich die Länge der Strecke ermitteln?",
+"img": "https://static.spektrum.de/fm/912/thumbnails/2000x857-558.jpg.8421544.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-07T07:02:00+00:00",
+"sum": "Wie lässt sich die Länge der Strecke ermitteln?"
+},
+{
+"id": "f8e7a3c4ce47",
+"title": "Nebel, Stille und grafische Kraft: Die Bilder der Woche 45",
+"link": "https://www.heise.de/news/Nebel-Stille-und-grafische-Kraft-Die-Bilder-der-Woche-45-11515024.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Herbstliche Momente, ruhige Landschaften und starke Linien zeichnen die Aufnahmen dieser Woche aus.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T07:00:00+00:00",
+"sum": "Herbstliche Momente, ruhige Landschaften und starke Linien zeichnen die Aufnahmen dieser Woche aus."
+},
+{
+"id": "b320fe656a6b",
+"title": "Vorsicht, Denkfalle!: Warum die richtige Einstellung allein nicht reicht",
+"link": "https://www.spektrum.de/kolumne/growth-mindset-warum-positives-denken-nicht-genuegt/2349417",
+"text": "Ein »Growth Mindset« gilt vielen als Schlüssel zu persönlichem Wachstum und Erfolg. Doch das ist zu kurz gedacht, erklärt unser Psychologiekolumnist.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-2269881364.jpg.8422558.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-07T07:00:00+00:00",
+"sum": "Ein »Growth Mindset« gilt vielen als Schlüssel zu persönlichem Wachstum und Erfolg. Doch das ist zu kurz gedacht, erklärt unser Psychologiekolumnist."
+},
+{
+"id": "52f4b4e46d2f",
+"title": "Arcade: Hier blinkt und piepst ein halbes Jahrhundert Videospielgeschichte",
+"link": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html",
+"text": "Blinkende Röhrenmonitore, klackernde Joysticks, Spiele aus den 1970ern: Im Mikado lebt Videospielgeschichte. Daneben wirken moderne Arcades wie Spielzeugläden. Eine Reportage von Peter Steinlechner ( PC , Bandai Namco )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214689&page=1&ts=1794033001",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T06:30:01+00:00",
+"sum": "Blinkende Röhrenmonitore, klackernde Joysticks, Spiele aus den 1970ern: Im Mikado lebt Videospielgeschichte. Daneben wirken moderne Arcades wie Spielzeugläden. Eine Reportage von Peter Steinlechner ( PC , Bandai Namco )"
+},
+{
+"id": "5d720106aece",
+"title": "Fussball aus den Topligen – Vargas verschiesst Penalty – Sevilla mit Nullnummer",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-vargas-verschiesst-penalty-sevilla-mit-nullnummer",
+"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0789694.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T06:26:31+00:00",
+"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
+},
+{
+"id": "a434474cf6cd",
+"title": "Die »Sternennacht« von Vincent van Gogh",
+"link": "https://www.spektrum.de/podcast/sternengeschichten-die-sternennacht-von-vincent-van-gogh/2353035",
+"text": "Die »Sternennacht« von Vincent van Gogh ist eine der berühmtesten Darstellungen des Nachthimmels in der Kunst. Aber auch die Astronomie hat einiges zu diesem Gemälde zu sagen. 🎙️",
+"img": "https://static.spektrum.de/fm/912/thumbnails/iStock-579236996.jpg.6570949.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-07T06:14:00+00:00",
+"sum": "Die »Sternennacht« von Vincent van Gogh ist eine der berühmtesten Darstellungen des Nachthimmels in der Kunst. Aber auch die Astronomie hat einiges zu diesem Gemälde zu sagen. 🎙️"
+},
+{
+"id": "a8b72cf01c67",
+"title": "Über Wissenschaft in Brettspielen",
+"link": "https://www.spektrum.de/podcast/nerds-at-work-ueber-wissenschaft-in-brettspielen/2353030",
+"text": "Die weltgrösste Brettspielemesse ist ein jährliches Sammelbecken für Nerds aller Art. Was Wissenschaft mit Brettspielen zu tun hat, besprechen die Nerds in dieser Podcastfolge. 🎙️",
+"img": "https://static.spektrum.de/fm/912/thumbnails/iStock-607895994.jpg.5891114.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-07T06:13:00+00:00",
+"sum": "Die weltgrösste Brettspielemesse ist ein jährliches Sammelbecken für Nerds aller Art. Was Wissenschaft mit Brettspielen zu tun hat, besprechen die Nerds in dieser Podcastfolge. 🎙️"
+},
+{
+"id": "a64c39e031be",
+"title": "Gesundheitsgefährdender Algorithmus: EU fordert grundlegende Änderungen bei Tiktok",
+"link": "https://www.golem.de/news/gesundheitsgefaehrdender-algorithmus-eu-fordert-grundlegende-aenderungen-bei-tiktok-2611-214945.html",
+"text": "Die EU-Kommission sieht Hinweise darauf, dass Tiktok seine Nutzer durch das Empfehlungssystem der App gesundheitlich gefährdet. ( Tiktok , Politik )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214945&page=1&ts=1794031861",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-07T06:11:01+00:00",
+"sum": "Die EU-Kommission sieht Hinweise darauf, dass Tiktok seine Nutzer durch das Empfehlungssystem der App gesundheitlich gefährdet. ( Tiktok , Politik )"
+},
+{
+"id": "eeadf3771f5f",
+"title": "Gesundheitsbehörde: Grösster Masernausbruch in den USA seit 35 Jahren",
+"link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
+"text": "Die USA erleben laut der Gesundheitsbehörde CDC den grössten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
+"img": "https://images.tagesschau.de/image/dda9c1bf-5f7a-4eb5-996d-5b26807a5c39/AAABobQ9m2c/AAABnSSvrFg/16x9-big/cdc-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T06:01:55+00:00",
+"sum": "Die USA erleben laut der Gesundheitsbehörde CDC den grössten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby."
+},
+{
+"id": "56d30333e04e",
+"title": "Smart Glasses zwischen Teilhabe, Missbrauch und Lifestyle | c't uplink",
+"link": "https://www.heise.de/news/Smart-Glasses-zwischen-Teilhabe-Missbrauch-und-Lifestyle-c-t-uplink-11514694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Manche Menschen fürchten lückenlose Überwachung durch KI-Brillen, andere geniessen dank der Technik mehr Lebensqualität. Der c’t uplink beleuchtet das Thema.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T05:30:00+00:00",
+"sum": "Manche Menschen fürchten lückenlose Überwachung durch KI-Brillen, andere geniessen dank der Technik mehr Lebensqualität. Der c’t uplink beleuchtet das Thema."
+},
+{
 "id": "2106d5e313b9",
 "title": "AfD-Leak: Die interne Sorge vor finanziellen Folgen",
 "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
-"text": "Wer trägt die Verantwortung für das AfD-Leak? Der Landesverband Mecklenburg-Vorpommern fordert NDR und WDR zufolge, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt. Von S. Pittelkow, M. Sarti, NDR, K. Riedel, WDR",
+"text": "Wer trägt die Verantwortung für das AfD-Leak? Der Landesverband Mecklenburg-Vorpommern fordert NDR und WDR zufolge, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt. Von S. Pittelkow, M. Sarti und K. Riedel.",
 "img": "https://images.tagesschau.de/image/bd60b617-030a-4c86-812a-c873b8d8e2b1/AAABobF4JXc/AAABnSSvrFg/16x9-big/afd-774.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
 "date": "2026-11-07T05:00:12+00:00",
-"sum": "Wer trägt die Verantwortung für das AfD-Leak? Der Landesverband Mecklenburg-Vorpommern fordert NDR und WDR zufolge, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt. Von S. Pittelkow, M. Sarti, NDR, K. Riedel, WDR"
+"sum": "Wer trägt die Verantwortung für das AfD-Leak? Der Landesverband Mecklenburg-Vorpommern fordert NDR und WDR zufolge, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt. Von S. Pittelkow, M. Sarti und K. Riedel."
 },
 {
 "id": "0b14da4743ea",
@@ -112,17 +266,6 @@
 "topic": "Welt",
 "date": "2026-11-07T01:50:19+00:00",
 "sum": "Drei Länder in elf Tagen: In Uruguay beginnt Papst Leo XIV. heute seine Südamerika-Reise. Auf ihn warten auch die Heimat seines Vorgängers und ein Wiedersehen mit der eigenen Vergangenheit. Von Anne Herrberg."
-},
-{
-"id": "e6b76213a0c3",
-"title": "Krise nach Bankenskandal – Nach Amtsenthebung: Paraguays Präsident Peña unter Hausarrest",
-"link": "https://www.srf.ch/news/international/krise-nach-bankenskandal-nach-amtsenthebung-paraguays-praesident-pena-unter-hausarrest",
-"text": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0324e4.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T00:43:23+00:00",
-"sum": "Millionen Sparer bangen um ihr Geld, während Paraguay in eine politische Krise rutscht. Der Überblick."
 },
 {
 "id": "c9b2b6d5d316",
@@ -483,7 +626,7 @@
 "text": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
 "img": "https://images.tagesschau.de/image/ef4cb9a5-48bb-4cf8-aa48-ff9441ee133e/AAABobEC3eg/AAABnSSvrFg/16x9-big/ki-apps-104.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-06T17:30:36+00:00",
 "sum": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln."
 },
@@ -519,17 +662,6 @@
 "topic": "Tech",
 "date": "2026-11-06T17:10:02+00:00",
 "sum": "Hacker sind über ein Altsystem in die IT der TU München eingedrungen und könnten Daten von rund 60.000 Personen erbeutet haben. ( Cybercrime , Security )"
-},
-{
-"id": "3c8f5658ccb3",
-"title": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
-"link": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
-"text": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder.",
-"img": "https://images.tagesschau.de/image/0ee6aae7-d404-4265-b65c-b7a69d58cfcb/AAABobHBgfY/AAABnSSvrFg/16x9-big/mackenzie-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-06T17:08:10+00:00",
-"sum": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder."
 },
 {
 "id": "a44fab8b2201",
@@ -686,17 +818,6 @@
 "sum": "Immer mehr US-Bürger wehren sich gegen neue Rechenzentren. Milliardeninvestitionen könnten deshalb nach Europa fliessen, doch auch hier ist der Strom knapp. Eine Analyse von Mike Faust ( KI , Rechenzentrum )"
 },
 {
-"id": "3b7da1805261",
-"title": "Schiess-WM in Doha – Männer und Frauen triumphieren: Doppel-Gold für Schweizer Teams",
-"link": "https://www.srf.ch/sport/mehr-sport/schiessen/schiess-wm-in-doha-maenner-und-frauen-triumphieren-doppel-gold-fuer-schweizer-teams",
-"text": "Erfolgsmeldung aus Doha: Die Schweizer Gewehrschützinnen und -schützen holen im Teamwettkampf über 50m liegend Gold.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1e5c2c.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T15:11:36+00:00",
-"sum": "Erfolgsmeldung aus Doha: Die Schweizer Gewehrschützinnen und -schützen holen im Teamwettkampf über 50m liegend Gold."
-},
-{
 "id": "a5a7dabf3495",
 "title": "News aus dem Tennis – Cahill nicht mehr länger Coach von Sinner – Norman übernimmt",
 "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-cahill-nicht-mehr-laenger-coach-von-sinner-norman-uebernimmt-1",
@@ -851,28 +972,6 @@
 "sum": "Mistrals wissenschaftlicher Leiter Pierre Stock erklärt im Podcast, wie das neueste Modell ML4 entstand und warum Offenheit für Europas Souveränität zählt."
 },
 {
-"id": "351730112179",
-"title": "heise+ | Mehr Speed: Das neue MacBook Pro M6 mit 14 Zoll im Test",
-"link": "https://www.heise.de/tests/Mehr-Speed-Das-neue-MacBook-Pro-M6-mit-14-Zoll-im-Test-11515662.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Das MacBook Pro kommt als günstigere Basisvariante jetzt mit dem M6-Chip. Wieviel das gegenüber dem M5 bringt und was sich sonst noch ändert, klärt unser Test.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T13:57:00+00:00",
-"sum": "Das MacBook Pro kommt als günstigere Basisvariante jetzt mit dem M6-Chip. Wieviel das gegenüber dem M5 bringt und was sich sonst noch ändert, klärt unser Test."
-},
-{
-"id": "3009c7276095",
-"title": "#TGIQF: Das Quiz rund um Jean-Luc Picard & Pavel Chekov",
-"link": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Jean-Luc-Picard-Pavel-Chekov-11514774.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Mit Patrick Stewart und Walter Koenig verliessen gleich zwei prägende Star-Trek-Darsteller die Erde. Wir gedenken ihrer mit einem kleinen Quiz.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T13:56:00+00:00",
-"sum": "Mit Patrick Stewart und Walter Koenig verliessen gleich zwei prägende Star-Trek-Darsteller die Erde. Wir gedenken ihrer mit einem kleinen Quiz."
-},
-{
 "id": "01fac3ff4391",
 "title": "Xhaka-Klub im Formtief – Märchenhaft war gestern: Sunderland steckt in Schwierigkeiten",
 "link": "https://www.srf.ch/sport/fussball/europa-league/xhaka-klub-im-formtief-maerchenhaft-war-gestern-sunderland-steckt-in-schwierigkeiten",
@@ -1005,17 +1104,6 @@
 "sum": "Der Cybertruck sollte Teslas nächstes grosses Ding werden, gut verkauft hat sich der elektrische Pickup nie. Jetzt wird die Produktion eingestellt. ( Tesla Cybertruck , Elektroauto )"
 },
 {
-"id": "f1a180ba7f8b",
-"title": "(g+) Post-Quanten-Kryptografie für Firmen: Warum Unternehmen ihre Verschlüsselung jetzt ...",
-"link": "https://www.golem.de/news/post-quanten-kryptografie-fuer-unternehme-warum-firmen-ihre-verschluesselung-jetzt-umstellen-muessen-2611-214930.html",
-"text": "Das BSI warnt vor einem bislang empfohlenen Verfahren. Für IT-Verantwortliche wird die Wahl quantensicherer Verschlüsselung komplizierter. Wir geben Entscheidungshilfe. Ein Ratgebertext von Marvin Sprey ( Post-Quanten-Kryptografie , Verschlüsselung )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214930&page=1&ts=1793968202",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T12:30:02+00:00",
-"sum": "Das BSI warnt vor einem bislang empfohlenen Verfahren. Für IT-Verantwortliche wird die Wahl quantensicherer Verschlüsselung komplizierter. Wir geben Entscheidungshilfe. Ein Ratgebertext von Marvin Sprey ( Post-Quanten-Kryptografie , Verschlüsselung )"
-},
-{
 "id": "0d4521105d39",
 "title": "Schwache Startelf-Bilanz – Jashari und Milan: So richtig will es noch nicht funktionieren",
 "link": "https://www.srf.ch/sport/fussball/europa-league/schwache-startelf-bilanz-jashari-und-milan-so-richtig-will-es-noch-nicht-funktionieren",
@@ -1038,17 +1126,6 @@
 "sum": "Die Pleite der Ueno Bank hat in Paraguay zu einer Staatskrise geführt. Der Fall richtet den Scheinwerfer auf Korruption, Begünstigung und alte Netzwerke in dem südamerikanischen Land. Jetzt ist der rechtskonservative Präsident Santiago Peña zurückgetreten."
 },
 {
-"id": "d837113af807",
-"title": "Anzeige: PS5 rechtzeitig für GTA 6 mit Rabatt bei Back Market sichern",
-"link": "https://www.golem.de/news/anzeige-ps5-rechtzeitig-fuer-gta-6-mit-rabatt-bei-back-market-sichern-2611-214932.html",
-"text": "Rechtzeitig zum Erscheinungstermin von GTA 6 bietet Back Market die PS5 in verschiedenen Versionen professionell erneuert mit Rabatt an. ( Playstation 5 , GTA 6 )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214932&page=1&ts=1793966701",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T12:05:01+00:00",
-"sum": "Rechtzeitig zum Erscheinungstermin von GTA 6 bietet Back Market die PS5 in verschiedenen Versionen professionell erneuert mit Rabatt an. ( Playstation 5 , GTA 6 )"
-},
-{
 "id": "b5a10552f37b",
 "title": "Millionen Euro verschwunden: Vucic-nahe Bank in Serbien geschlossen",
 "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nationalbank-serbien-diebstahl-400-millionen-100.html",
@@ -1058,17 +1135,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T11:58:26+00:00",
 "sum": "Die serbische Alta Bank ist geschlossen, ihr Besitzer verhaftet. Der mutmassliche Vertraute des früheren Präsidenten Vucic soll knapp 400 Millionen Euro gestohlen haben. Auch staatliche Gelder könnten betroffen sein. Von Silke Hahne."
-},
-{
-"id": "f2dd6f8d31d6",
-"title": "Weitere Sport-News – Youth Olympic Games: Zweimal Gold für die Schweiz",
-"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-youth-olympic-games-zweimal-gold-fuer-die-schweiz",
-"text": "Hier finden Sie die weiteren Sportnews des Tages in kompakter Form.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1c5c61.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T11:33:13+00:00",
-"sum": "Hier finden Sie die weiteren Sportnews des Tages in kompakter Form."
 },
 {
 "id": "32056b58c753",
@@ -1324,28 +1390,6 @@
 "sum": "Profitieren KI-Firmen von Ideen, die Forschende ihnen anvertrauen? Aus Sorge um ihre Daten setzt die deutsche Wissenschaft verstärkt auf eigene Modelle und Infrastruktur."
 },
 {
-"id": "8bb31b346c8b",
-"title": "Welche der beiden Zahlen ist grösser?",
-"link": "https://www.spektrum.de/raetsel/welche-zahl-hat-den-groesseren-wert/2340560",
-"text": "Wie lässt sich ermitteln, welche der beiden Zahlen den grösseren Wert hat?",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-2114712988.jpg.8216456.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-06T06:54:00+00:00",
-"sum": "Wie lässt sich ermitteln, welche der beiden Zahlen den grösseren Wert hat?"
-},
-{
-"id": "ab3a82f03e32",
-"title": "Schwarzloch-Sterne: Das Geheimnis der kleinen, roten Punkte",
-"link": "https://www.spektrum.de/podcast/forschungsquartett-das-geheimnis-der-schwarzloch-sterne/2352856",
-"text": "Mit der neuen Objektklasse der Schwarzloch-Sterne liefern Forschende vom MIT die Lösung für das kosmische Rätsel der winzigen roten Punkte. Allerdings gibt es jetzt neue Fragen. 🎙️",
-"img": "https://static.spektrum.de/fm/912/thumbnails/STScI-01JFJZNJSD2VR3V9ME4RTRG2RD_roboto_dt_top.jpg.8334934.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-06T06:14:00+00:00",
-"sum": "Mit der neuen Objektklasse der Schwarzloch-Sterne liefern Forschende vom MIT die Lösung für das kosmische Rätsel der winzigen roten Punkte. Allerdings gibt es jetzt neue Fragen. 🎙️"
-},
-{
 "id": "e975bf9231fa",
 "title": "Kursrutsch: Tech-Bubble lässt etwas Luft ab",
 "link": "https://www.finews.ch/news/finanzplatz/74357-tech-aktien-bubble-verluste-usa-boersen-nasdaq",
@@ -1478,28 +1522,6 @@
 "sum": "Lange befasst sich die Alzheimer-Forschung nur mit Ablagerungen im Gehirn. Heute wissen Forscher um die wichtige Rolle der hirneigenen Immunzellen, der Mikroglia. Sogar eine Impfung gegen Alzheimer könnte dank ihnen möglich werden."
 },
 {
-"id": "4760846756f5",
-"title": "Oktopusse: Wie sich Kraken durch kleinste Löcher zwängen",
-"link": "https://www.spektrum.de/news/kraken-oktopusse-zwaengen-sich-durch-schmalste-loecher/2352868",
-"text": "Zu eng? Ach was! Oktopusse nutzen ihre acht Arme, um sich durch schmalste Ritzen zu quetschen.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-509583163.jpg.8422682.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-05T21:00:00+00:00",
-"sum": "Zu eng? Ach was! Oktopusse nutzen ihre acht Arme, um sich durch schmalste Ritzen zu quetschen."
-},
-{
-"id": "191cee44cbeb",
-"title": "Tausende auf der Strasse – Demonstration in Lausanne gegen Kürzungen im öffentlichen Dienst",
-"link": "https://www.srf.ch/news/schweiz/tausende-auf-der-strasse-demonstration-in-lausanne-gegen-kuerzungen-im-oeffentlichen-dienst",
-"text": "Gewerkschaften des öffentlichen Dienstes fordern die Rücknahme der im Kantonshaushalt 2027 vorgesehenen Sparmassnahmen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2b1e9a.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-05T20:57:22+00:00",
-"sum": "Gewerkschaften des öffentlichen Dienstes fordern die Rücknahme der im Kantonshaushalt 2027 vorgesehenen Sparmassnahmen."
-},
-{
 "id": "63789f995bae",
 "title": "Stellenmeldepflicht – Mehr arbeitslose Verkäuferinnen und Verkäufer im Detailhandel",
 "link": "https://www.srf.ch/news/wirtschaft/stellenmeldepflicht-mehr-arbeitslose-verkaeuferinnen-und-verkaeufer-im-detailhandel",
@@ -1553,17 +1575,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T16:47:57+00:00",
 "sum": "Das Immobilien- und Detailhandelsreich des österreichischen Investors René Benko ist zusammengebrochen. Die Signa-Holding und mehrere Tochtergesellschaften stecken in einem Insolvenzverfahren. Die wichtigsten Fragen und Antworten."
-},
-{
-"id": "86084f4dc7b3",
-"title": "Bilder der Woche: Eine Schönheit, die keiner haben will",
-"link": "https://www.spektrum.de/alias/bilder-der-woche/laternentraegerzikade-eine-schoenheit-die-keiner-haben-will/2352920",
-"text": "Diese invasive Insektenart vermehrt sich massenhaft, saugt ihre Wirtspflanzen aus und ist kaum zu bekämpfen. Nun wurde erstmals eine Population in Europa gesichtet.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_241930475.jpeg.8422662.jpeg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-05T16:30:00+00:00",
-"sum": "Diese invasive Insektenart vermehrt sich massenhaft, saugt ihre Wirtspflanzen aus und ist kaum zu bekämpfen. Nun wurde erstmals eine Population in Europa gesichtet."
 },
 {
 "id": "2888b1f021d7",
@@ -1861,17 +1872,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-04T08:37:43+00:00",
 "sum": "Wenig deutet darauf hin, dass die Schweiz bald die Gewinne von Firmen abschöpfen will, die Öl fördern oder handeln."
-},
-{
-"id": "ed078bf56ed4",
-"title": "«Unüberbrückbare Differenzen» – Knall bei Rieter: Designierter CEO stolpert über Bonus-Streit",
-"link": "https://www.srf.ch/news/wirtschaft/unueberbrueckbare-differenzen-knall-bei-rieter-designierter-ceo-stolpert-ueber-bonus-streit",
-"text": "Der Textilmaschinenhersteller muss den CEO-Wechsel kurzfristig neu regeln. Grund ist ein Bonus-Streit.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0c649d0.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-04T07:05:46+00:00",
-"sum": "Der Textilmaschinenhersteller muss den CEO-Wechsel kurzfristig neu regeln. Grund ist ein Bonus-Streit."
 }
 ]
 }
