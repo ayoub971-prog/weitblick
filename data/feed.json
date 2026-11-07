@@ -1,18 +1,161 @@
 {
-"updated": "2026-11-07T16:53:17+00:00",
+"updated": "2026-11-07T18:59:43+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
+"id": "1d8f430f7920",
+"title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+"link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
+"text": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer.",
+"img": "https://images.tagesschau.de/image/5922e1ba-f927-46dd-9830-2a83cdeab4d7/AAABobbgQaA/AAABnSSvrFg/16x9-big/frankreich-888.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T18:57:56+00:00",
+"sum": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer."
+},
+{
+"id": "e34ed5f20a7f",
+"title": "Kunstturnen: Swiss Cup – Frankreich triumphiert – Schweizer im «Hundertstel-Pech»",
+"link": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturnen-swiss-cup-frankreich-triumphiert-schweizer-im-hundertstel-pech",
+"text": "Frankreich gewinnt den Swiss Cup im Zürcher Hallenstadion. Die Schweiz scheitert im Halbfinal denkbar knapp.",
+"img": "https://www.srf.ch/static/cms/images//320ws/085aa3.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T18:37:12+00:00",
+"sum": "Frankreich gewinnt den Swiss Cup im Zürcher Hallenstadion. Die Schweiz scheitert im Halbfinal denkbar knapp."
+},
+{
 "id": "3ec5331b3dab",
 "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
 "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-"text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens fünf Menschen getötet und mehr als zehn Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden.",
+"text": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden.",
 "img": "https://images.tagesschau.de/image/bee3ba3a-f8f6-43d9-a494-b75bb2b72fe1/AAABobanF1k/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-100.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
-"date": "2026-11-07T16:46:43+00:00",
-"sum": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens fünf Menschen getötet und mehr als zehn Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden."
+"date": "2026-11-07T18:27:27+00:00",
+"sum": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 15 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden."
+},
+{
+"id": "667f63556b52",
+"title": "Polen – Sechs Tote und über ein Dutzend Verletzte bei Schüssen in Krakau",
+"link": "https://www.srf.ch/news/international/polen-sechs-tote-und-ueber-ein-dutzend-verletzte-bei-schuessen-in-krakau",
+"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T18:21:15+00:00",
+"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
+},
+{
+"id": "65852a2a7948",
+"title": "News aus dem Tennis – Shelton und Alcaraz im Paris-Final – Neue Aufgabe für Monfils",
+"link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-shelton-und-alcaraz-im-paris-final-neue-aufgabe-fuer-monfils",
+"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Tennis.",
+"img": "https://www.srf.ch/static/cms/images//320ws/4cb874.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T18:07:38+00:00",
+"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Tennis."
+},
+{
+"id": "c3ad85f61174",
+"title": "Klinische Studien – Pharma: Streit um Ethikkommissionen bremst Forschung",
+"link": "https://www.srf.ch/news/wirtschaft/klinische-studien-pharma-streit-um-ethikkommissionen-bremst-forschung",
+"text": "Die Pharmaverbände lobbyieren für mehr Tempo bei klinischen Studien. Darum geht es.",
+"img": "https://www.srf.ch/static/cms/images//320ws/79979a.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-07T17:52:27+00:00",
+"sum": "Die Pharmaverbände lobbyieren für mehr Tempo bei klinischen Studien. Darum geht es."
+},
+{
+"id": "c784d14c74b4",
+"title": "Genferinnen drehen Rückstand – Auch Terchoun trifft: Servette nach Sieg beim FCZ wieder Leader",
+"link": "https://www.srf.ch/sport/fussball/women-s-super-league/genferinnen-drehen-rueckstand-auch-terchoun-trifft-servette-nach-sieg-beim-fcz-wieder-leader",
+"text": "Servette-Chênois übernimmt nach einem 3:1-Erfolg in Zürich wieder die Tabellenführung der Women's Super League.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1d5739.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T17:46:18+00:00",
+"sum": "Servette-Chênois übernimmt nach einem 3:1-Erfolg in Zürich wieder die Tabellenführung der Women's Super League."
+},
+{
+"id": "34d66ab467fc",
+"title": "Brotkäfer im Museum – Schädling zwingt Genf zu Millionenaktion",
+"link": "https://www.srf.ch/news/dialog/brotkaefer-im-museum-schaedling-zwingt-genf-zu-millionenaktion",
+"text": "Im Naturhistorischen Museum Genf hat sich der Brotkäfer eingenistet. Nun läuft eine aufwendige Rettungsaktion.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b07a42.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-07T17:45:41+00:00",
+"sum": "Im Naturhistorischen Museum Genf hat sich der Brotkäfer eingenistet. Nun läuft eine aufwendige Rettungsaktion."
+},
+{
+"id": "d638e7f67395",
+"title": "Sabotage an Kühlsystemen: Warum deutsche Geheimdienste nun eingeschaltet sind",
+"link": "https://www.heise.de/news/Supermarkt-Kuehlsysteme-Deutsche-Geheimdienste-ermitteln-nach-Sabotageakten-11516390.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Nach Angriffen auf Kühlsysteme in Supermärkten europaweit ermitteln nun auch Verfassungsschutz und BND. Die Täter nutzen Schwachstellen in Fernwartungszugängen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T17:32:00+00:00",
+"sum": "Nach Angriffen auf Kühlsysteme in Supermärkten europaweit ermitteln nun auch Verfassungsschutz und BND. Die Täter nutzen Schwachstellen in Fernwartungszugängen."
+},
+{
+"id": "31929c470185",
+"title": "Lausanner an der Seitenlinie – 4:5 nach 4:1: Burnley wie Lausanne-Sport",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/lausanner-an-der-seitenlinie-4-5-nach-4-1-burnley-wie-lausanne-sport",
+"text": "Burnley mit Neo-Trainer Fabio Celestini kassiert gegen Cardiff eine äusserst bittere Niederlage.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a106ca3.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T17:21:07+00:00",
+"sum": "Burnley mit Neo-Trainer Fabio Celestini kassiert gegen Cardiff eine äusserst bittere Niederlage."
+},
+{
+"id": "8ba41758b241",
+"title": "Brenner-Basistunnel: Cyberangriff auf Baufirma",
+"link": "https://www.heise.de/news/Brenner-Basistunnel-Cyberangriff-auf-Baufirma-11516406.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Unbekannte Täter griffen auf Daten der österreichisch-italienischen Baugesellschaft zu, die aus dem Internet erreichbar waren.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T17:20:00+00:00",
+"sum": "Unbekannte Täter griffen auf Daten der österreichisch-italienischen Baugesellschaft zu, die aus dem Internet erreichbar waren."
+},
+{
+"id": "2d61b2c2141f",
+"title": "Motorrad: Sprint GP Katar – Bagnaia-Crash überschattet Marquez-Sieg und Martin-Comeback",
+"link": "https://www.srf.ch/sport/motorsport/motorrad/motorrad-sprint-gp-katar-bagnaia-crash-ueberschattet-marquez-sieg-und-martin-comeback",
+"text": "Der Spanier gewinnt den Sprint von Katar und steht vor dem WM-Titel. Bagnaia und Bezzecchi stürzen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/64545b.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T17:00:54+00:00",
+"sum": "Der Spanier gewinnt den Sprint von Katar und steht vor dem WM-Titel. Bagnaia und Bezzecchi stürzen."
+},
+{
+"id": "c5bf4e4d3cd6",
+"title": "Technologie und Innovation – China ist zum Experimentierfeld für KI und Robotik geworden",
+"link": "https://www.srf.ch/news/dialog/technologie-und-innovation-china-ist-zum-experimentierfeld-fuer-ki-und-robotik-geworden",
+"text": "China ist heute mehr als die Werkbank von Billigprodukten. Bei der Automatisierung des täglichen Lebens ist es führend.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b8aafa.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-07T16:58:26+00:00",
+"sum": "China ist heute mehr als die Werkbank von Billigprodukten. Bei der Automatisierung des täglichen Lebens ist es führend."
+},
+{
+"id": "74cd1a7374ce",
+"title": "WTF: WTF: Pilot zeichnet Artwork im Stil von GTA 6 mit Flightradar",
+"link": "https://www.heise.de/news/WTF-Pilot-zeichnet-Artwork-im-Stil-von-GTA-6-mit-Flightradar-11516394.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Als „The Pilot Picasso“ ist Benjamin McDaniel schon länger aktiv. Nun hat er sein wohl aufwändigstes Kunstwerk per Flugzeug gezeichnet.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T16:49:00+00:00",
+"sum": "Als „The Pilot Picasso“ ist Benjamin McDaniel schon länger aktiv. Nun hat er sein wohl aufwändigstes Kunstwerk per Flugzeug gezeichnet."
 },
 {
 "id": "33e6ca9414a3",
@@ -24,17 +167,6 @@
 "topic": "Sport",
 "date": "2026-11-07T16:29:39+00:00",
 "sum": "Die beiden Bundesliga-Schwergewichte fahren am 9. Spieltag Pflichtsiege ein. Augsburg geht in Leipzig unter."
-},
-{
-"id": "83598eba3e46",
-"title": "Polen – Fünf Tote und mehr als zehn Verletzte bei Schüssen in Krakau",
-"link": "https://www.srf.ch/news/international/polen-fuenf-tote-und-mehr-als-zehn-verletzte-bei-schuessen-in-krakau",
-"text": "Der polnische Premier Tusk schreibt auf X, dass die Polizei eine Schussabgabe untersuche.",
-"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T16:22:11+00:00",
-"sum": "Der polnische Premier Tusk schreibt auf X, dass die Polizei eine Schussabgabe untersuche."
 },
 {
 "id": "8859e8d5100e",
@@ -156,17 +288,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-07T14:00:00+00:00",
 "sum": "Ein neues Forschungsergebnis enthüllt, wie eine »Weltraumbatterie« Polarlichter antreibt und sie biegt."
-},
-{
-"id": "c5bf4e4d3cd6",
-"title": "Technologie und Innovation – China ist zum Experimentierfeld für KI und Robotik geworden",
-"link": "https://www.srf.ch/news/dialog/technologie-und-innovation-china-ist-zum-experimentierfeld-fuer-ki-und-robotik-geworden",
-"text": "China ist heute mehr als die Werkbank von Billigprodukten. Bei der Automatisierung des täglichen Lebens ist es führend.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b8aafa.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T13:28:27+00:00",
-"sum": "China ist heute mehr als die Werkbank von Billigprodukten. Bei der Automatisierung des täglichen Lebens ist es führend."
 },
 {
 "id": "e1cdc7ac80ee",
@@ -345,17 +466,6 @@
 "sum": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger."
 },
 {
-"id": "40da6f30891d",
-"title": "News aus dem Skirennsport – Feller verpasst den Slalom-Auftakt in Levi",
-"link": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/news-aus-dem-skirennsport-feller-verpasst-den-slalom-auftakt-in-levi",
-"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Skirennsport.",
-"img": "https://www.srf.ch/static/cms/images//320ws/99b0e7.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T11:28:55+00:00",
-"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Skirennsport."
-},
-{
 "id": "d264405bf000",
 "title": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
 "link": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
@@ -477,17 +587,6 @@
 "sum": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten."
 },
 {
-"id": "771f3b2c31f6",
-"title": "News aus den US Sports – George nahe an seinem Rekord – Doncic wie einst Chamberlain",
-"link": "https://www.srf.ch/sport/mehr-sport/news-aus-den-us-sports-george-nahe-an-seinem-rekord-doncic-wie-einst-chamberlain",
-"text": "Hier finden Sie die wichtigsten Meldungen des Tages aus den US Sports.",
-"img": "https://www.srf.ch/static/cms/images//320ws/45e83c.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T09:12:19+00:00",
-"sum": "Hier finden Sie die wichtigsten Meldungen des Tages aus den US Sports."
-},
-{
 "id": "7627e8b4f78f",
 "title": "(g+) Surveillance Pricing: Wie weit dürfen Händler Preise personalisieren?",
 "link": "https://www.golem.de/news/surveillance-pricing-wie-weit-duerfen-haendler-preise-personalisieren-2611-214937.html",
@@ -499,17 +598,6 @@
 "sum": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen ( Verbraucherschutz , KI )"
 },
 {
-"id": "787d651dfcfc",
-"title": "Kameramarkt wächst, Canon und Nikon updaten – Fotonews der Woche 45/2026",
-"link": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T09:00:00+00:00",
-"sum": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor."
-},
-{
 "id": "2848006d2916",
 "title": "heise-Angebot: iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
 "link": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11492918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -519,6 +607,17 @@
 "topic": "Tech",
 "date": "2026-11-07T09:00:00+00:00",
 "sum": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak."
+},
+{
+"id": "787d651dfcfc",
+"title": "Kameramarkt wächst, Canon und Nikon updaten – Fotonews der Woche 45/2026",
+"link": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-07T09:00:00+00:00",
+"sum": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor."
 },
 {
 "id": "a695f86eff78",
@@ -585,17 +684,6 @@
 "topic": "Welt",
 "date": "2026-11-07T08:10:26+00:00",
 "sum": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen."
-},
-{
-"id": "d0995e73d28a",
-"title": "4. Amtszeit für Infantino? – Mit dem Karibikverband ist ein weiterer Wählerblock pro Infantino",
-"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/4-amtszeit-fuer-infantino-mit-dem-karibikverband-ist-ein-weiterer-waehlerblock-pro-infantino",
-"text": "Hier erfahren Sie alles Wichtige im Vorfeld der Fifa-Präsidentenwahl, die im März 2027 stattfindet.",
-"img": "https://www.srf.ch/static/cms/images//320ws/078849.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T08:00:14+00:00",
-"sum": "Hier erfahren Sie alles Wichtige im Vorfeld der Fifa-Präsidentenwahl, die im März 2027 stattfindet."
 },
 {
 "id": "9e4687ad3d72",
@@ -829,17 +917,6 @@
 "sum": "Weil es Solaranlagen, Windräder und Elektroautos exportiert, will China als Klimafreund gelten. Für die Verringerung des eigenen Treibhausgasausstosses tut das Land aber weniger. Nicht nur darum stellt das asiatische Zeitalter der Klimapolitik den Westen vor eine grosse Herausforderung."
 },
 {
-"id": "552ab614bd7e",
-"title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
-"link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
-"text": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stösst die Personalie auf. Von C. Kühntopp.",
-"img": "https://images.tagesschau.de/image/9ba4af40-35be-4904-aca1-68b56c386797/AAABobQmDNQ/AAABnSSvrFg/16x9-big/trump-miller-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T04:19:10+00:00",
-"sum": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stösst die Personalie auf. Von C. Kühntopp."
-},
-{
 "id": "3a2f8be5f548",
 "title": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
 "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
@@ -860,17 +937,6 @@
 "topic": "Schweiz",
 "date": "2026-11-06T21:43:25+00:00",
 "sum": "In Schaffhausen hat die Polizei den Bahnhof und die Bahnhofstrasse wegen eines verdächtigen Koffers gesperrt."
-},
-{
-"id": "0b1931d4d37e",
-"title": "Eishockey-WM in Dänemark – Schweizerinnen gegen die USA auf verlorenem Posten",
-"link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/eishockey-wm-in-daenemark-schweizerinnen-gegen-die-usa-auf-verlorenem-posten",
-"text": "Das Team von Shannon Miller hält im WM-Auftaktspiel zunächst gut mit, muss sich am Ende aber mit 0:7 geschlagen geben.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6e524e.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T20:35:16+00:00",
-"sum": "Das Team von Shannon Miller hält im WM-Auftaktspiel zunächst gut mit, muss sich am Ende aber mit 0:7 geschlagen geben."
 },
 {
 "id": "6ee17b5421a2",
@@ -928,28 +994,6 @@
 "sum": "Weil Gründächer bei Hitze vertrocknen, testet Basel eine Rettung mit Brauerei-Brauchwasser."
 },
 {
-"id": "31cfbee747ed",
-"title": "Erfolgreiches Bildungsprojekt – Frühfranzösisch: Zürich baut Austauschprogramm mit der Waadt aus",
-"link": "https://www.srf.ch/news/schweiz/erfolgreiches-bildungsprojekt-fruehfranzoesisch-zuerich-baut-austauschprogramm-mit-der-waadt-aus",
-"text": "Französischunterricht steht in der Deutschschweiz unter Druck. Nun wollen zwei Bildungsdirektoren auf Austausch setzen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/367364.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T18:51:21+00:00",
-"sum": "Französischunterricht steht in der Deutschschweiz unter Druck. Nun wollen zwei Bildungsdirektoren auf Austausch setzen."
-},
-{
-"id": "95d3d2ee7dbf",
-"title": "Deutschland will Manipulation von Satellitennavigation etwas entgegensetzen",
-"link": "https://www.heise.de/news/Deutschland-will-Manipulation-von-Satellitennavigation-etwas-entgegensetzen-11516136.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co. – vor dem Hintergrund massiver Störungen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T18:32:00+00:00",
-"sum": "Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co. – vor dem Hintergrund massiver Störungen."
-},
-{
 "id": "ccc9e0485d15",
 "title": "Anzeige: Ladegerät mit einziehbaren Kabeln für Zigarettenanzünder nur 16 Euro bei Amazon",
 "link": "https://www.golem.de/news/anzeige-ladegeraet-mit-einziehbaren-kabeln-fuer-zigarettenanzuender-nur-16-euro-bei-amazon-2611-214934.html",
@@ -983,17 +1027,6 @@
 "sum": "Arbeitsmarkt-Experte David Dorn von der Uni Zürich zeigt auf, was die Zollschlacht den USA gebracht hat."
 },
 {
-"id": "69d46fd81254",
-"title": "Neue Datenschutzklausel bei M365 sorgt für Verwirrung",
-"link": "https://www.heise.de/news/Neue-Datenschutzklausel-bei-M365-sorgt-fuer-Verwirrung-11516122.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Eine neue Klausel im Microsoft-Datenschutz sorgt für Unruhe im Internet. Rechtsexperten geben aber teils Entwarnung und erklären, was die Änderung bedeutet.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T18:03:00+00:00",
-"sum": "Eine neue Klausel im Microsoft-Datenschutz sorgt für Unruhe im Internet. Rechtsexperten geben aber teils Entwarnung und erklären, was die Änderung bedeutet."
-},
-{
 "id": "c65632529278",
 "title": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
 "link": "https://www.srf.ch/news/wirtschaft/nach-den-midterms-warum-sind-die-boersen-rund-um-den-globus-eingebrochen",
@@ -1025,17 +1058,6 @@
 "topic": "Tech",
 "date": "2026-11-06T17:43:01+00:00",
 "sum": "45 W, 10.000 mAh und ein abnehmbares USB-C-Kabel: Die kompakte Iniu P50 kostet bei Amazon derzeit wieder unter 34 Euro. ( Technik/Hardware , Amazon )"
-},
-{
-"id": "745400bda812",
-"title": "Discord stellt Client auf Rust um",
-"link": "https://www.heise.de/news/Alles-neu-in-Rust-Discord-verabschiedet-sich-von-React-und-Electron-11515467.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Electron und React Native fallen weg, stattdessen setzt man bei Discord jetzt auf Rust. Die Oberfläche zeichnet nun das Rust-GUI-Framework GPUI.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-06T17:35:00+00:00",
-"sum": "Electron und React Native fallen weg, stattdessen setzt man bei Discord jetzt auf Rust. Die Oberfläche zeichnet nun das Rust-GUI-Framework GPUI."
 },
 {
 "id": "8f3c6a7f3f2e",
@@ -1192,17 +1214,6 @@
 "sum": "Israels Opposition hofft auf einen Neustart mit den USA. Ein Nahostexperte hält das für eine Fehleinschätzung."
 },
 {
-"id": "01fac3ff4391",
-"title": "Xhaka-Klub im Formtief – Märchenhaft war gestern: Sunderland steckt in Schwierigkeiten",
-"link": "https://www.srf.ch/sport/fussball/europa-league/xhaka-klub-im-formtief-maerchenhaft-war-gestern-sunderland-steckt-in-schwierigkeiten",
-"text": "Die Sunderland-Baisse hat inzwischen auch in der Europa League Einzug gehalten. Die Anzeichen sind besorgniserregend.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6a7233.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T13:53:36+00:00",
-"sum": "Die Sunderland-Baisse hat inzwischen auch in der Europa League Einzug gehalten. Die Anzeichen sind besorgniserregend."
-},
-{
 "id": "fcf7b5415aa8",
 "title": "Studie des Öko-Instituts: Mit neuen Rechenzentren droht Wasserstress",
 "link": "https://www.spektrum.de/news/studie-zum-ki-boom-mit-neuen-rechenzentren-droht-wasserstress/2353019",
@@ -1258,17 +1269,6 @@
 "sum": "Könnte ein riesiger Sonnenschirm im All die Erderwärmung stoppen? Manche halten das Konzept für reine Fantasie, doch Forschende nehmen die Idee allmählich ernst."
 },
 {
-"id": "0d4521105d39",
-"title": "Schwache Startelf-Bilanz – Jashari und Milan: So richtig will es noch nicht funktionieren",
-"link": "https://www.srf.ch/sport/fussball/europa-league/schwache-startelf-bilanz-jashari-und-milan-so-richtig-will-es-noch-nicht-funktionieren",
-"text": "Die AC Milan sucht auch unter Ruben Amorim noch nach ihrer Identität. Das gilt auf Spielerebene auch für Ardon Jashari.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7d25903.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T12:25:31+00:00",
-"sum": "Die AC Milan sucht auch unter Ruben Amorim noch nach ihrer Identität. Das gilt auf Spielerebene auch für Ardon Jashari."
-},
-{
 "id": "c35ea1b3c972",
 "title": "Paraguay: Präsident stolpert über eine Digitalbank",
 "link": "https://www.finews.ch/news/banken/74365-wenn-der-praesident-ueber-eine-digitalbank-stolpert",
@@ -1322,6 +1322,28 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T10:00:00+00:00",
 "sum": "Das stark reflektierende Material besteht einzig aus Pektin und Cellulose und stellt sogar Prachtkäfer in den Schatten. Es könnte im Sommer etwa Häuser vor Hitze schützen."
+},
+{
+"id": "dba562b555a1",
+"title": "«Sie ist eine Diva» – Livestream-Panne: Pegula lästert über Andrejewa und wird ertappt",
+"link": "https://www.srf.ch/sport/tennis/wta-tour/sie-ist-eine-diva-livestream-panne-pegula-laestert-ueber-andrejewa-und-wird-ertappt",
+"text": "Jessica Pegula zieht im Training über Mirra Andrejewa her und hat keine Ahnung, dass alles aufgezeichnet wird.",
+"img": "https://www.srf.ch/static/cms/images//320ws/380b75.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T09:52:46+00:00",
+"sum": "Jessica Pegula zieht im Training über Mirra Andrejewa her und hat keine Ahnung, dass alles aufgezeichnet wird."
+},
+{
+"id": "94578daa11cb",
+"title": "WTA Finals beginnen am Sonntag – Konsolidiert Rybakina in Indian Wells ihre Vormachtstellung?",
+"link": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-beginnen-am-sonntag-konsolidiert-rybakina-in-indian-wells-ihre-vormachtstellung",
+"text": "Seit über 10 Jahren konnte keine Spielerin den Titel an den WTA Finals verteidigen. Jelena Rybakina will das ändern.",
+"img": "https://www.srf.ch/static/cms/images//320ws/fb63589.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-06T09:50:29+00:00",
+"sum": "Seit über 10 Jahren konnte keine Spielerin den Titel an den WTA Finals verteidigen. Jelena Rybakina will das ändern."
 },
 {
 "id": "75759c165183",
@@ -1388,17 +1410,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T09:00:00+00:00",
 "sum": "Die Sonnenaktivität nähert sich zwar ihrem Minimum, jedoch wurden im Oktober 2026 zwei Eruptionen beobachtet, gefolgt von einem Polarlicht, das in Teilen Deutschlands sichtbar war."
-},
-{
-"id": "af87d9798108",
-"title": "Russland-Frage polarisiert – Anders als Swiss Ice Hockey: Lettischer Verband zählt die IIHF an",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/russland-frage-polarisiert-anders-als-swiss-ice-hockey-lettischer-verband-zaehlt-die-iihf-an",
-"text": "Abwarten oder vorpreschen: Das TAS-Urteil spaltet die Verbände bei der Beurteilung in zwei Lager.",
-"img": "https://www.srf.ch/static/cms/images//320ws/48628e.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-06T08:54:43+00:00",
-"sum": "Abwarten oder vorpreschen: Das TAS-Urteil spaltet die Verbände bei der Beurteilung in zwei Lager."
 },
 {
 "id": "d59e6a8a994f",
@@ -1784,17 +1795,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-05T04:30:00+00:00",
 "sum": "Giftige Proteinklumpen galten als Auslöser der Demenz. Doch die Theorie geriet ins Wanken, als man Senioren mit einem Hirn voller Klumpen, aber ohne Demenzsymptome entdeckte. Jetzt heisst es: Eine bisher unterschätzte Hirnzelle namens Mikroglia startet die Demenz."
-},
-{
-"id": "da467c0b14fb",
-"title": "Finanzmärkte nach Midterms – Gemischtes Bild bei Tech-Aktien – SMI erstmals über 15'000 Punkte",
-"link": "https://www.srf.ch/news/wirtschaft/finanzmaerkte-nach-midterms-gemischtes-bild-bei-tech-aktien-smi-erstmals-ueber-15-000-punkte",
-"text": "Die Gewinne der Demokraten schaden gewissen Tech-Aktien – doch es gibt auch unerwartete Reaktionen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f87032.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-04T17:08:15+00:00",
-"sum": "Die Gewinne der Demokraten schaden gewissen Tech-Aktien – doch es gibt auch unerwartete Reaktionen."
 }
 ]
 }
