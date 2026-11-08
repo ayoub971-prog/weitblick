@@ -1,8 +1,129 @@
 {
-"updated": "2026-11-08T16:52:50+00:00",
+"updated": "2026-11-08T18:59:26+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "aafb4ed9b0d1",
+"title": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
+"link": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
+"text": "Die FDP kämpft ums Überleben. Ihre letzte Chance dürften die Landtagswahlen kommendes Jahr sein. Während des digitalen Parteitags versuchte FDP-Chef Kubicki, die Liberalen als Gegengewicht zur Regierung zu etablieren. Von Lissy Kaufmann.",
+"img": "https://images.tagesschau.de/image/89d8e7b4-83b5-47f6-b1b6-93504ec8c705/AAABobxqbLc/AAABnSSvrFg/16x9-big/kubicki-182.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T18:53:14+00:00",
+"sum": "Die FDP kämpft ums Überleben. Ihre letzte Chance dürften die Landtagswahlen kommendes Jahr sein. Während des digitalen Parteitags versuchte FDP-Chef Kubicki, die Liberalen als Gegengewicht zur Regierung zu etablieren. Von Lissy Kaufmann."
+},
+{
+"id": "50083b72ae13",
+"title": "Formel 1: GP Brasilien – Norris triumphiert – Verstappen mit Riesen-Aufholjagd",
+"link": "https://www.srf.ch/sport/motorsport/motorrad/formel-1-gp-brasilien-norris-triumphiert-verstappen-mit-riesen-aufholjagd",
+"text": "Der Brite siegt in Sao Paulo, der Niederländer fährt von Rang 21 auf 2. Mercedes gewinnt die Konstrukteure-WM.",
+"img": "https://www.srf.ch/static/cms/images//320ws/6a686b3.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T18:51:09+00:00",
+"sum": "Der Brite siegt in Sao Paulo, der Niederländer fährt von Rang 21 auf 2. Mercedes gewinnt die Konstrukteure-WM."
+},
+{
+"id": "b3dd71516783",
+"title": "Fussball aus den Topligen – Doppelte Aufholjagd: ManUnited zeigt beim 4:4 grosse Moral",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-doppelte-aufholjagd-manunited-zeigt-beim-4-4-grosse-moral",
+"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/574fbc5.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T18:45:50+00:00",
+"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
+},
+{
+"id": "de5400236c10",
+"title": "Sonderkredit beantragt – Kleintheater Luzern muss trotz Finanzhilfe um Zukunft bangen",
+"link": "https://www.srf.ch/news/schweiz/sonderkredit-beantragt-kleintheater-luzern-muss-trotz-finanzhilfe-um-zukunft-bangen",
+"text": "Im geplanten Neubau wird ein Mehrfaches an Miete fällig. Am Einnahmekonzept will das Theater vorderhand aber festhalten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/010fb2.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T18:00:37+00:00",
+"sum": "Im geplanten Neubau wird ein Mehrfaches an Miete fällig. Am Einnahmekonzept will das Theater vorderhand aber festhalten."
+},
+{
+"id": "ad12894b8caa",
+"title": "TSMC könnte mit „3D DRAM“ ins Speichergeschäft einsteigen",
+"link": "https://www.heise.de/news/TSMC-koennte-mit-3D-DRAM-ins-Speichergeschaeft-einsteigen-11516713.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Statt nur Auftragsfertigung für andere soll TSMC einem Bericht zufolge auch eigene Chips planen. Und zwar mit dem lange erhofften 3D-DRAM.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T17:51:00+00:00",
+"sum": "Statt nur Auftragsfertigung für andere soll TSMC einem Bericht zufolge auch eigene Chips planen. Und zwar mit dem lange erhofften 3D-DRAM."
+},
+{
+"id": "74d4d6bc392e",
+"title": "13. Runde der Super League – Spätes Eigentor: Basel muss sich in Thun mit 3:3 begnügen",
+"link": "https://www.srf.ch/sport/fussball/super-league/13-runde-der-super-league-spaetes-eigentor-basel-muss-sich-in-thun-mit-3-3-begnuegen",
+"text": "Der FCB holt trotz zwei Celar-Toren und zwischenzeitlicher 2:0-Führung «nur» einen Punkt im Berner Oberland.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b1416a.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T17:46:53+00:00",
+"sum": "Der FCB holt trotz zwei Celar-Toren und zwischenzeitlicher 2:0-Führung «nur» einen Punkt im Berner Oberland."
+},
+{
+"id": "8ab66e3adaa3",
+"title": "13. Runde der Super League – 0:0 in Genf: FCZ verlängert eine Serie und beendet eine andere",
+"link": "https://www.srf.ch/sport/fussball/super-league/13-runde-der-super-league-0-0-in-genf-fcz-verlaengert-eine-serie-und-beendet-eine-andere",
+"text": "Erstmals seit Februar spielen die Zürcher wieder zu null. Dank dem Remis bleiben sie zum 7. Mal in Folge ungeschlagen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f950d0.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T17:43:46+00:00",
+"sum": "Erstmals seit Februar spielen die Zürcher wieder zu null. Dank dem Remis bleiben sie zum 7. Mal in Folge ungeschlagen."
+},
+{
+"id": "c0bc7700299a",
+"title": "Marmorbruch – Wenn Tessiner Marmor zum Designobjekt wird",
+"link": "https://www.srf.ch/news/schweiz/marmorbruch-wenn-tessiner-marmor-zum-designobjekt-wird",
+"text": "Der einzige Schweizer Marmorsteinbruch setzt auf Designobjekte: Damit sollen neue Märkte erobert werden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/270f94.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T17:19:39+00:00",
+"sum": "Der einzige Schweizer Marmorsteinbruch setzt auf Designobjekte: Damit sollen neue Märkte erobert werden."
+},
+{
+"id": "e7520b8e6561",
+"title": "Wahlen Kanton Freiburg – Die SVP gewinnt auf Kosten der FDP Sitze im Kantonsparlament",
+"link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-die-svp-gewinnt-auf-kosten-der-fdp-sitze-im-kantonsparlament",
+"text": "Das Freiburger Stimmvolk hat den Grossen Rat neu gewählt. SVP und SP gewinnen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b459f3.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T17:13:26+00:00",
+"sum": "Das Freiburger Stimmvolk hat den Grossen Rat neu gewählt. SVP und SP gewinnen."
+},
+{
+"id": "24f9420b2a5a",
+"title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+"link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
+"text": "Amsterdam ist erneut Schauplatz einer Grossdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+"img": "https://images.tagesschau.de/image/cac8f4e0-8a53-49fc-a135-8f57f56a06a6/AAABobwcTQk/AAABnSSvrFg/16x9-big/demonstration-amsterdam-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T17:02:14+00:00",
+"sum": "Amsterdam ist erneut Schauplatz einer Grossdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei."
+},
+{
+"id": "ead0a54fa78d",
+"title": "24:33 im 2. Euro-Cup-Spiel – Schweizer unterliegen vor Rekordkulisse Übermacht Dänemark",
+"link": "https://www.srf.ch/sport/mehr-sport/handball/24-33-im-2-euro-cup-spiel-schweizer-unterliegen-vor-rekordkulisse-uebermacht-daenemark",
+"text": "Die Handball-Nati verliert auch das 2. Spiel im Euro Cup: Gegen Dänemark setzt es in Zürich ein 24:33.",
+"img": "https://www.srf.ch/static/cms/images//320ws/30495c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T16:51:48+00:00",
+"sum": "Die Handball-Nati verliert auch das 2. Spiel im Euro Cup: Gegen Dänemark setzt es in Zürich ein 24:33."
+},
 {
 "id": "5a7b6c8634e4",
 "title": "Motorrad: MotoGP in Katar – Marquez «nur» Zweiter – Titelentscheidung vertagt",
@@ -24,17 +145,6 @@
 "topic": "Sport",
 "date": "2026-11-08T16:46:04+00:00",
 "sum": "Carlos Alcaraz schlägt Ben Shelton in 2 Sätzen und gewinnt erstmals das ATP-1000-Turnier in Paris."
-},
-{
-"id": "e7520b8e6561",
-"title": "Wahlen Kanton Freiburg – Die SVP gewinnt auf Kosten der FDP Sitze im Kantonsparlament",
-"link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-die-svp-gewinnt-auf-kosten-der-fdp-sitze-im-kantonsparlament",
-"text": "Das Freiburger Stimmvolk hat den Grossen Rat neu gewählt. SVP und SP gewinnen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b459f3.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-08T16:45:33+00:00",
-"sum": "Das Freiburger Stimmvolk hat den Grossen Rat neu gewählt. SVP und SP gewinnen."
 },
 {
 "id": "36f053feec0e",
@@ -71,7 +181,7 @@
 },
 {
 "id": "cf372d0f7423",
-"title": "Strom aus Atommüll: TU Dresden plant Forschungsreaktor",
+"title": "Neuer Reaktortyp soll Atommüll wiederverwerten",
 "link": "https://www.heise.de/news/Strom-aus-Atommuell-TU-Dresden-plant-Forschungsreaktor-11516673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
 "text": "Ein Forschungsreaktor der TU Dresden soll abgebrannte Brennelemente direkt nutzen und die Suche nach einem Endlager erübrigen.",
 "img": "",
@@ -81,9 +191,9 @@
 "sum": "Ein Forschungsreaktor der TU Dresden soll abgebrannte Brennelemente direkt nutzen und die Suche nach einem Endlager erübrigen."
 },
 {
-"id": "16b14cb704d8",
-"title": "700-jähriges Haus in Steinen – Schwyzer Baudenkmal aus dem Mittelalter soll zum Hotel werden",
-"link": "https://www.srf.ch/news/schweiz/700-jaehriges-haus-in-steinen-schwyzer-baudenkmal-aus-dem-mittelalter-soll-zum-hotel-werden",
+"id": "a2101acd8a2d",
+"title": "700-jähriges Haus in Steinen – Hinter dieser Fassade steckt ein grosses Stück Mittelalter",
+"link": "https://www.srf.ch/news/schweiz/700-jaehriges-haus-in-steinen-hinter-dieser-fassade-steckt-ein-grosses-stueck-mittelalter",
 "text": "Der «Adler» ist für die Bauforschung beinahe wie ein Lotto-Sechser. Unter anderem wegen eines besonderen Lochs im Boden.",
 "img": "https://www.srf.ch/static/cms/images//320ws/66a352.webp",
 "source": "SRF",
@@ -172,12 +282,12 @@
 "id": "0b1299317b8a",
 "title": "Mehrere Waggons entgleist – Zugunglück in Ägypten fordert sieben Tote und 112 Verletzte",
 "link": "https://www.srf.ch/news/international/mehrere-waggons-entgleist-zugunglueck-in-aegypten-fordert-sieben-tote-und-112-verletzte",
-"text": "Bei der Entgleisung in Gizeh kamen mehrere Menschen ums Leben. Der Unfallhergang hat Parallelen zum Unglück in Spanien.",
+"text": "Bei der Entgleisung südlich von Kairo kamen mehrere Menschen ums Leben. Der Unfall erinnert an das Unglück in Spanien.",
 "img": "https://www.srf.ch/static/cms/images//320ws/bff0fa.webp",
 "source": "SRF",
 "topic": "Welt",
 "date": "2026-11-08T15:39:30+00:00",
-"sum": "Bei der Entgleisung in Gizeh kamen mehrere Menschen ums Leben. Der Unfallhergang hat Parallelen zum Unglück in Spanien."
+"sum": "Bei der Entgleisung südlich von Kairo kamen mehrere Menschen ums Leben. Der Unfall erinnert an das Unglück in Spanien."
 },
 {
 "id": "5b67034df4fd",
@@ -433,17 +543,6 @@
 "sum": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden."
 },
 {
-"id": "27261f55b570",
-"title": "An der WM in Katar – Nach Gold legen Schweizer Gewehrschützinnen Silber nach",
-"link": "https://www.srf.ch/sport/mehr-sport/schiessen/an-der-wm-in-katar-nach-gold-legen-schweizer-gewehrschuetzinnen-silber-nach",
-"text": "2 Tage nach dem WM-Titel im Liegend-Match resultiert in der nichtolympischen Teamwertung über 50 m Schlussrang 2.",
-"img": "https://www.srf.ch/static/cms/images//320ws/695eac.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T12:04:12+00:00",
-"sum": "2 Tage nach dem WM-Titel im Liegend-Match resultiert in der nichtolympischen Teamwertung über 50 m Schlussrang 2."
-},
-{
 "id": "f03734029fb4",
 "title": "heise-Angebot: betterCode() Agentic AI Summit: Vorträge für die Konferenz in München gesucht",
 "link": "https://www.heise.de/news/betterCode-Agentic-AI-Summit-Vortraege-fuer-die-Konferenz-in-Muenchen-gesucht-11514424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -453,17 +552,6 @@
 "topic": "Tech",
 "date": "2026-11-08T12:00:00+00:00",
 "sum": "Am 1. und 2. Juni 2027 findet der betterCode() Agentic AI Summit in München statt. Bis Ende Dezember 2026 läuft der Call for Proposals."
-},
-{
-"id": "2c77c73d06d8",
-"title": "Lüthi erläutert SIHF-Entscheid – Der Grund für den Sinneswandel? «Wir sind im Zugzwang»",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/luethi-erlaeutert-sihf-entscheid-der-grund-fuer-den-sinneswandel-wir-sind-im-zugzwang",
-"text": "Am Donnerstag hiess es in der Russland-Frage seitens des nationalen Verbandes abwarten. Warum wurde gleichwohl reagiert?",
-"img": "https://www.srf.ch/static/cms/images//320ws/415f48.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T11:55:18+00:00",
-"sum": "Am Donnerstag hiess es in der Russland-Frage seitens des nationalen Verbandes abwarten. Warum wurde gleichwohl reagiert?"
 },
 {
 "id": "f2d60f04dbba",
@@ -497,17 +585,6 @@
 "topic": "Welt",
 "date": "2026-11-08T11:19:37+00:00",
 "sum": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen."
-},
-{
-"id": "f3851c49d14a",
-"title": "US-Militär attackiert Handelsschiff im Golf von Oman",
-"link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-"text": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstossen haben soll. Iran meldet den Brand zweier Frachter in der Strasse von Hormus. Huthis greifen die saudische Hauptstadt Riad an.",
-"img": "https://images.tagesschau.de/image/15a557c5-1453-4cec-8231-10da1cbc3d08/AAABobrU-hk/AAABnSSvrFg/16x9-big/iran-schiff-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T11:04:42+00:00",
-"sum": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstossen haben soll. Iran meldet den Brand zweier Frachter in der Strasse von Hormus. Huthis greifen die saudische Hauptstadt Riad an."
 },
 {
 "id": "bdc2d33c9eb2",
@@ -752,17 +829,6 @@
 "sum": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach."
 },
 {
-"id": "199019d9307a",
-"title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
-"link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
-"text": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
-"img": "https://images.tagesschau.de/image/38870537-2e1c-48c2-93aa-6716c4c8cf86/AAABoboOjEc/AAABnSSvrFg/16x9-big/japan-erdbeben-aichi-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T07:27:58+00:00",
-"sum": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen."
-},
-{
 "id": "0cd366573473",
 "title": "Missing Link: Wenn die KI zuhört, wo Menschen es nicht mehr tun",
 "link": "https://www.heise.de/hintergrund/Missing-Link-Wenn-die-KI-zuhoert-wo-Menschen-es-nicht-mehr-tun-11516378.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -783,17 +849,6 @@
 "topic": "Welt",
 "date": "2026-11-08T07:02:07+00:00",
 "sum": "Frankreichs Linksaussen-Kandidat Jean-Luc Mélenchon hat seine Wahlkampfkampagne offiziell gestartet."
-},
-{
-"id": "9cfea5b8431e",
-"title": "Krimi in Argentinien – Boca schnappt Rosario in der 96. Minute den Titel weg",
-"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/krimi-in-argentinien-boca-schnappt-rosario-in-der-96-minute-den-titel-weg",
-"text": "Boca sichert sich in einem dramatischen Saisonfinale Platz 1 in der Jahres-Gesamttabelle der argentinischen Liga.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f3e1643.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T07:01:37+00:00",
-"sum": "Boca sichert sich in einem dramatischen Saisonfinale Platz 1 in der Jahres-Gesamttabelle der argentinischen Liga."
 },
 {
 "id": "d69c92e660fd",
@@ -1005,17 +1060,6 @@
 "sum": "Eine neue Software für das James-Webb-Weltraumteleskop macht bislang verborgene Welten sichtbar. Auch erdähnliche Planeten könnten damit aufgespürt werden."
 },
 {
-"id": "485ecb901d8e",
-"title": "Frauen-WM in Dänemark – DEB-Frauen siegen zum WM-Start",
-"link": "https://www.srf.ch/sport/eishockey/frauen-eishockey/frauen-wm-in-daenemark-deb-frauen-siegen-zum-wm-start",
-"text": "Deutschlands Eishockeyanerinnen besiegen Österreich an der WM in Dänemark mit 2:0.",
-"img": "https://www.srf.ch/static/cms/images//320ws/63db694.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T21:06:09+00:00",
-"sum": "Deutschlands Eishockeyanerinnen besiegen Österreich an der WM in Dänemark mit 2:0."
-},
-{
 "id": "0c7facb9d925",
 "title": "Der Bund muss seine Pflichtlager für Kerosin öffnen. Nun drohen auch beim Heizöl Engpässe",
 "link": "https://www.nzz.ch/wirtschaft/der-bund-muss-seine-pflichtlager-fuer-kerosin-oeffnen-nun-drohen-auch-beim-heizoel-engpaesse-ld.10055054",
@@ -1104,17 +1148,6 @@
 "sum": "Im Naturhistorischen Museum Genf hat sich der Brotkäfer eingenistet. Nun läuft eine aufwendige Rettungsaktion."
 },
 {
-"id": "d638e7f67395",
-"title": "Sabotage an Kühlsystemen: Warum deutsche Geheimdienste nun eingeschaltet sind",
-"link": "https://www.heise.de/news/Supermarkt-Kuehlsysteme-Deutsche-Geheimdienste-ermitteln-nach-Sabotageakten-11516390.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Nach Angriffen auf Kühlsysteme in Supermärkten europaweit ermitteln nun auch Verfassungsschutz und BND. Die Täter nutzen Schwachstellen in Fernwartungszugängen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T17:32:00+00:00",
-"sum": "Nach Angriffen auf Kühlsysteme in Supermärkten europaweit ermitteln nun auch Verfassungsschutz und BND. Die Täter nutzen Schwachstellen in Fernwartungszugängen."
-},
-{
 "id": "c5bf4e4d3cd6",
 "title": "Technologie und Innovation – China ist zum Experimentierfeld für KI und Robotik geworden",
 "link": "https://www.srf.ch/news/dialog/technologie-und-innovation-china-ist-zum-experimentierfeld-fuer-ki-und-robotik-geworden",
@@ -1192,17 +1225,6 @@
 "sum": "Netflix bringt ein Spin-off von Stranger Things: Other Worlds spielt in den 50er Jahren und kommt mit neuen Charakteren. ( Netflix , Streaming )"
 },
 {
-"id": "8aa36beaef13",
-"title": "Optionen sollen geprüft werden – Nach tagelangen Beratungen: IIHF spielt auf Zeit",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/optionen-sollen-geprueft-werden-nach-tagelangen-beratungen-iihf-spielt-auf-zeit",
-"text": "In der Debatte um die Teilnahme Russlands an Eishockey-Turnieren lässt der Weltverband endlich wieder von sich hören.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a66a36.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T13:12:37+00:00",
-"sum": "In der Debatte um die Teilnahme Russlands an Eishockey-Turnieren lässt der Weltverband endlich wieder von sich hören."
-},
-{
 "id": "92265631c137",
 "title": "Andwil SG – Autofahrer flüchtet vor Polizei und kracht in Wohnhaus",
 "link": "https://www.srf.ch/news/schweiz/andwil-sg-autofahrer-fluechtet-vor-polizei-und-kracht-in-wohnhaus",
@@ -1212,28 +1234,6 @@
 "topic": "Schweiz",
 "date": "2026-11-07T13:01:52+00:00",
 "sum": "Der Lenker verunfallte schwer, das Haus ist einsturzgefährdet."
-},
-{
-"id": "cfe89b399721",
-"title": "Zweite Wahl innert kurzer Zeit – Nach vier Monaten – Thuner Bevölkerung wählt bereits wieder",
-"link": "https://www.srf.ch/news/schweiz/zweite-wahl-innert-kurzer-zeit-nach-vier-monaten-thuner-bevoelkerung-waehlt-bereits-wieder",
-"text": "Im November wählt die Stadt Thun Regierung und Parlament neu. Es ist der zweite Urnengang innert vier Monaten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/314ef0.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-07T12:55:35+00:00",
-"sum": "Im November wählt die Stadt Thun Regierung und Parlament neu. Es ist der zweite Urnengang innert vier Monaten."
-},
-{
-"id": "ea3717c21071",
-"title": "Uri erhält erste Kunsteisbahn – Da war ein Hockeyclub, aber weit und breit kein Eis",
-"link": "https://www.srf.ch/news/schweiz/uri-erhaelt-erste-kunsteisbahn-da-war-ein-hockeyclub-aber-weit-und-breit-kein-eis",
-"text": "Der EHC Uri besteht seit 13 Jahren. Spielen musste er bislang stets ausserkantonal. Ein eigenes Eisfeld ändert dies nun.",
-"img": "https://www.srf.ch/static/cms/images//320ws/14bffd5.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-07T12:53:59+00:00",
-"sum": "Der EHC Uri besteht seit 13 Jahren. Spielen musste er bislang stets ausserkantonal. Ein eigenes Eisfeld ändert dies nun."
 },
 {
 "id": "6a4bc148d2a3",
