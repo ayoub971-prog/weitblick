@@ -1,8 +1,52 @@
 {
-"updated": "2026-11-07T22:50:44+00:00",
+"updated": "2026-11-08T01:24:05+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "c2e07fcc4df3",
+"title": "Polen – Schüsse in Krakau: Drei Tote im Haus des Schützen gefunden",
+"link": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-drei-tote-im-haus-des-schuetzen-gefunden",
+"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T00:46:25+00:00",
+"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
+},
+{
+"id": "59fd41504572",
+"title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
+"link": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
+"text": "Ja, er will: SVP-Fraktionschef Thomas Aeschi kandidiert nun definitiv für die Nachfolge von Bundesrat Guy Parmelin.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d393a6.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T00:26:33+00:00",
+"sum": "Ja, er will: SVP-Fraktionschef Thomas Aeschi kandidiert nun definitiv für die Nachfolge von Bundesrat Guy Parmelin."
+},
+{
+"id": "bfbf8e481b32",
+"title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+"link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
+"text": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
+"img": "https://images.tagesschau.de/image/c030e7f1-afd2-4583-91e2-9d3a57c6bc4b/AAABobh2JRE/AAABnSSvrFg/16x9-big/melenchon-130.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T00:14:21+00:00",
+"sum": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert."
+},
+{
+"id": "8fa3a4458419",
+"title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+"link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+"text": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist.",
+"img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-07T23:00:48+00:00",
+"sum": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist."
+},
 {
 "id": "53c33ad9c5f2",
 "title": "Auf der Suche nach Exoplaneten: Dem Sternenlicht ein Schnippchen schlagen",
@@ -37,17 +81,6 @@
 "sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
 },
 {
-"id": "c2e07fcc4df3",
-"title": "Polen – Schüsse in Krakau: Drei Tote im Haus des Schützen gefunden",
-"link": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-drei-tote-im-haus-des-schuetzen-gefunden",
-"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
-"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T21:54:43+00:00",
-"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
-},
-{
 "id": "3ec5331b3dab",
 "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
 "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
@@ -57,17 +90,6 @@
 "topic": "Welt",
 "date": "2026-11-07T21:51:26+00:00",
 "sum": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmassliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt."
-},
-{
-"id": "8fa3a4458419",
-"title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-"link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-"text": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
-"img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T21:48:55+00:00",
-"sum": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist."
 },
 {
 "id": "7ad64bf40409",
@@ -807,17 +829,6 @@
 "sum": "Mit Nvidias NVKE sollen Betreiber von GPU-Rechenzentren Managed Kubernetes anbieten können. Die Preview lässt sich jetzt ausprobieren."
 },
 {
-"id": "b23ea7561be4",
-"title": "Was passiert bei einer Bombendrohung im Flugzeug?",
-"link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
-"text": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
-"img": "https://images.tagesschau.de/image/09372948-5e30-4d1a-a149-94422fc7b84a/AAABobQRL9c/AAABnSSvrFg/16x9-big/flugzeug-193.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T08:10:26+00:00",
-"sum": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen."
-},
-{
 "id": "9e4687ad3d72",
 "title": "Reich durch heisse Luft",
 "link": "https://www.spektrum.de/raetsel/reich-durch-heisse-luft-ammoniaksynthese/2338501",
@@ -1058,17 +1069,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T19:23:31+00:00",
 "sum": "Die neuesten Meldungen aus der Wirtschaft."
-},
-{
-"id": "6d916b002c70",
-"title": "Pionierprojekt – Gegen Hitzestau: Bier-Abwasser rettet Basler Gründächer",
-"link": "https://www.srf.ch/news/schweiz/pionierprojekt-gegen-hitzestau-bier-abwasser-rettet-basler-gruendaecher",
-"text": "Weil Gründächer bei Hitze vertrocknen, testet Basel eine Rettung mit Brauerei-Brauchwasser.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7e2977.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-06T18:56:01+00:00",
-"sum": "Weil Gründächer bei Hitze vertrocknen, testet Basel eine Rettung mit Brauerei-Brauchwasser."
 },
 {
 "id": "ccc9e0485d15",
