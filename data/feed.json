@@ -1,8 +1,52 @@
 {
-"updated": "2026-11-08T20:52:13+00:00",
+"updated": "2026-11-08T22:50:44+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "c6bc0c2ce548",
+"title": "Tückische Affäre – Hat eine chinesische Agentin den Nvidia-CEO ausspioniert?",
+"link": "https://www.srf.ch/news/international/tueckische-affaere-hat-eine-chinesische-agentin-den-nvidia-ceo-ausspioniert",
+"text": "Chef Jensen Huang hatte eine Affäre. US-Behörden vermuten, dass die Frau vom chinesischen Geheimdienst angeworben wurde.",
+"img": "https://www.srf.ch/static/cms/images//320ws/79c868.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T22:40:54+00:00",
+"sum": "Chef Jensen Huang hatte eine Affäre. US-Behörden vermuten, dass die Frau vom chinesischen Geheimdienst angeworben wurde."
+},
+{
+"id": "bc03b8cc8ad4",
+"title": "Jensen Huang gesteht Affäre ein, Nvidia beginnt Untersuchung",
+"link": "https://www.heise.de/news/Jensen-Huang-gesteht-Affaere-ein-Nvidia-beginnt-Untersuchung-11516757.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Das Board von Nvidia hat mit externer Unterstützung eine Untersuchung gegen seinen CEO eingeleitet. Es geht um Verbindungen zu chinesischen Geheimdiensten.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T22:06:00+00:00",
+"sum": "Das Board von Nvidia hat mit externer Unterstützung eine Untersuchung gegen seinen CEO eingeleitet. Es geht um Verbindungen zu chinesischen Geheimdiensten."
+},
+{
+"id": "c76b98004ff4",
+"title": "Fussball aus den Topligen – Doppelte Aufholjagd von ManUnited – Barça schlägt Atletico",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-doppelte-aufholjagd-von-manunited-barca-schlaegt-atletico",
+"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/574fbc5.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T21:58:45+00:00",
+"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
+},
+{
+"id": "be60bd46f216",
+"title": "Nvidia-Chef Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Das Unternehmen leitet nun eine Untersuchung ein",
+"link": "https://www.nzz.ch/wirtschaft/nvidia-chef-huang-hatte-mutmasslich-eine-affaere-mit-einer-chinesischen-spionin-das-unternehmen-leitet-nun-eine-untersuchung-ein-ld.10058205",
+"text": "Jensen Huang räumt eine Affäre ein. Laut Medienberichten vermuten die amerikanischen Behörden, dass die Frau vom chinesischen Geheimdienst angeworben wurde.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/08/610c8862-f4fa-4686-8128-a9bbf1cc8a10.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-08T21:09:41+00:00",
+"sum": "Jensen Huang räumt eine Affäre ein. Laut Medienberichten vermuten die amerikanischen Behörden, dass die Frau vom chinesischen Geheimdienst angeworben wurde."
+},
 {
 "id": "579a0d69d974",
 "title": "1. WM-Sieg dank 2:1 n.V. – Müller mit der Entscheidung: Die Schweiz schlägt Tschechien",
@@ -59,6 +103,17 @@
 "sum": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt."
 },
 {
+"id": "4d66bc52c96a",
+"title": "Weitere Sport-News – Kuhn mit starkem Ergebnis an Radquer-EM – Juniorin mit Medaille",
+"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-kuhn-mit-starkem-ergebnis-an-radquer-em-juniorin-mit-medaille",
+"text": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b392b9c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T20:02:04+00:00",
+"sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
+},
+{
 "id": "d5216acf96af",
 "title": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
 "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
@@ -112,17 +167,6 @@
 "topic": "Sport",
 "date": "2026-11-08T18:51:09+00:00",
 "sum": "Der Brite siegt in Sao Paulo, der Niederländer fährt von Rang 21 auf 2. Mercedes gewinnt die Konstrukteure-WM."
-},
-{
-"id": "14551de52740",
-"title": "Fussball aus den Topligen – Doppelte Aufholjagd: ManUnited zeigt grosse Moral – Inter gewinnt",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-doppelte-aufholjagd-manunited-zeigt-grosse-moral-inter-gewinnt",
-"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/574fbc5.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T18:45:50+00:00",
-"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
 },
 {
 "id": "de5400236c10",
@@ -205,12 +249,12 @@
 "id": "ead0a54fa78d",
 "title": "24:33 im 2. Euro-Cup-Spiel – Schweizer unterliegen vor Rekordkulisse Übermacht Dänemark",
 "link": "https://www.srf.ch/sport/mehr-sport/handball/24-33-im-2-euro-cup-spiel-schweizer-unterliegen-vor-rekordkulisse-uebermacht-daenemark",
-"text": "Die Handball-Nati verliert auch das 2. Spiel im Euro Cup: Gegen Dänemark setzt es in Zürich ein 24:33.",
+"text": "Die Handball-Nati verliert auch das 2. Spiel im Euro Cup: Gegen Dänemark setzt es in Zürich ein 24:33 ab.",
 "img": "https://www.srf.ch/static/cms/images//320ws/30495c.webp",
 "source": "SRF",
 "topic": "Sport",
 "date": "2026-11-08T16:51:48+00:00",
-"sum": "Die Handball-Nati verliert auch das 2. Spiel im Euro Cup: Gegen Dänemark setzt es in Zürich ein 24:33."
+"sum": "Die Handball-Nati verliert auch das 2. Spiel im Euro Cup: Gegen Dänemark setzt es in Zürich ein 24:33 ab."
 },
 {
 "id": "e75666312610",
@@ -356,9 +400,9 @@
 "sum": "US-Berichte legen nahe, dass Jensen Huang einer Spionin nahestand, deren Arbeitgeber Exportbeschränkungen unterlaufen haben soll."
 },
 {
-"id": "0b1299317b8a",
-"title": "Mehrere Waggons entgleist – Zugunglück in Ägypten fordert sieben Tote und 112 Verletzte",
-"link": "https://www.srf.ch/news/international/mehrere-waggons-entgleist-zugunglueck-in-aegypten-fordert-sieben-tote-und-112-verletzte",
+"id": "9aea0135dda4",
+"title": "Mehrere Waggons entgleist – Zugunglück in Ägypten fordert sieben Tote und über 100 Verletzte",
+"link": "https://www.srf.ch/news/international/mehrere-waggons-entgleist-zugunglueck-in-aegypten-fordert-sieben-tote-und-ueber-100-verletzte",
 "text": "Bei der Entgleisung südlich von Kairo kamen mehrere Menschen ums Leben. Der Unfall erinnert an das Unglück in Spanien.",
 "img": "https://www.srf.ch/static/cms/images//320ws/12cab19.webp",
 "source": "SRF",
@@ -535,12 +579,12 @@
 "id": "09b747d1484d",
 "title": "Jensen Huang: Nvidia-Chef wird Verhältnis mit chinesischer Spionin vorgeworfen",
 "link": "https://www.golem.de/news/jensen-huang-nvidia-chef-wird-verhaeltnis-mit-chinesischer-spionin-vorgeworfen-2611-214969.html",
-"text": "​​Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben. ( Nvidia , Politik )",
+"text": "Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben. ( Nvidia , Politik )",
 "img": "https://cpx.golem.de/cpx.php?class=17&aid=214969&page=1&ts=1794142382",
 "source": "Golem",
 "topic": "Tech",
 "date": "2026-11-08T12:53:02+00:00",
-"sum": "​​Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben. ( Nvidia , Politik )"
+"sum": "Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben. ( Nvidia , Politik )"
 },
 {
 "id": "4b0102e35006",
@@ -928,17 +972,6 @@
 "sum": "Modbrix-Modelle sehen toll aus, wenn sie fertiggesteckt sind. Selten haben wir aber das Bauen mit Klemmbausteinen so verflucht. Ein Erfahrungsbericht von Oliver Nickel ( Bluebrixx , Lego )"
 },
 {
-"id": "711c655fc658",
-"title": "Wie Betreiber von Rechenzentren Angaben zum Energiebedarf verstecken",
-"link": "https://www.heise.de/news/Intransparente-Rechenzentren-Versteckspiel-beim-Energiehunger-11516418.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das Energieeffizienzgesetz verlangt Offenheit von Rechenzentren-Betreibern. Doch Recherchen zeigen, dass viele den Strom- und Wasserverbrauch geheim halten.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-08T06:14:00+00:00",
-"sum": "Das Energieeffizienzgesetz verlangt Offenheit von Rechenzentren-Betreibern. Doch Recherchen zeigen, dass viele den Strom- und Wasserverbrauch geheim halten."
-},
-{
 "id": "e918b48b618f",
 "title": "Anzeige: IT-Jobs in Cloud, Systemadministration und Softwareentwicklung",
 "link": "https://www.golem.de/news/anzeige-it-jobs-in-cloud-systemadministration-und-softwareentwicklung-2611-214922.html",
@@ -1126,17 +1159,6 @@
 "sum": "Künstliche Riffe, angesiedelte Korallen und renaturiertes Seegras sollen Inseln vor dem Meer retten."
 },
 {
-"id": "972649a2333b",
-"title": "Kostyuk rückt nach – Rybakina verzichtet auf Teilnahme an den WTA Finals",
-"link": "https://www.srf.ch/sport/tennis/wta-tour/kostyuk-rueckt-nach-rybakina-verzichtet-auf-teilnahme-an-den-wta-finals",
-"text": "Die Weltnummer 1 nimmt aus gesundheitlichen Gründen nicht am Saisonendturnier der Jahresbesten teil.",
-"img": "https://www.srf.ch/static/cms/images//320ws/bda84d.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T20:17:33+00:00",
-"sum": "Die Weltnummer 1 nimmt aus gesundheitlichen Gründen nicht am Saisonendturnier der Jahresbesten teil."
-},
-{
 "id": "fd176b8d8e00",
 "title": "Economiesuisse-Präsident – «Es tut weh, wenn sehr gut ausgebildete Junge keinen Job finden»",
 "link": "https://www.srf.ch/news/schweiz/economiesuisse-praesident-es-tut-weh-wenn-sehr-gut-ausgebildete-junge-keinen-job-finden",
@@ -1280,17 +1302,6 @@
 "sum": "Hunderte KI-Agenten griffen Hugging Face an. Zunächst schien klar, wonach sie suchten. Doch eine unabhängige Untersuchung offenbart ein weitaus beunruhigenderes Motiv."
 },
 {
-"id": "ae28feb060ba",
-"title": "Umweltschäden des Krieges – Gaza: Satellitenbilder zeigen dramatischen Verlust an Anbaufläche",
-"link": "https://www.srf.ch/news/dialog/umweltschaeden-des-krieges-gaza-satellitenbilder-zeigen-dramatischen-verlust-an-anbauflaeche",
-"text": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können.",
-"img": "https://www.srf.ch/static/cms/images//320ws/43a1f9.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T11:47:16+00:00",
-"sum": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können."
-},
-{
 "id": "9e4687ad3d72",
 "title": "Reich durch heisse Luft",
 "link": "https://www.spektrum.de/raetsel/reich-durch-heisse-luft-ammoniaksynthese/2338501",
@@ -1410,17 +1421,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-07T02:54:24+00:00",
 "sum": "Dass die Generalsanierung der Bahnstrecke Berlin-Hannover massive Verspätungen bedeutet, war klar. Doch nun zeigt sich: Die Pünktlichkeit auf der Ausweichstrecke ist selbst für Bahnverhältnisse unterdurchschnittlich. Von Andre Kartschall."
-},
-{
-"id": "a9a2ca36d63f",
-"title": "MELDUNGEN WIRTSCHAFT - Elon Musk kündigt das Ende der Cybertruck-Produktion in Texas an",
-"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
-"text": "Die neuesten Meldungen aus der Wirtschaft.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/06/b6b34498-b371-4eab-8183-33ed649f2a34.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3648,3648,x0,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-06T19:23:31+00:00",
-"sum": "Die neuesten Meldungen aus der Wirtschaft."
 },
 {
 "id": "c65632529278",
