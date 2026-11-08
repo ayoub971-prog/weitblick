@@ -1,8 +1,96 @@
 {
-"updated": "2026-11-08T18:59:26+00:00",
+"updated": "2026-11-08T20:52:13+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "579a0d69d974",
+"title": "1. WM-Sieg dank 2:1 n.V. – Müller mit der Entscheidung: Die Schweiz schlägt Tschechien",
+"link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/1-wm-sieg-dank-2-1-n-v-mueller-mit-der-entscheidung-die-schweiz-schlaegt-tschechien",
+"text": "Die Hockey-Frauen ringen im 2. WM-Spiel Tschechien mit 2:1 nach Verlängerung nieder und fahren die ersten Punkte ein.",
+"img": "https://www.srf.ch/static/cms/images//320ws/78597e.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T20:50:20+00:00",
+"sum": "Die Hockey-Frauen ringen im 2. WM-Spiel Tschechien mit 2:1 nach Verlängerung nieder und fahren die ersten Punkte ein."
+},
+{
+"id": "310cfa6841ef",
+"title": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
+"link": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+"text": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.",
+"img": "https://images.tagesschau.de/image/0b4eb7e8-ea70-4f51-ab70-7582d3bc0166/AAABleXrA9I/AAABnSSvrFg/16x9-big/einwegverpackung-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T20:38:04+00:00",
+"sum": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist."
+},
+{
+"id": "575cc88483fb",
+"title": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+"link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
+"text": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
+"img": "https://images.tagesschau.de/image/44a105b9-9c17-4637-8e97-57afaf52ade8/AAABobykDyM/AAABnSSvrFg/16x9-big/gaza-regen-104.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T20:15:13+00:00",
+"sum": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler."
+},
+{
+"id": "d5cdef027934",
+"title": "Essenslieferant – Zürcher Just-Eat-Kuriere legen ihre Arbeit nieder",
+"link": "https://www.srf.ch/news/schweiz/essenslieferant-zuercher-just-eat-kuriere-legen-ihre-arbeit-nieder",
+"text": "Wegen geplanter Entlassungen haben Just-Eat-Fahrerinnen und -Fahrer in Zürich und im Glatttal gestreikt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/9d9f81.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T20:10:35+00:00",
+"sum": "Wegen geplanter Entlassungen haben Just-Eat-Fahrerinnen und -Fahrer in Zürich und im Glatttal gestreikt."
+},
+{
+"id": "91ccbd72a6a2",
+"title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
+"link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
+"text": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+"img": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T20:05:22+00:00",
+"sum": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt."
+},
+{
+"id": "d5216acf96af",
+"title": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
+"link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
+"text": "Viele junge Menschen fühlen sich politisch übergangen. Das liege auch daran, dass Pläne wie die Rentenreform nicht umgesetzt würden, sagt Winkel, Vorsitzender der Jungen Union, im Bericht aus Berlin. Die Regierung habe einiges wieder gut zu machen.",
+"img": "https://images.tagesschau.de/image/ffffe647-adfd-47e5-88b2-29a10420bb82/AAABobyRoyc/AAABnSSvrFg/16x9-big/sendungsbild-1824456.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T19:43:02+00:00",
+"sum": "Viele junge Menschen fühlen sich politisch übergangen. Das liege auch daran, dass Pläne wie die Rentenreform nicht umgesetzt würden, sagt Winkel, Vorsitzender der Jungen Union, im Bericht aus Berlin. Die Regierung habe einiges wieder gut zu machen."
+},
+{
+"id": "50799fdfa86d",
+"title": "Bundesliga am Sonntag – Nächste Pleite für Lustrinellis Union",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-am-sonntag-naechste-pleite-fuer-lustrinellis-union",
+"text": "Trainer Mauro Lustrinelli verliert mit Union Berlin in Freiburg 0:2 und kassiert die 4. Bundesliga-Niederlage.",
+"img": "https://www.srf.ch/static/cms/images//320ws/3c623f.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T19:15:55+00:00",
+"sum": "Trainer Mauro Lustrinelli verliert mit Union Berlin in Freiburg 0:2 und kassiert die 4. Bundesliga-Niederlage."
+},
+{
+"id": "3e4540e6e0ed",
+"title": "Top 10: Der beste Mini-PC mit Windows 11",
+"link": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-ueber-80-modelle-im-test/6cybv8w?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Mini-PCs sind kompakt und ideal für Office bis Gaming. Wir zeigen die besten Modelle aller Preisklassen aus über 80 Tests.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T19:00:00+00:00",
+"sum": "Mini-PCs sind kompakt und ideal für Office bis Gaming. Wir zeigen die besten Modelle aller Preisklassen aus über 80 Tests."
+},
 {
 "id": "aafb4ed9b0d1",
 "title": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
@@ -19,16 +107,16 @@
 "title": "Formel 1: GP Brasilien – Norris triumphiert – Verstappen mit Riesen-Aufholjagd",
 "link": "https://www.srf.ch/sport/motorsport/motorrad/formel-1-gp-brasilien-norris-triumphiert-verstappen-mit-riesen-aufholjagd",
 "text": "Der Brite siegt in Sao Paulo, der Niederländer fährt von Rang 21 auf 2. Mercedes gewinnt die Konstrukteure-WM.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6a686b3.webp",
+"img": "https://www.srf.ch/static/cms/images//320ws/6fc99b.webp",
 "source": "SRF",
 "topic": "Sport",
 "date": "2026-11-08T18:51:09+00:00",
 "sum": "Der Brite siegt in Sao Paulo, der Niederländer fährt von Rang 21 auf 2. Mercedes gewinnt die Konstrukteure-WM."
 },
 {
-"id": "b3dd71516783",
-"title": "Fussball aus den Topligen – Doppelte Aufholjagd: ManUnited zeigt beim 4:4 grosse Moral",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-doppelte-aufholjagd-manunited-zeigt-beim-4-4-grosse-moral",
+"id": "14551de52740",
+"title": "Fussball aus den Topligen – Doppelte Aufholjagd: ManUnited zeigt grosse Moral – Inter gewinnt",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-doppelte-aufholjagd-manunited-zeigt-grosse-moral-inter-gewinnt",
 "text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
 "img": "https://www.srf.ch/static/cms/images//320ws/574fbc5.webp",
 "source": "SRF",
@@ -123,17 +211,6 @@
 "topic": "Sport",
 "date": "2026-11-08T16:51:48+00:00",
 "sum": "Die Handball-Nati verliert auch das 2. Spiel im Euro Cup: Gegen Dänemark setzt es in Zürich ein 24:33."
-},
-{
-"id": "5a7b6c8634e4",
-"title": "Motorrad: MotoGP in Katar – Marquez «nur» Zweiter – Titelentscheidung vertagt",
-"link": "https://www.srf.ch/sport/motorsport/motorrad/motorrad-motogp-in-katar-marquez-nur-zweiter-titelentscheidung-vertagt",
-"text": "Der Spanier verpasst beim MotoGP-Rennen in Katar den Sieg und muss sich in Sachen WM-Titel noch gedulden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7b3efb.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T16:47:21+00:00",
-"sum": "Der Spanier verpasst beim MotoGP-Rennen in Katar den Sieg und muss sich in Sachen WM-Titel noch gedulden."
 },
 {
 "id": "e75666312610",
@@ -283,7 +360,7 @@
 "title": "Mehrere Waggons entgleist – Zugunglück in Ägypten fordert sieben Tote und 112 Verletzte",
 "link": "https://www.srf.ch/news/international/mehrere-waggons-entgleist-zugunglueck-in-aegypten-fordert-sieben-tote-und-112-verletzte",
 "text": "Bei der Entgleisung südlich von Kairo kamen mehrere Menschen ums Leben. Der Unfall erinnert an das Unglück in Spanien.",
-"img": "https://www.srf.ch/static/cms/images//320ws/bff0fa.webp",
+"img": "https://www.srf.ch/static/cms/images//320ws/12cab19.webp",
 "source": "SRF",
 "topic": "Welt",
 "date": "2026-11-08T15:39:30+00:00",
@@ -310,17 +387,6 @@
 "topic": "Welt",
 "date": "2026-11-08T15:28:00+00:00",
 "sum": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm."
-},
-{
-"id": "e6d5cc7ca3b7",
-"title": "Euro Hockey Tour in Helsinki – Von wegen Wiedergutmachung: Schweiz unterliegt auch Tschechien",
-"link": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-in-helsinki-von-wegen-wiedergutmachung-schweiz-unterliegt-auch-tschechien",
-"text": "Beim 2:4 gegen Tschechien findet die Pleitenserie ihre Fortsetzung. Dabei verspielt die Nati eine 2:0-Führung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/3d228d6.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T15:03:42+00:00",
-"sum": "Beim 2:4 gegen Tschechien findet die Pleitenserie ihre Fortsetzung. Dabei verspielt die Nati eine 2:0-Führung."
 },
 {
 "id": "c8dad5d82bc6",
@@ -431,17 +497,6 @@
 "topic": "Schweiz",
 "date": "2026-11-08T13:33:48+00:00",
 "sum": "22 Jahre kämpfte Margrith Gysel für den Schutz des Zürcher Hausbergs. Nun tritt die Präsidentin von Pro Üetliberg ab."
-},
-{
-"id": "d998daa4da94",
-"title": "Motorsport-News – Bagnaia gibt Entwarnung: OP nach doppeltem Fussbruch",
-"link": "https://www.srf.ch/sport/motorsport/motorsport-allgemein/motorsport-news-bagnaia-gibt-entwarnung-op-nach-doppeltem-fussbruch",
-"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Motorsport-News des Tages.",
-"img": "https://www.srf.ch/static/cms/images//320ws/859e121.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T13:17:31+00:00",
-"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Motorsport-News des Tages."
 },
 {
 "id": "11d1fa4f03f7",
@@ -686,17 +741,6 @@
 "sum": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Oder gibt es ein Missverständnis?"
 },
 {
-"id": "7b28f058efa1",
-"title": "Familienmitglieder des Schützen ebenfalls getötet",
-"link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html",
-"text": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
-"img": "https://images.tagesschau.de/image/9abd0f70-e013-42c1-89d5-8710c5472b62/AAABobqYEFU/AAABnSSvrFg/16x9-big/polen-krakau-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T09:58:10+00:00",
-"sum": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben."
-},
-{
 "id": "b264ce7b1241",
 "title": "Proteste in Frankreich – Kein Brutkasten für Gewalt: Tiktok ist besser als sein Ruf",
 "link": "https://www.srf.ch/news/dialog/proteste-in-frankreich-kein-brutkasten-fuer-gewalt-tiktok-ist-besser-als-sein-ruf",
@@ -774,17 +818,6 @@
 "sum": "Israels Präsident hat Eisenkot mit der Regierungsbildung beauftragt. Ohne Kompromisse wird er kaum an die Macht kommen."
 },
 {
-"id": "5e3c0873677f",
-"title": "Papst Leo XIV. setzt Südamerika-Reise fort",
-"link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
-"text": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
-"img": "https://images.tagesschau.de/image/569e6360-4542-49fc-a185-0871ac39e241/AAABobqGs5o/AAABnSSvrFg/16x9-big/papst-uruguay-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T08:27:56+00:00",
-"sum": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung."
-},
-{
 "id": "6fb63fee3465",
 "title": "Lehren aus den US-Midterms – Mehr als eine Abrechnung mit Trump",
 "link": "https://www.srf.ch/news/international/usa/lehren-aus-den-us-midterms-mehr-als-eine-abrechnung-mit-trump",
@@ -807,24 +840,13 @@
 "sum": "Die Erforschung der gewaltigsten Explosionen im Kosmos ist eine Geschichte voller Überraschungen – immer wieder bringen neue Beobachtungen das gängige Modell ins Wanken."
 },
 {
-"id": "eb0b57fd6ed8",
-"title": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
-"link": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html",
-"text": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer.",
-"img": "https://images.tagesschau.de/image/86a8cd8d-207e-47ea-b096-03a699f80c25/AAABoaus4WI/AAABnSSvrFg/16x9-big/tatort-fussballplatz-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T07:39:28+00:00",
-"sum": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer."
-},
-{
 "id": "d4a61396de30",
 "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
 "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
 "text": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
 "img": "https://images.tagesschau.de/image/18371428-3210-4453-b7ab-1fd97fa2d32f/AAABm5eTw7w/AAABnSSvrFg/16x9-big/statuen-baer-bulle-deutsche-boerse-100.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-08T07:35:33+00:00",
 "sum": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach."
 },
@@ -849,6 +871,17 @@
 "topic": "Welt",
 "date": "2026-11-08T07:02:07+00:00",
 "sum": "Frankreichs Linksaussen-Kandidat Jean-Luc Mélenchon hat seine Wahlkampfkampagne offiziell gestartet."
+},
+{
+"id": "9cfea5b8431e",
+"title": "Krimi in Argentinien – Boca schnappt Rosario in der 96. Minute den Titel weg",
+"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/krimi-in-argentinien-boca-schnappt-rosario-in-der-96-minute-den-titel-weg",
+"text": "Boca sichert sich in einem dramatischen Saisonfinale Platz 1 in der Jahres-Gesamttabelle der argentinischen Liga.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f3e1643.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T07:01:37+00:00",
+"sum": "Boca sichert sich in einem dramatischen Saisonfinale Platz 1 in der Jahres-Gesamttabelle der argentinischen Liga."
 },
 {
 "id": "d69c92e660fd",
@@ -1115,17 +1148,6 @@
 "sum": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber."
 },
 {
-"id": "ca4d3b50ca66",
-"title": "Top 10: Das beste Heizkörperthermostat im Test",
-"link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-testsieger-heizt-ohne-cloud/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft komplett ohne Cloud.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T19:00:00+00:00",
-"sum": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft komplett ohne Cloud."
-},
-{
 "id": "c3ad85f61174",
 "title": "Klinische Studien – Pharma: Streit um Ethikkommissionen bremst Forschung",
 "link": "https://www.srf.ch/news/wirtschaft/klinische-studien-pharma-streit-um-ethikkommissionen-bremst-forschung",
@@ -1223,17 +1245,6 @@
 "topic": "Tech",
 "date": "2026-11-07T13:17:02+00:00",
 "sum": "Netflix bringt ein Spin-off von Stranger Things: Other Worlds spielt in den 50er Jahren und kommt mit neuen Charakteren. ( Netflix , Streaming )"
-},
-{
-"id": "92265631c137",
-"title": "Andwil SG – Autofahrer flüchtet vor Polizei und kracht in Wohnhaus",
-"link": "https://www.srf.ch/news/schweiz/andwil-sg-autofahrer-fluechtet-vor-polizei-und-kracht-in-wohnhaus",
-"text": "Der Lenker verunfallte schwer, das Haus ist einsturzgefährdet.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1c480de.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-07T13:01:52+00:00",
-"sum": "Der Lenker verunfallte schwer, das Haus ist einsturzgefährdet."
 },
 {
 "id": "6a4bc148d2a3",
@@ -1696,28 +1707,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-06T04:30:00+00:00",
 "sum": "Von der Biologie bis zur Geschichtswissenschaft: KI macht Fortschritte möglich, die bislang undenkbar waren."
-},
-{
-"id": "63789f995bae",
-"title": "Stellenmeldepflicht – Mehr arbeitslose Verkäuferinnen und Verkäufer im Detailhandel",
-"link": "https://www.srf.ch/news/wirtschaft/stellenmeldepflicht-mehr-arbeitslose-verkaeuferinnen-und-verkaeufer-im-detailhandel",
-"text": "Offene Stellen beim Detailhandel-Verkaufspersonal müssen neu den regionalen Arbeitsvermittlungszentren gemeldet werden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/92e5815.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-05T19:17:16+00:00",
-"sum": "Offene Stellen beim Detailhandel-Verkaufspersonal müssen neu den regionalen Arbeitsvermittlungszentren gemeldet werden."
-},
-{
-"id": "dfed495e675c",
-"title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
-"link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
-"text": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff",
-"img": "https://images.tagesschau.de/image/1a3ebc67-f846-4558-b6e1-dbc96f6cdfa1/AAABoaaLDok/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-05T19:11:03+00:00",
-"sum": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff"
 }
 ]
 }
