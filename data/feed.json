@@ -1,18 +1,51 @@
 {
-"updated": "2026-11-08T01:24:05+00:00",
+"updated": "2026-11-08T03:03:48+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
-"id": "c2e07fcc4df3",
-"title": "Polen – Schüsse in Krakau: Drei Tote im Haus des Schützen gefunden",
-"link": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-drei-tote-im-haus-des-schuetzen-gefunden",
+"id": "c86ccf145e72",
+"title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+"link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+"text": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein.",
+"img": "https://images.tagesschau.de/image/c5c63d68-4ab5-4931-8779-0a67c552dcba/AAABnm9Gfq0/AAABnSSvrFg/16x9-big/kubicki-170.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T02:28:44+00:00",
+"sum": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein."
+},
+{
+"id": "fdf89b6a9b03",
+"title": "Polen – Tödliche Schüsse in Krakau – das ist bekannt",
+"link": "https://www.srf.ch/news/international/polen-toedliche-schuesse-in-krakau-das-ist-bekannt",
 "text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
 "img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
 "source": "SRF",
 "topic": "Welt",
-"date": "2026-11-08T00:46:25+00:00",
+"date": "2026-11-08T02:10:45+00:00",
 "sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
+},
+{
+"id": "df3e770efe8d",
+"title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+"link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
+"text": "Ein Mann schiesst in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrösste Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling.",
+"img": "https://images.tagesschau.de/image/68961771-7cd2-466f-9fc6-f5e1ef891cff/AAABobi2DQI/AAABnSSvrFg/16x9-big/krakau-trauer-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T01:50:38+00:00",
+"sum": "Ein Mann schiesst in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrösste Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling."
+},
+{
+"id": "8fa3a4458419",
+"title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+"link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+"text": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch eine deutsche. Was bislang über die Tat bekannt ist.",
+"img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T01:27:38+00:00",
+"sum": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch eine deutsche. Was bislang über die Tat bekannt ist."
 },
 {
 "id": "59fd41504572",
@@ -35,17 +68,6 @@
 "topic": "Welt",
 "date": "2026-11-08T00:14:21+00:00",
 "sum": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert."
-},
-{
-"id": "8fa3a4458419",
-"title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-"link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-"text": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist.",
-"img": "https://images.tagesschau.de/image/035bdba7-3beb-4918-8149-fb5ddb739cac/AAABobaqOgE/AAABnSSvrFg/16x9-big/einsatzkraefte-historisches-stadtzentrum-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T23:00:48+00:00",
-"sum": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch Deutsche. Was bislang über die Tat bekannt ist."
 },
 {
 "id": "53c33ad9c5f2",
@@ -708,17 +730,6 @@
 "sum": "Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen. Von C. Reveland und K. König."
 },
 {
-"id": "3d6b490fa433",
-"title": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
-"link": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html",
-"text": "Jahrelang kaum Regen in Deutschland, heisse Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll. Von P. Sonnenberg.",
-"img": "https://images.tagesschau.de/image/ced7e003-2805-42cf-8d4a-136cf8aaf057/AAABobDXrcI/AAABnSSvrFg/16x9-big/duerre-rhein-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T09:44:35+00:00",
-"sum": "Jahrelang kaum Regen in Deutschland, heisse Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll. Von P. Sonnenberg."
-},
-{
 "id": "068faf3e38cd",
 "title": "Anzeige: Outdoor-Smartphone von Blackview jetzt mit 18 GByte RAM und riesigem Akku zum Angebotspreis",
 "link": "https://www.golem.de/news/anzeige-outdoor-smartphone-von-blackview-jetzt-mit-18-gbyte-ram-und-riesigem-akku-zum-angebotspreis-2611-214947.html",
@@ -728,17 +739,6 @@
 "topic": "Tech",
 "date": "2026-11-07T09:40:02+00:00",
 "sum": "Kurz vor dem Black Friday hat Blackview ein neues Outdoor-Smartphone im Angebot. Es bietet einen ausdauernden Akku und gut 180 Euro Rabatt. ( Smartphone , Mobil )"
-},
-{
-"id": "bb23cbed4325",
-"title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-"link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-"text": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
-"img": "https://images.tagesschau.de/image/cc62aaec-9be1-4ab8-9152-b85193c4ac4d/AAABobVW4eg/AAABnSSvrFg/16x9-big/spd-hubig-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T09:28:52+00:00",
-"sum": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten."
 },
 {
 "id": "7627e8b4f78f",
