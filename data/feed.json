@@ -1,8 +1,206 @@
 {
-"updated": "2026-11-08T10:56:37+00:00",
+"updated": "2026-11-08T13:08:22+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "2fa2baae201d",
+"title": "heise+ | c’t-Story: Vertrauensfrage",
+"link": "https://www.heise.de/hintergrund/c-t-Story-Vertrauensfrage-11459503.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+"text": "Technische Innovationen sind stets willkommen – es sei denn, sie mischen sich als komplizierte, ärgerliche Hindernisse in liebgewonnene Abläufe ein.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T13:00:00+00:00",
+"sum": "Technische Innovationen sind stets willkommen – es sei denn, sie mischen sich als komplizierte, ärgerliche Hindernisse in liebgewonnene Abläufe ein."
+},
+{
+"id": "492ce8618f84",
+"title": "Internationale Fussball-News – Erneuter Ausfall: Sehnenteilriss bei Neuer",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-erneuter-ausfall-sehnenteilriss-bei-neuer",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
+"img": "https://www.srf.ch/static/cms/images//320ws/9f61b9.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T12:56:03+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
+},
+{
+"id": "09b747d1484d",
+"title": "Jensen Huang: Nvidia-Chef wird Verhältnis mit chinesischer Spionin vorgeworfen",
+"link": "https://www.golem.de/news/jensen-huang-nvidia-chef-wird-verhaeltnis-mit-chinesischer-spionin-vorgeworfen-2611-214969.html",
+"text": "​​Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben. ( Nvidia , Politik )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214969&page=1&ts=1794142382",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-08T12:53:02+00:00",
+"sum": "​​Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben. ( Nvidia , Politik )"
+},
+{
+"id": "4b0102e35006",
+"title": "Rückschläge im Kampf gegen Herz-Kreislauf-Erkrankungen: Zwei vielversprechende Medikamente erweisen sich als nutzlos",
+"link": "https://www.nzz.ch/wissenschaft/rueckschlaege-im-kampf-gegen-herz-kreislauf-erkrankungen-zwei-vielversprechende-medikamente-erweisen-sich-als-nutzlos-ld.10057787",
+"text": "Sie sollten den Blutfettwert Lp(a) senken und Entzündungen stoppen. Doch die Behandlung wirkte nicht besser als das Placebo. Jetzt müssen Forscher ihre Grundannahmen hinterfragen.",
+"img": "https://img-msp-prod.nzz.ch/2023/05/03/2a399c7b-a234-4761-9316-01fc47736bf3.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4000,4000,x1000,y0",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-08T12:46:54+00:00",
+"sum": "Sie sollten den Blutfettwert Lp(a) senken und Entzündungen stoppen. Doch die Behandlung wirkte nicht besser als das Placebo. Jetzt müssen Forscher ihre Grundannahmen hinterfragen."
+},
+{
+"id": "1999c46ffe19",
+"title": "Anzeige: Ryzen-Mini-PC mit 16 GByte RAM und Windows 11 Pro bei Amazon unter 350 Euro",
+"link": "https://www.golem.de/news/anzeige-ryzen-mini-pc-mit-16-gbyte-ram-und-windows-11-pro-bei-amazon-unter-350-euro-2611-214951.html",
+"text": "Der Acemagic K1 Mini-PC in der Ryzen-3-Variante ist bei Amazon wieder zu seinem bisher niedrigsten Preis des Jahres erhältlich. ( PC , Computer )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214951&page=1&ts=1794141602",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-08T12:40:02+00:00",
+"sum": "Der Acemagic K1 Mini-PC in der Ryzen-3-Variante ist bei Amazon wieder zu seinem bisher niedrigsten Preis des Jahres erhältlich. ( PC , Computer )"
+},
+{
+"id": "400283485863",
+"title": "Gelungene BJKC-Hauptprobe – Waltert/Karamoko gewinnen Doppel-Titel in Chennai",
+"link": "https://www.srf.ch/sport/tennis/tennis-allgemein/gelungene-bjkc-hauptprobe-waltert-karamoko-gewinnen-doppel-titel-in-chennai",
+"text": "Das Swiss-Tennis-Tandem kommt in Südasien am WTA-250-Turnier zum durchschlagenden Erfolg.",
+"img": "https://www.srf.ch/static/cms/images//320ws/627ef6.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T12:31:14+00:00",
+"sum": "Das Swiss-Tennis-Tandem kommt in Südasien am WTA-250-Turnier zum durchschlagenden Erfolg."
+},
+{
+"id": "6f357bb1f9ec",
+"title": "Justizministerin will prüfen: AfD-Leaks als Verbotsgrundlage?",
+"link": "https://www.golem.de/news/justizministerin-will-pruefen-afd-leaks-als-verbotsgrundlage-2611-214968.html",
+"text": "Geleakte AfD-E-Mails könnten nach Einschätzung von Justizministerin Stefanie Hubig (SPD) wichtiges Material für ein mögliches Verbotsverfahren sein. ( Bundesregierung , E-Mail )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214968&page=1&ts=1794139681",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-08T12:08:01+00:00",
+"sum": "Geleakte AfD-E-Mails könnten nach Einschätzung von Justizministerin Stefanie Hubig (SPD) wichtiges Material für ein mögliches Verbotsverfahren sein. ( Bundesregierung , E-Mail )"
+},
+{
+"id": "3c80bc6052ed",
+"title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
+"link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
+"text": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
+"img": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T12:05:57+00:00",
+"sum": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden."
+},
+{
+"id": "27261f55b570",
+"title": "An der WM in Katar – Nach Gold legen Schweizer Gewehrschützinnen Silber nach",
+"link": "https://www.srf.ch/sport/mehr-sport/schiessen/an-der-wm-in-katar-nach-gold-legen-schweizer-gewehrschuetzinnen-silber-nach",
+"text": "2 Tage nach dem WM-Titel im Liegend-Match resultiert in der nichtolympischen Teamwertung über 50 m Schlussrang 2.",
+"img": "https://www.srf.ch/static/cms/images//320ws/695eac.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T12:04:12+00:00",
+"sum": "2 Tage nach dem WM-Titel im Liegend-Match resultiert in der nichtolympischen Teamwertung über 50 m Schlussrang 2."
+},
+{
+"id": "f03734029fb4",
+"title": "heise-Angebot: betterCode() Agentic AI Summit: Vorträge für die Konferenz in München gesucht",
+"link": "https://www.heise.de/news/betterCode-Agentic-AI-Summit-Vortraege-fuer-die-Konferenz-in-Muenchen-gesucht-11514424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Am 1. und 2. Juni 2027 findet der betterCode() Agentic AI Summit in München statt. Bis Ende Dezember 2026 läuft der Call for Proposals.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T12:00:00+00:00",
+"sum": "Am 1. und 2. Juni 2027 findet der betterCode() Agentic AI Summit in München statt. Bis Ende Dezember 2026 läuft der Call for Proposals."
+},
+{
+"id": "2c77c73d06d8",
+"title": "Lüthi erläutert SIHF-Entscheid – Der Grund für den Sinneswandel? «Wir sind im Zugzwang»",
+"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/luethi-erlaeutert-sihf-entscheid-der-grund-fuer-den-sinneswandel-wir-sind-im-zugzwang",
+"text": "Am Donnerstag hiess es in der Russland-Frage seitens des nationalen Verbandes abwarten. Warum wurde gleichwohl reagiert?",
+"img": "https://www.srf.ch/static/cms/images//320ws/415f48.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T11:55:18+00:00",
+"sum": "Am Donnerstag hiess es in der Russland-Frage seitens des nationalen Verbandes abwarten. Warum wurde gleichwohl reagiert?"
+},
+{
+"id": "f2d60f04dbba",
+"title": "Laudatio vom Bundesrat – «Prix Suisse» für ETH-Professor und Ex-Nasa-Direktor Zurbuchen",
+"link": "https://www.srf.ch/news/schweiz/laudatio-vom-bundesrat-prix-suisse-fuer-eth-professor-und-ex-nasa-direktor-zurbuchen",
+"text": "Der Award ehrt jährlich eine herausragende Persönlichkeit aus Wirtschaft, Wissenschaft, Sport oder Kultur.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7e378ab.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T11:38:03+00:00",
+"sum": "Der Award ehrt jährlich eine herausragende Persönlichkeit aus Wirtschaft, Wissenschaft, Sport oder Kultur."
+},
+{
+"id": "b0938210ca54",
+"title": "Weitere Sport-News – Schweizer Triathlon-Asse überzeugen",
+"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schweizer-triathlon-asse-ueberzeugen",
+"text": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a79ba77.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T11:33:27+00:00",
+"sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
+},
+{
+"id": "f2a9064bfb6c",
+"title": "Keine Spur: Nvidia-Hardware auf dem Weg nach Texas verschwunden",
+"link": "https://www.golem.de/news/keine-spur-nvidia-hardware-auf-dem-weg-nach-texas-verschwunden-2611-214967.html",
+"text": "Sechs Paletten mit Hardware im Wert von über 11 Millionen US-Dollar sind spurlos verschwunden. Die Vorfälle häufen sich, auch wegen Exportbeschränkungen. ( Nvidia , Prozessor )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214967&page=1&ts=1794136922",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-08T11:22:02+00:00",
+"sum": "Sechs Paletten mit Hardware im Wert von über 11 Millionen US-Dollar sind spurlos verschwunden. Die Vorfälle häufen sich, auch wegen Exportbeschränkungen. ( Nvidia , Prozessor )"
+},
+{
+"id": "c813f98b4a11",
+"title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+"link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
+"text": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
+"img": "https://images.tagesschau.de/image/8e7acc0b-1350-4eb2-b37a-a80548dbbca8/AAABobrio8o/AAABnSSvrFg/16x9-big/krakau-schuesse-marktplatz-108.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T11:19:37+00:00",
+"sum": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen."
+},
+{
+"id": "d22a23f0ff2c",
+"title": "Wahlen Kanton Freiburg – Verliert die deutschsprachige Minderheit Sitze in der Regierung?",
+"link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-verliert-die-deutschsprachige-minderheit-sitze-in-der-regierung",
+"text": "Bei der Gesamterneuerungswahl des Freiburger Staatsrats ist ein Umbruch vorprogrammiert.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b1a84e.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T11:18:08+00:00",
+"sum": "Bei der Gesamterneuerungswahl des Freiburger Staatsrats ist ein Umbruch vorprogrammiert."
+},
+{
+"id": "f3851c49d14a",
+"title": "US-Militär attackiert Handelsschiff im Golf von Oman",
+"link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+"text": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstossen haben soll. Iran meldet den Brand zweier Frachter in der Strasse von Hormus. Huthis greifen die saudische Hauptstadt Riad an.",
+"img": "https://images.tagesschau.de/image/15a557c5-1453-4cec-8231-10da1cbc3d08/AAABobrU-hk/AAABnSSvrFg/16x9-big/iran-schiff-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T11:04:42+00:00",
+"sum": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstossen haben soll. Iran meldet den Brand zweier Frachter in der Strasse von Hormus. Huthis greifen die saudische Hauptstadt Riad an."
+},
+{
+"id": "bdc2d33c9eb2",
+"title": "Sorgen um Weihnachtsgeschäft wegen teurer Elektronik",
+"link": "https://www.heise.de/news/Sorgen-um-Weihnachtsgeschaeft-wegen-teurer-Elektronik-11516579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf weltweiten KI-Boom trifft, sind Preise für Laptops, Handys und Hardware hoch.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T11:02:00+00:00",
+"sum": "Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf weltweiten KI-Boom trifft, sind Preise für Laptops, Handys und Hardware hoch."
+},
 {
 "id": "1481d6ce9749",
 "title": "Polen – Schüsse in Krakau – Justiz ermittelt wegen Terrorismus",
@@ -180,17 +378,6 @@
 "sum": "Die Versammlungen verliefen mehrheitlich friedlich – nach den Protesten kam es in mehreren Städten zu Ausschreitungen."
 },
 {
-"id": "d22a23f0ff2c",
-"title": "Wahlen Kanton Freiburg – Verliert die deutschsprachige Minderheit Sitze in der Regierung?",
-"link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-verliert-die-deutschsprachige-minderheit-sitze-in-der-regierung",
-"text": "Bei der Gesamterneuerungswahl des Freiburger Staatsrats ist ein Umbruch vorprogrammiert.",
-"img": "https://www.srf.ch/static/cms/images//320ws/10cda7d.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-08T09:09:56+00:00",
-"sum": "Bei der Gesamterneuerungswahl des Freiburger Staatsrats ist ein Umbruch vorprogrammiert."
-},
-{
 "id": "eb04f2b1abe2",
 "title": "Wahlen Kanton Freiburg – Welche Partei holt die meisten Sitze im Freiburger Parlament?",
 "link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-welche-partei-holt-die-meisten-sitze-im-freiburger-parlament",
@@ -290,17 +477,6 @@
 "sum": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach."
 },
 {
-"id": "9f8f837ce1b0",
-"title": "NBA in der Nacht auf Sonntag – Aus 33 mach 14: George nicht mehr so treffsicher",
-"link": "https://www.srf.ch/sport/mehr-sport/basketball/nba-in-der-nacht-auf-sonntag-aus-33-mach-14-george-nicht-mehr-so-treffsicher",
-"text": "Bei der 75:114-Niederlage der Wizards gegen die Oklahoma City Thunder bekundet der Walliser Mühe mit den Distanzwürfen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/5efed2.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T07:34:12+00:00",
-"sum": "Bei der 75:114-Niederlage der Wizards gegen die Oklahoma City Thunder bekundet der Walliser Mühe mit den Distanzwürfen."
-},
-{
 "id": "199019d9307a",
 "title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
 "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
@@ -398,28 +574,6 @@
 "topic": "Tech",
 "date": "2026-11-08T06:14:00+00:00",
 "sum": "Das Energieeffizienzgesetz verlangt Offenheit von Rechenzentren-Betreibern. Doch Recherchen zeigen, dass viele den Strom- und Wasserverbrauch geheim halten."
-},
-{
-"id": "cff9f0c75c6f",
-"title": "NHL am Samstag/Sonntag – Josi glänzt mit 2 Assists – Devils gewinnen das Derby",
-"link": "https://www.srf.ch/sport/eishockey/nhl/nhl-am-samstag-sonntag-josi-glaenzt-mit-2-assists-devils-gewinnen-das-derby",
-"text": "Der Berner steuert zum 3:1-Erfolg seines Teams gegen St. Louis 2 Vorlagen bei. Nico Hischier und Co. gelingt die Wende.",
-"img": "https://www.srf.ch/static/cms/images//320ws/eb0995.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T06:07:51+00:00",
-"sum": "Der Berner steuert zum 3:1-Erfolg seines Teams gegen St. Louis 2 Vorlagen bei. Nico Hischier und Co. gelingt die Wende."
-},
-{
-"id": "f3851c49d14a",
-"title": "US-Militär attackiert Handelsschiff im Golf von Oman",
-"link": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-"text": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstossen haben soll. Iran meldet unterdessen, dass zwei Frachter in der Strasse von Hormus in Brand geraten seien.",
-"img": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T06:01:58+00:00",
-"sum": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstossen haben soll. Iran meldet unterdessen, dass zwei Frachter in der Strasse von Hormus in Brand geraten seien."
 },
 {
 "id": "e918b48b618f",
@@ -631,17 +785,6 @@
 "sum": "Eine neue Software für das James-Webb-Weltraumteleskop macht bislang verborgene Welten sichtbar. Auch erdähnliche Planeten könnten damit aufgespürt werden."
 },
 {
-"id": "31f874f35c20",
-"title": "Weitere Sport-News – Siffert neu schnellste Schweizerin über die Ironman-Distanz",
-"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-siffert-neu-schnellste-schweizerin-ueber-die-ironman-distanz",
-"text": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a79ba77.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T22:21:49+00:00",
-"sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
-},
-{
 "id": "7ad64bf40409",
 "title": "1:1 im Kellerduell – Magnin punktet bei Rückkehr – Janssens Warten geht weiter",
 "link": "https://www.srf.ch/sport/fussball/super-league/1-1-im-kellerduell-magnin-punktet-bei-rueckkehr-janssens-warten-geht-weiter",
@@ -686,28 +829,6 @@
 "sum": "Künstliche Riffe, angesiedelte Korallen und renaturiertes Seegras sollen Inseln vor dem Meer retten."
 },
 {
-"id": "71a1532102c4",
-"title": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
-"link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
-"text": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
-"img": "https://images.tagesschau.de/image/9e147e56-f6c3-400e-b95b-a781c07ba6b5/AAABobe3Qgs/AAABnSSvrFg/16x9-big/pena-110.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T20:33:23+00:00",
-"sum": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft."
-},
-{
-"id": "e68a8d456af9",
-"title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
-"link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
-"text": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
-"img": "https://images.tagesschau.de/image/1468c2f0-97fc-4df3-8608-e7ff13e7a1a9/AAABobeoupM/AAABnSSvrFg/16x9-big/eisenkot-116.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T20:31:48+00:00",
-"sum": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden."
-},
-{
 "id": "020803ade904",
 "title": "Swiss Athletics Night – Werro und Ehammer Schweizer Leichtathleten des Jahres",
 "link": "https://www.srf.ch/sport/leichtathletik/swiss-athletics-night-werro-und-ehammer-schweizer-leichtathleten-des-jahres",
@@ -741,17 +862,6 @@
 "sum": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber."
 },
 {
-"id": "8c0cc696dcfd",
-"title": "SIHF bezieht Position – U20-Eishockeynati tritt an WM nicht gegen Russland an",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/sihf-bezieht-position-u20-eishockeynati-tritt-an-wm-nicht-gegen-russland-an",
-"text": "An der U20-WM in Kanada Ende Jahr wird die Schweiz nicht gegen Russland antreten. Das beschloss Swiss Ice Hockey.",
-"img": "https://www.srf.ch/static/cms/images//320ws/adb79d.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T19:25:30+00:00",
-"sum": "An der U20-WM in Kanada Ende Jahr wird die Schweiz nicht gegen Russland antreten. Das beschloss Swiss Ice Hockey."
-},
-{
 "id": "627e24edb273",
 "title": "Siegtor in der 92. Minute – Dank Essende und viel Dusel: YB gewinnt in Luzern",
 "link": "https://www.srf.ch/sport/fussball/super-league/siegtor-in-der-92-minute-dank-essende-und-viel-dusel-yb-gewinnt-in-luzern",
@@ -775,14 +885,14 @@
 },
 {
 "id": "ca4d3b50ca66",
-"title": "Top 10: Das beste Heizkörperthermostat im Test – Testsieger heizt ohne Cloud",
+"title": "Top 10: Das beste Heizkörperthermostat im Test",
 "link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-testsieger-heizt-ohne-cloud/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft sogar komplett ohne Cloud. Die besten Modelle ab 45 Euro.",
+"text": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft komplett ohne Cloud.",
 "img": "",
 "source": "heise",
 "topic": "Tech",
 "date": "2026-11-07T19:00:00+00:00",
-"sum": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft sogar komplett ohne Cloud. Die besten Modelle ab 45 Euro."
+"sum": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft komplett ohne Cloud."
 },
 {
 "id": "e34ed5f20a7f",
@@ -1049,28 +1159,6 @@
 "sum": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können."
 },
 {
-"id": "27a5ff7a076a",
-"title": "Drohnen-Vorfall in Leipzig: BKA fahndet mit KI-Bild",
-"link": "https://www.heise.de/news/BKA-fahndet-nach-Drohnen-Vorfall-in-Leipzig-mit-KI-Bild-11516328.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Nachdem im August am Flughafen Leipzig/Halle eine Drohne mit Sprengstoff gefunden wurde, fahndet das BKA nun mit KI-Bildern von Verdächtigen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T11:37:00+00:00",
-"sum": "Nachdem im August am Flughafen Leipzig/Halle eine Drohne mit Sprengstoff gefunden wurde, fahndet das BKA nun mit KI-Bildern von Verdächtigen."
-},
-{
-"id": "40da6f30891d",
-"title": "News aus dem Skirennsport – Feller verpasst den Slalom-Auftakt in Levi",
-"link": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/news-aus-dem-skirennsport-feller-verpasst-den-slalom-auftakt-in-levi",
-"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Skirennsport.",
-"img": "https://www.srf.ch/static/cms/images//320ws/99b0e7.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T11:28:55+00:00",
-"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Skirennsport."
-},
-{
 "id": "d264405bf000",
 "title": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
 "link": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
@@ -1080,17 +1168,6 @@
 "topic": "Tech",
 "date": "2026-11-07T11:22:02+00:00",
 "sum": "2027 ist Schluss mit dem Cybertruck - Elon Musks Auto, das nur Fans oder Hater zu haben scheint. Die Geschichte eines Fahrzeugs, das stets auf der Suche nach einer Zielgruppe war. Ein IMHO von Tobias Költzsch ( Tesla Cybertruck , Elektroauto )"
-},
-{
-"id": "0e68300e8a61",
-"title": "Protest gegen Microsoft-Rechenzentrum in Amsterdam – viele Festnahmen",
-"link": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Hunderte dringen auf die Baustelle eines Microsoft-Rechenzentrums in Amsterdam vor, die Polizei nimmt bis zu 200 Menschen fest. Was trieb die beiden Gruppen an?",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T10:31:00+00:00",
-"sum": "Hunderte dringen auf die Baustelle eines Microsoft-Rechenzentrums in Amsterdam vor, die Polizei nimmt bis zu 200 Menschen fest. Was trieb die beiden Gruppen an?"
 },
 {
 "id": "7cce7b98b8fa",
@@ -1115,61 +1192,6 @@
 "sum": "Für seinen Auftritt auf einer Wahlveranstaltung wurde Audi-Chef Döllner stark kritisiert. Nun soll VW eine interne Untersuchung starten. ( Audi , Politik )"
 },
 {
-"id": "068faf3e38cd",
-"title": "Anzeige: Outdoor-Smartphone von Blackview jetzt mit 18 GByte RAM und riesigem Akku zum Angebotspreis",
-"link": "https://www.golem.de/news/anzeige-outdoor-smartphone-von-blackview-jetzt-mit-18-gbyte-ram-und-riesigem-akku-zum-angebotspreis-2611-214947.html",
-"text": "Kurz vor dem Black Friday hat Blackview ein neues Outdoor-Smartphone im Angebot. Es bietet einen ausdauernden Akku und gut 180 Euro Rabatt. ( Smartphone , Mobil )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214947&page=1&ts=1794044402",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-07T09:40:02+00:00",
-"sum": "Kurz vor dem Black Friday hat Blackview ein neues Outdoor-Smartphone im Angebot. Es bietet einen ausdauernden Akku und gut 180 Euro Rabatt. ( Smartphone , Mobil )"
-},
-{
-"id": "7627e8b4f78f",
-"title": "(g+) Surveillance Pricing: Wie weit dürfen Händler Preise personalisieren?",
-"link": "https://www.golem.de/news/surveillance-pricing-wie-weit-duerfen-haendler-preise-personalisieren-2611-214937.html",
-"text": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen ( Verbraucherschutz , KI )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214937&page=1&ts=1794042001",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-07T09:00:01+00:00",
-"sum": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen ( Verbraucherschutz , KI )"
-},
-{
-"id": "787d651dfcfc",
-"title": "Kameramarkt wächst, Canon und Nikon updaten – Fotonews der Woche 45/2026",
-"link": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T09:00:00+00:00",
-"sum": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates, Sony World Photography Awards ehren James Barnor."
-},
-{
-"id": "a695f86eff78",
-"title": "Bundesgericht – Über die Liebe gestolpert: Eine Intrige der SVP?",
-"link": "https://www.srf.ch/news/schweiz/bundesgericht-ueber-die-liebe-gestolpert-eine-intrige-der-svp",
-"text": "Bundesrichter Yves Donzallaz erhebt schwere Vorwürfe gegen seine frühere Partei.",
-"img": "https://www.srf.ch/static/cms/images//320ws/5f8ff4.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-07T08:44:03+00:00",
-"sum": "Bundesrichter Yves Donzallaz erhebt schwere Vorwürfe gegen seine frühere Partei."
-},
-{
-"id": "4001286312b5",
-"title": "Flughafen Leipzig: BKA sucht mit KI-Bild nach mutmasslichem Drohnenangreifer",
-"link": "https://www.golem.de/news/leipzig-fahnder-suchen-mutmasslichen-drohnen-taeter-mit-ki-gesicht-2611-214948.html",
-"text": "Die ukrainische Transportmaschine wurde mit einer Sprengstoffdrohne attackiert. Die Ermittler vermuten russische Sabotage. ( KI , Security )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214948&page=1&ts=1794039962",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-07T08:26:02+00:00",
-"sum": "Die ukrainische Transportmaschine wurde mit einer Sprengstoffdrohne attackiert. Die Ermittler vermuten russische Sabotage. ( KI , Security )"
-},
-{
 "id": "ee31269f375d",
 "title": "Unbewilligte Demonstrationen – «dialog»-Community fordert mehr Befugnisse für die Polizei",
 "link": "https://www.srf.ch/news/dialog/unbewilligte-demonstrationen-dialog-community-fordert-mehr-befugnisse-fuer-die-polizei",
@@ -1190,17 +1212,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-07T07:50:00+00:00",
 "sum": "Wer erfand die Ammoniaksynthese und konnte damit Leben retten, aber auch vernichten?"
-},
-{
-"id": "f57a589f9c49",
-"title": "Gina Hinojosa: Texas will Ausbau von KI-Rechenzentren auf Eis legen",
-"link": "https://www.golem.de/news/gina-hinojosa-texas-will-ausbau-von-ki-rechenzentren-auf-eis-legen-2611-214946.html",
-"text": "Die künftige texanische Gouverneurin reagiert auf Proteste aus der Bevölkerung und will den Ausbau von Rechenzentren stoppen, bis Schutzgesetze stehen. ( Rechenzentrum , KI )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214946&page=1&ts=1794036182",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-07T07:23:02+00:00",
-"sum": "Die künftige texanische Gouverneurin reagiert auf Proteste aus der Bevölkerung und will den Ausbau von Rechenzentren stoppen, bis Schutzgesetze stehen. ( Rechenzentrum , KI )"
 },
 {
 "id": "4c25de438ad4",
@@ -1687,17 +1698,6 @@
 "sum": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff"
 },
 {
-"id": "2888b1f021d7",
-"title": "Die Schweiz korrigiert die Zahl der Hitzetoten nach oben",
-"link": "https://www.nzz.ch/wissenschaft/die-schweiz-korrigiert-die-zahl-der-hitzetoten-nach-oben-ld.10055365",
-"text": "Eine neue Statistik belegt: Die Zahl der Opfer durch die hohen Sommer-Temperaturen wurde unterschätzt. Gleichzeitig ist den Daten zu entnehmen: Viele Todesfälle liessen sich verhindern.",
-"img": "https://img-msp-prod.nzz.ch/2026/08/04/2d55b17b-7fc1-4c55-8632-5269047cef21.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2071,2071,x465,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-05T16:08:41+00:00",
-"sum": "Eine neue Statistik belegt: Die Zahl der Opfer durch die hohen Sommer-Temperaturen wurde unterschätzt. Gleichzeitig ist den Daten zu entnehmen: Viele Todesfälle liessen sich verhindern."
-},
-{
 "id": "9b9cc446a501",
 "title": "Mehrwertsteuer im Vergleich – Warum die Schweiz besser dasteht als andere Länder",
 "link": "https://www.srf.ch/news/mehrwertsteuer-im-vergleich-warum-die-schweiz-besser-dasteht-als-andere-laender",
@@ -1718,39 +1718,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T14:04:42+00:00",
 "sum": "Die Demokraten haben bei den Midterms in den USA Mehrheiten in beiden Kammern des Kongresses gewonnen. Für die Tech-Industrie könnte das in einigen Bereichen höhere Hürden bedeuten. Von Antje Sieb."
-},
-{
-"id": "38dcb0505369",
-"title": "Women for the Board wählt neuen Vorstand",
-"link": "https://www.finews.ch/news/finanzplatz/74356-women-for-the-boaed-vorstand-mitgliedsversammlung",
-"text": "Die Plattform Women for the Board hat an ihrer Jahresversammlung einen neuen Vorstand gewählt. Mit organisatorischen Anpassungen und einer strategischen Weiterentwicklung des Netzwerks sollen die Weichen für die Zukunft gestellt werden.",
-"img": "https://www.finews.ch/images/news/2026/11/WftB-Vorstand_2_2026_2027.png",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-05T12:55:53+00:00",
-"sum": "Die Plattform Women for the Board hat an ihrer Jahresversammlung einen neuen Vorstand gewählt. Mit organisatorischen Anpassungen und einer strategischen Weiterentwicklung des Netzwerks sollen die Weichen für die Zukunft gestellt werden."
-},
-{
-"id": "51d4de5d55fe",
-"title": "Kanzlei Ramelet.Legal holt Wirtschaftsanwältin als Partnerin",
-"link": "https://www.finews.ch/news/finanzplatz/74355-kanzlei-eva-schott-ramelet-legal-partnerin",
-"text": "Die Zürcher Anwaltskanzlei holt eine erfahrene Wirtschaftsanwältin als neue Partnerin an Bord.",
-"img": "https://www.finews.ch/images/news/2026/11/eva_schott_ramelet_legal.png",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-05T12:25:57+00:00",
-"sum": "Die Zürcher Anwaltskanzlei holt eine erfahrene Wirtschaftsanwältin als neue Partnerin an Bord."
-},
-{
-"id": "3fba45ea91df",
-"title": "Indosuez-Anlagechef: «Die EZB könnte 2027 die Zinsen sogar senken»",
-"link": "https://www.finews.ch/news/finanzplatz/74353-indosuez-julien-descombes-ezb-zinsen-2027-zinssenkung-marktausblick",
-"text": "Während die Finanzmärkte für 2027 mit weiteren Zinserhöhungen der Europäischen Zentralbank rechnen, hält Julien Descombes von Indosuez Wealth Management sogar eine Senkung für möglich. Er erklärt, weshalb er gegen den Marktkonsens positioniert ist, wie er die Risiken am Kreditmarkt einschätzt und warum der KI-Boom zunehmend kritische Fragen aufwirft.",
-"img": "https://www.finews.ch/images/news/2026/11/Julien_DESCOMBES_UT042W1.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-05T11:59:03+00:00",
-"sum": "Während die Finanzmärkte für 2027 mit weiteren Zinserhöhungen der Europäischen Zentralbank rechnen, hält Julien Descombes von Indosuez Wealth Management sogar eine Senkung für möglich. Er erklärt, weshalb er gegen den Marktkonsens positioniert ist, wie er die Risiken am Kreditmarkt einschätzt und warum der KI-Boom zunehmend kritische Fragen aufwirft."
 }
 ]
 }
