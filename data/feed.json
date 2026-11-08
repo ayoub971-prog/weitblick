@@ -1,8 +1,118 @@
 {
-"updated": "2026-11-08T07:18:58+00:00",
+"updated": "2026-11-08T09:01:46+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "d06e758daef3",
+"title": "(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht",
+"link": "https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html",
+"text": "Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt ( Softwareentwicklung , Ruby )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=214942&page=1&ts=1794128402",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-08T09:00:02+00:00",
+"sum": "Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt ( Softwareentwicklung , Ruby )"
+},
+{
+"id": "f456b1b5ec02",
+"title": "Regierungsbildung in Israel – Eisenkot darf regieren, wenn er seine Versprechen bricht",
+"link": "https://www.srf.ch/news/international/nahost/regierungsbildung-in-israel-eisenkot-darf-regieren-wenn-er-seine-versprechen-bricht",
+"text": "Israels Präsident hat Eisenkot mit der Regierungsbildung beauftragt. Ohne Kompromisse wird er kaum an die Macht kommen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7fd081.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T08:42:09+00:00",
+"sum": "Israels Präsident hat Eisenkot mit der Regierungsbildung beauftragt. Ohne Kompromisse wird er kaum an die Macht kommen."
+},
+{
+"id": "5e3c0873677f",
+"title": "Papst Leo XIV. setzt Südamerika-Reise fort",
+"link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+"text": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+"img": "https://images.tagesschau.de/image/e9ac4e67-04cf-4036-9e21-a991fe367bfb/AAABobpEiso/AAABnSSvrFg/16x9-big/papst-leo-228.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T08:27:56+00:00",
+"sum": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung."
+},
+{
+"id": "6fb63fee3465",
+"title": "Lehren aus den US-Midterms – Mehr als eine Abrechnung mit Trump",
+"link": "https://www.srf.ch/news/international/usa/lehren-aus-den-us-midterms-mehr-als-eine-abrechnung-mit-trump",
+"text": "Was diese Woche in den USA geschah, ist mehr als die Zurückweisung von Donald Trump. Es ist eine Lehre für die Zukunft.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7eb972.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T08:22:52+00:00",
+"sum": "Was diese Woche in den USA geschah, ist mehr als die Zurückweisung von Donald Trump. Es ist eine Lehre für die Zukunft."
+},
+{
+"id": "fdf89b6a9b03",
+"title": "Polen – Tödliche Schüsse in Krakau – das ist bekannt",
+"link": "https://www.srf.ch/news/international/polen-toedliche-schuesse-in-krakau-das-ist-bekannt",
+"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T08:08:25+00:00",
+"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
+},
+{
+"id": "c91571635159",
+"title": "Kosmischen Katastrophen: Gammastrahlenausbrüche stellen die Physik auf den Kopf",
+"link": "https://www.spektrum.de/news/gammastrahlenausbrueche-wie-sie-die-physik-auf-den-kopf-stellen/2350618",
+"text": "Die Erforschung der gewaltigsten Explosionen im Kosmos ist eine Geschichte voller Überraschungen – immer wieder bringen neue Beobachtungen das gängige Modell ins Wanken.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/stsci-h-i1956a-f-5760x3480-1-jpg.webp.jpeg.8226082.jpeg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-08T08:00:00+00:00",
+"sum": "Die Erforschung der gewaltigsten Explosionen im Kosmos ist eine Geschichte voller Überraschungen – immer wieder bringen neue Beobachtungen das gängige Modell ins Wanken."
+},
+{
+"id": "eb0b57fd6ed8",
+"title": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
+"link": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html",
+"text": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer.",
+"img": "https://images.tagesschau.de/image/86a8cd8d-207e-47ea-b096-03a699f80c25/AAABoaus4WI/AAABnSSvrFg/16x9-big/tatort-fussballplatz-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T07:39:28+00:00",
+"sum": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer."
+},
+{
+"id": "d4a61396de30",
+"title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
+"link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
+"text": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
+"img": "https://images.tagesschau.de/image/18371428-3210-4453-b7ab-1fd97fa2d32f/AAABm5eTw7w/AAABnSSvrFg/16x9-big/statuen-baer-bulle-deutsche-boerse-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T07:35:33+00:00",
+"sum": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach."
+},
+{
+"id": "9f8f837ce1b0",
+"title": "NBA in der Nacht auf Sonntag – Aus 33 mach 14: George nicht mehr so treffsicher",
+"link": "https://www.srf.ch/sport/mehr-sport/basketball/nba-in-der-nacht-auf-sonntag-aus-33-mach-14-george-nicht-mehr-so-treffsicher",
+"text": "Bei der 75:114-Niederlage der Wizards gegen die Oklahoma City Thunder bekundet der Walliser Mühe mit den Distanzwürfen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/5efed2.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T07:34:12+00:00",
+"sum": "Bei der 75:114-Niederlage der Wizards gegen die Oklahoma City Thunder bekundet der Walliser Mühe mit den Distanzwürfen."
+},
+{
+"id": "199019d9307a",
+"title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
+"link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
+"text": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
+"img": "https://images.tagesschau.de/image/38870537-2e1c-48c2-93aa-6716c4c8cf86/AAABoboOjEc/AAABnSSvrFg/16x9-big/japan-erdbeben-aichi-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T07:27:58+00:00",
+"sum": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen."
+},
 {
 "id": "0cd366573473",
 "title": "Missing Link: Wenn die KI zuhört, wo Menschen es nicht mehr tun",
@@ -26,15 +136,15 @@
 "sum": "Frankreichs Linksaussen-Kandidat Jean-Luc Mélenchon hat seine Wahlkampfkampagne offiziell gestartet."
 },
 {
-"id": "78551cac0799",
-"title": "Krimi in Argentinien – Boca schnappt in der 96. Minute Rosario den Titel weg",
-"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/krimi-in-argentinien-boca-schnappt-in-der-96-minute-rosario-den-titel-weg",
-"text": "Boca sichert sich in einem dramatischen Saisonfinale die Jahresgesamttabelle der argentinischen Liga vor Rosario.",
+"id": "9cfea5b8431e",
+"title": "Krimi in Argentinien – Boca schnappt Rosario in der 96. Minute den Titel weg",
+"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/krimi-in-argentinien-boca-schnappt-rosario-in-der-96-minute-den-titel-weg",
+"text": "Boca sichert sich in einem dramatischen Saisonfinale Platz 1 in der Jahres-Gesamttabelle der argentinischen Liga.",
 "img": "https://www.srf.ch/static/cms/images//320ws/f3e1643.webp",
 "source": "SRF",
 "topic": "Sport",
 "date": "2026-11-08T07:01:37+00:00",
-"sum": "Boca sichert sich in einem dramatischen Saisonfinale die Jahresgesamttabelle der argentinischen Liga vor Rosario."
+"sum": "Boca sichert sich in einem dramatischen Saisonfinale Platz 1 in der Jahres-Gesamttabelle der argentinischen Liga."
 },
 {
 "id": "d69c92e660fd",
@@ -68,17 +178,6 @@
 "topic": "Schweiz",
 "date": "2026-11-08T06:59:33+00:00",
 "sum": "Die «Rollers Minigolf Bar» expandiert nach Basel. Standorte gibt es bereits in Genf, Lausanne und Bern."
-},
-{
-"id": "fdf89b6a9b03",
-"title": "Polen – Tödliche Schüsse in Krakau – das ist bekannt",
-"link": "https://www.srf.ch/news/international/polen-toedliche-schuesse-in-krakau-das-ist-bekannt",
-"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
-"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-08T06:58:22+00:00",
-"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
 },
 {
 "id": "42bd303b4660",
@@ -140,7 +239,7 @@
 "title": "Kündigung vor dem ersten Arbeitstag: Der Mann, der beim Traditionskonzern Rieter beinahe CEO wurde",
 "link": "https://www.nzz.ch/wirtschaft/rieter-ld.10057230",
 "text": "Daniel Lippuner hätte diese Woche seine Stelle als Chef des Winterthurer Textilmaschinenherstellers antreten sollen. Stattdessen steht er nun als geldgieriger Industriemanager da.",
-"img": "https://img-msp-prod.nzz.ch/2014/03/18/1.18436619.1417506752.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=631,631,x172,y0",
+"img": "https://img-msp-prod.nzz.ch/2026/11/02/e5e0b030-94ce-4ef8-8943-3989f4079301.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3052,3052,x887,y0",
 "source": "NZZ",
 "topic": "Wirtschaft",
 "date": "2026-11-08T04:30:00+00:00",
@@ -356,17 +455,6 @@
 "sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
 },
 {
-"id": "9a9b4153aabe",
-"title": "Fussball aus den Topligen – Erstes Tor für Sierro bei Parma – Real weiter im Hoch",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-erstes-tor-fuer-sierro-bei-parma-real-weiter-im-hoch",
-"text": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a299e8.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T22:06:38+00:00",
-"sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
-},
-{
 "id": "3ec5331b3dab",
 "title": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
 "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
@@ -455,6 +543,17 @@
 "sum": "Eine lange Regenpause und Lando Norris im McLaren prägten das Qualifying zum GP von Brasilien."
 },
 {
+"id": "020803ade904",
+"title": "Swiss Athletics Night – Werro und Ehammer Schweizer Leichtathleten des Jahres",
+"link": "https://www.srf.ch/sport/leichtathletik/swiss-athletics-night-werro-und-ehammer-schweizer-leichtathleten-des-jahres",
+"text": "Grosse Ehre für Audrey Werro und Simon Ehammer: Sie werden zu den Schweizer Leichtathleten des Jahres 2026 gekürt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8740040.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T20:18:34+00:00",
+"sum": "Grosse Ehre für Audrey Werro und Simon Ehammer: Sie werden zu den Schweizer Leichtathleten des Jahres 2026 gekürt."
+},
+{
 "id": "b9590bd21fb4",
 "title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
 "link": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
@@ -497,17 +596,6 @@
 "topic": "Welt",
 "date": "2026-11-07T19:56:52+00:00",
 "sum": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg."
-},
-{
-"id": "29312c41a1f2",
-"title": "Fussball aus den Topligen – Joker Okafor sticht gegen Tottenham – Arsenal enteilt ManCity",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-aus-den-topligen-joker-okafor-sticht-gegen-tottenham-arsenal-enteilt-mancity",
-"text": "Noah Okafor erzielt für Leeds sein zweites Saisontor. Arsenal distanziert Manchester City auf sechs Punkte.",
-"img": "https://www.srf.ch/static/cms/images//320ws/8aef01.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T19:34:06+00:00",
-"sum": "Noah Okafor erzielt für Leeds sein zweites Saisontor. Arsenal distanziert Manchester City auf sechs Punkte."
 },
 {
 "id": "8c0cc696dcfd",
@@ -565,6 +653,17 @@
 "sum": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer."
 },
 {
+"id": "e34ed5f20a7f",
+"title": "Kunstturnen: Swiss Cup – Frankreich triumphiert – Schweizer im «Hundertstel-Pech»",
+"link": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturnen-swiss-cup-frankreich-triumphiert-schweizer-im-hundertstel-pech",
+"text": "Frankreich gewinnt den Swiss Cup im Zürcher Hallenstadion. Die Schweiz scheitert im Halbfinal denkbar knapp und wird 3.",
+"img": "https://www.srf.ch/static/cms/images//320ws/085aa3.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T18:37:12+00:00",
+"sum": "Frankreich gewinnt den Swiss Cup im Zürcher Hallenstadion. Die Schweiz scheitert im Halbfinal denkbar knapp und wird 3."
+},
+{
 "id": "c3ad85f61174",
 "title": "Klinische Studien – Pharma: Streit um Ethikkommissionen bremst Forschung",
 "link": "https://www.srf.ch/news/wirtschaft/klinische-studien-pharma-streit-um-ethikkommissionen-bremst-forschung",
@@ -596,17 +695,6 @@
 "topic": "Tech",
 "date": "2026-11-07T17:32:00+00:00",
 "sum": "Nach Angriffen auf Kühlsysteme in Supermärkten europaweit ermitteln nun auch Verfassungsschutz und BND. Die Täter nutzen Schwachstellen in Fernwartungszugängen."
-},
-{
-"id": "31929c470185",
-"title": "Lausanner an der Seitenlinie – 4:5 nach 4:1: Burnley wie Lausanne-Sport",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/lausanner-an-der-seitenlinie-4-5-nach-4-1-burnley-wie-lausanne-sport",
-"text": "Burnley mit Neo-Trainer Fabio Celestini kassiert gegen Cardiff eine äusserst bittere Niederlage.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a106ca3.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T17:21:07+00:00",
-"sum": "Burnley mit Neo-Trainer Fabio Celestini kassiert gegen Cardiff eine äusserst bittere Niederlage."
 },
 {
 "id": "8ba41758b241",
@@ -653,17 +741,6 @@
 "sum": "Als „The Pilot Picasso“ ist Benjamin McDaniel schon länger aktiv. Nun hat er sein wohl aufwändigstes Kunstwerk per Flugzeug gezeichnet."
 },
 {
-"id": "33e6ca9414a3",
-"title": "Bundesliga am Samstag – Bayern München und Dortmund im Gleichschritt",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-am-samstag-bayern-muenchen-und-dortmund-im-gleichschritt",
-"text": "Die beiden Bundesliga-Schwergewichte fahren am 9. Spieltag Pflichtsiege ein. Augsburg geht in Leipzig unter.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d280e5.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T16:29:39+00:00",
-"sum": "Die beiden Bundesliga-Schwergewichte fahren am 9. Spieltag Pflichtsiege ein. Augsburg geht in Leipzig unter."
-},
-{
 "id": "8859e8d5100e",
 "title": "Jugendsession 2026 – Europas Jugend ist wütend – und in der Schweiz?",
 "link": "https://www.srf.ch/news/schweiz/jugendsession-2026-europas-jugend-ist-wuetend-und-in-der-schweiz",
@@ -708,28 +785,6 @@
 "sum": "Der Vzmore AX9 Max kombiniert den Ryzen AI 9 HX 470 mit starker iGPU, moderner Ausstattung und effizienter Kühlung. Im Test überzeugt vieles, aber nicht alles."
 },
 {
-"id": "99bf0990e05d",
-"title": "Wofür Trumps neuer Stabschef Miller steht",
-"link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
-"text": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
-"img": "https://images.tagesschau.de/image/15646591-1e61-481c-b10d-8b00ab988e21/AAABobaEBY4/AAABnSSvrFg/16x9-big/stephen-miller-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T14:57:49+00:00",
-"sum": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?"
-},
-{
-"id": "ade362f1fd78",
-"title": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
-"link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
-"text": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
-"img": "https://images.tagesschau.de/image/69dd39a9-cd4a-426a-b9a6-7022abbbfe87/AAABobZ1SjM/AAABnSSvrFg/16x9-big/neuseeland-parlamentswahl-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T14:41:43+00:00",
-"sum": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen."
-},
-{
 "id": "975a0f8b4cd5",
 "title": "Schweizer Milchindustrie – Cremo in der Krise – ein Problem für die ganze Milchbranche",
 "link": "https://www.srf.ch/news/schweiz/schweizer-milchindustrie-cremo-in-der-krise-ein-problem-fuer-die-ganze-milchbranche",
@@ -750,17 +805,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-07T14:00:00+00:00",
 "sum": "Ein neues Forschungsergebnis enthüllt, wie eine »Weltraumbatterie« Polarlichter antreibt und sie biegt."
-},
-{
-"id": "e1cdc7ac80ee",
-"title": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
-"link": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
-"text": "Der iranische Oppositionelle Pahlavi hat stellvertretend für das iranische Volk den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen. Während der Verleihung gab es auch Demonstrationen.",
-"img": "https://images.tagesschau.de/image/69afd520-0a62-42d7-98a2-21d6b11496fc/AAABobZlGvc/AAABnSSvrFg/16x9-big/hr-reza-pahlavi-wurde-in-der-frankfurter-paulskirche-mit-applaus-und-standing-ovations-empfangen-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T13:25:25+00:00",
-"sum": "Der iranische Oppositionelle Pahlavi hat stellvertretend für das iranische Volk den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen. Während der Verleihung gab es auch Demonstrationen."
 },
 {
 "id": "2c94c27fe758",
@@ -895,15 +939,15 @@
 "sum": "Nachdem im August am Flughafen Leipzig/Halle eine Drohne mit Sprengstoff gefunden wurde, fahndet das BKA nun mit KI-Bildern von Verdächtigen."
 },
 {
-"id": "92b52009770f",
-"title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
-"link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
-"text": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
-"img": "https://images.tagesschau.de/image/63349e36-d85c-4d78-ae34-e74ef5be0d6e/AAABobXFrsg/AAABnSSvrFg/16x9-big/ilse-aigner-308.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-07T11:30:37+00:00",
-"sum": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger."
+"id": "40da6f30891d",
+"title": "News aus dem Skirennsport – Feller verpasst den Slalom-Auftakt in Levi",
+"link": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/news-aus-dem-skirennsport-feller-verpasst-den-slalom-auftakt-in-levi",
+"text": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Skirennsport.",
+"img": "https://www.srf.ch/static/cms/images//320ws/99b0e7.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T11:28:55+00:00",
+"sum": "Hier finden Sie kompakt zusammengefasst die wichtigsten Nachrichten des Tages aus dem Skirennsport."
 },
 {
 "id": "d264405bf000",
@@ -1006,14 +1050,14 @@
 },
 {
 "id": "4001286312b5",
-"title": "Leipzig: Fahnder suchen mutmasslichen Drohnen-Täter mit KI-Gesicht",
+"title": "Flughafen Leipzig: BKA sucht mit KI-Bild nach mutmasslichem Drohnenangreifer",
 "link": "https://www.golem.de/news/leipzig-fahnder-suchen-mutmasslichen-drohnen-taeter-mit-ki-gesicht-2611-214948.html",
-"text": "Nach dem Drohnenanschlag auf den Flughafen Leipzig suchen Generalbundesanwalt und BKA mit einem ungewöhnlichen Mittel nach einer unbekannten Person. ( KI , Security )",
+"text": "Die ukrainische Transportmaschine wurde mit einer Sprengstoffdrohne attackiert. Die Ermittler vermuten russische Sabotage. ( KI , Security )",
 "img": "https://cpx.golem.de/cpx.php?class=17&aid=214948&page=1&ts=1794039962",
 "source": "Golem",
 "topic": "Tech",
 "date": "2026-11-07T08:26:02+00:00",
-"sum": "Nach dem Drohnenanschlag auf den Flughafen Leipzig suchen Generalbundesanwalt und BKA mit einem ungewöhnlichen Mittel nach einer unbekannten Person. ( KI , Security )"
+"sum": "Die ukrainische Transportmaschine wurde mit einer Sprengstoffdrohne attackiert. Die Ermittler vermuten russische Sabotage. ( KI , Security )"
 },
 {
 "id": "ee31269f375d",
@@ -1247,17 +1291,6 @@
 "sum": "Die neuesten Meldungen aus der Wirtschaft."
 },
 {
-"id": "ccc9e0485d15",
-"title": "Anzeige: Ladegerät mit einziehbaren Kabeln für Zigarettenanzünder nur 16 Euro bei Amazon",
-"link": "https://www.golem.de/news/anzeige-ladegeraet-mit-einziehbaren-kabeln-fuer-zigarettenanzuender-nur-16-euro-bei-amazon-2611-214934.html",
-"text": "Das Lisen-Auto-Ladegerät lädt vier Geräte gleichzeitig, rollt seine Kabel selbst ein und ist im befristeten Angebot deutlich günstiger. ( Technik/Hardware , Auto )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214934&page=1&ts=1793989802",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-06T18:30:02+00:00",
-"sum": "Das Lisen-Auto-Ladegerät lädt vier Geräte gleichzeitig, rollt seine Kabel selbst ein und ist im befristeten Angebot deutlich günstiger. ( Technik/Hardware , Auto )"
-},
-{
 "id": "e5c2f0fce99f",
 "title": "Nach den Waldbränden – Feuerwehrleute aus Europa kritisieren Personalkürzungen",
 "link": "https://www.srf.ch/news/international/nach-den-waldbraenden-feuerwehrleute-aus-europa-kritisieren-personalkuerzungen-1",
@@ -1390,28 +1423,6 @@
 "sum": "Schmetterlinge flattern vielleicht nicht mehr im Bauch, wenn man jahrzehntelang mit dem gleichen Partner zusammen ist. Dafür hat die Liebe im Alter andere Qualitäten."
 },
 {
-"id": "d12c6f61c0e6",
-"title": "E-Mail mit Drohung – Bombendrohungen gegen irische Medien – Mitarbeiter evakuiert",
-"link": "https://www.srf.ch/news/international/e-mail-mit-drohung-bombendrohungen-gegen-irische-medien-mitarbeiter-evakuiert",
-"text": "Die Drohungen richten sich laut der Polizei auch gegen Medienorganisationen in anderen europäischen Ländern.",
-"img": "https://www.srf.ch/static/cms/images//320ws/4c22686.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T14:22:06+00:00",
-"sum": "Die Drohungen richten sich laut der Polizei auch gegen Medienorganisationen in anderen europäischen Ländern."
-},
-{
-"id": "356ba9a2003a",
-"title": "Onlineplattform unter Druck – EU: Tiktok gefährdet mentale Gesundheit – Millionenstrafe droht",
-"link": "https://www.srf.ch/news/international/onlineplattform-unter-druck-eu-tiktok-gefaehrdet-mentale-gesundheit-millionenstrafe-droht",
-"text": "Die EU-Kommission wirft Tiktok vor, mit personalisierten Feeds die mentale Gesundheit seiner Nutzer zu gefährden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7c62d6.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T14:09:45+00:00",
-"sum": "Die EU-Kommission wirft Tiktok vor, mit personalisierten Feeds die mentale Gesundheit seiner Nutzer zu gefährden."
-},
-{
 "id": "fcf7b5415aa8",
 "title": "Studie des Öko-Instituts: Mit neuen Rechenzentren droht Wasserstress",
 "link": "https://www.spektrum.de/news/studie-zum-ki-boom-mit-neuen-rechenzentren-droht-wasserstress/2353019",
@@ -1509,17 +1520,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T10:42:54+00:00",
 "sum": "Deutsche Industriebetriebe haben im September überraschend mehr produziert als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Doch die Risikofaktoren für die wirtschaftliche Erholung bleiben."
-},
-{
-"id": "0d24fb268f44",
-"title": "Reflektierendes Biomaterial: Pflanzen werden zu Spiegeln",
-"link": "https://www.spektrum.de/news/reflektierendes-biomaterial-pflanzen-werden-zu-spiegeln/2352925",
-"text": "Das stark reflektierende Material besteht einzig aus Pektin und Cellulose und stellt sogar Prachtkäfer in den Schatten. Es könnte im Sommer etwa Häuser vor Hitze schützen.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/Kasuga-et-al_fig1b.jpg.8422792.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-06T10:00:00+00:00",
-"sum": "Das stark reflektierende Material besteht einzig aus Pektin und Cellulose und stellt sogar Prachtkäfer in den Schatten. Es könnte im Sommer etwa Häuser vor Hitze schützen."
 },
 {
 "id": "75759c165183",
@@ -1687,17 +1687,6 @@
 "sum": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff"
 },
 {
-"id": "0cae12938930",
-"title": "Bundestags-Votum: Mehr Vorteile für E-Autos im Stadtverkehr möglich",
-"link": "https://www.tagesschau.de/wirtschaft/energie/elektromobilitaetsgesetz-100.html",
-"text": "Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden.",
-"img": "https://images.tagesschau.de/image/27c52895-be63-4621-b70a-30733f57e3e1/AAABoadNX2A/AAABnSSvrFg/16x9-big/e-auto-174.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-05T17:27:08+00:00",
-"sum": "Günstiger parken und keine E-Kennzeichen-Pflicht mehr: Der Bundestag hat das reformierte Elektromobilitätsgesetz verabschiedet. Bisher nutzen allerdings nur wenige Kommunen den Spielraum des Gesetzes aus. Von Michael Eiden."
-},
-{
 "id": "2888b1f021d7",
 "title": "Die Schweiz korrigiert die Zahl der Hitzetoten nach oben",
 "link": "https://www.nzz.ch/wissenschaft/die-schweiz-korrigiert-die-zahl-der-hitzetoten-nach-oben-ld.10055365",
@@ -1773,39 +1762,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T10:10:23+00:00",
 "sum": "Alpha Street Financial, eine Genfer Neugründung, berät kleine externe Vermögensverwalter. Geplant ist ein Immobilien-Club-Deal mit Viager-Objekten. Dabei verkaufen Eigentümer ihre Immobilie gegen eine Leibrente und behalten ein lebenslanges Wohnrecht."
-},
-{
-"id": "7a467ddd6701",
-"title": "«Bundesrat» Martin Schlegel gegen die UBS",
-"link": "https://www.finews.ch/news/finanzplatz/74351-martin-schlegel-snb-politik-tbtf-bundesrat-keller-sutter-kommentar",
-"text": "Als Kind wollte Martin Schlegel Bundesrat werden. Als Präsident der Nationalbank benimmt er sich nun so: Im Streit um das UBS-Kapital ergreift er Partei für Karin Keller-Sutter.",
-"img": "https://www.finews.ch/images/news/2026/11/Martin-Schlegel.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-05T08:33:12+00:00",
-"sum": "Als Kind wollte Martin Schlegel Bundesrat werden. Als Präsident der Nationalbank benimmt er sich nun so: Im Streit um das UBS-Kapital ergreift er Partei für Karin Keller-Sutter."
-},
-{
-"id": "66a62fb9f858",
-"title": "Rettungsmission gescheitert - NASA-Satellit stürzt auf Erde",
-"link": "https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html",
-"text": "Der Satellit Swift hatte jahrelang gewaltige Energieausbrüche im Universum untersucht, sogenannte Gammablitze. Die Mission war so wichtig, dass die NASA eine Rettungsmission startete, als es Probleme gab - vergeblich.",
-"img": "https://images.tagesschau.de/image/5e617cb3-cbc7-4688-8d22-5ce331f1b63d/AAABoarG-34/AAABnSSvrFg/16x9-big/satellit-swift-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wissenschaft",
-"date": "2026-11-05T08:15:29+00:00",
-"sum": "Der Satellit Swift hatte jahrelang gewaltige Energieausbrüche im Universum untersucht, sogenannte Gammablitze. Die Mission war so wichtig, dass die NASA eine Rettungsmission startete, als es Probleme gab - vergeblich."
-},
-{
-"id": "035c08c5508c",
-"title": "Degussa luchst Konkurrenten den Finanzchef ab",
-"link": "https://www.finews.ch/news/finanzplatz/74348-degussa-florian-hoeller-neuer-cfo-ex-philoro",
-"text": "Knapp fünf Monate nach dem abrupten Abgang von CEO und Finanzchef schliesst der Goldhändler die Lücke im Finanzressort. Florian Höller kommt vom österreichischen Rivalen Philoro.",
-"img": "https://www.finews.ch/images/news/2026/11/Florian-Hoeller-Degussa.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-05T07:27:04+00:00",
-"sum": "Knapp fünf Monate nach dem abrupten Abgang von CEO und Finanzchef schliesst der Goldhändler die Lücke im Finanzressort. Florian Höller kommt vom österreichischen Rivalen Philoro."
 }
 ]
 }
