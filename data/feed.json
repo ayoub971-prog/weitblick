@@ -1,8 +1,129 @@
 {
-"updated": "2026-11-08T14:52:22+00:00",
+"updated": "2026-11-08T16:52:50+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "5a7b6c8634e4",
+"title": "Motorrad: MotoGP in Katar – Marquez «nur» Zweiter – Titelentscheidung vertagt",
+"link": "https://www.srf.ch/sport/motorsport/motorrad/motorrad-motogp-in-katar-marquez-nur-zweiter-titelentscheidung-vertagt",
+"text": "Der Spanier verpasst beim MotoGP-Rennen in Katar den Sieg und muss sich in Sachen WM-Titel noch gedulden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7b3efb.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T16:47:21+00:00",
+"sum": "Der Spanier verpasst beim MotoGP-Rennen in Katar den Sieg und muss sich in Sachen WM-Titel noch gedulden."
+},
+{
+"id": "e75666312610",
+"title": "Shelton in 2 Sätzen geschlagen – Nervenstarker Alcaraz gewinnt erstmals in der Halle in Paris",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/shelton-in-2-saetzen-geschlagen-nervenstarker-alcaraz-gewinnt-erstmals-in-der-halle-in-paris",
+"text": "Carlos Alcaraz schlägt Ben Shelton in 2 Sätzen und gewinnt erstmals das ATP-1000-Turnier in Paris.",
+"img": "https://www.srf.ch/static/cms/images//320ws/be7a21.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T16:46:04+00:00",
+"sum": "Carlos Alcaraz schlägt Ben Shelton in 2 Sätzen und gewinnt erstmals das ATP-1000-Turnier in Paris."
+},
+{
+"id": "e7520b8e6561",
+"title": "Wahlen Kanton Freiburg – Die SVP gewinnt auf Kosten der FDP Sitze im Kantonsparlament",
+"link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-die-svp-gewinnt-auf-kosten-der-fdp-sitze-im-kantonsparlament",
+"text": "Das Freiburger Stimmvolk hat den Grossen Rat neu gewählt. SVP und SP gewinnen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b459f3.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T16:45:33+00:00",
+"sum": "Das Freiburger Stimmvolk hat den Grossen Rat neu gewählt. SVP und SP gewinnen."
+},
+{
+"id": "36f053feec0e",
+"title": "Schmuggel von Affen – Begehrt und gejagt: Das oft traurige Schicksal der Makaken",
+"link": "https://www.srf.ch/news/international/schmuggel-von-affen-begehrt-und-gejagt-das-oft-traurige-schicksal-der-makaken",
+"text": "Die Affenart ist für die medizinische Forschung heiss begehrt. Das führt zu Wilderei und einem lukrativen Schwarzmarkt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/816a68b.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T16:43:58+00:00",
+"sum": "Die Affenart ist für die medizinische Forschung heiss begehrt. Das führt zu Wilderei und einem lukrativen Schwarzmarkt."
+},
+{
+"id": "59fd41504572",
+"title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
+"link": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
+"text": "Ja, er will: SVP-Fraktionschef Thomas Aeschi kandidiert nun definitiv für die Nachfolge von Bundesrat Guy Parmelin.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d393a6.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T16:36:03+00:00",
+"sum": "Ja, er will: SVP-Fraktionschef Thomas Aeschi kandidiert nun definitiv für die Nachfolge von Bundesrat Guy Parmelin."
+},
+{
+"id": "efe2bd5e1139",
+"title": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
+"link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
+"text": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Aussenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen.",
+"img": "https://images.tagesschau.de/image/bcbfacd2-b7ac-4314-9d86-ec6d822e9492/AAABobwG94w/AAABnSSvrFg/16x9-big/abu-dhabi-103.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T16:33:42+00:00",
+"sum": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Aussenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen."
+},
+{
+"id": "cf372d0f7423",
+"title": "Strom aus Atommüll: TU Dresden plant Forschungsreaktor",
+"link": "https://www.heise.de/news/Strom-aus-Atommuell-TU-Dresden-plant-Forschungsreaktor-11516673.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Ein Forschungsreaktor der TU Dresden soll abgebrannte Brennelemente direkt nutzen und die Suche nach einem Endlager erübrigen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T16:30:00+00:00",
+"sum": "Ein Forschungsreaktor der TU Dresden soll abgebrannte Brennelemente direkt nutzen und die Suche nach einem Endlager erübrigen."
+},
+{
+"id": "16b14cb704d8",
+"title": "700-jähriges Haus in Steinen – Schwyzer Baudenkmal aus dem Mittelalter soll zum Hotel werden",
+"link": "https://www.srf.ch/news/schweiz/700-jaehriges-haus-in-steinen-schwyzer-baudenkmal-aus-dem-mittelalter-soll-zum-hotel-werden",
+"text": "Der «Adler» ist für die Bauforschung beinahe wie ein Lotto-Sechser. Unter anderem wegen eines besonderen Lochs im Boden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/66a352.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T16:29:37+00:00",
+"sum": "Der «Adler» ist für die Bauforschung beinahe wie ein Lotto-Sechser. Unter anderem wegen eines besonderen Lochs im Boden."
+},
+{
+"id": "45d2eba78894",
+"title": "Gadenlandschaften – Leben statt Leerstand: Neue Ideen für alte Glarner Scheunen",
+"link": "https://www.srf.ch/news/schweiz/gadenlandschaften-leben-statt-leerstand-neue-ideen-fuer-alte-glarner-scheunen",
+"text": "Im Kanton Glarus stehen 800 ungenutzte Gaden. Ein Projekt möchte, dass Neues darin entsteht. 90 Vorschläge gingen ein.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f111c1.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T16:11:09+00:00",
+"sum": "Im Kanton Glarus stehen 800 ungenutzte Gaden. Ein Projekt möchte, dass Neues darin entsteht. 90 Vorschläge gingen ein."
+},
+{
+"id": "726c131d8d8a",
+"title": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
+"link": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
+"text": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren.",
+"img": "https://images.tagesschau.de/image/17988e16-b321-4573-a2d7-f8ccec24da95/AAABobvLlHQ/AAABnSSvrFg/16x9-big/gadi-eisenkot-110.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T16:07:41+00:00",
+"sum": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren."
+},
+{
+"id": "0fe2e937a898",
+"title": "Kurz vor dem Nati-Zusammenzug – Xhaka muss gegen Chelsea nach 4 Minuten verletzt raus",
+"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/kurz-vor-dem-nati-zusammenzug-xhaka-muss-gegen-chelsea-nach-4-minuten-verletzt-raus",
+"text": "Sorgen um den Schweizer Captain: Er kann für Sunderland schon in der Startphase nicht mehr mittun.",
+"img": "https://www.srf.ch/static/cms/images//320ws/327c09.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T16:05:31+00:00",
+"sum": "Sorgen um den Schweizer Captain: Er kann für Sunderland schon in der Startphase nicht mehr mittun."
+},
 {
 "id": "455b8b3d22f2",
 "title": "Wahlen Kanton Freiburg – Erfolg für Bürgerliche: Sie holen drei Sitze im Staatsrat",
@@ -11,8 +132,118 @@
 "img": "https://www.srf.ch/static/cms/images//320ws/7ce121.webp",
 "source": "SRF",
 "topic": "Schweiz",
-"date": "2026-11-08T14:48:52+00:00",
+"date": "2026-11-08T15:58:19+00:00",
 "sum": "Zwei FDPler und eine Mitte-Kandidatin schaffen die Wahl in die Freiburger Kantonsregierung im ersten Wahlgang."
+},
+{
+"id": "b8bd5aca1f60",
+"title": "Kratzer am Lack Saudi-Arabiens – Huthi greifen Wolkenkratzer in Riad an – das steckt dahinter",
+"link": "https://www.srf.ch/news/international/kratzer-am-lack-saudi-arabiens-huthi-greifen-wolkenkratzer-in-riad-an-das-steckt-dahinter",
+"text": "Mit dem Angriff auf den Aramco-Tower bröckelt nun auch das Image Saudi-Arabiens als sicherer Ort für Geschäfte.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0c1a23.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T15:54:11+00:00",
+"sum": "Mit dem Angriff auf den Aramco-Tower bröckelt nun auch das Image Saudi-Arabiens als sicherer Ort für Geschäfte."
+},
+{
+"id": "247d66c997a2",
+"title": "Sicherheitsempfinden im Wandel – Eine Ausstellung zur Kunst, Risiko zu leben",
+"link": "https://www.srf.ch/news/schweiz/sicherheitsempfinden-im-wandel-eine-ausstellung-zur-kunst-risiko-zu-leben",
+"text": "Das Stapferhaus Lenzburg befasst sich mit der Beziehung zwischen Sicherheit und Risiko. Ein Experte ordnet ein.",
+"img": "https://www.srf.ch/static/cms/images//320ws/3d63bd.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-08T15:49:42+00:00",
+"sum": "Das Stapferhaus Lenzburg befasst sich mit der Beziehung zwischen Sicherheit und Risiko. Ein Experte ordnet ein."
+},
+{
+"id": "10a2b908e8f1",
+"title": "Jensen Huang soll Beziehung zu chinesischer Spionin gehabt haben",
+"link": "https://www.heise.de/news/Jensen-Huang-soll-Beziehung-zu-chinesischer-Spionin-gehabt-haben-11516677.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "US-Berichte legen nahe, dass Jensen Huang einer Spionin nahestand, deren Arbeitgeber Exportbeschränkungen unterlaufen haben soll.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T15:40:00+00:00",
+"sum": "US-Berichte legen nahe, dass Jensen Huang einer Spionin nahestand, deren Arbeitgeber Exportbeschränkungen unterlaufen haben soll."
+},
+{
+"id": "0b1299317b8a",
+"title": "Mehrere Waggons entgleist – Zugunglück in Ägypten fordert sieben Tote und 112 Verletzte",
+"link": "https://www.srf.ch/news/international/mehrere-waggons-entgleist-zugunglueck-in-aegypten-fordert-sieben-tote-und-112-verletzte",
+"text": "Bei der Entgleisung in Gizeh kamen mehrere Menschen ums Leben. Der Unfallhergang hat Parallelen zum Unglück in Spanien.",
+"img": "https://www.srf.ch/static/cms/images//320ws/bff0fa.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T15:39:30+00:00",
+"sum": "Bei der Entgleisung in Gizeh kamen mehrere Menschen ums Leben. Der Unfallhergang hat Parallelen zum Unglück in Spanien."
+},
+{
+"id": "5b67034df4fd",
+"title": "Klimatische Veränderung – Der letzte Gletscher in den Allgäuer Hochalpen ist keiner mehr",
+"link": "https://www.srf.ch/news/international/klimatische-veraenderung-der-letzte-gletscher-in-den-allgaeuer-hochalpen-ist-keiner-mehr",
+"text": "Verschwindende Alpengletscher: Nun hat auch ein Gletscher in den Allgäuer Alpen den Status Gletscher verloren.",
+"img": "https://www.srf.ch/static/cms/images//320ws/bc4e2e.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-08T15:30:03+00:00",
+"sum": "Verschwindende Alpengletscher: Nun hat auch ein Gletscher in den Allgäuer Alpen den Status Gletscher verloren."
+},
+{
+"id": "e3ad5ea6fb39",
+"title": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
+"link": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
+"text": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm.",
+"img": "https://images.tagesschau.de/image/84cb3245-ee5e-4ddc-8677-95217907f565/AAABlZAeuA0/AAABnSSvrFg/16x9-big/hochwasser-schaden-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T15:28:00+00:00",
+"sum": "Immer häufiger führen Starkregen und Überschwemmungen zu teuren Schäden an Häusern. Nur gut die Hälfte der Gebäude in Deutschland sind gegen solche Folgen abgesichert. Experten sehen Handlungsbedarf. Von Katharina Wilhelm."
+},
+{
+"id": "e6d5cc7ca3b7",
+"title": "Euro Hockey Tour in Helsinki – Von wegen Wiedergutmachung: Schweiz unterliegt auch Tschechien",
+"link": "https://www.srf.ch/sport/eishockey/nationalmannschaft/euro-hockey-tour-in-helsinki-von-wegen-wiedergutmachung-schweiz-unterliegt-auch-tschechien",
+"text": "Beim 2:4 gegen Tschechien findet die Pleitenserie ihre Fortsetzung. Dabei verspielt die Nati eine 2:0-Führung.",
+"img": "https://www.srf.ch/static/cms/images//320ws/3d228d6.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T15:03:42+00:00",
+"sum": "Beim 2:4 gegen Tschechien findet die Pleitenserie ihre Fortsetzung. Dabei verspielt die Nati eine 2:0-Führung."
+},
+{
+"id": "c8dad5d82bc6",
+"title": "Top 10: Die beste Smartwatch für Damen",
+"link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-fuer-damen-im-test-huawei-vor-apple-und-garmin/776dwe5?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Viele Hersteller bieten Smartwatches mit kompaktem Design für schmale Handgelenke an. Wir zeigen die besten Modelle.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-08T15:00:00+00:00",
+"sum": "Viele Hersteller bieten Smartwatches mit kompaktem Design für schmale Handgelenke an. Wir zeigen die besten Modelle."
+},
+{
+"id": "9a4e4850e5d3",
+"title": "1. Saisonniederlage für Leader – Ajeti-Rot und von-Ballmoos-Out: Lugano geht in St. Gallen unter",
+"link": "https://www.srf.ch/sport/fussball/super-league/1-saisonniederlage-fuer-leader-ajeti-rot-und-von-ballmoos-out-lugano-geht-in-st-gallen-unter",
+"text": "In der 13. Runde der Super League muss Lugano erstmals als Verlierer vom Feld – 0:5 in St. Gallen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8fdd548.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-08T14:53:43+00:00",
+"sum": "In der 13. Runde der Super League muss Lugano erstmals als Verlierer vom Feld – 0:5 in St. Gallen."
+},
+{
+"id": "2806f2663ff9",
+"title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+"link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
+"text": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken.",
+"img": "https://images.tagesschau.de/image/6ecdf46a-cf24-4550-810d-9e72c1a23c14/AAABobuoxN0/AAABnSSvrFg/16x9-big/rbb-630259816-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T14:50:57+00:00",
+"sum": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken."
 },
 {
 "id": "7b163961115f",
@@ -24,17 +255,6 @@
 "topic": "Tech",
 "date": "2026-11-08T14:40:02+00:00",
 "sum": "Der iPad-Stift von Meko bietet Handballen- sowie Neigungserkennung und kann den teuren Apple Pencil ersetzen. ( Technik/Hardware , iPad )"
-},
-{
-"id": "0fe2e937a898",
-"title": "Kurz vor dem Nati-Zusammenzug – Xhaka muss gegen Chelsea nach 4 Minuten verletzt raus",
-"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/kurz-vor-dem-nati-zusammenzug-xhaka-muss-gegen-chelsea-nach-4-minuten-verletzt-raus",
-"text": "Sorgen um den Schweizer Captain: Er kann für Sunderland schon in der Startphase nicht mehr mittun.",
-"img": "https://www.srf.ch/static/cms/images//320ws/327c09.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T14:35:07+00:00",
-"sum": "Sorgen um den Schweizer Captain: Er kann für Sunderland schon in der Startphase nicht mehr mittun."
 },
 {
 "id": "e9962413576e",
@@ -101,17 +321,6 @@
 "topic": "Schweiz",
 "date": "2026-11-08T13:33:48+00:00",
 "sum": "22 Jahre kämpfte Margrith Gysel für den Schutz des Zürcher Hausbergs. Nun tritt die Präsidentin von Pro Üetliberg ab."
-},
-{
-"id": "2806f2663ff9",
-"title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
-"link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
-"text": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken.",
-"img": "https://images.tagesschau.de/image/6ecdf46a-cf24-4550-810d-9e72c1a23c14/AAABobtcBrA/AAABnSSvrFg/16x9-big/rbb-630259816-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T13:31:29+00:00",
-"sum": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken."
 },
 {
 "id": "d998daa4da94",
@@ -268,17 +477,6 @@
 "sum": "Der Award ehrt jährlich eine herausragende Persönlichkeit aus Wirtschaft, Wissenschaft, Sport oder Kultur."
 },
 {
-"id": "b0938210ca54",
-"title": "Weitere Sport-News – Schweizer Triathlon-Asse überzeugen",
-"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-schweizer-triathlon-asse-ueberzeugen",
-"text": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a79ba77.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T11:33:27+00:00",
-"sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
-},
-{
 "id": "f2a9064bfb6c",
 "title": "Keine Spur: Nvidia-Hardware auf dem Weg nach Texas verschwunden",
 "link": "https://www.golem.de/news/keine-spur-nvidia-hardware-auf-dem-weg-nach-texas-verschwunden-2611-214967.html",
@@ -378,17 +576,6 @@
 "sum": "Nordkorea stellt nicht nur Soldaten für den Krieg gegen die Ukraine. In Russland sind auch Zehntausende Leiharbeiter tätig. Sie hoffen auf einen besseren Verdienst als in ihrer Heimat - erfüllt sich dieser Wunsch? Von Norbert Hahn."
 },
 {
-"id": "e42c899f49a6",
-"title": "Der YB-Goalgetter jagt Rekorde – Verrückte Spielerei: Essende kann es auf 44 Saisongoals bringen",
-"link": "https://www.srf.ch/sport/fussball/super-league/der-yb-goalgetter-jagt-rekorde-verrueckte-spielerei-essende-kann-es-auf-44-saisongoals-bringen",
-"text": "Der YB-Angreifer liefert eindrückliche Skorerwerte. Wir ordnen ein, was diese beim Blick in die Statistik wert sind.",
-"img": "https://www.srf.ch/static/cms/images//320ws/727586.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T10:04:04+00:00",
-"sum": "Der YB-Angreifer liefert eindrückliche Skorerwerte. Wir ordnen ein, was diese beim Blick in die Statistik wert sind."
-},
-{
 "id": "290896339395",
 "title": "heise+ | Obsbot Talent 2 im Test: Mehrkamera-Streaming aus einem Gerät",
 "link": "https://www.heise.de/tests/Obsbot-Talent-2-im-Test-Mehrkamera-Streaming-aus-einem-Geraet-11484037.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -475,17 +662,6 @@
 "topic": "Welt",
 "date": "2026-11-08T09:36:05+00:00",
 "sum": "Die Versammlungen verliefen mehrheitlich friedlich – nach den Protesten kam es in mehreren Städten zu Ausschreitungen."
-},
-{
-"id": "eb04f2b1abe2",
-"title": "Wahlen Kanton Freiburg – Welche Partei holt die meisten Sitze im Freiburger Parlament?",
-"link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-welche-partei-holt-die-meisten-sitze-im-freiburger-parlament",
-"text": "Das Freiburger Stimmvolk wählt das Kantonsparlament neu. Die Ausgangslage.",
-"img": "https://www.srf.ch/static/cms/images//320ws/29a9451.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-08T09:09:07+00:00",
-"sum": "Das Freiburger Stimmvolk wählt das Kantonsparlament neu. Die Ausgangslage."
 },
 {
 "id": "d06e758daef3",
@@ -698,10 +874,10 @@
 },
 {
 "id": "9c388a896530",
-"title": "Die Methode Gülsha bringt sogar Self-Checkouts mit KI an den Anschlag: «Die Differenz zahlen die ehrlichen Kunden mit höheren Preisen»",
+"title": "Die Methode Gülsha überlistet sogar Self-Check-outs mit KI: «Die Differenz zahlen die ehrlichen Kunden mit höheren Preisen»",
 "link": "https://www.nzz.ch/wirtschaft/die-methode-guelsha-bringt-sogar-self-checkouts-mit-ki-an-den-anschlag-die-differenz-zahlen-die-ehrlichen-kunden-mit-hoeheren-preisen-ld.10055049",
 "text": "Die Schweizer Podcasterin gibt zu, Produkte bewusst falsch einzuscannen. Dagegen rüsten die Supermärkte mit KI-Technologie auf. Denn Ladendiebstähle nehmen zu – und kosten sie Milliarden.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/05/4433561c-c92d-4b85-8d01-0c90e2d7b3d6.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3695,3695,x1076,y0",
+"img": "https://img-msp-prod.nzz.ch/2026/11/08/ffc07a39-9e04-4700-8cd0-27dc12feccf1.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=8126,8126,x1376,y0",
 "source": "NZZ",
 "topic": "Wirtschaft",
 "date": "2026-11-08T04:30:00+00:00",
@@ -818,50 +994,6 @@
 "sum": "Unsere Vorfahren verwendeten Gold- und Silbermünzen. Nun ermöglichen Gold-Token kleinste Überweisungen wie damals. Auch ein Schweizer Edelmetallriese bietet diese an."
 },
 {
-"id": "00449a502966",
-"title": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
-"link": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
-"text": "Vom Sondervermögen des Bundes sollen auch Schulen, Kitas und Wissenschaft profitieren. Doch von den vorgesehenen Mitteln ist bislang offenbar nur ein Bruchteil in die Bildungsinfrastruktur geflossen. Die Grünen kritisieren das.",
-"img": "https://images.tagesschau.de/image/f8f677e9-6450-420b-b286-94a87282a5ea/AAABnmPDHgs/AAABnSSvrFg/16x9-big/klassenzimmer-stuehle-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T03:28:25+00:00",
-"sum": "Vom Sondervermögen des Bundes sollen auch Schulen, Kitas und Wissenschaft profitieren. Doch von den vorgesehenen Mitteln ist bislang offenbar nur ein Bruchteil in die Bildungsinfrastruktur geflossen. Die Grünen kritisieren das."
-},
-{
-"id": "c86ccf145e72",
-"title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
-"link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
-"text": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein.",
-"img": "https://images.tagesschau.de/image/c5c63d68-4ab5-4931-8779-0a67c552dcba/AAABnm9Gfq0/AAABnSSvrFg/16x9-big/kubicki-170.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T02:28:44+00:00",
-"sum": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein."
-},
-{
-"id": "df3e770efe8d",
-"title": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
-"link": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
-"text": "Ein Mann schiesst in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrösste Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling.",
-"img": "https://images.tagesschau.de/image/68961771-7cd2-466f-9fc6-f5e1ef891cff/AAABobi2DQI/AAABnSSvrFg/16x9-big/krakau-trauer-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T01:50:38+00:00",
-"sum": "Ein Mann schiesst in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrösste Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling."
-},
-{
-"id": "59fd41504572",
-"title": "Nachfolge von Guy Parmelin – SVP-Fraktionschef Thomas Aeschi will Bundesrat werden",
-"link": "https://www.srf.ch/news/schweiz/nachfolge-von-guy-parmelin-svp-fraktionschef-thomas-aeschi-will-bundesrat-werden",
-"text": "Ja, er will: SVP-Fraktionschef Thomas Aeschi kandidiert nun definitiv für die Nachfolge von Bundesrat Guy Parmelin.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d393a6.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-08T00:26:33+00:00",
-"sum": "Ja, er will: SVP-Fraktionschef Thomas Aeschi kandidiert nun definitiv für die Nachfolge von Bundesrat Guy Parmelin."
-},
-{
 "id": "53c33ad9c5f2",
 "title": "Auf der Suche nach Exoplaneten: Dem Sternenlicht ein Schnippchen schlagen",
 "link": "https://www.spektrum.de/news/suche-nach-exoplaneten-dem-sternenlicht-ein-schnippchen-schlagen/2352788",
@@ -871,6 +1003,17 @@
 "topic": "Wissenschaft",
 "date": "2026-11-07T22:30:00+00:00",
 "sum": "Eine neue Software für das James-Webb-Weltraumteleskop macht bislang verborgene Welten sichtbar. Auch erdähnliche Planeten könnten damit aufgespürt werden."
+},
+{
+"id": "485ecb901d8e",
+"title": "Frauen-WM in Dänemark – DEB-Frauen siegen zum WM-Start",
+"link": "https://www.srf.ch/sport/eishockey/frauen-eishockey/frauen-wm-in-daenemark-deb-frauen-siegen-zum-wm-start",
+"text": "Deutschlands Eishockeyanerinnen besiegen Österreich an der WM in Dänemark mit 2:0.",
+"img": "https://www.srf.ch/static/cms/images//320ws/63db694.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-07T21:06:09+00:00",
+"sum": "Deutschlands Eishockeyanerinnen besiegen Österreich an der WM in Dänemark mit 2:0."
 },
 {
 "id": "0c7facb9d925",
@@ -906,37 +1049,15 @@
 "sum": "Künstliche Riffe, angesiedelte Korallen und renaturiertes Seegras sollen Inseln vor dem Meer retten."
 },
 {
-"id": "1cf0acaaa1b5",
-"title": "Formel 1: GP Brasilien – Verregnetes Qualifying spült Norris auf die Pole – Hülkenberg 4.",
-"link": "https://www.srf.ch/sport/motorsport/formel-1/formel-1-gp-brasilien-verregnetes-qualifying-spuelt-norris-auf-die-pole-huelkenberg-4",
-"text": "Eine lange Regenpause und Lando Norris im McLaren prägten das Qualifying zum GP von Brasilien.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b222f7.webp",
+"id": "972649a2333b",
+"title": "Kostyuk rückt nach – Rybakina verzichtet auf Teilnahme an den WTA Finals",
+"link": "https://www.srf.ch/sport/tennis/wta-tour/kostyuk-rueckt-nach-rybakina-verzichtet-auf-teilnahme-an-den-wta-finals",
+"text": "Die Weltnummer 1 nimmt aus gesundheitlichen Gründen nicht am Saisonendturnier der Jahresbesten teil.",
+"img": "https://www.srf.ch/static/cms/images//320ws/bda84d.webp",
 "source": "SRF",
 "topic": "Sport",
-"date": "2026-11-07T20:30:35+00:00",
-"sum": "Eine lange Regenpause und Lando Norris im McLaren prägten das Qualifying zum GP von Brasilien."
-},
-{
-"id": "020803ade904",
-"title": "Swiss Athletics Night – Werro und Ehammer Schweizer Leichtathleten des Jahres",
-"link": "https://www.srf.ch/sport/leichtathletik/swiss-athletics-night-werro-und-ehammer-schweizer-leichtathleten-des-jahres",
-"text": "Grosse Ehre für Audrey Werro und Simon Ehammer: Sie werden zu den Schweizer Leichtathleten des Jahres 2026 gekürt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/8740040.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T20:18:34+00:00",
-"sum": "Grosse Ehre für Audrey Werro und Simon Ehammer: Sie werden zu den Schweizer Leichtathleten des Jahres 2026 gekürt."
-},
-{
-"id": "b9590bd21fb4",
-"title": "Neuer Chief of Staff in USA – Stabschef Stephen Miller: Ein Hardliner der Superlative",
-"link": "https://www.srf.ch/news/international/neuer-chief-of-staff-in-usa-stabschef-stephen-miller-ein-hardliner-der-superlative",
-"text": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e628e3.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-07T20:03:58+00:00",
-"sum": "Der US-Präsident zieht nach den Midterms erste personelle Konsequenzen. Ein Versuch, Macht und Stärke zu demonstrieren."
+"date": "2026-11-07T20:17:33+00:00",
+"sum": "Die Weltnummer 1 nimmt aus gesundheitlichen Gründen nicht am Saisonendturnier der Jahresbesten teil."
 },
 {
 "id": "fd176b8d8e00",
@@ -945,20 +1066,9 @@
 "text": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber.",
 "img": "https://www.srf.ch/static/cms/images//320ws/cebc46.webp",
 "source": "SRF",
-"topic": "Schweiz",
+"topic": "Wirtschaft",
 "date": "2026-11-07T19:57:36+00:00",
 "sum": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber."
-},
-{
-"id": "627e24edb273",
-"title": "Siegtor in der 92. Minute – Dank Essende und viel Dusel: YB gewinnt in Luzern",
-"link": "https://www.srf.ch/sport/fussball/super-league/siegtor-in-der-92-minute-dank-essende-und-viel-dusel-yb-gewinnt-in-luzern",
-"text": "YB besiegt den FC Luzern mit 3:2. Goalgetter Samuel Essende trifft in der Nachspielzeit, Luzerns Ausgleich zählt nicht.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c734d96.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T19:15:22+00:00",
-"sum": "YB besiegt den FC Luzern mit 3:2. Goalgetter Samuel Essende trifft in der Nachspielzeit, Luzerns Ausgleich zählt nicht."
 },
 {
 "id": "ca4d3b50ca66",
@@ -970,17 +1080,6 @@
 "topic": "Tech",
 "date": "2026-11-07T19:00:00+00:00",
 "sum": "Smarte Heizkörperthermostate senken Heizkosten und steigern den Komfort. Unser Testsieger läuft komplett ohne Cloud."
-},
-{
-"id": "e34ed5f20a7f",
-"title": "Kunstturnen: Swiss Cup – Frankreich triumphiert – Schweizer im «Hundertstel-Pech»",
-"link": "https://www.srf.ch/sport/mehr-sport/kunstturnen/kunstturnen-swiss-cup-frankreich-triumphiert-schweizer-im-hundertstel-pech",
-"text": "Frankreich gewinnt den Swiss Cup im Zürcher Hallenstadion. Die Schweiz scheitert im Halbfinal denkbar knapp und wird 3.",
-"img": "https://www.srf.ch/static/cms/images//320ws/085aa3.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-07T18:37:12+00:00",
-"sum": "Frankreich gewinnt den Swiss Cup im Zürcher Hallenstadion. Die Schweiz scheitert im Halbfinal denkbar knapp und wird 3."
 },
 {
 "id": "c3ad85f61174",
@@ -1016,17 +1115,6 @@
 "sum": "Nach Angriffen auf Kühlsysteme in Supermärkten europaweit ermitteln nun auch Verfassungsschutz und BND. Die Täter nutzen Schwachstellen in Fernwartungszugängen."
 },
 {
-"id": "8ba41758b241",
-"title": "Brenner-Basistunnel: Cyberangriff auf Baufirma",
-"link": "https://www.heise.de/news/Brenner-Basistunnel-Cyberangriff-auf-Baufirma-11516406.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Unbekannte Täter griffen auf Daten der österreichisch-italienischen Baugesellschaft zu, die aus dem Internet erreichbar waren.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T17:20:00+00:00",
-"sum": "Unbekannte Täter griffen auf Daten der österreichisch-italienischen Baugesellschaft zu, die aus dem Internet erreichbar waren."
-},
-{
 "id": "c5bf4e4d3cd6",
 "title": "Technologie und Innovation – China ist zum Experimentierfeld für KI und Robotik geworden",
 "link": "https://www.srf.ch/news/dialog/technologie-und-innovation-china-ist-zum-experimentierfeld-fuer-ki-und-robotik-geworden",
@@ -1036,17 +1124,6 @@
 "topic": "Welt",
 "date": "2026-11-07T16:58:26+00:00",
 "sum": "China ist heute mehr als die Werkbank von Billigprodukten. Bei der Automatisierung des täglichen Lebens ist es führend."
-},
-{
-"id": "74cd1a7374ce",
-"title": "WTF: WTF: Pilot zeichnet Artwork im Stil von GTA 6 mit Flightradar",
-"link": "https://www.heise.de/news/WTF-Pilot-zeichnet-Artwork-im-Stil-von-GTA-6-mit-Flightradar-11516394.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Als „The Pilot Picasso“ ist Benjamin McDaniel schon länger aktiv. Nun hat er sein wohl aufwändigstes Kunstwerk per Flugzeug gezeichnet.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T16:49:00+00:00",
-"sum": "Als „The Pilot Picasso“ ist Benjamin McDaniel schon länger aktiv. Nun hat er sein wohl aufwändigstes Kunstwerk per Flugzeug gezeichnet."
 },
 {
 "id": "8859e8d5100e",
@@ -1082,24 +1159,13 @@
 "sum": "Die US-Arzneimittelbehörde untersucht, ob das teure Medikament für Kinder bösartige Tumore verursacht."
 },
 {
-"id": "2908ce23a251",
-"title": "Mini-PC VZMore AX9 Max im Test: Für wen sich der teure Ryzen-AI-9-Rechner lohnt",
-"link": "https://www.heise.de/bestenlisten/testbericht/mini-pc-vzmore-ax9-max-im-test-fuer-wen-sich-der-teure-ryzen-ai-9-rechner-lohnt/xg3ztdw?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Der Vzmore AX9 Max kombiniert den Ryzen AI 9 HX 470 mit starker iGPU, moderner Ausstattung und effizienter Kühlung. Im Test überzeugt vieles, aber nicht alles.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-07T15:00:00+00:00",
-"sum": "Der Vzmore AX9 Max kombiniert den Ryzen AI 9 HX 470 mit starker iGPU, moderner Ausstattung und effizienter Kühlung. Im Test überzeugt vieles, aber nicht alles."
-},
-{
 "id": "975a0f8b4cd5",
 "title": "Schweizer Milchindustrie – Cremo in der Krise – ein Problem für die ganze Milchbranche",
 "link": "https://www.srf.ch/news/schweiz/schweizer-milchindustrie-cremo-in-der-krise-ein-problem-fuer-die-ganze-milchbranche",
 "text": "Der zweitgrösste Schweizer Milchverarbeiter steckt tief in den roten Zahlen. Das hat Folgen für die ganze Branche.",
 "img": "https://www.srf.ch/static/cms/images//320ws/d2197a1.webp",
 "source": "SRF",
-"topic": "Schweiz",
+"topic": "Wirtschaft",
 "date": "2026-11-07T14:27:29+00:00",
 "sum": "Der zweitgrösste Schweizer Milchverarbeiter steckt tief in den roten Zahlen. Das hat Folgen für die ganze Branche."
 },
@@ -1212,17 +1278,6 @@
 "topic": "Welt",
 "date": "2026-11-07T11:47:16+00:00",
 "sum": "Der Krieg hat die Böden des Gazastreifens so beschädigt, dass sie auf Jahre hinaus kaum mehr bebaut werden können."
-},
-{
-"id": "7cce7b98b8fa",
-"title": "Gewerbe im Stadtverkehr – Parkplatznot in Städten schreckt viele Handwerksbetriebe ab",
-"link": "https://www.srf.ch/news/schweiz/gewerbe-im-stadtverkehr-parkplatznot-in-staedten-schreckt-viele-handwerksbetriebe-ab",
-"text": "Weil es in den Städten an Parkplätzen fehlt, nehmen zahlreiche Handwerksbetriebe dort keine Aufträge mehr an.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0e13fd0.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-07T09:52:23+00:00",
-"sum": "Weil es in den Städten an Parkplätzen fehlt, nehmen zahlreiche Handwerksbetriebe dort keine Aufträge mehr an."
 },
 {
 "id": "9e4687ad3d72",
@@ -1357,28 +1412,6 @@
 "sum": "Die neuesten Meldungen aus der Wirtschaft."
 },
 {
-"id": "e5c2f0fce99f",
-"title": "Nach den Waldbränden – Feuerwehrleute aus Europa kritisieren Personalkürzungen",
-"link": "https://www.srf.ch/news/international/nach-den-waldbraenden-feuerwehrleute-aus-europa-kritisieren-personalkuerzungen-1",
-"text": "Im Sommer waren Feuerwehrleute europaweit Helden. Aber ihre Zahl geht in vielen Ländern zurück. Jetzt protestieren sie.",
-"img": "https://www.srf.ch/static/cms/images//320ws/df91d8.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T18:19:37+00:00",
-"sum": "Im Sommer waren Feuerwehrleute europaweit Helden. Aber ihre Zahl geht in vielen Ländern zurück. Jetzt protestieren sie."
-},
-{
-"id": "136b083e9375",
-"title": "US-Wirtschaft – «Die Zölle haben die Preise in den USA nach oben getrieben»",
-"link": "https://www.srf.ch/news/international/us-wirtschaft-die-zoelle-haben-die-preise-in-den-usa-nach-oben-getrieben",
-"text": "Arbeitsmarkt-Experte David Dorn von der Uni Zürich zeigt auf, was die Zollschlacht den USA gebracht hat.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f0a7b7.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T18:08:26+00:00",
-"sum": "Arbeitsmarkt-Experte David Dorn von der Uni Zürich zeigt auf, was die Zollschlacht den USA gebracht hat."
-},
-{
 "id": "c65632529278",
 "title": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
 "link": "https://www.srf.ch/news/wirtschaft/nach-den-midterms-warum-sind-die-boersen-rund-um-den-globus-eingebrochen",
@@ -1410,17 +1443,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-06T17:14:24+00:00",
 "sum": "Eine KOF-Studie zeigt: Auch Firmenwagen oder Homeoffice sind attraktiv. Erläuterungen von Co-Autor Michael Siegenthaler."
-},
-{
-"id": "681867fa8102",
-"title": "Höchstes Amt in Deutschland – Ilse Aigner soll Bundespräsidentin werden",
-"link": "https://www.srf.ch/news/international/hoechstes-amt-in-deutschland-ilse-aigner-soll-bundespraesidentin-werden",
-"text": "Die regierende CDU will sie für das Amt nominieren, berichten Medien.",
-"img": "https://www.srf.ch/static/cms/images//320ws/61480c.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-06T17:03:04+00:00",
-"sum": "Die regierende CDU will sie für das Amt nominieren, berichten Medien."
 },
 {
 "id": "ce1900095762",
@@ -1696,17 +1718,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-05T19:11:03+00:00",
 "sum": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer. Von S. Wolff"
-},
-{
-"id": "9b9cc446a501",
-"title": "Mehrwertsteuer im Vergleich – Warum die Schweiz besser dasteht als andere Länder",
-"link": "https://www.srf.ch/news/mehrwertsteuer-im-vergleich-warum-die-schweiz-besser-dasteht-als-andere-laender",
-"text": "Die direkte Demokratie hält die Mehrwertsteuer tief. Denn die Bürgerinnen und Bürger haben das letzte Wort.",
-"img": "https://www.srf.ch/static/cms/images//320ws/4030d8.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-05T15:24:19+00:00",
-"sum": "Die direkte Demokratie hält die Mehrwertsteuer tief. Denn die Bürgerinnen und Bürger haben das letzte Wort."
 }
 ]
 }
