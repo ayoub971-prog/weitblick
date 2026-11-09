@@ -1,8 +1,30 @@
 {
-"updated": "2026-11-09T21:05:45+00:00",
+"updated": "2026-11-09T22:57:53+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "edcf12b0e296",
+"title": "Grenzkontrollsystem: EU verklagt Konsortium um IBM",
+"link": "https://www.heise.de/news/Grenzkontrollsystem-EU-verklagt-Konsortium-um-IBM-11518072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Wegen wiederholter Verzögerungen bei der Entwicklung des europäischen Ein- und Ausreisesystems (EES) reicht die EU in Estland Klage gegen IBM und Partner ein.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-09T21:35:00+00:00",
+"sum": "Wegen wiederholter Verzögerungen bei der Entwicklung des europäischen Ein- und Ausreisesystems (EES) reicht die EU in Estland Klage gegen IBM und Partner ein."
+},
+{
+"id": "0927840d01db",
+"title": "Merz verteidigt Ablauf der Nominierung von Aigner",
+"link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
+"text": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt.",
+"img": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocIW318/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-09T21:27:31+00:00",
+"sum": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt."
+},
 {
 "id": "d29f57ede3d7",
 "title": "Unmut in Tessiner Dorf – Widerstand gegen Constantins Bauprojekt in Gandria",
@@ -18,12 +40,12 @@
 "id": "1d4e3e3308c7",
 "title": "Republikaner Massie will Hegseth des Amtes entheben",
 "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
-"text": "Die Wahlniederlage der US-Republikaner bei den Zwischenwahlen könnte Verteidigungsminister Hegseth seinen Posten kosten: Der Trump-kritische Republikaner Massie brachte ein Amtsenthebungsverfahren gegen seinen Parteikollegen auf den Weg.",
+"text": "Nach der Wahlniederlage bei den Midterms wächst der Druck auf die US-Republikaner - auch wegen des Iran-Kriegs. Nun hat der Trump-kritische Republikaner Massie ein Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth auf den Weg gebracht.",
 "img": "https://images.tagesschau.de/image/85834255-e228-40b1-8a1d-6641c23f17fb/AAABocIR93A/AAABnSSvrFg/16x9-big/hegseth-186.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
 "date": "2026-11-09T20:48:39+00:00",
-"sum": "Die Wahlniederlage der US-Republikaner bei den Zwischenwahlen könnte Verteidigungsminister Hegseth seinen Posten kosten: Der Trump-kritische Republikaner Massie brachte ein Amtsenthebungsverfahren gegen seinen Parteikollegen auf den Weg."
+"sum": "Nach der Wahlniederlage bei den Midterms wächst der Druck auf die US-Republikaner - auch wegen des Iran-Kriegs. Nun hat der Trump-kritische Republikaner Massie ein Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth auf den Weg gebracht."
 },
 {
 "id": "0b475fd5492d",
@@ -697,17 +719,6 @@
 "sum": "Die CDU nominiert Ilse Aigner für das höchste Staatsamt. Unterstützung kommt von mehreren Parteien."
 },
 {
-"id": "fe4ba7c24c70",
-"title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-"link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
-"text": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz.",
-"img": "https://images.tagesschau.de/image/305b59b8-9dc9-460c-9bb4-6ba0b48f1eb8/AAABocDAhaM/AAABnSSvrFg/16x9-big/merz-aigner-118.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-09T14:48:54+00:00",
-"sum": "Lange hatte der Kanzler gezögert - nun ist es offiziell: Die CDU überlässt das höchste Staatsamt der kleinen Schwesterpartei aus Bayern. Die viel befürchtete Kritik in den eigenen Reihen ist ausgeblieben. Von Jannik Pentz."
-},
-{
 "id": "20772245accd",
 "title": "Alice Huang stürzt den Nvidia-Chef als seine Geliebte in eine Krise. Wer ist die Frau?",
 "link": "https://www.nzz.ch/wirtschaft/jensen-huang-und-seine-affaere-wer-ist-die-geliebte-alice-huang-ld.10058518",
@@ -772,17 +783,6 @@
 "topic": "Schweiz",
 "date": "2026-11-09T14:07:14+00:00",
 "sum": "Die Europäische Kommission organisiert am Mittwoch ein Treffen zu den Bombendrohungen im europäischen Luftverkehr."
-},
-{
-"id": "c01430677aa3",
-"title": "KI-Update kompakt: Rechenzentren, Propaganda, Siri AI, Minecraft",
-"link": "https://www.heise.de/news/KI-Update-kompakt-Rechenzentren-Propaganda-Siri-AI-Minecraft-11515563.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-09T14:00:00+00:00",
-"sum": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen."
 },
 {
 "id": "77e033c551d3",
