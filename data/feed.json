@@ -1,8 +1,206 @@
 {
-"updated": "2026-11-09T17:22:02+00:00",
+"updated": "2026-11-09T19:11:56+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "16c9d413bc03",
+"title": "Wahlen Kanton Freiburg – Nach der Freiburger Wahl: Ein Dorf, zwei Schicksale",
+"link": "https://www.srf.ch/news/schweiz/wahlen-kanton-freiburg-nach-der-freiburger-wahl-ein-dorf-zwei-schicksale",
+"text": "Sie wohnen im selben Dorf, in Wünnewil-Flamatt. Die eine wurde gewählt, der andere nicht. Wie geht es ihnen?",
+"img": "https://www.srf.ch/static/cms/images//320ws/65f71bb.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-09T19:07:02+00:00",
+"sum": "Sie wohnen im selben Dorf, in Wünnewil-Flamatt. Die eine wurde gewählt, der andere nicht. Wie geht es ihnen?"
+},
+{
+"id": "d29f57ede3d7",
+"title": "Unmut in Tessiner Dorf – Widerstand gegen Constantins Bauprojekt in Gandria",
+"link": "https://www.srf.ch/news/schweiz/unmut-in-tessiner-dorf-widerstand-gegen-constantins-bauprojekt-in-gandria",
+"text": "Der Bauunternehmer und Fussballklubbesitzer will 14 Luxuswohnungen bauen. In der Tessiner Gemeinde herrscht Unmut.",
+"img": "https://www.srf.ch/static/cms/images//320ws/02d631.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-09T19:03:25+00:00",
+"sum": "Der Bauunternehmer und Fussballklubbesitzer will 14 Luxuswohnungen bauen. In der Tessiner Gemeinde herrscht Unmut."
+},
+{
+"id": "b50397c83768",
+"title": "Top 10: Speicher für Balkonkraftwerk im Test",
+"link": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-ohne-cloud-lokal-steuerbar/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Wir zeigen die besten Speicher für Balkonkraftwerke. Viele Modelle lassen sich inzwischen lokal via Home Assistant ansteuern.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-09T19:00:00+00:00",
+"sum": "Wir zeigen die besten Speicher für Balkonkraftwerke. Viele Modelle lassen sich inzwischen lokal via Home Assistant ansteuern."
+},
+{
+"id": "9af517beecce",
+"title": "Kantonsklausel im Bundesrat – Zwei Bundesräte aus einem Kanton? Das war lange verboten",
+"link": "https://www.srf.ch/news/schweiz/kantonsklausel-im-bundesrat-zwei-bundesraete-aus-einem-kanton-das-war-lange-verboten",
+"text": "Früher galt: ein Bundesrat pro Kanton. 1999 ist die Regel gefallen. Die Herkunft spielt aber weiter eine wichtige Rolle.",
+"img": "https://www.srf.ch/static/cms/images//320ws/195c67.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-09T18:53:20+00:00",
+"sum": "Früher galt: ein Bundesrat pro Kanton. 1999 ist die Regel gefallen. Die Herkunft spielt aber weiter eine wichtige Rolle."
+},
+{
+"id": "d4f562de66af",
+"title": "Internationale Fussball-News – Kansas City trennt sich von Trainer Wicky",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-kansas-city-trennt-sich-von-trainer-wicky",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ea3fcd.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-09T18:50:04+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
+},
+{
+"id": "bf3cc8a90457",
+"title": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
+"link": "https://www.tagesschau.de/ausland/cop-136.html",
+"text": "Im türkischen Antalya hat die UN-Klimakonferenz begonnen - mit eindringlichen Worten und einem vielversprechenden Vorschlag. Doch kaum eröffnet, gab es auch den ersten Konflikt. Von Benjamin Weber",
+"img": "https://images.tagesschau.de/image/60a161d0-b947-45ca-8e99-e2a172de2be3/AAABocF_Rvw/AAABnSSvrFg/16x9-big/cop-138.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-09T18:19:45+00:00",
+"sum": "Im türkischen Antalya hat die UN-Klimakonferenz begonnen - mit eindringlichen Worten und einem vielversprechenden Vorschlag. Doch kaum eröffnet, gab es auch den ersten Konflikt. Von Benjamin Weber"
+},
+{
+"id": "e2823beeabeb",
+"title": "KI-Fälschungen – Nach Anschlag in Krakau: Welle der Desinformation im Netz",
+"link": "https://www.srf.ch/news/international/ki-faelschungen-nach-anschlag-in-krakau-welle-der-desinformation-im-netz",
+"text": "Die Regierung warnt: Nach dem Anschlag in Krakau fluten KI-Fälschungen und Fake News das Internet.",
+"img": "https://www.srf.ch/static/cms/images//320ws/bea494.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-09T18:14:53+00:00",
+"sum": "Die Regierung warnt: Nach dem Anschlag in Krakau fluten KI-Fälschungen und Fake News das Internet."
+},
+{
+"id": "56e10fabff1c",
+"title": "Ziel: «Etablieren!» – Schmids Kampf um die Nummer 1 im Tor von Florida",
+"link": "https://www.srf.ch/sport/eishockey/nhl/ziel-etablieren-schmids-kampf-um-die-nummer-1-im-tor-von-florida",
+"text": "Der Schweizer NHL-Keeper hofft, sich bei den Florida Panthers dauerhaft als Stammtorhüter etablieren zu können.",
+"img": "https://www.srf.ch/static/cms/images//320ws/50fb53.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-09T18:11:02+00:00",
+"sum": "Der Schweizer NHL-Keeper hofft, sich bei den Florida Panthers dauerhaft als Stammtorhüter etablieren zu können."
+},
+{
+"id": "94fdbe47aa4b",
+"title": "Die NASA sucht Astronauten für künftige Mondmissionen",
+"link": "https://www.heise.de/news/Die-NASA-sucht-Astronauten-fuer-kuenftige-Mondmissionen-11518006.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die NASA sucht Besatzungen für künftige Mondlandungen und die Mondbasis. Daneben dürfen sich acht Unternehmen um neue Mondflüge bewerben.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-09T18:10:00+00:00",
+"sum": "Die NASA sucht Besatzungen für künftige Mondlandungen und die Mondbasis. Daneben dürfen sich acht Unternehmen um neue Mondflüge bewerben."
+},
+{
+"id": "e9aef43d489d",
+"title": "Grosse Flammen aus Fenster – Feuer in Zürcher Bundesasylzentrum ausgebrochen",
+"link": "https://www.srf.ch/news/schweiz/grosse-flammen-aus-fenster-feuer-in-zuercher-bundesasylzentrum-ausgebrochen",
+"text": "Im Bundesasylzentrum an der Zürcher Pfingstweidstrasse ist ein Feuer ausgebrochen – die Feuerwehr ist vor Ort.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a76025e.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-09T18:09:53+00:00",
+"sum": "Im Bundesasylzentrum an der Zürcher Pfingstweidstrasse ist ein Feuer ausgebrochen – die Feuerwehr ist vor Ort."
+},
+{
+"id": "87d3971754ab",
+"title": "Teure Regulierung – Warum Schweizer Betriebe unter der Bürokratielast stöhnen",
+"link": "https://www.srf.ch/news/wirtschaft/teure-regulierung-warum-schweizer-betriebe-unter-der-buerokratielast-stoehnen",
+"text": "Gegen den internationalen Wettbewerbsdruck sei die Schweiz machtlos. Aber gegen die Bürokratie könne sie etwas machen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f607b41.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-09T18:02:08+00:00",
+"sum": "Gegen den internationalen Wettbewerbsdruck sei die Schweiz machtlos. Aber gegen die Bürokratie könne sie etwas machen."
+},
+{
+"id": "d9edcc43b56f",
+"title": "Land nach Maduro – Venezuela – das Erdbeben, das Öl und die Frage nach dem Geld",
+"link": "https://www.srf.ch/news/international/land-nach-maduro-venezuela-das-erdbeben-das-oel-und-die-frage-nach-dem-geld",
+"text": "Seit der Festnahme von Präsident Nicolás Maduro befindet sich Venezuela im Umbruch. Wer profitiert vom Wiederaufbau?",
+"img": "https://www.srf.ch/static/cms/images//320ws/a45cdd.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-09T17:57:54+00:00",
+"sum": "Seit der Festnahme von Präsident Nicolás Maduro befindet sich Venezuela im Umbruch. Wer profitiert vom Wiederaufbau?"
+},
+{
+"id": "5c8fc3dce2fa",
+"title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
+"link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+"text": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Aussenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
+"img": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-09T17:51:23+00:00",
+"sum": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Aussenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich."
+},
+{
+"id": "75567dff665e",
+"title": "Anzeige: Inbus Schraubendreher mit Ratsche bei Amazon klar günstiger als sonst",
+"link": "https://www.golem.de/news/anzeige-inbus-schraubendreher-mit-ratsche-bei-amazon-klar-guenstiger-als-sonst-2611-215011.html",
+"text": "Bei Amazon ist ein Ratschenschraubendreher mit Bits deutlich günstiger als in letzten Wochen. ( Technik/Hardware )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215011&page=1&ts=1794246541",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-09T17:49:01+00:00",
+"sum": "Bei Amazon ist ein Ratschenschraubendreher mit Bits deutlich günstiger als in letzten Wochen. ( Technik/Hardware )"
+},
+{
+"id": "ee1695bdd846",
+"title": "Anzeige: Penetration Testing: Sicherheitslücken gezielt aufdecken",
+"link": "https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-gezielt-aufdecken-2611-215009.html",
+"text": "Penetration Testing hilft, Schwachstellen in Webanwendungen und Netzwerken zu erkennen. Ein zweitägiger Workshop vermittelt Grundlagen und praktische Angriffstechniken. ( Golem Karrierewelt , Server-Applikationen )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215009&page=1&ts=1794246302",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-09T17:45:02+00:00",
+"sum": "Penetration Testing hilft, Schwachstellen in Webanwendungen und Netzwerken zu erkennen. Ein zweitägiger Workshop vermittelt Grundlagen und praktische Angriffstechniken. ( Golem Karrierewelt , Server-Applikationen )"
+},
+{
+"id": "4ab4f8db1acb",
+"title": "Gehackte Kühlanlagen: Frankreich beschuldigt Iran als Urheber von Cyberattacken",
+"link": "https://www.golem.de/news/gehackte-kuehlanlagen-frankreich-beschuldigt-iran-als-urheber-von-cyberattacken-2611-215010.html",
+"text": "Hinter den Cyberattacken auf französische Supermarktketten sollen Hacker der iranischen Revolutionsgarden stecken. ( Security , Cyberwar )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215010&page=1&ts=1794246121",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-09T17:42:01+00:00",
+"sum": "Hinter den Cyberattacken auf französische Supermarktketten sollen Hacker der iranischen Revolutionsgarden stecken. ( Security , Cyberwar )"
+},
+{
+"id": "1240c330784e",
+"title": "Rückkehr mit Nebengeräuschen – «Mit einem grossen Lachen»: Embolo zurück im Kreis der Nati",
+"link": "https://www.srf.ch/sport/fussball/nations-league/rueckkehr-mit-nebengeraeuschen-mit-einem-grossen-lachen-embolo-zurueck-im-kreis-der-nati",
+"text": "Im letzten Nati-Zusammenzug des Jahres ist auch Breel Embolo wieder am Start – mit guter Laune.",
+"img": "https://www.srf.ch/static/cms/images//320ws/892829.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-09T17:31:48+00:00",
+"sum": "Im letzten Nati-Zusammenzug des Jahres ist auch Breel Embolo wieder am Start – mit guter Laune."
+},
+{
+"id": "5532018a9e5f",
+"title": "Microsoft prüft Rechenzentrumsverträge und lehnt ab",
+"link": "https://www.heise.de/news/Microsoft-laesst-Rechenzentrumsvertrag-mit-Oracle-auslaufen-11517608.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Microsoft lässt Insiderinformationen zufolge einige Rechenzentrumsverträge auslaufen, darunter einen Mietvertrag mit Oracle.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-09T17:30:00+00:00",
+"sum": "Microsoft lässt Insiderinformationen zufolge einige Rechenzentrumsverträge auslaufen, darunter einen Mietvertrag mit Oracle."
+},
 {
 "id": "417f996a4eb5",
 "title": "Wadephul zweifelt an Russlands Verhandlungswillen",
@@ -13,6 +211,17 @@
 "topic": "Welt",
 "date": "2026-11-09T17:19:07+00:00",
 "sum": "In Abu Dhabi geht es ab Dienstag um ein mögliches Ende des Ukraine-Kriegs. Sind das ernsthafte Friedensgespräche? Aussenminister Wadephul zweifelt am Verhandlungswillen Russlands - und fordert Mitsprache für die Europäer."
+},
+{
+"id": "1b345707aae3",
+"title": "Frankreich: Iran steckt hinter Cyberangriffen auf Kühlsysteme",
+"link": "https://www.heise.de/news/Frankreich-Iran-steckt-hinter-Cyberangriffen-auf-Kuehlsysteme-11517966.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Für die Sabotage von Kühlsystemen in mehreren europäischen Ländern ist nach Erkenntnissen der französischen Regierung der Iran verantwortlich.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-09T17:19:00+00:00",
+"sum": "Für die Sabotage von Kühlsystemen in mehreren europäischen Ländern ist nach Erkenntnissen der französischen Regierung der Iran verantwortlich."
 },
 {
 "id": "99bc852b1e0d",
@@ -26,37 +235,15 @@
 "sum": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während grosse Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite."
 },
 {
-"id": "d4f562de66af",
-"title": "Internationale Fussball-News – Kansas City trennt sich von Trainer Wicky",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-kansas-city-trennt-sich-von-trainer-wicky",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ea3fcd.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-09T17:14:27+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
-},
-{
-"id": "76db823ec1ae",
-"title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-"link": "https://www.tagesschau.de/ausland/kuehlanlagen-cyberangriffe-100.html",
-"text": "Mehrere Länder in Europa hatten zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gemeldet. Der französische Aussenminister macht nun die iranische Revolutionsgarde für die Vorfälle in Frankreich verantwortlich. Er kündigte Sanktionen an.",
-"img": "https://images.tagesschau.de/image/f526d0b5-6aea-4321-bb81-fdf915d039f4/AAABocFH_aQ/AAABnSSvrFg/16x9-big/kuehlanlagen-frankreich-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-09T17:12:59+00:00",
-"sum": "Mehrere Länder in Europa hatten zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gemeldet. Der französische Aussenminister macht nun die iranische Revolutionsgarde für die Vorfälle in Frankreich verantwortlich. Er kündigte Sanktionen an."
-},
-{
-"id": "e9aef43d489d",
-"title": "Grosse Flammen aus Fenster – Feuer in Zürcher Bundesasylzentrum ausgebrochen",
-"link": "https://www.srf.ch/news/schweiz/grosse-flammen-aus-fenster-feuer-in-zuercher-bundesasylzentrum-ausgebrochen",
-"text": "Im Bundesasylzentrum an der Zürcher Pfingstweidstrasse ist ein Feuer ausgebrochen – die Feuerwehr ist vor Ort.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a76025e.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-09T17:07:26+00:00",
-"sum": "Im Bundesasylzentrum an der Zürcher Pfingstweidstrasse ist ein Feuer ausgebrochen – die Feuerwehr ist vor Ort."
+"id": "8347987c1b8c",
+"title": "Telekom rüstet KI-Fabrik in München nach, Gigafactory bleibt Option",
+"link": "https://www.heise.de/news/Telekom-ruestet-KI-Fabrik-in-Muenchen-nach-Gigafactory-bleibt-Option-11517926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Mit viel Politprominenz hat die Telekom am Montag den Startschuss für ihre „KI-Fabrik 2.0“ gegeben. Zu einer möglichen Gigafactory blieb Tim Höttges vage.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-09T17:17:00+00:00",
+"sum": "Mit viel Politprominenz hat die Telekom am Montag den Startschuss für ihre „KI-Fabrik 2.0“ gegeben. Zu einer möglichen Gigafactory blieb Tim Höttges vage."
 },
 {
 "id": "5960d7e4aff1",
@@ -151,7 +338,7 @@
 "title": "Zucker-, Plastik- und Stromsteuer: Die offenen Baustellen im Haushalt",
 "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
 "text": "Nachdem Finanzminister Klingbeil die Plastiksteuer angekündigt hatte, scheint jetzt wieder alles offen. Auch bei der Krypto- und Zuckersteuer ist offenbar alles im Fluss. Worüber die Koalition diskutiert. Von Lissy Kaufmann.",
-"img": "https://images.tagesschau.de/image/af1678f1-6ac4-48d5-9487-8952cc3bf93a/AAABoVHwzIQ/AAABnSSvrFg/16x9-big/miersch-frei-100.jpg?width=1920",
+"img": "https://images.tagesschau.de/image/53742820-1f56-4d79-8620-8fc02c70097d/AAABocGYltE/AAABnSSvrFg/16x9-big/lars-klingbeil-236.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
 "date": "2026-11-09T16:24:36+00:00",
@@ -554,17 +741,6 @@
 "sum": "Der Attentäter von Krakau war schwer genug bewaffnet, um noch mehr Menschen zu töten. Die polnische Staatsanwaltschaft hat neue Details zur Tat veröffentlicht - der Attentäter selbst erlag am Morgen seinen Verletzungen."
 },
 {
-"id": "81578b4e306e",
-"title": "Ausprobiert: Mithörfunktionen Siri Recap und Live Rewind auf der Apple Watch",
-"link": "https://www.heise.de/news/Ausprobiert-Mithoerfunktionen-Siri-Recap-und-Live-Rewind-auf-der-Apple-Watch-11516038.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Apples „Audio Intelligence“-Funktionen stehen nun als Beta zum Test bereit – ausserhalb der EU. Bei der Nutzung fragt man sich ganz praktisch, was sie sollen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-09T13:45:00+00:00",
-"sum": "Apples „Audio Intelligence“-Funktionen stehen nun als Beta zum Test bereit – ausserhalb der EU. Bei der Nutzung fragt man sich ganz praktisch, was sie sollen."
-},
-{
 "id": "775e8aeb126b",
 "title": "Nvidia-Affäre lässt Aktie einbrechen",
 "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
@@ -585,17 +761,6 @@
 "topic": "Tech",
 "date": "2026-11-09T13:44:02+00:00",
 "sum": "Apple baut Siri zum Assistenten mit mehr Eigenständigkeit aus. Intern wächst der Druck, bei KI schneller voranzukommen. ( Siri , Apple )"
-},
-{
-"id": "719e873e3b30",
-"title": "Darpa-Programm NOM4D demonstriert Montage im Orbit",
-"link": "https://www.heise.de/news/Darpa-Programm-NOM4D-demonstriert-Montage-im-Orbit-11517562.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Die Raumfahrt der Zukunft wird davon abhängen, dass grosse Strukturen im All gebaut werden. Das Caltech zeigt, wie das gehen kann.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-09T13:39:00+00:00",
-"sum": "Die Raumfahrt der Zukunft wird davon abhängen, dass grosse Strukturen im All gebaut werden. Das Caltech zeigt, wie das gehen kann."
 },
 {
 "id": "aa4038653655",
@@ -620,70 +785,15 @@
 "sum": "Ein unscheinbares Video zeigt Baumwipfel und Vogelgezwitscher. Der Doppler-Effekt verrät aber viel mehr über den Drehort. ( Youtube , Video-Community )"
 },
 {
-"id": "56e9a760325c",
-"title": "Neue Methode – Bern testet neue Rattenfallen – Bolzen statt Gift",
-"link": "https://www.srf.ch/news/schweiz/neue-methode-bern-testet-neue-rattenfallen-bolzen-statt-gift",
-"text": "Seit einem Jahr setzt die Stadt Bern im Kampf gegen Ratten auf Tötungs-Apparate. Tierschützer halten davon wenig.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6e1c1c.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-09T13:02:26+00:00",
-"sum": "Seit einem Jahr setzt die Stadt Bern im Kampf gegen Ratten auf Tötungs-Apparate. Tierschützer halten davon wenig."
-},
-{
-"id": "039dd358c618",
-"title": "Jensen Huang: Was die Spionage-Affäre für Nvidia bedeutet",
-"link": "https://www.golem.de/news/jensen-huang-was-die-spionage-affaere-fuer-nvidia-bedeutet-2611-214986.html",
-"text": "Jensen Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin. Wie belastend wird der Fall für Nvidia? Eine Analyse von Tobias Költzsch ( Nvidia , KI )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214986&page=1&ts=1794229201",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-09T13:00:01+00:00",
-"sum": "Jensen Huang hatte eine Affäre mit einer mutmasslichen chinesischen Spionin. Wie belastend wird der Fall für Nvidia? Eine Analyse von Tobias Költzsch ( Nvidia , KI )"
-},
-{
-"id": "626923b9b01f",
-"title": "heise-Angebot: iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
-"link": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11503248.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-09T13:00:00+00:00",
-"sum": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können."
-},
-{
 "id": "a7712b3be0b6",
 "title": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
 "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html",
 "text": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
 "img": "https://images.tagesschau.de/image/4de5d769-2370-4f80-a346-bb0787711c3a/AAABn0EFae0/AAABnSSvrFg/16x9-big/commerzbank-274.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-09T12:52:38+00:00",
 "sum": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht."
-},
-{
-"id": "e70d3bf5bc7a",
-"title": "Anzeige: Robuste Taschenlampe von Shadowhawk für nur 17,96 Euro bei Amazon",
-"link": "https://www.golem.de/news/anzeige-robuste-taschenlampe-von-shadowhawk-fuer-nur-17-96-euro-bei-amazon-2611-214994.html",
-"text": "Eine robuste Taschenlampe von Shadowhawk mit aufladbarem Akku, fünf Leuchtmodi und einstellbarem Fokus gibt es zum Sparpreis bei Amazon. ( Technik/Hardware )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214994&page=1&ts=1794228541",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-09T12:49:01+00:00",
-"sum": "Eine robuste Taschenlampe von Shadowhawk mit aufladbarem Akku, fünf Leuchtmodi und einstellbarem Fokus gibt es zum Sparpreis bei Amazon. ( Technik/Hardware )"
-},
-{
-"id": "17765fb3fd84",
-"title": "Windows 11: Nach über 30 Jahren schaltet Microsoft das Einrast-Pop-up ab",
-"link": "https://www.golem.de/news/windows-11-nach-ueber-30-jahren-schaltet-microsoft-das-einrast-pop-up-ab-2611-214988.html",
-"text": "Microsoft testet in Windows 11 eine Option, die den Einrastfunktion-Hinweis nach fünfmaliger Umschalttaste dauerhaft abschaltet. ( Windows 11 , Microsoft )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=214988&page=1&ts=1794228362",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-09T12:46:02+00:00",
-"sum": "Microsoft testet in Windows 11 eine Option, die den Einrastfunktion-Hinweis nach fünfmaliger Umschalttaste dauerhaft abschaltet. ( Windows 11 , Microsoft )"
 },
 {
 "id": "b47f3c82474b",
@@ -695,28 +805,6 @@
 "topic": "Schweiz",
 "date": "2026-11-09T12:41:28+00:00",
 "sum": "Die Mutter mit ihren zwei Jungtieren wurde unweit einer Strasse im Bezirk Oberegg tot aufgefunden."
-},
-{
-"id": "858485f8f2fe",
-"title": "iPad mini 8: Die grosse Frage nach den 120 Hertz",
-"link": "https://www.heise.de/news/iPad-mini-8-Die-grosse-Frage-nach-den-120-Hertz-11512792.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das neue Kompakttablet von Apple stösst auf positiv gestimmte Kritiker. Nur ein fehlendes Feature nervt viele.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-09T12:29:00+00:00",
-"sum": "Das neue Kompakttablet von Apple stösst auf positiv gestimmte Kritiker. Nur ein fehlendes Feature nervt viele."
-},
-{
-"id": "2d619cbeb78c",
-"title": "KI-Coding-Agenten verfrachten Zugangsdaten in öffentliche Repositories",
-"link": "https://www.heise.de/news/KI-Coding-Agenten-verfrachten-Zugangsdaten-in-oeffentliche-Repositories-11517278.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Wer mit KI-Coding-Agenten arbeitet, kann Zugangsdaten in öffentliche Repositories ausleiten. Schuld ist eine Komfortfunktion.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-09T12:23:00+00:00",
-"sum": "Wer mit KI-Coding-Agenten arbeitet, kann Zugangsdaten in öffentliche Repositories ausleiten. Schuld ist eine Komfortfunktion."
 },
 {
 "id": "cfa2b8a06f61",
@@ -1148,17 +1236,6 @@
 "sum": "Coco Gauff schlägt Jessica Pegula zum Auftakt in die WTA Finals in 3 Sätzen. Linda Noskova bezwingt Marta Kostjuk."
 },
 {
-"id": "698e83d3fbf7",
-"title": "Meier trifft doppelt – Hischier knackt bei nächstem Devils-Sieg die 500-Punkte-Marke",
-"link": "https://www.srf.ch/sport/eishockey/nhl/meier-trifft-doppelt-hischier-knackt-bei-naechstem-devils-sieg-die-500-punkte-marke",
-"text": "Nico Hischier und Timo Meier glänzen beim 4:0-Sieg der New Jersey Devils in Toronto.",
-"img": "https://www.srf.ch/static/cms/images//320ws/fec67d.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-09T06:39:22+00:00",
-"sum": "Nico Hischier und Timo Meier glänzen beim 4:0-Sieg der New Jersey Devils in Toronto."
-},
-{
 "id": "3224938a268f",
 "title": "Generali Investments Switzerland ernennt neuen Finanzchef",
 "link": "https://www.finews.ch/news/versicherungen/74370-generali-investments-switzerland-oezguer-acili-chief-financial-officer",
@@ -1256,39 +1333,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-09T03:32:51+00:00",
 "sum": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmasslichen chinesischen Spionin gehabt haben."
-},
-{
-"id": "579a0d69d974",
-"title": "1. WM-Sieg dank 2:1 n.V. – Müller mit der Entscheidung: Die Schweiz schlägt Tschechien",
-"link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/1-wm-sieg-dank-2-1-n-v-mueller-mit-der-entscheidung-die-schweiz-schlaegt-tschechien",
-"text": "Die Hockey-Frauen ringen im 2. WM-Spiel Tschechien mit 2:1 nach Verlängerung nieder und fahren die ersten Punkte ein.",
-"img": "https://www.srf.ch/static/cms/images//320ws/78597e.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-08T20:50:20+00:00",
-"sum": "Die Hockey-Frauen ringen im 2. WM-Spiel Tschechien mit 2:1 nach Verlängerung nieder und fahren die ersten Punkte ein."
-},
-{
-"id": "d5cdef027934",
-"title": "Essenslieferant – Zürcher Just-Eat-Kuriere legen ihre Arbeit nieder",
-"link": "https://www.srf.ch/news/schweiz/essenslieferant-zuercher-just-eat-kuriere-legen-ihre-arbeit-nieder",
-"text": "Wegen geplanter Entlassungen haben Just-Eat-Fahrerinnen und -Fahrer in Zürich und im Glatttal gestreikt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/9d9f81.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-08T20:10:35+00:00",
-"sum": "Wegen geplanter Entlassungen haben Just-Eat-Fahrerinnen und -Fahrer in Zürich und im Glatttal gestreikt."
-},
-{
-"id": "de5400236c10",
-"title": "Sonderkredit beantragt – Kleintheater Luzern muss trotz Finanzhilfe um Zukunft bangen",
-"link": "https://www.srf.ch/news/schweiz/sonderkredit-beantragt-kleintheater-luzern-muss-trotz-finanzhilfe-um-zukunft-bangen",
-"text": "Im geplanten Neubau wird ein Mehrfaches an Miete fällig. Am Einnahmekonzept will das Theater vorderhand aber festhalten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/010fb2.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-08T18:00:37+00:00",
-"sum": "Im geplanten Neubau wird ein Mehrfaches an Miete fällig. Am Einnahmekonzept will das Theater vorderhand aber festhalten."
 },
 {
 "id": "36f053feec0e",
@@ -1399,28 +1443,6 @@
 "topic": "Welt",
 "date": "2026-11-08T09:56:02+00:00",
 "sum": "Soziale Netzwerke wie Tiktok heizten bei den Protesten in Europa die Gewalt an, heisst es oft. Eine Studie widerspricht."
-},
-{
-"id": "5417a2e699da",
-"title": "Teilnahme rückläufig – Rund 150'000 demonstrierten in Frankreich",
-"link": "https://www.srf.ch/news/international/teilnahme-ruecklaeufig-rund-150-000-demonstrierten-in-frankreich",
-"text": "Die Versammlungen verliefen mehrheitlich friedlich – nach den Protesten kam es in mehreren Städten zu Ausschreitungen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b63cb6.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-08T09:36:05+00:00",
-"sum": "Die Versammlungen verliefen mehrheitlich friedlich – nach den Protesten kam es in mehreren Städten zu Ausschreitungen."
-},
-{
-"id": "f456b1b5ec02",
-"title": "Regierungsbildung in Israel – Eisenkot darf regieren, wenn er seine Versprechen bricht",
-"link": "https://www.srf.ch/news/international/nahost/regierungsbildung-in-israel-eisenkot-darf-regieren-wenn-er-seine-versprechen-bricht",
-"text": "Israels Präsident hat Eisenkot mit der Regierungsbildung beauftragt. Ohne Kompromisse wird er kaum an die Macht kommen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7fd081.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-08T08:42:09+00:00",
-"sum": "Israels Präsident hat Eisenkot mit der Regierungsbildung beauftragt. Ohne Kompromisse wird er kaum an die Macht kommen."
 },
 {
 "id": "c91571635159",
@@ -1597,17 +1619,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-07T04:30:00+00:00",
 "sum": "Weil es Solaranlagen, Windräder und Elektroautos exportiert, will China als Klimafreund gelten. Für die Verringerung des eigenen Treibhausgasausstosses tut das Land aber weniger. Nicht nur darum stellt das asiatische Zeitalter der Klimapolitik den Westen vor eine grosse Herausforderung."
-},
-{
-"id": "c65632529278",
-"title": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
-"link": "https://www.srf.ch/news/wirtschaft/nach-den-midterms-warum-sind-die-boersen-rund-um-den-globus-eingebrochen",
-"text": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b95169.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-06T18:00:21+00:00",
-"sum": "Tech-Aktien geraten nach den US-Zwischenwahlen unter Druck. Antworten auf die wichtigsten Fragen zum Börseneinbruch."
 }
 ]
 }
