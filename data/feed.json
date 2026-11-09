@@ -1,8 +1,41 @@
 {
-"updated": "2026-11-08T22:50:44+00:00",
+"updated": "2026-11-09T01:26:58+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "560c51ff7223",
+"title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+"link": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+"text": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+"img": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob2ckP8/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-09T00:43:39+00:00",
+"sum": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast."
+},
+{
+"id": "40325239ce3f",
+"title": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
+"link": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
+"text": "Vor der Küste Senegals ist ein Boot gekentert. Die Behörden bestätigten mehr als 20 Tote, mit weiteren wird gerechnet. Zahlreiche Menschen versuchen jedes Jahr, über die gefährliche Atlantikroute aus Westafrika in die EU zu gelangen.",
+"img": "https://images.tagesschau.de/image/62711c63-5a09-4b65-b89b-2c34777ffd48/AAABldrvzgs/AAABnSSvrFg/16x9-big/karte-senegal-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-09T00:32:33+00:00",
+"sum": "Vor der Küste Senegals ist ein Boot gekentert. Die Behörden bestätigten mehr als 20 Tote, mit weiteren wird gerechnet. Zahlreiche Menschen versuchen jedes Jahr, über die gefährliche Atlantikroute aus Westafrika in die EU zu gelangen."
+},
+{
+"id": "acba0e9c619b",
+"title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+"link": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+"text": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmasslichen chinesischen Spionin gehabt haben. Von Gabi Biesinger.",
+"img": "https://images.tagesschau.de/image/34f93b54-ef67-4531-97e6-4a40dc5724cc/AAABob1ZsYo/AAABnSSvrFg/16x9-big/nvidia-184.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-08T23:11:37+00:00",
+"sum": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmasslichen chinesischen Spionin gehabt haben. Von Gabi Biesinger."
+},
 {
 "id": "c6bc0c2ce548",
 "title": "Tückische Affäre – Hat eine chinesische Agentin den Nvidia-CEO ausspioniert?",
@@ -11,7 +44,7 @@
 "img": "https://www.srf.ch/static/cms/images//320ws/79c868.webp",
 "source": "SRF",
 "topic": "Welt",
-"date": "2026-11-08T22:40:54+00:00",
+"date": "2026-11-08T23:00:19+00:00",
 "sum": "Chef Jensen Huang hatte eine Affäre. US-Behörden vermuten, dass die Frau vom chinesischen Geheimdienst angeworben wurde."
 },
 {
@@ -455,17 +488,6 @@
 "sum": "In der 13. Runde der Super League muss Lugano erstmals als Verlierer vom Feld – 0:5 in St. Gallen."
 },
 {
-"id": "2806f2663ff9",
-"title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
-"link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html",
-"text": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken.",
-"img": "https://images.tagesschau.de/image/6ecdf46a-cf24-4550-810d-9e72c1a23c14/AAABobuoxN0/AAABnSSvrFg/16x9-big/rbb-630259816-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T14:50:57+00:00",
-"sum": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken."
-},
-{
 "id": "7b163961115f",
 "title": "Anzeige: Beliebte Apple-Pencil-Alternative jetzt wieder unter 15 Euro bei Amazon",
 "link": "https://www.golem.de/news/anzeige-beliebte-apple-pencil-alternative-jetzt-wieder-unter-15-euro-bei-amazon-2611-214950.html",
@@ -741,17 +763,6 @@
 "sum": "Ein experimenteller Kernreaktor mit 50 Megawatt soll deutschen Atommüll verstromen. Der Flüssigsalzreaktor könnte zukünftig auch exportiert werden. ( Atomkraft , Wissen )"
 },
 {
-"id": "ea0ee9193994",
-"title": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
-"link": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html",
-"text": "Nordkorea stellt nicht nur Soldaten für den Krieg gegen die Ukraine. In Russland sind auch Zehntausende Leiharbeiter tätig. Sie hoffen auf einen besseren Verdienst als in ihrer Heimat - erfüllt sich dieser Wunsch? Von Norbert Hahn.",
-"img": "https://images.tagesschau.de/image/f4712cf0-6ad0-4a39-811a-e0cfdf23850c/AAABobq3v8E/AAABnSSvrFg/16x9-big/restaurant-synri-moskau-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T10:32:46+00:00",
-"sum": "Nordkorea stellt nicht nur Soldaten für den Krieg gegen die Ukraine. In Russland sind auch Zehntausende Leiharbeiter tätig. Sie hoffen auf einen besseren Verdienst als in ihrer Heimat - erfüllt sich dieser Wunsch? Von Norbert Hahn."
-},
-{
 "id": "290896339395",
 "title": "heise+ | Obsbot Talent 2 im Test: Mehrkamera-Streaming aus einem Gerät",
 "link": "https://www.heise.de/tests/Obsbot-Talent-2-im-Test-Mehrkamera-Streaming-aus-einem-Geraet-11484037.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -772,17 +783,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-08T10:00:00+00:00",
 "sum": "Zufriedenes Altern beginnt lange vor dem Ruhestand. Die Psychologin Pasqualina Perrig-Chiello erklärt, warum manche Menschen im Alter gelassen sind – und andere verbittern."
-},
-{
-"id": "dd188c490b13",
-"title": "Trump will Kampfsportunternehmer White als Pressesprecher",
-"link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
-"text": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Oder gibt es ein Missverständnis?",
-"img": "https://images.tagesschau.de/image/1d795625-6e32-4268-8bf0-5ca4a0c10aa8/AAABobqEWvg/AAABnSSvrFg/16x9-big/dana-white-donald-trump-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T09:59:49+00:00",
-"sum": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Oder gibt es ein Missverständnis?"
 },
 {
 "id": "b264ce7b1241",
