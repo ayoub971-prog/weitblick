@@ -1,8 +1,41 @@
 {
-"updated": "2026-11-09T01:26:58+00:00",
+"updated": "2026-11-09T03:02:03+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "a09198ee9811",
+"title": "Historische Niederlage: ANC stürzt bei Kommunalwahl in Südafrika ab",
+"link": "https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html",
+"text": "Bei den Kommunalwahlen in Südafrika hat der Afrikanische Nationalkongress (ANC) eine herbe Niederlage eingefahren. Viele sind angesichts Kriminalität und Korruption enttäuscht von der Partei, die das Land aus der Apartheid geführt hatte.",
+"img": "https://images.tagesschau.de/image/0fc3f227-32a1-4044-8aa7-382c07e228a9/AAABob4F528/AAABnSSvrFg/16x9-big/wahlen-suedafrika-104.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-09T02:47:21+00:00",
+"sum": "Bei den Kommunalwahlen in Südafrika hat der Afrikanische Nationalkongress (ANC) eine herbe Niederlage eingefahren. Viele sind angesichts Kriminalität und Korruption enttäuscht von der Partei, die das Land aus der Apartheid geführt hatte."
+},
+{
+"id": "1481d6ce9749",
+"title": "Polen – Schüsse in Krakau – Justiz ermittelt wegen Terrorismus",
+"link": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-justiz-ermittelt-wegen-terrorismus",
+"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-09T02:37:22+00:00",
+"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
+},
+{
+"id": "bebc1d2f6bf4",
+"title": "Krakau nach der Tat - der Stand der Ermittlungen",
+"link": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-100.html",
+"text": "Hunderte Menschen in Krakau haben gemeinsam der sechs Opfer gedacht, die am Wochenende auf einem zentralen Platz der Stadt erschossen wurden. Gleichzeitig ermitteln die Behörden weiter - wegen des Verdachts auf Terrorismus.",
+"img": "https://images.tagesschau.de/image/81a01bbb-232d-47f0-8ca3-44f93124ef9e/AAABob3NP1o/AAABnSSvrFg/16x9-big/krakau-176.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-09T02:02:19+00:00",
+"sum": "Hunderte Menschen in Krakau haben gemeinsam der sechs Opfer gedacht, die am Wochenende auf einem zentralen Platz der Stadt erschossen wurden. Gleichzeitig ermitteln die Behörden weiter - wegen des Verdachts auf Terrorismus."
+},
 {
 "id": "560c51ff7223",
 "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
@@ -37,9 +70,9 @@
 "sum": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmasslichen chinesischen Spionin gehabt haben. Von Gabi Biesinger."
 },
 {
-"id": "c6bc0c2ce548",
-"title": "Tückische Affäre – Hat eine chinesische Agentin den Nvidia-CEO ausspioniert?",
-"link": "https://www.srf.ch/news/international/tueckische-affaere-hat-eine-chinesische-agentin-den-nvidia-ceo-ausspioniert",
+"id": "7723b0c52ddc",
+"title": "Tückische Affäre – Liebschaft von Nvidia-Chef Huang unter Spionageverdacht",
+"link": "https://www.srf.ch/news/international/tueckische-affaere-liebschaft-von-nvidia-chef-huang-unter-spionageverdacht",
 "text": "Chef Jensen Huang hatte eine Affäre. US-Behörden vermuten, dass die Frau vom chinesischen Geheimdienst angeworben wurde.",
 "img": "https://www.srf.ch/static/cms/images//320ws/79c868.webp",
 "source": "SRF",
@@ -653,17 +686,6 @@
 "sum": "Geleakte AfD-E-Mails könnten nach Einschätzung von Justizministerin Stefanie Hubig (SPD) wichtiges Material für ein mögliches Verbotsverfahren sein. ( Bundesregierung , E-Mail )"
 },
 {
-"id": "3c80bc6052ed",
-"title": "Russische Luftangriffe: Erneut Hunderttausende Ukrainer ohne Strom",
-"link": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html",
-"text": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden.",
-"img": "https://images.tagesschau.de/image/191b788d-eaa3-44e0-8d43-2c000d71fd4a/AAABobrngk4/AAABnSSvrFg/16x9-big/stadt-stromausfall-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T12:05:57+00:00",
-"sum": "Erneut hat Russland die ukrainische Energieversorgung schwer getroffen. In der Region Dnipropetrowsk haben 600.000 Menschen keinen Strom. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten gekühlt werden."
-},
-{
 "id": "f03734029fb4",
 "title": "heise-Angebot: betterCode() Agentic AI Summit: Vorträge für die Konferenz in München gesucht",
 "link": "https://www.heise.de/news/betterCode-Agentic-AI-Summit-Vortraege-fuer-die-Konferenz-in-Muenchen-gesucht-11514424.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -697,17 +719,6 @@
 "sum": "Sechs Paletten mit Hardware im Wert von über 11 Millionen US-Dollar sind spurlos verschwunden. Die Vorfälle häufen sich, auch wegen Exportbeschränkungen. ( Nvidia , Prozessor )"
 },
 {
-"id": "c813f98b4a11",
-"title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
-"link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html",
-"text": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
-"img": "https://images.tagesschau.de/image/8e7acc0b-1350-4eb2-b37a-a80548dbbca8/AAABobrio8o/AAABnSSvrFg/16x9-big/krakau-schuesse-marktplatz-108.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-08T11:19:37+00:00",
-"sum": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen."
-},
-{
 "id": "bdc2d33c9eb2",
 "title": "Sorgen um Weihnachtsgeschäft wegen teurer Elektronik",
 "link": "https://www.heise.de/news/Sorgen-um-Weihnachtsgeschaeft-wegen-teurer-Elektronik-11516579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -717,17 +728,6 @@
 "topic": "Tech",
 "date": "2026-11-08T11:02:00+00:00",
 "sum": "Teure Speicherchips trüben das Festgeschäft: Weil gedrosselte Produktion auf weltweiten KI-Boom trifft, sind Preise für Laptops, Handys und Hardware hoch."
-},
-{
-"id": "1481d6ce9749",
-"title": "Polen – Schüsse in Krakau – Justiz ermittelt wegen Terrorismus",
-"link": "https://www.srf.ch/news/international/polen-schuesse-in-krakau-justiz-ermittelt-wegen-terrorismus",
-"text": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus.",
-"img": "https://www.srf.ch/static/cms/images//320ws/688c79.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-08T10:40:51+00:00",
-"sum": "Nach den Schüssen mit mindestens sechs Toten im polnischen Krakau geht die Polizei von einem Einzeltäter aus."
 },
 {
 "id": "4cb3c6c52f29",
