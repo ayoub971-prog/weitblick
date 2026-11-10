@@ -1,8 +1,118 @@
 {
-"updated": "2026-11-10T03:01:34+00:00",
+"updated": "2026-11-10T05:07:54+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "17541523b44a",
+"title": "Kritische Infrastruktur – Bund will Drohnenschutz von Energieanlagen verstärken",
+"link": "https://www.srf.ch/news/schweiz/kritische-infrastruktur-bund-will-drohnenschutz-von-energieanlagen-verstaerken",
+"text": "Die Energieunternehmen sollen mehr tun zum Schutz kritischer Anlagen vor Sabotage und Drohnenangriffen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/6e1a1f.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-10T05:02:53+00:00",
+"sum": "Die Energieunternehmen sollen mehr tun zum Schutz kritischer Anlagen vor Sabotage und Drohnenangriffen."
+},
+{
+"id": "4207d90daa6d",
+"title": "Ist das die Klimawende? – Der Ausstoss fossiler Treibhausgase sinkt im laufenden Jahr",
+"link": "https://www.srf.ch/news/international/ist-das-die-klimawende-der-ausstoss-fossiler-treibhausgase-sinkt-im-laufenden-jahr",
+"text": "Nach dem Rekordjahr 2025 gehen die Emissionen aus der Verbrennung von Öl und Gas 2026 um 0.4 Prozent zurück.",
+"img": "https://www.srf.ch/static/cms/images//320ws/227bc9e.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-10T04:58:46+00:00",
+"sum": "Nach dem Rekordjahr 2025 gehen die Emissionen aus der Verbrennung von Öl und Gas 2026 um 0.4 Prozent zurück."
+},
+{
+"id": "9b369f2ff6d2",
+"title": "Heikle Daten gestohlen – Hacker fordern Lösegeld nach Angriff auf Publica-Lieferantin",
+"link": "https://www.srf.ch/news/schweiz/heikle-daten-gestohlen-hacker-fordern-loesegeld-nach-angriff-auf-publica-lieferantin",
+"text": "Das VBS weiss von den Lösegeldforderungen. Ein Experte vermutet, dass der Bund selbst erpresst wird.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1ebd294.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-10T04:58:03+00:00",
+"sum": "Das VBS weiss von den Lösegeldforderungen. Ein Experte vermutet, dass der Bund selbst erpresst wird."
+},
+{
+"id": "d85636ed4ae7",
+"title": "Anthropic Claude Fable 5.2 ist günstiger, aber Tempo kostet extra",
+"link": "https://www.heise.de/news/Anthropic-Claude-Fable-5-2-ist-guenstiger-aber-Tempo-kostet-extra-11518102.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Anthropic veröffentlicht Claude Fable 5.2 und Claude Mythos 5.2 veröffentlicht. Wer schnellere Ausgaben wünscht, darf das Doppelte zahlen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-10T04:45:00+00:00",
+"sum": "Anthropic veröffentlicht Claude Fable 5.2 und Claude Mythos 5.2 veröffentlicht. Wer schnellere Ausgaben wünscht, darf das Doppelte zahlen."
+},
+{
+"id": "d4f7d13f2dbc",
+"title": "Nvidia ist überall: Wirtschaftsspionage greift um sich – aber viele Schweizer Firmen schlafen",
+"link": "https://www.nzz.ch/wirtschaft/nvidia-affaere-spionage-trifft-auch-unternehmen-aus-der-schweiz-und-deutschland-ld.10058600",
+"text": "Industriespionage nimmt zu, immer öfter mischen Geheimdienste mit. In der Schweiz wird die Bedrohung nicht überall erkannt. Gerade kleine Unternehmen sind überfordert.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/21/fab41442-e1f9-4bf9-b8cf-5a212f89cb2f.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4320,4320,x1080,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-10T04:30:00+00:00",
+"sum": "Industriespionage nimmt zu, immer öfter mischen Geheimdienste mit. In der Schweiz wird die Bedrohung nicht überall erkannt. Gerade kleine Unternehmen sind überfordert."
+},
+{
+"id": "585e60b5c4bb",
+"title": "Jahrzehntelang arbeiteten dort Tausende Mitarbeiter der Credit Suisse: Der Üetlihof steht vor dem Verkauf",
+"link": "https://www.nzz.ch/wirtschaft/jahrzehntelang-arbeiteten-dort-tausende-mitarbeiter-der-credit-suisse-der-ueetlihof-steht-vor-dem-verkauf-ld.10058584",
+"text": "Einer der grössten Bürokomplexe der Schweiz dürfte bald den Besitzer wechseln. Der norwegische Staatsfonds will den Üetlihof in Zürich verkaufen. Auf dem Grundstück könnten dereinst Wohnungen entstehen.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/09/6ea3f525-da60-4563-80bb-5d084aa46253.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2996,2996,x749,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-10T04:30:00+00:00",
+"sum": "Einer der grössten Bürokomplexe der Schweiz dürfte bald den Besitzer wechseln. Der norwegische Staatsfonds will den Üetlihof in Zürich verkaufen. Auf dem Grundstück könnten dereinst Wohnungen entstehen."
+},
+{
+"id": "139b93681730",
+"title": "Uber vermittelt nun auch Parkplätze in Nordamerika",
+"link": "https://www.heise.de/news/Uber-vermittelt-nun-auch-Parkplaetze-in-Nordamerika-11518088.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Mit Ubers App lassen sich nun auch Parkplätze im Voraus buchen und bezahlen. Vorerst in den USA, bald auch in Kanada.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-10T04:15:00+00:00",
+"sum": "Mit Ubers App lassen sich nun auch Parkplätze im Voraus buchen und bezahlen. Vorerst in den USA, bald auch in Kanada."
+},
+{
+"id": "dc26bda070c0",
+"title": "Ticket-Zweitmarkt: Preisdeckel für Ticketbörsen in der Planung",
+"link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+"text": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Stefanie Hubig (SPD) in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+"img": "https://images.tagesschau.de/image/cadf79ff-9f49-4774-8f1c-9f5d2c737368/AAABocN9G0w/AAABnSSvrFg/16x9-big/hubig-156.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-10T04:10:12+00:00",
+"sum": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Stefanie Hubig (SPD) in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung."
+},
+{
+"id": "a9a2ca36d63f",
+"title": "MELDUNGEN WIRTSCHAFT - Chinas Handelsüberschuss überschreitet das zweite Jahr in Folge den Wert von einer Billion Dollar +++ Just Eat streicht in der Schweiz 373 Stellen",
+"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
+"text": "Die neuesten Meldungen aus der Wirtschaft.",
+"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-10T04:01:51+00:00",
+"sum": "Die neuesten Meldungen aus der Wirtschaft."
+},
+{
+"id": "47310722c3df",
+"title": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+"link": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+"text": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
+"img": "https://images.tagesschau.de/image/09fb1fb6-5c90-4644-866b-94e3adccf2f8/AAABld2mR9Y/AAABnSSvrFg/16x9-big/strom-klima-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-10T04:01:04+00:00",
+"sum": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger."
+},
 {
 "id": "39357910ed1c",
 "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
@@ -488,17 +598,6 @@
 "sum": "Die Regierung in Paris will angesichts der anhaltenden Proteste offenbar ein Zeichen setzen: Die für Januar geplante Erhöhung des Mindestlohns wird nun vorgezogen. Ab Dezember soll es netto 24 Euro mehr geben pro Monat."
 },
 {
-"id": "5b7b89ed8f18",
-"title": "Zucker-, Plastik- und Stromsteuer: Die offenen Baustellen im Haushalt",
-"link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
-"text": "Nachdem Finanzminister Klingbeil die Plastiksteuer angekündigt hatte, scheint jetzt wieder alles offen. Auch bei der Krypto- und Zuckersteuer ist offenbar alles im Fluss. Worüber die Koalition diskutiert. Von Lissy Kaufmann.",
-"img": "https://images.tagesschau.de/image/53742820-1f56-4d79-8620-8fc02c70097d/AAABocGYltE/AAABnSSvrFg/16x9-big/lars-klingbeil-236.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-09T16:24:36+00:00",
-"sum": "Nachdem Finanzminister Klingbeil die Plastiksteuer angekündigt hatte, scheint jetzt wieder alles offen. Auch bei der Krypto- und Zuckersteuer ist offenbar alles im Fluss. Worüber die Koalition diskutiert. Von Lissy Kaufmann."
-},
-{
 "id": "5bae6280743a",
 "title": "Noch vor Irland: Singapur ist Apples grösster Steuerschlupfwinkel",
 "link": "https://www.golem.de/news/noch-vor-irland-singapur-ist-apples-groesster-steuerschlupfwinkel-2611-215007.html",
@@ -527,7 +626,7 @@
 "text": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen.",
 "img": "https://images.tagesschau.de/image/166ca868-0a0f-4ad9-9d5c-2d220ef48fcc/AAABocCm9EM/AAABnSSvrFg/16x9-big/vodafone-duesseldorf-100.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-09T16:09:03+00:00",
 "sum": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen. Dafür will der Konzern stärker Künstliche Intelligenz einsetzen."
 },
@@ -620,17 +719,6 @@
 "sum": "Das Bundeskartellamt startet eine Marktbefragung zu Googles Kartendiensten im Automobilbereich und prüft mögliche Wettbewerbsbeschränkungen."
 },
 {
-"id": "13789cba637a",
-"title": "Neue Gallium- und Germanium-Materialien für Leistungshalbleiter reifen heran",
-"link": "https://www.heise.de/news/Neue-Gallium-und-Germanium-Materialien-fuer-Leistungshalbleiter-reifen-heran-11517812.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Halbleiter aus Gallium(III)-oxid und Germanium(IV)-oxid versprechen Vorteile gegenüber solchen aus Galliumnitrid (GaN) oder Siliziumkarbid (SiC).",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-09T15:38:00+00:00",
-"sum": "Halbleiter aus Gallium(III)-oxid und Germanium(IV)-oxid versprechen Vorteile gegenüber solchen aus Galliumnitrid (GaN) oder Siliziumkarbid (SiC)."
-},
-{
 "id": "738ff1e49222",
 "title": "Innerhalb von zwei Jahren: Vodafone will 2.300 Stellen in Deutschland streichen",
 "link": "https://www.golem.de/news/innerhalb-von-zwei-jahren-vodafone-will-2-300-stellen-in-deutschland-streichen-2611-215002.html",
@@ -684,17 +772,6 @@
 "topic": "Schweiz",
 "date": "2026-11-09T15:03:20+00:00",
 "sum": "Das Lokal «Au Vieux Chalet» des Wirtepaars in Lens, einer Nachbargemeinde des Walliser Ferienorts, ist pleite."
-},
-{
-"id": "19814076628f",
-"title": "Saugroboter Eufy C30 Edge im Test: Kleine Station, fairer Preis, grosse Leistung",
-"link": "https://www.heise.de/bestenlisten/testbericht/saugroboter-eufy-c30-edge-im-test-kleine-station-fairer-preis-grosse-leistung/34bhq0b?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Der Eufy C30 Edge kombiniert eine kompakte Station mit ausfahrbarem Wischmopp und Matter. Bei Kabeln und eingetrockneten Flecken zeigt er Schwächen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-09T15:00:00+00:00",
-"sum": "Der Eufy C30 Edge kombiniert eine kompakte Station mit ausfahrbarem Wischmopp und Matter. Bei Kabeln und eingetrockneten Flecken zeigt er Schwächen."
 },
 {
 "id": "2af2fd3860b0",
@@ -972,17 +1049,6 @@
 "sum": "Die Welt steht vor einem neuen Zeitalter der Klimaextreme. Dieses und nächstes Jahr könnte zudem El Niño die globalen Temperaturen weiter erhöhen."
 },
 {
-"id": "a9a2ca36d63f",
-"title": "MELDUNGEN WIRTSCHAFT - Just Eat streicht in der Schweiz 373 Stellen +++ Vodafone baut in Deutschland rund 2300 Stellen ab",
-"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
-"text": "Die neuesten Meldungen aus der Wirtschaft.",
-"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-09T11:15:34+00:00",
-"sum": "Die neuesten Meldungen aus der Wirtschaft."
-},
-{
 "id": "e95ee526b0c5",
 "title": "Worldline lanciert neues Zahl-Terminal",
 "link": "https://www.finews.ch/news/finanzplatz/74384-worldline-neues-zahlterminal",
@@ -1148,17 +1214,6 @@
 "sum": "Wer schon immer mal zum Mars oder auf den Mond wollte, kann sich jetzt bei der NASA bewerben. Ein paar Voraussetzungen müssen allerdings erfüllt sein."
 },
 {
-"id": "a11a90d47587",
-"title": "Abstimmung Kanton Aargau – Entlastung für alle oder Steuergeschenk für wenige?",
-"link": "https://www.srf.ch/news/abstimmung-kanton-aargau-entlastung-fuer-alle-oder-steuergeschenk-fuer-wenige",
-"text": "Am 29. November entscheidet das Aargauer Stimmvolk über eine Senkung der Einkommenssteuern.",
-"img": "https://www.srf.ch/static/cms/images//320ws/316d79.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-09T08:20:53+00:00",
-"sum": "Am 29. November entscheidet das Aargauer Stimmvolk über eine Senkung der Einkommenssteuern."
-},
-{
 "id": "8055a165368e",
 "title": "Schweizer Sicherheit, internationale Renditen: Was im Geldmarkt möglich ist",
 "link": "https://www.finews.ch/news/finanzplatz/74376-schweizer-kreditqualitaet-geldmarkt-rendite-qcam-zkb-cosmofunding-business-lunch-zug",
@@ -1201,17 +1256,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-09T08:00:00+00:00",
 "sum": "Archäologen entdecken öfters Überreste von Cannabis. Doch beweist das auch, dass Menschen es einst als Rauschmittel konsumierten? Nun fand sich in Sibirien ein direkter Beleg."
-},
-{
-"id": "563fcdce9239",
-"title": "Feuerwerksinitiative – So entwickelte sich die Feuerwerks-Tradition in der Schweiz",
-"link": "https://www.srf.ch/news/feuerwerksinitiative-so-entwickelte-sich-die-feuerwerks-tradition-in-der-schweiz",
-"text": "Erstmals wurde Feuerwerk hierzulande im späten Mittelalter gezündet. Privates Feuerwerk etablierte sich deutlich später.",
-"img": "https://www.srf.ch/static/cms/images//320ws/4f733a.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-09T07:44:26+00:00",
-"sum": "Erstmals wurde Feuerwerk hierzulande im späten Mittelalter gezündet. Privates Feuerwerk etablierte sich deutlich später."
 },
 {
 "id": "671cc5fb2ffe",
@@ -1412,17 +1456,6 @@
 "sum": "Mit dem Angriff auf den Aramco-Tower bröckelt nun auch das Image Saudi-Arabiens als sicherer Ort für Geschäfte."
 },
 {
-"id": "9aea0135dda4",
-"title": "Mehrere Waggons entgleist – Zugunglück in Ägypten fordert sieben Tote und über 100 Verletzte",
-"link": "https://www.srf.ch/news/international/mehrere-waggons-entgleist-zugunglueck-in-aegypten-fordert-sieben-tote-und-ueber-100-verletzte",
-"text": "Bei der Entgleisung südlich von Kairo kamen mehrere Menschen ums Leben. Der Unfall erinnert an das Unglück in Spanien.",
-"img": "https://www.srf.ch/static/cms/images//320ws/12cab19.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-08T15:39:30+00:00",
-"sum": "Bei der Entgleisung südlich von Kairo kamen mehrere Menschen ums Leben. Der Unfall erinnert an das Unglück in Spanien."
-},
-{
 "id": "e3ad5ea6fb39",
 "title": "Viele Gebäude weiterhin ohne Elementarschadenversicherung",
 "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
@@ -1498,28 +1531,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-08T04:30:00+00:00",
 "sum": "Daniel Lippuner hätte diese Woche seine Stelle als Chef des Winterthurer Textilmaschinenherstellers antreten sollen. Stattdessen steht er nun als geldgieriger Industriemanager da."
-},
-{
-"id": "9c388a896530",
-"title": "Die Methode Gülsha überlistet sogar Self-Check-outs mit KI: «Die Differenz zahlen die ehrlichen Kunden mit höheren Preisen»",
-"link": "https://www.nzz.ch/wirtschaft/die-methode-guelsha-bringt-sogar-self-checkouts-mit-ki-an-den-anschlag-die-differenz-zahlen-die-ehrlichen-kunden-mit-hoeheren-preisen-ld.10055049",
-"text": "Die Schweizer Podcasterin gibt zu, Produkte bewusst falsch einzuscannen. Dagegen rüsten die Supermärkte mit KI-Technologie auf. Denn Ladendiebstähle nehmen zu – und kosten sie Milliarden.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/08/ffc07a39-9e04-4700-8cd0-27dc12feccf1.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=8126,8126,x1376,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-08T04:30:00+00:00",
-"sum": "Die Schweizer Podcasterin gibt zu, Produkte bewusst falsch einzuscannen. Dagegen rüsten die Supermärkte mit KI-Technologie auf. Denn Ladendiebstähle nehmen zu – und kosten sie Milliarden."
-},
-{
-"id": "8d7c1afe5c56",
-"title": "Absturz an der Nasdaq: Warnschuss oder Anfang vom Ende des KI-Booms?",
-"link": "https://www.nzz.ch/wirtschaft/absturz-an-der-nasdaq-warnschuss-oder-anfang-vom-ende-des-ki-booms-ld.10054992",
-"text": "Am Donnerstag lösten sich an den amerikanischen Aktienbörsen 2,5 Billionen Dollar Wert in Luft auf. Am Tag danach gab es zwar eine Erholung, aber sie war zu zaghaft für eine echte Entwarnung.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/07/9f063ad6-300b-4e05-b154-4be77c6ca8d5.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3064,3064,x1024,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-08T04:30:00+00:00",
-"sum": "Am Donnerstag lösten sich an den amerikanischen Aktienbörsen 2,5 Billionen Dollar Wert in Luft auf. Am Tag danach gab es zwar eine Erholung, aber sie war zu zaghaft für eine echte Entwarnung."
 },
 {
 "id": "779c9d096cc7",
@@ -1619,28 +1630,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-07T14:27:29+00:00",
 "sum": "Der zweitgrösste Schweizer Milchverarbeiter steckt tief in den roten Zahlen. Das hat Folgen für die ganze Branche."
-},
-{
-"id": "f2f40e9bfd10",
-"title": "Lautes Feuerwerk setzt Tieren zu. Was wir über die Auswirkungen auf Hund, Katze, Pferd und Wildtier wissen",
-"link": "https://www.nzz.ch/wissenschaft/lautes-feuerwerk-setzt-tieren-zu-was-wir-ueber-die-auswirkungen-auf-hund-katze-pferd-und-wildtier-wissen-ld.10052850",
-"text": "Viele Menschen finden lautes Feuerwerk spassig. Tiere weniger. Ein Blick auf die Forschung zum Thema.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/04/6390da53-c5ac-4b80-b433-20b23978f188.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3042,3042,x761,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-07T04:30:00+00:00",
-"sum": "Viele Menschen finden lautes Feuerwerk spassig. Tiere weniger. Ein Blick auf die Forschung zum Thema."
-},
-{
-"id": "27608fcbfb4c",
-"title": "Die Weltklimapolitik wird asiatisch: China möchte als grüner Vorreiter gelten, strebt aber vor allem ökonomische Dominanz an",
-"link": "https://www.nzz.ch/wissenschaft/globaler-klimaschutz-chinas-ambivalente-rolle-als-vorreiter-und-bremser-ld.10041508",
-"text": "Weil es Solaranlagen, Windräder und Elektroautos exportiert, will China als Klimafreund gelten. Für die Verringerung des eigenen Treibhausgasausstosses tut das Land aber weniger. Nicht nur darum stellt das asiatische Zeitalter der Klimapolitik den Westen vor eine grosse Herausforderung.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/28/d0619793-3a18-4a7a-98af-1cbfbe22fd25.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2160,2160,x840,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-07T04:30:00+00:00",
-"sum": "Weil es Solaranlagen, Windräder und Elektroautos exportiert, will China als Klimafreund gelten. Für die Verringerung des eigenen Treibhausgasausstosses tut das Land aber weniger. Nicht nur darum stellt das asiatische Zeitalter der Klimapolitik den Westen vor eine grosse Herausforderung."
 }
 ]
 }
