@@ -1,8 +1,96 @@
 {
-"updated": "2026-11-10T20:58:46+00:00",
+"updated": "2026-11-10T22:55:33+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "f03b5b334777",
+"title": "Drittes Verfahren – Italienisches Gericht hebt Eternit-Urteil gegen Schmidheiny auf",
+"link": "https://www.srf.ch/news/schweiz/drittes-verfahren-italienisches-gericht-hebt-eternit-urteil-gegen-schmidheiny-auf",
+"text": "Damit sei die Verurteilung zu einer Freiheitsstrafe von 9 Jahren und 6 Monaten aufgehoben, so Schmidheinys Sprecherin.",
+"img": "https://www.srf.ch/static/cms/images//320ws/277b721.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-10T22:15:39+00:00",
+"sum": "Damit sei die Verurteilung zu einer Freiheitsstrafe von 9 Jahren und 6 Monaten aufgehoben, so Schmidheinys Sprecherin."
+},
+{
+"id": "4f864a50ddf9",
+"title": "Women's Champions League – Auch Pilgrim trifft: Servette Chênois unterliegt Roma",
+"link": "https://www.srf.ch/sport/fussball/frauen-fussball/women-s-champions-league-auch-pilgrim-trifft-servette-chenois-unterliegt-roma",
+"text": "Der Schweizer Meister kassiert in Rom eine knappe 1:2-Niederlage und erleidet in der Champions League einen Rückschlag.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8380f6.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-10T22:13:42+00:00",
+"sum": "Der Schweizer Meister kassiert in Rom eine knappe 1:2-Niederlage und erleidet in der Champions League einen Rückschlag."
+},
+{
+"id": "3cbbbedd18f1",
+"title": "Neu berechnete US-Hitparade ab 2027 mit Youtube-Streams",
+"link": "https://www.heise.de/news/Neu-berechnete-US-Hitparade-ab-2027-mit-Youtube-Streams-11520024.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Welchen Einfluss sollen werbefinanzierte Streams auf die Billboard-Charts haben? Youtube setzte im Disput auf Streik. Der zeigt Wirkung.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-10T22:05:00+00:00",
+"sum": "Welchen Einfluss sollen werbefinanzierte Streams auf die Billboard-Charts haben? Youtube setzte im Disput auf Streik. Der zeigt Wirkung."
+},
+{
+"id": "8d3f844c808b",
+"title": "Champions Hockey League – HCD rettet kleinen Vorsprung ins Rückspiel",
+"link": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-hcd-rettet-kleinen-vorsprung-ins-rueckspiel",
+"text": "Der NL-Klub verspielt im Achtelfinal-Hinspiel daheim gegen den Quali-Sieger Pilsen ein 3:0 – und kommt noch zum 5:4.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e32b0e.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-10T21:34:43+00:00",
+"sum": "Der NL-Klub verspielt im Achtelfinal-Hinspiel daheim gegen den Quali-Sieger Pilsen ein 3:0 – und kommt noch zum 5:4."
+},
+{
+"id": "9feda5a0a2e4",
+"title": "«Mehr als Morddrohungen» – Deshalb wollte Hellebuyck aus Winnipeg weg",
+"link": "https://www.srf.ch/sport/eishockey/nhl/mehr-als-morddrohungen-deshalb-wollte-hellebuyck-aus-winnipeg-weg",
+"text": "Anlässlich des NHL-Gastspiels der Devils in Winnipeg sprach Torhüter Hellebuyck über den umstrittenen Trade.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8de6be.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-10T21:20:03+00:00",
+"sum": "Anlässlich des NHL-Gastspiels der Devils in Winnipeg sprach Torhüter Hellebuyck über den umstrittenen Trade."
+},
+{
+"id": "c027dfffd38e",
+"title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+"link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+"text": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+"img": "https://images.tagesschau.de/image/ba9868a2-8216-4787-aaaf-809aa58574d4/AAABocb3Se0/AAABnSSvrFg/16x9-big/abu-dhabi-140.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-10T21:08:29+00:00",
+"sum": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne."
+},
+{
+"id": "b0c096f56b5f",
+"title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+"link": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+"text": "Vor knapp zwei Wochen erschütterte das zweite grosse Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+"img": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-10T21:04:36+00:00",
+"sum": "Vor knapp zwei Wochen erschütterte das zweite grosse Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz."
+},
+{
+"id": "85014b60f8c1",
+"title": "Blender 5.3 importiert und bearbeitet Gaussian Splats",
+"link": "https://www.heise.de/news/Blender-5-3-importiert-und-bearbeitet-Gaussian-Splats-11519994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Blender 5.3 kann Gaussian Splats, aus Videos rekonstruierte Szenen, einlesen und darstellen. Neue Werkzeuge erleichtern Videoschnitt und Bildeffekte.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-10T20:58:00+00:00",
+"sum": "Blender 5.3 kann Gaussian Splats, aus Videos rekonstruierte Szenen, einlesen und darstellen. Neue Werkzeuge erleichtern Videoschnitt und Bildeffekte."
+},
 {
 "id": "a373cfc30c3e",
 "title": "WM in Dänemark: Vorrunde – Schweizerinnen würgen sich zum Pflichtsieg",
@@ -697,17 +785,6 @@
 "sum": "Das klassische 60/40-Portfolio steht auf dem Prüfstand, alternative Anlagen gewinnen an Bedeutung, und KI eröffnet neue Möglichkeiten. Wie müssen sich Anleger positionieren? Am PODIUM 2027 von SPHERE und finews diskutieren führende CIOs und Anlageexperten über die Zukunft der Portfolioallokation."
 },
 {
-"id": "46f5e116c4a2",
-"title": "Polestar Formula 2030: Vorschau auf die kommenden Elektroautos",
-"link": "https://www.heise.de/news/Polestar-Formula-2030-Designstudie-als-Vorschau-auf-Polestar-2-und-Polestar-7-11519208.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Mit dem Formula 2030 gibt Polestar einen Ausblick auf das Design des neuen Polestar 2 und des Kompakt-SUV Polestar 7, noch ohne technische Daten.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-10T14:51:00+00:00",
-"sum": "Mit dem Formula 2030 gibt Polestar einen Ausblick auf das Design des neuen Polestar 2 und des Kompakt-SUV Polestar 7, noch ohne technische Daten."
-},
-{
 "id": "33b5cc03f285",
 "title": "Die deutschen Speicher sind so leer wie noch nie um diese Zeit. Im Winter könnte das Gas knapp werden",
 "link": "https://www.nzz.ch/wirtschaft/die-deutschen-speicher-sind-so-leer-wie-noch-nie-um-diese-zeit-im-winter-koennte-das-gas-knapp-werden-ld.10059510",
@@ -739,17 +816,6 @@
 "topic": "Schweiz",
 "date": "2026-11-10T14:40:06+00:00",
 "sum": "Wegen Verdachts auf eine Rauchgasintoxikation mussten vier Personen ins Spital gebracht werden."
-},
-{
-"id": "f0a783312cd5",
-"title": "Anthropic-Börsengang: Was Anleger zum KI-Giganten wissen müssen",
-"link": "https://www.heise.de/news/KI-Unternehmen-Anthropic-plant-Boersengang-an-der-Nasdaq-11519526.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das KI-Unternehmen Anthropic bereitet seinen Börsengang an der Nasdaq vor. Trotz hoher Bewertung und prominenter Investoren bleibt die Macht bei den Gründern.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-10T14:37:00+00:00",
-"sum": "Das KI-Unternehmen Anthropic bereitet seinen Börsengang an der Nasdaq vor. Trotz hoher Bewertung und prominenter Investoren bleibt die Macht bei den Gründern."
 },
 {
 "id": "db3babc01913",
@@ -923,7 +989,7 @@
 "text": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden.",
 "img": "https://images.tagesschau.de/image/4dff9a40-3471-4629-b0de-da49482a151a/AAABocT1uGk/AAABnSSvrFg/16x9-big/e-auto-256.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-10T12:11:01+00:00",
 "sum": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden."
 },
@@ -945,7 +1011,7 @@
 "text": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
 "img": "https://images.tagesschau.de/image/d8ba047e-d46e-4a9c-bcf6-4d3b3ac82fb7/AAABocTq6EA/AAABnSSvrFg/16x9-big/albanese-120.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-10T12:00:03+00:00",
 "sum": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft."
 },
@@ -1126,17 +1192,6 @@
 "sum": "Die international tätige Anwaltskanzlei Lalive erweitert ihre Partnerschaft. Per Anfang Januar 2027 werden vier Anwältinnen und Anwälte in die Partnerschaft aufgenommen. Drei davon sind in Zürich oder Genf tätig."
 },
 {
-"id": "9dc10ad0d707",
-"title": "Champions Hockey League – Schweizer Duell im Achtelfinal – HCD muss gegen Qualisieger ran",
-"link": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-schweizer-duell-im-achtelfinal-hcd-muss-gegen-qualisieger-ran",
-"text": "Am Dienstag starten die Achtelfinals in der CHL. Alle drei Schweizer Teams sind noch dabei, mindestens eins kommt weiter",
-"img": "https://www.srf.ch/static/cms/images//320ws/c8e20b.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-10T09:38:28+00:00",
-"sum": "Am Dienstag starten die Achtelfinals in der CHL. Alle drei Schweizer Teams sind noch dabei, mindestens eins kommt weiter"
-},
-{
 "id": "870103e3768b",
 "title": "Olympia in der Schweiz – Private Defizit-Garantie für Olympia in der Schweiz",
 "link": "https://www.srf.ch/news/wirtschaft/olympia-in-der-schweiz-private-defizit-garantie-fuer-olympia-in-der-schweiz",
@@ -1247,17 +1302,6 @@
 "sum": "Die Schweizer Beteiligungsgesellschaft Cofra, hinter der die Unternehmerfamilie Brenninkmeijer steht, erhält einen neuen CEO. Mit Georg Wunderlin kommt ein Private-Markets-Spezialist von Schroders Capital. Er soll das milliardenschwere Investmentgeschäft weiter ausbauen."
 },
 {
-"id": "122fe949412d",
-"title": "Abstimmungen Kanton St. Gallen – Gesetze anpassen für ein selbstbestimmteres Leben",
-"link": "https://www.srf.ch/news/abstimmungen-kanton-st-gallen-gesetze-anpassen-fuer-ein-selbstbestimmteres-leben",
-"text": "Zwei Gesetzesänderungen kommen am 29. November zur Abstimmung. Es geht um die Selbstbestimmung Beeinträchtigter.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ad645b.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-10T07:39:43+00:00",
-"sum": "Zwei Gesetzesänderungen kommen am 29. November zur Abstimmung. Es geht um die Selbstbestimmung Beeinträchtigter."
-},
-{
 "id": "1c55667242bb",
 "title": "Der Üetlihof soll schnell verkauft werden",
 "link": "https://www.finews.ch/news/finanzplatz/74404-der-ueetlihof-soll-schnell-verkauft-werden",
@@ -1355,17 +1399,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-10T06:34:14+00:00",
 "sum": "Ein Vorstoss des türkischen Gastgebers findet sich eigentlich gar nicht auf der offiziellen Tagesordnung. Und doch scheint das Thema Elektrifizierung im Zentrum der diesjährigen Klimakonferenz zu stehen. Von A. Schulz und J. Schreiber."
-},
-{
-"id": "c271d6a6496f",
-"title": "WTA Finals: Gruppe 2 – Sabalenka mit Mühe – Andrejewa souverän",
-"link": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-gruppe-2-sabalenka-mit-muehe-andrejewa-souveraen",
-"text": "Aryna Sabalenka und Mirra Andrejewa starten mit Siegen in die WTA Finals in Indian Wells.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6b54ff.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-10T06:15:00+00:00",
-"sum": "Aryna Sabalenka und Mirra Andrejewa starten mit Siegen in die WTA Finals in Indian Wells."
 },
 {
 "id": "cc69d221a6b0",
@@ -1476,17 +1509,6 @@
 "topic": "Welt",
 "date": "2026-11-09T19:29:07+00:00",
 "sum": "Jahrzehntelang dominierte die Partei des Anti-Apartheid-Kämpfers die Politik. Nun erleidet sie heftige Verluste."
-},
-{
-"id": "5960d7e4aff1",
-"title": "Vor Aufstieg in Nations League – Nati: 1 Punkt holen – und dann bereits Blick Richtung EM-Quali",
-"link": "https://www.srf.ch/sport/fussball/nations-league/vor-aufstieg-in-nations-league-nati-1-punkt-holen-und-dann-bereits-blick-richtung-em-quali",
-"text": "Noch zwei Partien stehen für die Schweiz in der Nations League an. Sportlich könnte es nur in der ersten um etwas gehen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1cc72a.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-09T19:21:20+00:00",
-"sum": "Noch zwei Partien stehen für die Schweiz in der Nations League an. Sportlich könnte es nur in der ersten um etwas gehen."
 },
 {
 "id": "e2823beeabeb",
