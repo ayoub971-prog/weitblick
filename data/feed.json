@@ -1,8 +1,63 @@
 {
-"updated": "2026-11-10T19:12:53+00:00",
+"updated": "2026-11-10T20:58:46+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "a373cfc30c3e",
+"title": "WM in Dänemark: Vorrunde – Schweizerinnen würgen sich zum Pflichtsieg",
+"link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-in-daenemark-vorrunde-schweizerinnen-wuergen-sich-zum-pflichtsieg",
+"text": "Das 4:2 gegen Aufsteiger Österreich bringt der Nati an der WM das Viertelfinal-Ticket, legt aber auch Defizite offen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/26f900.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-10T20:34:16+00:00",
+"sum": "Das 4:2 gegen Aufsteiger Österreich bringt der Nati an der WM das Viertelfinal-Ticket, legt aber auch Defizite offen."
+},
+{
+"id": "0342610d9bf7",
+"title": "USA: Tech-Lobby kämpft gegen Importverbot für optische Transceiver aus China",
+"link": "https://www.heise.de/news/USA-Tech-Lobby-kaempft-gegen-Importverbot-fuer-optische-Transceiver-aus-China-11519990.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "US-Datenkonzerne lobbyieren in Washington gegen ein Importverbot für optische Transceiver aus China. Der politische Ausweg für Trump wäre ein Pseudoverbot.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-10T20:34:00+00:00",
+"sum": "US-Datenkonzerne lobbyieren in Washington gegen ein Importverbot für optische Transceiver aus China. Der politische Ausweg für Trump wäre ein Pseudoverbot."
+},
+{
+"id": "1edb4ada5add",
+"title": "Diplomatische Beziehungen – Uiguren in Thailand: Was droht ihnen in China?",
+"link": "https://www.srf.ch/news/international/diplomatische-beziehungen-uiguren-in-thailand-was-droht-ihnen-in-china",
+"text": "Chinas Regierung verlangt von Thailand, die fünf verbliebenen Uiguren nach China abzuschieben.",
+"img": "https://www.srf.ch/static/cms/images//320ws/29bcafb.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-10T20:31:49+00:00",
+"sum": "Chinas Regierung verlangt von Thailand, die fünf verbliebenen Uiguren nach China abzuschieben."
+},
+{
+"id": "26681d9c35c9",
+"title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Aktie verzeichnet weitere Kursverluste +++ FBI ermittelt laut Trump",
+"link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
+"text": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Das Chip-Unternehmen leitet eine Untersuchung ein. Die neusten Entwicklungen",
+"img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-10T19:54:34+00:00",
+"sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Das Chip-Unternehmen leitet eine Untersuchung ein. Die neusten Entwicklungen"
+},
+{
+"id": "626404b2672b",
+"title": "Abstimmungen 29. November – Die Mitte-Initiative hat kein Preisschild",
+"link": "https://www.srf.ch/news/abstimmungen-29-november-die-mitte-initiative-hat-kein-preisschild",
+"text": "Initiative «Ja zu fairen Bundessteuern auch für Ehepaare»: einfacher oder nur teurer als die Individualbesteuerung?",
+"img": "https://www.srf.ch/static/cms/images//320ws/21f901.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-10T19:39:35+00:00",
+"sum": "Initiative «Ja zu fairen Bundessteuern auch für Ehepaare»: einfacher oder nur teurer als die Individualbesteuerung?"
+},
 {
 "id": "4d38b6e1ae0f",
 "title": "Top 10: Der beste Open-Ear-Kopfhörer im Test",
@@ -719,17 +774,6 @@
 "sum": "Gewaltsame Proteste, ein verstörter Teenager, eine verzweifelte Ärztin: Im Internet verbreiten sich Bilder mit Behauptungen über die Entdeckung eines ukrainischen Foltergefängnisses bei Kiew. Was ist dazu bekannt? Von C. Reveland und K. König."
 },
 {
-"id": "66b3e92c795d",
-"title": "Radfahrer-Tracking: Garmin-Geräte senden Echtzeitdaten an Waze",
-"link": "https://www.heise.de/news/LiveTrack-Garmin-und-Waze-warnen-Autofahrer-vor-Radfahrern-11519554.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Für mehr Sicherheit im Verkehr: Garmin-Nutzer können ihren Standort beim Radfahren jetzt mit Waze teilen und werden in der Karte angezeigt.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-10T14:21:00+00:00",
-"sum": "Für mehr Sicherheit im Verkehr: Garmin-Nutzer können ihren Standort beim Radfahren jetzt mit Waze teilen und werden in der Karte angezeigt."
-},
-{
 "id": "d48235da4f45",
 "title": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
 "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html",
@@ -1170,17 +1214,6 @@
 "sum": "Der Immobilienkonzern PSP Swiss Property hat in den ersten neun Monaten des Jahres 2026 mehr verdient. Wesentlicher Treiber bleibt der Verkauf des Entwicklungsprojekts Richtipark in Wallisellen. Die Mieterträge gingen dagegen leicht zurück."
 },
 {
-"id": "04d8b1758700",
-"title": "Champions League Frauen – Tore garantiert: Servette will auch in Rom punkten",
-"link": "https://www.srf.ch/sport/fussball/frauen-fussball/champions-league-frauen-tore-garantiert-servette-will-auch-in-rom-punkten",
-"text": "Spiel Nummer 4 in der Champions League: Servette Chênois reist am Dienstag zur AS Roma mit Alayah Pilgrim.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1981943.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-10T08:36:44+00:00",
-"sum": "Spiel Nummer 4 in der Champions League: Servette Chênois reist am Dienstag zur AS Roma mit Alayah Pilgrim."
-},
-{
 "id": "1497fd01a753",
 "title": "Abstimmungen Kanton Luzern – «Digital first» in der Verwaltung – statt Schalter nur noch Apps",
 "link": "https://www.srf.ch/news/abstimmungen-kanton-luzern-digital-first-in-der-verwaltung-statt-schalter-nur-noch-apps",
@@ -1256,17 +1289,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-10T07:10:34+00:00",
 "sum": "Die Schweizerische Bankiervereinigung hat eine historische Analyse zur Bankenlandschaft erstellen lassen. Deren Erkenntnisse sollen helfen, aktuelle Veränderungen differenzierter zu beurteilen und auch als Grundlage für die Diskussion über den Finanzplatz dienen."
-},
-{
-"id": "26681d9c35c9",
-"title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: FBI ermittelt laut Trump +++ Aktionäre verklagen das Unternehmen und Chef Huang",
-"link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
-"text": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Das Chip-Unternehmen leitet eine Untersuchung ein. Die neusten Entwicklungen",
-"img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-10T07:00:54+00:00",
-"sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Das Chip-Unternehmen leitet eine Untersuchung ein. Die neusten Entwicklungen"
 },
 {
 "id": "6370e84703a8",
@@ -1379,17 +1401,6 @@
 "sum": "Der geplante Wechsel von Daniel Salzmann vom CEO-Posten in den Verwaltungsrat der Luzerner Kantonalbank sorgte für politische Diskussionen. Die Luzerner Regierung sieht jedoch keine Governance-Probleme. Allerdings hat die Finma für den Wechsel Auflagen gemacht."
 },
 {
-"id": "17541523b44a",
-"title": "Kritische Infrastruktur – Bund will Drohnenschutz von Energieanlagen verstärken",
-"link": "https://www.srf.ch/news/schweiz/kritische-infrastruktur-bund-will-drohnenschutz-von-energieanlagen-verstaerken",
-"text": "Die Energieunternehmen sollen mehr tun zum Schutz kritischer Anlagen vor Sabotage und Drohnenangriffen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6e1a1f.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-10T05:02:53+00:00",
-"sum": "Die Energieunternehmen sollen mehr tun zum Schutz kritischer Anlagen vor Sabotage und Drohnenangriffen."
-},
-{
 "id": "ca97f05fc427",
 "title": "Ist das die Klimawende? – Wegen Irankrieg – Ausstoss fossiler Treibhausgase sinkt",
 "link": "https://www.srf.ch/news/international/ist-das-die-klimawende-wegen-irankrieg-ausstoss-fossiler-treibhausgase-sinkt",
@@ -1500,17 +1511,6 @@
 "sum": "Gegen den internationalen Wettbewerbsdruck sei die Schweiz machtlos. Aber gegen die Bürokratie könne sie etwas machen."
 },
 {
-"id": "d9edcc43b56f",
-"title": "Land nach Maduro – Venezuela – das Erdbeben, das Öl und die Frage nach dem Geld",
-"link": "https://www.srf.ch/news/international/land-nach-maduro-venezuela-das-erdbeben-das-oel-und-die-frage-nach-dem-geld",
-"text": "Seit der Festnahme von Präsident Nicolás Maduro befindet sich Venezuela im Umbruch. Wer profitiert vom Wiederaufbau?",
-"img": "https://www.srf.ch/static/cms/images//320ws/a45cdd.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-09T17:57:54+00:00",
-"sum": "Seit der Festnahme von Präsident Nicolás Maduro befindet sich Venezuela im Umbruch. Wer profitiert vom Wiederaufbau?"
-},
-{
 "id": "7f3b39c90c2d",
 "title": "Katastrophen: Wie menschliche Eingriffe Tsunamis in Seen begünstigen",
 "link": "https://www.spektrum.de/news/wie-menschliche-eingriffe-tsunamis-in-seen-beguenstigen/2353396",
@@ -1575,17 +1575,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-09T13:58:03+00:00",
 "sum": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmasslichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten."
-},
-{
-"id": "be60bd46f216",
-"title": "Skandal beim Chiphersteller Nvidia: Die Affäre des CEO Jensen Huang ist wohl ein Fall von Industriespionage",
-"link": "https://www.nzz.ch/wirtschaft/nvidia-chef-huang-hatte-mutmasslich-eine-affaere-mit-einer-chinesischen-spionin-das-unternehmen-leitet-nun-eine-untersuchung-ein-ld.10058205",
-"text": "Um an geheime Informationen über den amerikanischen Chiphersteller zu gelangen, soll Peking eine Agentin auf Jensen Huang angesetzt haben. Es ist kein Einzelfall. Spionage bei Firmen hat in China eine lange Tradition.",
-"img": "https://img-msp-prod.nzz.ch/2026/10/30/ce3b9e69-ab3a-487c-9e16-cd68440bcf30.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2254,2254,x1665,y189",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-09T12:00:55+00:00",
-"sum": "Um an geheime Informationen über den amerikanischen Chiphersteller zu gelangen, soll Peking eine Agentin auf Jensen Huang angesetzt haben. Es ist kein Einzelfall. Spionage bei Firmen hat in China eine lange Tradition."
 },
 {
 "id": "61f99f6f03ae",
@@ -1699,7 +1688,7 @@
 },
 {
 "id": "cef4d6876619",
-"title": "Schwer dement – und auf einmal wieder präsent: das Rätsel der terminalen Geistesklarheit",
+"title": "INTERVIEW - Schwer dement – und auf einmal wieder präsent: das Rätsel der terminalen Geistesklarheit",
 "link": "https://www.nzz.ch/wissenschaft/schwer-dement-und-auf-einmal-wieder-praesent-das-raetsel-der-terminalen-geistesklarheit-ld.10021974",
 "text": "Es gibt Menschen mit massiven Gehirnschädigungen, die plötzlich wieder klar denken und reden. Wie ist das möglich? «Da können wir im Augenblick nur spekulieren», sagt der Kognitionsforscher Alexander Batthyány. Jetzt will er dem Phänomen auf den Grund gehen.",
 "img": "https://img-msp-prod.nzz.ch/2026/10/20/091bae46-b1cf-4acb-af48-e43004a4d467.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5773,5773,x1317,y0",
@@ -1718,17 +1707,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-08T04:30:00+00:00",
 "sum": "Unsere Vorfahren verwendeten Gold- und Silbermünzen. Nun ermöglichen Gold-Token kleinste Überweisungen wie damals. Auch ein Schweizer Edelmetallriese bietet diese an."
-},
-{
-"id": "fd176b8d8e00",
-"title": "Economiesuisse-Präsident – «Es tut weh, wenn sehr gut ausgebildete Junge keinen Job finden»",
-"link": "https://www.srf.ch/news/schweiz/economiesuisse-praesident-es-tut-weh-wenn-sehr-gut-ausgebildete-junge-keinen-job-finden",
-"text": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cebc46.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-07T19:57:36+00:00",
-"sum": "Die Wirtschaft müsse Uni-Abgängern ein Angebot machen, findet der neue Economiesuisse-Präsident Silvan Wildhaber."
 }
 ]
 }
