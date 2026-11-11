@@ -1,8 +1,41 @@
 {
-"updated": "2026-11-10T22:55:33+00:00",
+"updated": "2026-11-11T01:22:47+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "c13b28b65cd7",
+"title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+"link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+"text": "Als Bundespräsidentin möchte Ilse Aigner Gräben überwinden. Bei ihrem Besuch im Bundestag versuchte sie allerdings nicht, die Türschwellen vor den Fraktionssälen von AfD und Linke zu überwinden. Ein schlechter Start, meint Maximilian Ulrich.",
+"img": "https://images.tagesschau.de/image/107b49e8-ab44-43ed-b804-6def95fc2d29/AAABocbu7EA/AAABnSSvrFg/16x9-big/aigner-166.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-11T01:20:58+00:00",
+"sum": "Als Bundespräsidentin möchte Ilse Aigner Gräben überwinden. Bei ihrem Besuch im Bundestag versuchte sie allerdings nicht, die Türschwellen vor den Fraktionssälen von AfD und Linke zu überwinden. Ein schlechter Start, meint Maximilian Ulrich."
+},
+{
+"id": "11c001393225",
+"title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+"link": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
+"text": "Freundlich und überparteilich präsentiert sich die künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt.",
+"img": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-11T01:17:49+00:00",
+"sum": "Freundlich und überparteilich präsentiert sich die künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt."
+},
+{
+"id": "0f287a88a82f",
+"title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+"link": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+"text": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoss zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
+"img": "https://images.tagesschau.de/image/a69ad001-e56f-402d-a036-1e793a5e93fd/AAABocfM_Cs/AAABnSSvrFg/16x9-big/us-kapitol-164.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-11T00:19:26+00:00",
+"sum": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoss zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution."
+},
 {
 "id": "f03b5b334777",
 "title": "Drittes Verfahren – Italienisches Gericht hebt Eternit-Urteil gegen Schmidheiny auf",
@@ -862,17 +895,6 @@
 "sum": "Derzeit treffen sich in Abu Dhabi Vertreter der Ukraine, Russlands und der USA, um Gespräche über ein Ende des Krieges wieder aufzunehmen. Europa scheint im Abseits, obwohl Deutschland der grösste Unterstützer der Ukraine ist. Von N. Markwald."
 },
 {
-"id": "5ec984a61e2e",
-"title": "Mehrere Tote bei Massenunfällen auf bulgarischer Autobahn",
-"link": "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
-"text": "Dichter Nebel, nasse Strassen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen.",
-"img": "https://images.tagesschau.de/image/a8e38b59-c9c0-4ca8-a40e-40fafe97544d/AAABocXKowI/AAABnSSvrFg/16x9-big/bulgarien-268.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-10T14:09:14+00:00",
-"sum": "Dichter Nebel, nasse Strassen: Auf einer Autobahn in Bulgarien sind mindestens zwölf Menschen bei Auffahrunfällen gestorben. Zahlreiche Rettungskräfte sind im Einsatz. EU-Kommissionschefin von der Leyen musste ihren Besuch in dem Land verkürzen."
-},
-{
 "id": "aa5e6aaa6a96",
 "title": "Schwerer Unfall in Bulgarien – Nebelchaos: 50 Fahrzeuge kollidieren auf Autobahn – 12 Tote",
 "link": "https://www.srf.ch/news/international/schwerer-unfall-in-bulgarien-nebelchaos-50-fahrzeuge-kollidieren-auf-autobahn-12-tote",
@@ -890,7 +912,7 @@
 "text": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms.",
 "img": "https://images.tagesschau.de/image/c779112a-9dfe-409a-945d-d9beee37cde2/AAABocU-0Eg/AAABnSSvrFg/16x9-big/infineon-138.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-10T13:33:44+00:00",
 "sum": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms."
 },
@@ -970,17 +992,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-10T12:53:59+00:00",
 "sum": "Benjamin Fisch folgt im Februar 2027 auf Sandro Brotz. Derzeit ist er beim «Blick» als Journalist und Moderator tätig."
-},
-{
-"id": "858314f074e2",
-"title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-"link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
-"text": "Die USA erleben den grössten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
-"img": "https://images.tagesschau.de/image/82c4aae6-136f-41be-8f6c-f0425ca6759a/AAABocVg9dQ/AAABnSSvrFg/16x9-big/masern-150.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-10T12:13:48+00:00",
-"sum": "Die USA erleben den grössten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider."
 },
 {
 "id": "8b0ffc8a3222",
