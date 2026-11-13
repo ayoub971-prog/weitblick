@@ -1,8 +1,294 @@
 {
-"updated": "2026-11-12T18:22:16+00:00",
+"updated": "2026-11-13T01:08:29+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "73142471d8c5",
+"title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+"link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+"text": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit einer Ankündigung aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen.",
+"img": "https://images.tagesschau.de/image/e23f9c75-5489-413a-b3d2-c23c8e6f730d/AAABodH246k/AAABnSSvrFg/16x9-big/dublin-epg-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-13T00:40:22+00:00",
+"sum": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit einer Ankündigung aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen."
+},
+{
+"id": "e5939c40744e",
+"title": "Software-Riese Microsoft – Stundenlanger Ausfall beeinträchtigt Outlook und Teams",
+"link": "https://www.srf.ch/news/wirtschaft/software-riese-microsoft-stundenlanger-ausfall-beeintraechtigt-outlook-und-teams",
+"text": "Betroffen ist der Cloud-Dienst Microsoft 365 – dazu gehören unter anderem Outlook, Teams oder der KI-Assistent Co-Pilot.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e87ada.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-13T00:39:30+00:00",
+"sum": "Betroffen ist der Cloud-Dienst Microsoft 365 – dazu gehören unter anderem Outlook, Teams oder der KI-Assistent Co-Pilot."
+},
+{
+"id": "0daee2567302",
+"title": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
+"link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+"text": "Ein grossflächiger Ausfall von Microsoft-Diensten, darunter Outlook: Innerhalb der Anwendungspalette des Technologiekonzerns kommt es weltweit zu Störungen. Das Unternehmen arbeite mit Hochdruck an einer Lösung.",
+"img": "https://images.tagesschau.de/image/f88dd7d2-f43e-4a23-85cb-139aab8c4930/AAABodHzeW4/AAABnSSvrFg/16x9-big/microsoft-210.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-12T23:08:03+00:00",
+"sum": "Ein grossflächiger Ausfall von Microsoft-Diensten, darunter Outlook: Innerhalb der Anwendungspalette des Technologiekonzerns kommt es weltweit zu Störungen. Das Unternehmen arbeite mit Hochdruck an einer Lösung."
+},
+{
+"id": "cc2cfcc670d2",
+"title": "Nations League am Donnerstag – Italien gewinnt Prestige-Duell – Kane trifft bei Jubiläum",
+"link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-am-donnerstag-italien-gewinnt-prestige-duell-kane-trifft-bei-jubilaeum",
+"text": "Italien fügt Frankreich in der Nations League die erste Niederlage zu. Harry Kane trifft in seinem Rekordspiel.",
+"img": "https://www.srf.ch/static/cms/images//320ws/245cb7.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-12T21:52:27+00:00",
+"sum": "Italien fügt Frankreich in der Nations League die erste Niederlage zu. Harry Kane trifft in seinem Rekordspiel."
+},
+{
+"id": "1ef2cfe8882c",
+"title": "Affären am Arbeitsplatz – Wenn Liebe den Job kostet – diese Chefs räumten ihre Posten",
+"link": "https://www.srf.ch/news/wirtschaft/affaeren-am-arbeitsplatz-wenn-liebe-den-job-kostet-diese-chefs-raeumten-ihre-posten",
+"text": "Immer wieder verlieren Topmanager ihre Posten wegen Affären. Eine Auswahl.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d3ff82.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-12T21:50:58+00:00",
+"sum": "Immer wieder verlieren Topmanager ihre Posten wegen Affären. Eine Auswahl."
+},
+{
+"id": "d0b01206c287",
+"title": "National League am Donnerstag – 4:3 n.P. in Biel: Lions zeigen Moral und Nervenstärke",
+"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-donnerstag-4-3-n-p-in-biel-lions-zeigen-moral-und-nervenstaerke",
+"text": "Der ZSC kassiert in der 41. Minute das 1:3, gleicht noch aus und gewinnt schliesslich nach Penaltyschiessen mit 4:3.",
+"img": "https://www.srf.ch/static/cms/images//320ws/24987bb.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-12T21:43:43+00:00",
+"sum": "Der ZSC kassiert in der 41. Minute das 1:3, gleicht noch aus und gewinnt schliesslich nach Penaltyschiessen mit 4:3."
+},
+{
+"id": "c319a6c64bd7",
+"title": "Mit Vaduz in Fahrt – Dalipi entscheidet sich für Kosovo",
+"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/mit-vaduz-in-fahrt-dalipi-entscheidet-sich-fuer-kosovo",
+"text": "Vaduz-Shootingstar Lutfi Dalipi spielt künftig für die Nationalmannschaft des Kosovo.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b8184d.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-12T21:27:20+00:00",
+"sum": "Vaduz-Shootingstar Lutfi Dalipi spielt künftig für die Nationalmannschaft des Kosovo."
+},
+{
+"id": "5a9bf8e81a52",
+"title": "Hintergründe unklar – Mehrere Menschen in Washington angeschossen – ein Toter",
+"link": "https://www.srf.ch/news/international/hintergruende-unklar-mehrere-menschen-in-washington-angeschossen-ein-toter",
+"text": "Bei Schüssen in der US-Hauptstadt wurden vier Personen verletzt. Der mutmassliche Täter starb laut Polizei.",
+"img": "https://www.srf.ch/static/cms/images//320ws/6669f4.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-12T21:19:48+00:00",
+"sum": "Bei Schüssen in der US-Hauptstadt wurden vier Personen verletzt. Der mutmassliche Täter starb laut Polizei."
+},
+{
+"id": "2535894e58bb",
+"title": "Finanzchefin wird Nachfolgerin – Affären bringen Nvidia-Chef Jensen Huang zu Fall",
+"link": "https://www.srf.ch/news/international/finanzchefin-wird-nachfolgerin-affaeren-bringen-nvidia-chef-jensen-huang-zu-fall",
+"text": "Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b89c50.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-12T21:17:27+00:00",
+"sum": "Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit."
+},
+{
+"id": "bde34e79642d",
+"title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+"link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+"text": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+"img": "https://images.tagesschau.de/image/7aa52c28-02c2-447e-8843-707c8a2139e5/AAABodGXxPU/AAABnSSvrFg/16x9-big/quantum-systems-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-12T21:09:07+00:00",
+"sum": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert."
+},
+{
+"id": "52fb22f276ed",
+"title": "Im Stadtteil Brooklyn – Acht Tote und 18 Verletzte bei Hauseinsturz in New York",
+"link": "https://www.srf.ch/news/international/im-stadtteil-brooklyn-acht-tote-und-18-verletzte-bei-hauseinsturz-in-new-york",
+"text": "Nach Angaben der Feuerwehr sind zwei Kinder unter den Toten. Die Rettungsaktion ist noch im Gang.",
+"img": "https://www.srf.ch/static/cms/images//320ws/872678.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-12T21:07:19+00:00",
+"sum": "Nach Angaben der Feuerwehr sind zwei Kinder unter den Toten. Die Rettungsaktion ist noch im Gang."
+},
+{
+"id": "a992f517113e",
+"title": "Microsoft-365-Störung: Serverausfälle legen Teams, Exchange und Copilot lahm",
+"link": "https://www.heise.de/news/Microsoft-365-Stoerung-Serverausfaelle-legen-Teams-Exchange-und-Copilot-lahm-11523565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-12T21:01:00+00:00",
+"sum": "Eine Störung bei Microsoft 365 beeinträchtigt weltweit zahlreiche Cloud-Dienste wie Exchange Online, Teams, SharePoint, Copilot und Defender XDR."
+},
+{
+"id": "0344d5e81fe2",
+"title": "Nicht nur digitales Radio – SRF-Sender sind wieder auf UKW empfangbar",
+"link": "https://www.srf.ch/news/schweiz/nicht-nur-digitales-radio-srf-sender-sind-wieder-auf-ukw-empfangbar",
+"text": "Die Radiosender der SRG sind wieder analog zu hören. Die SRG hat mit der Aufschaltung auf dem UKW-Netz begonnen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/197339.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-12T21:00:23+00:00",
+"sum": "Die Radiosender der SRG sind wieder analog zu hören. Die SRG hat mit der Aufschaltung auf dem UKW-Netz begonnen."
+},
+{
+"id": "4e44864a26ba",
+"title": "Nein zum Budget – Warum das Budget an einer unheiligen Allianz scheiterte",
+"link": "https://www.srf.ch/news/schweiz/nein-zum-budget-warum-das-budget-an-einer-unheiligen-allianz-scheiterte",
+"text": "Die Budget-Blockade offenbart einen verhärteten Konflikt über Armee, Schuldenbremse und Prioritäten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/2dea41.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-12T20:57:10+00:00",
+"sum": "Die Budget-Blockade offenbart einen verhärteten Konflikt über Armee, Schuldenbremse und Prioritäten."
+},
+{
+"id": "e2158c6bfe71",
+"title": "Auch Schweizer Behörden dabei – Ermittler decken riesiges internationales Kokainnetzwerk auf",
+"link": "https://www.srf.ch/news/schweiz/auch-schweizer-behoerden-dabei-ermittler-decken-riesiges-internationales-kokainnetzwerk-auf",
+"text": "In zwölf Kantonen wurden 84 Standorte durchsucht, wie das Fedpol mitteilt. Insgesamt gab es Einsätze in sieben Staaten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ee5aaca.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-12T20:31:27+00:00",
+"sum": "In zwölf Kantonen wurden 84 Standorte durchsucht, wie das Fedpol mitteilt. Insgesamt gab es Einsätze in sieben Staaten."
+},
+{
+"id": "886bda8bbaca",
+"title": "Erneute Starlink-Bremse behindert ukrainische Drohnenabwehr",
+"link": "https://www.heise.de/news/Erneute-Starlink-Bremse-behindert-ukrainische-Drohnenabwehr-11523549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "SpaceX bremst seine militärische Starlink-Variante Starshield in der Ukraine erneut. Damit scheitert die Abwehr russischer Drohnen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-12T20:07:00+00:00",
+"sum": "SpaceX bremst seine militärische Starlink-Variante Starshield in der Ukraine erneut. Damit scheitert die Abwehr russischer Drohnen."
+},
+{
+"id": "715f0001ead2",
+"title": "Nichtwiederausfuhrerklärungen – Kriegsmaterial-Lieferungen künftig ohne diplomatisches Ehrenwort",
+"link": "https://www.srf.ch/news/nichtwiederausfuhrerklaerungen-kriegsmaterial-lieferungen-kuenftig-ohne-diplomatisches-ehrenwort",
+"text": "Seit 75 Jahren kennt die Schweiz Nichtwiederausfuhrerklärungen bei Waffenexporten. Sie könnten bald Geschichte sein.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0b8c0a.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-12T19:55:25+00:00",
+"sum": "Seit 75 Jahren kennt die Schweiz Nichtwiederausfuhrerklärungen bei Waffenexporten. Sie könnten bald Geschichte sein."
+},
+{
+"id": "4e1b39a12f11",
+"title": "Verhandlungen zu Ukraine-Krieg – «Über Europa kann nicht ohne Europa gesprochen werden»",
+"link": "https://www.srf.ch/news/international/ukraine/verhandlungen-zu-ukraine-krieg-ueber-europa-kann-nicht-ohne-europa-gesprochen-werden",
+"text": "Am Treffen der Europäischen Politischen Gemeinschaft in Dublin dominiert ein Thema: Die Verhandlungen zum Ukraine-Krieg.",
+"img": "https://www.srf.ch/static/cms/images//320ws/5ed18e.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-12T19:53:16+00:00",
+"sum": "Am Treffen der Europäischen Politischen Gemeinschaft in Dublin dominiert ein Thema: Die Verhandlungen zum Ukraine-Krieg."
+},
+{
+"id": "03c4747de880",
+"title": "News aus der National League – HCD lange ohne Kessler – Swiss-League-Duo will aufsteigen",
+"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-hcd-lange-ohne-kessler-swiss-league-duo-will-aufsteigen",
+"text": "Hier finden Sie die wichtigsten Kurzmeldungen des Tages aus dem Schweizer Eishockey-Geschehen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7b7db6.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-12T19:31:19+00:00",
+"sum": "Hier finden Sie die wichtigsten Kurzmeldungen des Tages aus dem Schweizer Eishockey-Geschehen."
+},
+{
+"id": "52480ad9a223",
+"title": "Auf Wunsch des 46-Jährigen – Leader Servette Chênois trennt sich von Trainer Toro",
+"link": "https://www.srf.ch/sport/fussball/women-s-super-league/auf-wunsch-des-46-jaehrigen-leader-servette-chenois-trennt-sich-von-trainer-toro",
+"text": "Servette Chênois muss auf Trainersuche gehen: Meistercoach Cristian Toro verlässt den Klub Ende Jahr auf eigenen Wunsch.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ae577c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-12T19:03:30+00:00",
+"sum": "Servette Chênois muss auf Trainersuche gehen: Meistercoach Cristian Toro verlässt den Klub Ende Jahr auf eigenen Wunsch."
+},
+{
+"id": "7655f585b1ab",
+"title": "Der Praxis-Leitfaden für Thread, Zigbee, Z-Wave & Bluetooth",
+"link": "https://www.heise.de/bestenlisten/ratgeber/home-assistant-der-praxis-leitfaden-fuer-thread-zigbee-z-wave-und-bluetooth/pkr3zc2?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Von der Thread-Konsolidierung bis zur Kanalwahl: Konkrete Praxistipps, Hardware-Empfehlungen und Lösungen für typische Stolperfallen im Alltag.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-12T19:00:00+00:00",
+"sum": "Von der Thread-Konsolidierung bis zur Kanalwahl: Konkrete Praxistipps, Hardware-Empfehlungen und Lösungen für typische Stolperfallen im Alltag."
+},
+{
+"id": "ed3cd474051f",
+"title": "Nations League am Freitag live – Die Nati hat den Wiederaufstieg im Blick",
+"link": "https://www.srf.ch/sport/fussball/nationalmannschaft/nations-league-am-freitag-live-die-nati-hat-den-wiederaufstieg-im-blick",
+"text": "Am Freitag reicht der Nati gegen Slowenien bereits ein Punkt, um den Aufstieg in die Liga A vorzeitig klarzumachen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/78715f.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-12T18:50:05+00:00",
+"sum": "Am Freitag reicht der Nati gegen Slowenien bereits ein Punkt, um den Aufstieg in die Liga A vorzeitig klarzumachen."
+},
+{
+"id": "83104f354e96",
+"title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schliessungen",
+"link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+"text": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschliessungen prüfen.",
+"img": "https://images.tagesschau.de/image/a1c69cbc-7a7c-413d-aae2-f16786e0d57e/AAABodDagME/AAABnSSvrFg/16x9-big/mercedes-montage-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-12T18:44:38+00:00",
+"sum": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschliessungen prüfen."
+},
+{
+"id": "2e46b7439586",
+"title": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
+"link": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
+"text": "Aktivistin Thunberg wird in Antalya deutlich: Die Politik trage die Schuld daran, dass der Klimawandel ausser Kontrolle sei. Ein neuer Bericht rechnet mit 2,7 Grad Erwärmung. Auch Deutschland ist demnach kein Vorbild mehr. Von J. Mayr.",
+"img": "https://images.tagesschau.de/image/449d30ee-52f8-4182-b611-6c6f31b5d1ef/AAABodCYjDU/AAABnSSvrFg/16x9-big/thunberg-160.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-12T18:44:20+00:00",
+"sum": "Aktivistin Thunberg wird in Antalya deutlich: Die Politik trage die Schuld daran, dass der Klimawandel ausser Kontrolle sei. Ein neuer Bericht rechnet mit 2,7 Grad Erwärmung. Auch Deutschland ist demnach kein Vorbild mehr. Von J. Mayr."
+},
+{
+"id": "64bac53601b6",
+"title": "AdSense-Milliardenstrafe: EuGH-Generalanwältin will Freispruch kippen",
+"link": "https://www.heise.de/news/AdSense-Milliardenstrafe-EuGH-Generalanwaeltin-will-Freispruch-kippen-11523438.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Gutachterin Kokott hält das Urteil gegen die EU-Strafe für Google für fehlerhaft. Der Europäische Gerichtshof soll den Fall an die Vorinstanz zurückverweisen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-12T18:41:00+00:00",
+"sum": "Gutachterin Kokott hält das Urteil gegen die EU-Strafe für Google für fehlerhaft. Der Europäische Gerichtshof soll den Fall an die Vorinstanz zurückverweisen."
+},
+{
+"id": "559bae57b365",
+"title": "Historischer Einzug in Senat – Bittere Pille für Trump: Demokrat Colom siegt in Mississippi",
+"link": "https://www.srf.ch/news/international/usa/historischer-einzug-in-senat-bittere-pille-fuer-trump-demokrat-colom-siegt-in-mississippi",
+"text": "Bei den Zwischenwahlen in den USA können die Demokraten einen weiteren Erfolg feiern – und zwar einen bemerkenswerten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/753b13.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-12T18:26:15+00:00",
+"sum": "Bei den Zwischenwahlen in den USA können die Demokraten einen weiteren Erfolg feiern – und zwar einen bemerkenswerten."
+},
 {
 "id": "6f0e3fce477a",
 "title": "Rückblick nach Rücktritt – Von Grafikchips zu KI: Der Aufstieg von Nvidia unter Jensen Huang",
@@ -213,17 +499,6 @@
 "sum": "Im frühen Black Friday Angebot verkauft Amazon den TCL 27P2A Pro zum neuen Tiefstpreis für unter 265 Euro. ( Black Friday , Display )"
 },
 {
-"id": "0344d5e81fe2",
-"title": "Nicht nur digitales Radio – SRF-Sender sind wieder auf UKW empfangbar",
-"link": "https://www.srf.ch/news/schweiz/nicht-nur-digitales-radio-srf-sender-sind-wieder-auf-ukw-empfangbar",
-"text": "Die Radiosender der SRG sind wieder analog zu hören. Die SRG hat mit der Aufschaltung auf dem UKW-Netz begonnen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/197339.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-12T17:00:19+00:00",
-"sum": "Die Radiosender der SRG sind wieder analog zu hören. Die SRG hat mit der Aufschaltung auf dem UKW-Netz begonnen."
-},
-{
 "id": "12382e6d54f4",
 "title": "(g+) Jensen Huang: Das dubiose Netzwerk der mutmasslichen Spionin",
 "link": "https://www.golem.de/news/jensen-huang-das-dubiose-netzwerk-der-mutmasslichen-spionin-2611-215145.html",
@@ -367,17 +642,6 @@
 "sum": "Anthropics Aktien sollen am 19. November in den Handel gehen. Der finale Preis pro Aktie wird einen Tag vorher festgelegt."
 },
 {
-"id": "4e44864a26ba",
-"title": "Nein zum Budget – Warum das Budget an einer unheiligen Allianz scheiterte",
-"link": "https://www.srf.ch/news/schweiz/nein-zum-budget-warum-das-budget-an-einer-unheiligen-allianz-scheiterte",
-"text": "Die Budget-Blockade offenbart einen verhärteten Konflikt über Armee, Schuldenbremse und Prioritäten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2dea41.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-12T16:15:27+00:00",
-"sum": "Die Budget-Blockade offenbart einen verhärteten Konflikt über Armee, Schuldenbremse und Prioritäten."
-},
-{
 "id": "eeef839e4737",
 "title": "Colette Kress übernimmt als Nvidia-Chefin: Warum der Verwaltungsrat so lange brauchte, um Jensen Huang zu entlassen",
 "link": "https://www.nzz.ch/wirtschaft/colette-kress-uebernimmt-als-nvidia-chefin-warum-der-verwaltungsrat-so-lange-brauchte-um-jensen-huang-zu-entlassen-ld.10061782",
@@ -411,15 +675,15 @@
 "sum": "Teile stehen wegen starker Regenfälle unter Wasser. Luisa Pacozzi vom Hilfswerk Frieda schildert die aktuelle Lage."
 },
 {
-"id": "2535894e58bb",
-"title": "Finanzchefin wird Nachfolgerin – Affären bringen Nvidia-Chef Jensen Huang zu Fall",
-"link": "https://www.srf.ch/news/international/finanzchefin-wird-nachfolgerin-affaeren-bringen-nvidia-chef-jensen-huang-zu-fall",
-"text": "Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b89c50.webp",
+"id": "cfc9aeab5172",
+"title": "ManUtd liegt auf Abstiegsplatz – Manchester United trennt sich von Trainer Carrick",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/manutd-liegt-auf-abstiegsplatz-manchester-united-trennt-sich-von-trainer-carrick",
+"text": "«Next, please»: Die «Red Devils» nehmen erneut einen Trainerwechsel vor. Kommt nun Mauricio Pochettino?",
+"img": "https://www.srf.ch/static/cms/images//320ws/dd0990a.webp",
 "source": "SRF",
-"topic": "Welt",
-"date": "2026-11-12T16:03:06+00:00",
-"sum": "Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit."
+"topic": "Sport",
+"date": "2026-11-12T16:03:32+00:00",
+"sum": "«Next, please»: Die «Red Devils» nehmen erneut einen Trainerwechsel vor. Kommt nun Mauricio Pochettino?"
 },
 {
 "id": "0e87b86d6d50",
@@ -442,17 +706,6 @@
 "topic": "Tech",
 "date": "2026-11-12T15:57:01+00:00",
 "sum": "ChatGPT, Claude und andere KI-Assistenten sollen künftig Photoshop und Premiere direkt bedienen können. Die Projektdateien bleiben bearbeitbar. ( Adobe , KI )"
-},
-{
-"id": "5a9bf8e81a52",
-"title": "Hintergründe unklar – Mehrere Menschen in Washington angeschossen – ein Toter",
-"link": "https://www.srf.ch/news/international/hintergruende-unklar-mehrere-menschen-in-washington-angeschossen-ein-toter",
-"text": "Bei Schüssen in der US-Hauptstadt wurden zudem vier Personen verletzt. Der mutmassliche Täter wurde gefasst.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6669f4.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-12T15:55:43+00:00",
-"sum": "Bei Schüssen in der US-Hauptstadt wurden zudem vier Personen verletzt. Der mutmassliche Täter wurde gefasst."
 },
 {
 "id": "1be8686a0c41",
@@ -488,17 +741,6 @@
 "sum": "Wenn die Tage kürzer werden, steigt die Zahl der Einbrüche. Die Kantonspolizei Aargau zeigt, wie man sich schützt."
 },
 {
-"id": "0b38b3e6eb4d",
-"title": "htop für die Grafikkarte: GPU Taskman leuchtet den Grafikspeicher aus",
-"link": "https://www.heise.de/news/GPU-Taskman-Neuer-Task-Manager-fuer-Grafikkarten-und-KI-11522367.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Was belegt gerade den Grafikspeicher? Der quelloffene GPU Taskman zeigt die VRAM-Nutzung pro Prozess und liefert Details zu laufenden LLMs.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-12T15:37:00+00:00",
-"sum": "Was belegt gerade den Grafikspeicher? Der quelloffene GPU Taskman zeigt die VRAM-Nutzung pro Prozess und liefert Details zu laufenden LLMs."
-},
-{
 "id": "194a8add81c8",
 "title": "Quartalszahlen: Kundenplus reicht nicht für ein Ende der Telefónica-Krise",
 "link": "https://www.golem.de/news/quartalszahlen-kundenplus-reicht-nicht-fuer-ein-ende-der-telefonica-krise-2611-215147.html",
@@ -532,28 +774,6 @@
 "sum": "Die Weltgesundheitsorganisation (WHO) hat den Gesundheitsnotstand ausgerufen. Die Infektionszahlen steigen weiterhin an. Die wichtigsten Antworten zum Ebola-Virus."
 },
 {
-"id": "d76a29fdbbee",
-"title": "Kritische Sicherheitslücke in Apache2 ermöglicht Codeeinschleusung",
-"link": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache2-ermoeglicht-Codeeinschleusung-11523150.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Nur Server mit aktiviertem HTTP/2 sind betroffen, Updates sind angeraten. Ein Exploit ist möglich, aber schwierig.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-12T15:22:00+00:00",
-"sum": "Nur Server mit aktiviertem HTTP/2 sind betroffen, Updates sind angeraten. Ein Exploit ist möglich, aber schwierig."
-},
-{
-"id": "3ac0eac71eff",
-"title": "Pager-Panne in Sachsen: Notrufmeldungen offenbar frei zugänglich im Netz",
-"link": "https://www.heise.de/news/Pager-Panne-in-Sachsen-Notrufmeldungen-offenbar-frei-zugaenglich-im-Netz-11523154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Ein Notruf geht ein und alle können mitlesen: Offenbar sind heikle Patientendaten von Rettungsdienst- und Feuerwehr-Pagern in Sachsen abgefischt worden.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-12T15:19:00+00:00",
-"sum": "Ein Notruf geht ein und alle können mitlesen: Offenbar sind heikle Patientendaten von Rettungsdienst- und Feuerwehr-Pagern in Sachsen abgefischt worden."
-},
-{
 "id": "1cf432ba2715",
 "title": "Jensen Huang tritt als Firmenchef von Nvidia zurück",
 "link": "https://www.nzz.ch/wirtschaft/jensen-huang-tritt-als-firmenchef-von-nvidia-zurueck-ld.10061334",
@@ -563,17 +783,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-12T15:15:05+00:00",
 "sum": "Der Nvidia-Chef Jensen Huang muss seinen Posten räumen, nachdem mehrere Affären bekannt geworden sind. Die Finanzchefin Colette Kress übernimmt den Chefposten interimistisch. Der Verwaltungsrat sucht eine dauerhafte Nachfolge."
-},
-{
-"id": "e1d9bcf40084",
-"title": "OSCAL Foundation löst sich auf",
-"link": "https://www.heise.de/news/OSCAL-Foundation-loest-sich-auf-11522880.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Die Organisation hinter dem Compliance-Format OSCAL gibt nach knapp zwei Jahren auf. Das BSI hat den IT-Grundschutz++ erst 2025 auf dieses Format umgestellt.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-12T15:13:00+00:00",
-"sum": "Die Organisation hinter dem Compliance-Format OSCAL gibt nach knapp zwei Jahren auf. Das BSI hat den IT-Grundschutz++ erst 2025 auf dieses Format umgestellt."
 },
 {
 "id": "ed4d136e0be8",
@@ -675,17 +884,6 @@
 "sum": "Weniger Geld für die Tuberkulose-Bekämpfung, viele Fälle bleiben unentdeckt."
 },
 {
-"id": "5a03df255cd5",
-"title": "Im Stadtteil Brooklyn – Acht Tote und 17 Verletzte bei Hauseinsturz in New York",
-"link": "https://www.srf.ch/news/international/im-stadtteil-brooklyn-acht-tote-und-17-verletzte-bei-hauseinsturz-in-new-york",
-"text": "Nach Angaben der Feuerwehr sind auch Kinder unter den Verletzten. Die Rettungsaktion ist noch im Gang.",
-"img": "https://www.srf.ch/static/cms/images//320ws/872678.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-12T13:51:14+00:00",
-"sum": "Nach Angaben der Feuerwehr sind auch Kinder unter den Verletzten. Die Rettungsaktion ist noch im Gang."
-},
-{
 "id": "fc98516c36c4",
 "title": "Die nächste Generation fordert die Banken heraus",
 "link": "https://www.finews.ch/news/banken/74472-nextgen-unternehmertum-banken-finanzierung-familienunternehmen-liechtenstein-finance",
@@ -695,17 +893,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-12T13:41:40+00:00",
 "sum": "Der Generationenwechsel in Familienunternehmen stellt Banken und Vermögensverwalter vor neue Herausforderungen. Welche Rolle können die Finanzplätze Schweiz und Liechtenstein dabei spielen? Eine hochkarätig besetzte Veranstaltung von Liechtenstein Finance und finews geht diesen Fragen nach."
-},
-{
-"id": "8b7921586e4b",
-"title": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
-"link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
-"text": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
-"img": "https://images.tagesschau.de/image/c719ccdf-4c2e-4d89-8cc7-51bde98c7346/AAABn3WyiBE/AAABnSSvrFg/16x9-big/cdu-csu-fraktion-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-12T13:40:04+00:00",
-"sum": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor."
 },
 {
 "id": "6c49a7996ceb",
@@ -728,17 +915,6 @@
 "topic": "Welt",
 "date": "2026-11-12T13:29:26+00:00",
 "sum": "Die Hoffnung auf Frieden im Nahen Osten und gute Geschäftsaussichten der deutschen Unternehmen überzeugen viele Anleger. Manche Analysten sehen das als Nährboden für eine Jahresend-Rally beim DAX."
-},
-{
-"id": "d438c8f0633d",
-"title": "EPG-Treffen in Irland: Europa will mit an den Tisch",
-"link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html",
-"text": "Kurze Gespräche und viel Diplomatie: Beim Treffen der Europäischen Politischen Gemeinschaft geht es heute um die Nachbereitung der Ukraine-Gespräche in Abu Dhabi und Moskau. Mit dabei: Selenskyj und der US-Sondergesandte Witkoff. Von S. López.",
-"img": "https://images.tagesschau.de/image/ea811c51-bc9d-4366-83c2-55809b7f5226/AAABoc17d8I/AAABnSSvrFg/16x9-big/selenskyj-martin-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-12T13:28:28+00:00",
-"sum": "Kurze Gespräche und viel Diplomatie: Beim Treffen der Europäischen Politischen Gemeinschaft geht es heute um die Nachbereitung der Ukraine-Gespräche in Abu Dhabi und Moskau. Mit dabei: Selenskyj und der US-Sondergesandte Witkoff. Von S. López."
 },
 {
 "id": "04b25bc55084",
@@ -785,28 +961,6 @@
 "sum": "Zwei Entscheide sorgen für Stirnrunzeln: Im Eishockey werden russische Mannschaften wieder zugelassen, im Curling nicht."
 },
 {
-"id": "03c4747de880",
-"title": "News aus der National League – HCD lange ohne Kessler – Swiss-League-Duo will aufsteigen",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/news-aus-der-national-league-hcd-lange-ohne-kessler-swiss-league-duo-will-aufsteigen",
-"text": "Hier finden Sie die wichtigsten Kurzmeldungen des Tages aus dem Schweizer Eishockey-Geschehen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7b7db6.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-12T12:55:42+00:00",
-"sum": "Hier finden Sie die wichtigsten Kurzmeldungen des Tages aus dem Schweizer Eishockey-Geschehen."
-},
-{
-"id": "911fb12b416c",
-"title": "Neuausrichtung der Bundeszentrale für politische Bildung sorgt für Streit",
-"link": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html",
-"text": "Die Bundeszentrale für politische Bildung ist bekannt für den Wahl-O-Mat, Bildungsveranstaltungen und Info-Broschüren. Auf Weisung des Innenministeriums richtet sie sich neu aus. Doch darüber ist jetzt ein Streit ausgebrochen. Von D. K. Mäurer.",
-"img": "https://images.tagesschau.de/image/90f99846-de4b-4a1e-9225-2cc2244cd775/AAABodCcc4w/AAABnSSvrFg/16x9-big/bpb-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-12T12:52:24+00:00",
-"sum": "Die Bundeszentrale für politische Bildung ist bekannt für den Wahl-O-Mat, Bildungsveranstaltungen und Info-Broschüren. Auf Weisung des Innenministeriums richtet sie sich neu aus. Doch darüber ist jetzt ein Streit ausgebrochen. Von D. K. Mäurer."
-},
-{
 "id": "004794b48393",
 "title": "News aus dem Tennis – Alcaraz trifft an den ATP Finals auf Cobolli, Medwedew und Tiafoe",
 "link": "https://www.srf.ch/sport/tennis/tennis-allgemein/news-aus-dem-tennis-alcaraz-trifft-an-den-atp-finals-auf-cobolli-medwedew-und-tiafoe",
@@ -816,28 +970,6 @@
 "topic": "Sport",
 "date": "2026-11-12T12:41:42+00:00",
 "sum": "Hier finden Sie die wichtigsten Tennis-Kurzmeldungen des Tages."
-},
-{
-"id": "e6831e4c2afe",
-"title": "Polen scheitert vor EuGH mit Klagen gegen EU-Klimapaket",
-"link": "https://www.tagesschau.de/ausland/europa/eugh-polen-klage-eu-klimapaket-100.html",
-"text": "Die \"Fit for 55\" genannten Klimaregeln sollen Europa bis Mitte des Jahrhunderts klimaneutral machen. Polen war gegen das Gesetzespaket aus dem Jahr 2023 mit sieben Klagen vorgegangen - alle wurden nun vom Europäischen Gerichtshof abgewiesen.",
-"img": "https://images.tagesschau.de/image/263cfe7a-734a-4178-8119-0665a6b48156/AAABoc-7470/AAABnSSvrFg/16x9-big/eugh-179.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-12T12:39:40+00:00",
-"sum": "Die \"Fit for 55\" genannten Klimaregeln sollen Europa bis Mitte des Jahrhunderts klimaneutral machen. Polen war gegen das Gesetzespaket aus dem Jahr 2023 mit sieben Klagen vorgegangen - alle wurden nun vom Europäischen Gerichtshof abgewiesen."
-},
-{
-"id": "4b4606d07b50",
-"title": "Warum Filme aus Südkorea in Europa und den USA so gut ankommen",
-"link": "https://www.tagesschau.de/kultur/suedkorea-kino-erfolge-100.html",
-"text": "Der südkoreanische Kinomarkt ist der fünftgrösste der Welt - und die Filme aus dem Land werden meist auch in Europa oder und den USA gefeiert. Jüngstes Beispiel: \"Possible Love\" gilt als einer der besten des Jahres. Von Ferdinand Meyen.",
-"img": "https://images.tagesschau.de/image/5b23d442-e9b7-458e-b6b6-a28ff6e4afb1/AAABodCZmdg/AAABnSSvrFg/16x9-big/possible-love-film-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-12T12:37:02+00:00",
-"sum": "Der südkoreanische Kinomarkt ist der fünftgrösste der Welt - und die Filme aus dem Land werden meist auch in Europa oder und den USA gefeiert. Jüngstes Beispiel: \"Possible Love\" gilt als einer der besten des Jahres. Von Ferdinand Meyen."
 },
 {
 "id": "6be4ca28b417",
@@ -961,17 +1093,6 @@
 "sum": "Der republikanische Stadtpräsident von Oklahoma City, David Holt, spricht Klartext: Seine Partei müsse den Kurs ändern."
 },
 {
-"id": "166918ab6a25",
-"title": "Feuerwerksinitiative – Wie läuft das Geschäft mit Raketen und Co.?",
-"link": "https://www.srf.ch/news/feuerwerksinitiative-wie-laeuft-das-geschaeft-mit-raketen-und-co",
-"text": "Rund um 1. August und Silvester: Mit Feuerwerk lässt sich nur an wenigen Tagen im Jahr Geld verdienen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6327fd.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-12T10:18:22+00:00",
-"sum": "Rund um 1. August und Silvester: Mit Feuerwerk lässt sich nur an wenigen Tagen im Jahr Geld verdienen."
-},
-{
 "id": "8094bfe4eaf1",
 "title": "Fehlersuche im 6er-System",
 "link": "https://www.spektrum.de/video/christian-spannagel-fehlersuche-im-6er-system/2353719",
@@ -1025,17 +1146,6 @@
 "topic": "Sport",
 "date": "2026-11-12T09:35:45+00:00",
 "sum": "Die verletzte Nati-Kapitänin feuert ihre Teamkolleginnen als Fan an – und bleibt optimistisch."
-},
-{
-"id": "ee44893ed154",
-"title": "Kein Duell gegen Schweiz – Kanada verweigert Russland Visa für U20-WM",
-"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/kein-duell-gegen-schweiz-kanada-verweigert-russland-visa-fuer-u20-wm",
-"text": "Dem TAS-Entscheid zum Trotz: Russlands U20 kann nicht an der U20-WM in Kanada teilnehmen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/29addc.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-12T09:26:53+00:00",
-"sum": "Dem TAS-Entscheid zum Trotz: Russlands U20 kann nicht an der U20-WM in Kanada teilnehmen."
 },
 {
 "id": "0f2a78b66051",
@@ -1093,17 +1203,6 @@
 "sum": "Die Vermögensverwaltung baut ihr Beratungsangebot für vermögende Privatkunden und Familien aus. Hélène Castro übernimmt die neu geschaffene Position mit Sitz in Genf."
 },
 {
-"id": "7ef29749bd63",
-"title": "Nach schwerem Olympia-Sturz – Vonn nach 9. Operation: «Ganzer Mist ist endlich aus meinem Bein»",
-"link": "https://www.srf.ch/sport/ski-alpin/ski-alpin-allgemein/nach-schwerem-olympia-sturz-vonn-nach-9-operation-ganzer-mist-ist-endlich-aus-meinem-bein",
-"text": "Nach ihrer 9. Operation am Bein meldet sich Lindsey Vonn bei ihren Fans. Der Ski-Star ist mit dem Eingriff zufrieden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d0f882.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-12T08:48:26+00:00",
-"sum": "Nach ihrer 9. Operation am Bein meldet sich Lindsey Vonn bei ihren Fans. Der Ski-Star ist mit dem Eingriff zufrieden."
-},
-{
 "id": "16af51af6d14",
 "title": "Vom Chatbot zum Agenten: Drei Tage im KI-Klassenzimmer",
 "link": "https://www.finews.ch/news/finanzplatz/74467-certified-applied-ai-expert-caaie-hwz-kimia-kiser-kuenstliche-intelligenz-chatbot-agent-workflow-automatisierung-claude-chatgpt-finanzfabio",
@@ -1124,17 +1223,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-12T08:24:27+00:00",
 "sum": "Vermögende Familien in der Schweiz, Deutschland und Österreich suchen vermehrt nach einem «Plan B», wie Arton Capital beobachtet. Der Spezialist für Investitionsmigration hat in Zürich ein Büro eröffnet und zielt auch auf Kunden aus der Golfregion, die in der Schweiz Fuss fassen wollen."
-},
-{
-"id": "9254c8637365",
-"title": "Nach geplatztem Olympia-Traum – Philippinisch-schweizerische Curler an der WM",
-"link": "https://www.srf.ch/sport/mehr-sport/curling/nach-geplatztem-olympia-traum-philippinisch-schweizerische-curler-an-der-wm",
-"text": "Olympia blieb ihnen verwehrt, nun hat das philippinische Team in neuer Formation einen anderen Meilenstein erreicht.",
-"img": "https://www.srf.ch/static/cms/images//320ws/163beb.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-12T08:20:49+00:00",
-"sum": "Olympia blieb ihnen verwehrt, nun hat das philippinische Team in neuer Formation einen anderen Meilenstein erreicht."
 },
 {
 "id": "a9a2ca36d63f",
@@ -1176,7 +1264,7 @@
 "text": "Der Rhein führt seit dem Sommer zu wenig Wasser, mit Folgen bis heute: Für den Gütertransport ist der Fluss zweigeteilt.",
 "img": "https://www.srf.ch/static/cms/images//320ws/bba977.webp",
 "source": "SRF",
-"topic": "Schweiz",
+"topic": "Wirtschaft",
 "date": "2026-11-12T07:56:29+00:00",
 "sum": "Der Rhein führt seit dem Sommer zu wenig Wasser, mit Folgen bis heute: Für den Gütertransport ist der Fluss zweigeteilt."
 },
@@ -1335,39 +1423,6 @@
 "sum": "Die Affäre des Nvidia-Chefs mit einer möglichen Spionin belastet den Konzern. Nun gibt es weitere Affärenberichte."
 },
 {
-"id": "ace0bade4a53",
-"title": "In Zug tropft es vom Dach – Genonis Jubiläum fällt wortwörtlich ins Wasser",
-"link": "https://www.srf.ch/sport/eishockey/national-league/in-zug-tropft-es-vom-dach-genonis-jubilaeum-faellt-wortwoertlich-ins-wasser",
-"text": "Wegen zwei Lecks im Dach des Zuger Stadions muss die Partie gegen Ambri-Piotta nach rund 10 Minuten abgebrochen werden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/bf5c6f.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-11T22:31:29+00:00",
-"sum": "Wegen zwei Lecks im Dach des Zuger Stadions muss die Partie gegen Ambri-Piotta nach rund 10 Minuten abgebrochen werden."
-},
-{
-"id": "d2e856941cbf",
-"title": "Wohnungsnot in Spanien – Generalstreik legt Teile des Landes lahm – Krawalle in Barcelona",
-"link": "https://www.srf.ch/news/international/wohnungsnot-in-spanien-generalstreik-legt-teile-des-landes-lahm-krawalle-in-barcelona",
-"text": "Hunderttausende streiken gegen die Wohnungsnot und für höhere Löhne. Gegen Abend kam es auch zu Ausschreitungen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/4b6705a.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-11T21:33:21+00:00",
-"sum": "Hunderttausende streiken gegen die Wohnungsnot und für höhere Löhne. Gegen Abend kam es auch zu Ausschreitungen."
-},
-{
-"id": "9c1c26f125a6",
-"title": "National League am Mittwoch – Der SCB fühlt sich in der Fremde weiter wohl",
-"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-mittwoch-der-scb-fuehlt-sich-in-der-fremde-weiter-wohl",
-"text": "Der SC Bern schlägt Lugano auswärts mit 3:2. Zwei Tessiner «Doppeltorschützen» treten dabei in Erscheinung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/78e213.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-11T20:58:13+00:00",
-"sum": "Der SC Bern schlägt Lugano auswärts mit 3:2. Zwei Tessiner «Doppeltorschützen» treten dabei in Erscheinung."
-},
-{
 "id": "d049da900b3c",
 "title": "WM in Dänemark: Vorrunde – Nati verliert gegen Deutschland und verspielt 2. Rang",
 "link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-in-daenemark-vorrunde-nati-verliert-gegen-deutschland-und-verspielt-2-rang",
@@ -1443,17 +1498,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-11T18:25:39+00:00",
 "sum": "Die Wirtschaftsweisen fordern die Bundesregierung auf, Subventionen und Sozialausgaben zu kürzen. Die Verteidigungsausgaben müssen künftig aus dem regulären Haushalt statt über Kredite finanziert werden. Andernfalls laufen die Staatsschulden aus dem Ruder."
-},
-{
-"id": "7074b3a111dd",
-"title": "Erbe des Kommunismus – Ungarn öffnet seine Akten und wagt den Befreiungsschlag",
-"link": "https://www.srf.ch/news/international/erbe-des-kommunismus-ungarn-oeffnet-seine-akten-und-wagt-den-befreiungsschlag",
-"text": "Die Namen Tausender Informanten aus den Jahren kommunistischer Diktatur sind nun zugänglich – und werfen Fragen auf.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c6a55d.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-11T18:00:28+00:00",
-"sum": "Die Namen Tausender Informanten aus den Jahren kommunistischer Diktatur sind nun zugänglich – und werfen Fragen auf."
 },
 {
 "id": "5672e52a671d",
@@ -1588,28 +1632,6 @@
 "sum": "Axiom Alternative Investments eröffnet eine neue Niederlassung in Zürich und baut sein Geschäft mit Wandelanleihen aus. Dafür hat Ivan Nikolov die Position des Head of Convertibles übernommen, wie das Unternehmen mitteilte."
 },
 {
-"id": "2514b351f834",
-"title": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
-"link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
-"text": "Die EU-Kommission will mit einem Digital Fairness Act (DFA) Verbraucher in der digitalen Welt schützen. Der nun vorgestellte Entwurf soll unlautere Praktiken unterbinden. Die deutschen Verleger sind nicht begeistert.",
-"img": "https://images.tagesschau.de/image/b9c080d8-59ae-4c18-b67d-5cf49744367f/AAABocpJyCQ/AAABnSSvrFg/16x9-big/europa-parlament-strassburg-106.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-11T12:40:59+00:00",
-"sum": "Die EU-Kommission will mit einem Digital Fairness Act (DFA) Verbraucher in der digitalen Welt schützen. Der nun vorgestellte Entwurf soll unlautere Praktiken unterbinden. Die deutschen Verleger sind nicht begeistert."
-},
-{
-"id": "db7bcae7397d",
-"title": "Bundeskartellamt kritisiert Gebührenpolitik von PayPal",
-"link": "https://www.tagesschau.de/wirtschaft/verbraucher/paypal-bundeskartellamt-gebuehren-100.html",
-"text": "Wer etwas mit PayPal kauft, muss dafür keine Gebühren zahlen. Onlinehändler dagegen tragen womöglich überhöhte Kosten. Aus Sicht des Bundeskartellamts könnte das günstigere Zahlungsanbieter benachteiligen.",
-"img": "https://images.tagesschau.de/image/68f178b2-8505-40b9-af6e-cffd22adf7f8/AAABocqqLNc/AAABnSSvrFg/16x9-big/paypal-146.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-11T12:34:37+00:00",
-"sum": "Wer etwas mit PayPal kauft, muss dafür keine Gebühren zahlen. Onlinehändler dagegen tragen womöglich überhöhte Kosten. Aus Sicht des Bundeskartellamts könnte das günstigere Zahlungsanbieter benachteiligen."
-},
-{
 "id": "e43506cc56ea",
 "title": "SNB sieht weiterhin keine Anzeichen für eine Kreditklemme",
 "link": "https://www.finews.ch/news/finanzplatz/74446-schweizer-kreditmarkt-einschaetzung-der-schweizerischen-nationalbank-snb-untergang-der-credit-suisse-wachstumsprognosen-fuer-die-schweizer-wirtschaft-inflation-deutlich-gestiegen",
@@ -1676,17 +1698,6 @@
 "sum": "Neobanken machen in den sozialen Medien Jagd auf junge Kundschaft und öffnen ihnen die Tür zum Anlegen an der Börse."
 },
 {
-"id": "5905709531fa",
-"title": "Start-up Vvardis – Swiss-Smile-Schwestern wagen Milliarden-Börsengang an Wall Street",
-"link": "https://www.srf.ch/news/wirtschaft/start-up-vvardis-swiss-smile-schwestern-wagen-milliarden-boersengang-an-wall-street",
-"text": "Schulden, Verluste und hohes Risiko: Die Abivardi-Schwestern planen mit Börsengang den Befreiungsschlag.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f35198.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-11T05:02:29+00:00",
-"sum": "Schulden, Verluste und hohes Risiko: Die Abivardi-Schwestern planen mit Börsengang den Befreiungsschlag."
-},
-{
 "id": "831ee6548e5c",
 "title": "Die Japaner sollen endlich ein Volk von Anlegern werden – nun hilft ihnen der Staat dabei",
 "link": "https://www.nzz.ch/wirtschaft/warum-in-japan-der-staat-die-leute-zum-investieren-auffordert-viele-aeltere-japaner-haben-ihr-geld-physisch-zuhause-sagt-eine-aktien-expertin-ld.10048333",
@@ -1729,28 +1740,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-11T02:56:56+00:00",
 "sum": "Der stark verschuldete Entwickler von Rechenzentren steigert seinen Umsatz deutlich und kann die nervösen Anleger etwas beruhigen. Die Strategie bleibt aber sehr aggressiv."
-},
-{
-"id": "ab99214780a4",
-"title": "In eigener Sache – Benjamin Fisch wird neuer Moderator der «Arena»",
-"link": "https://www.srf.ch/news/wirtschaft/in-eigener-sache-benjamin-fisch-wird-neuer-moderator-der-arena",
-"text": "Benjamin Fisch folgt im Februar 2027 auf Sandro Brotz. Derzeit ist er beim «Blick» als Journalist und Moderator tätig.",
-"img": "https://www.srf.ch/static/cms/images//320ws/8474205.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-10T12:53:59+00:00",
-"sum": "Benjamin Fisch folgt im Februar 2027 auf Sandro Brotz. Derzeit ist er beim «Blick» als Journalist und Moderator tätig."
-},
-{
-"id": "870103e3768b",
-"title": "Olympia in der Schweiz – Private Defizit-Garantie für Olympia in der Schweiz",
-"link": "https://www.srf.ch/news/wirtschaft/olympia-in-der-schweiz-private-defizit-garantie-fuer-olympia-in-der-schweiz",
-"text": "2038 könnten Olympische Winterspiele in der Schweiz stattfinden – auch dank einer privat finanzierten Defizitgarantie.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e0acab.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-10T09:31:49+00:00",
-"sum": "2038 könnten Olympische Winterspiele in der Schweiz stattfinden – auch dank einer privat finanzierten Defizitgarantie."
 },
 {
 "id": "47310722c3df",
