@@ -1,28 +1,237 @@
 {
-"updated": "2026-11-13T23:37:13+00:00",
+"updated": "2026-11-14T06:31:56+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
-"id": "3fd9617c4172",
-"title": "Nähe von New Orleans – USA: Tanker rammt Ausflugsschiff auf Mississippi",
-"link": "https://www.srf.ch/news/international/naehe-von-new-orleans-usa-tanker-rammt-ausflugsschiff-auf-mississippi",
-"text": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/91fbdb.webp",
+"id": "a7415f75799b",
+"title": "Free-to-Play: Gratis spielen zwischen Bratpfannen und Panzerschlachten",
+"link": "https://www.golem.de/news/free-to-play-gratis-spielen-zwischen-bratpfannen-und-panzerschlachten-2611-215101.html",
+"text": "Panzergefechte, Nachbarschaftskrieg und Anime-Abenteuer: Sieben Free-to-Play-Spiele bieten viel Abwechslung. Von Rainer Sigl ( Free-to-play , Spiele )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215101&page=1&ts=1794637802",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T06:30:02+00:00",
+"sum": "Panzergefechte, Nachbarschaftskrieg und Anime-Abenteuer: Sieben Free-to-Play-Spiele bieten viel Abwechslung. Von Rainer Sigl ( Free-to-play , Spiele )"
+},
+{
+"id": "d2ed47c51e3f",
+"title": "Ausfälle bei Software-Riesen – Microsoft: Dienste für Verbraucher arbeiten wieder",
+"link": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-dienste-fuer-verbraucher-arbeiten-wieder",
+"text": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c34684.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-14T06:29:15+00:00",
+"sum": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden."
+},
+{
+"id": "7a3eb55e24f7",
+"title": "Landesweites Startverbot – Technische Panne legte US-Flugverkehr lahm: Das steckt dahinter",
+"link": "https://www.srf.ch/news/international/landesweites-startverbot-technische-panne-legte-us-flugverkehr-lahm-das-steckt-dahinter",
+"text": "Die US-Luftfahrtbehörde stoppte landesweit alle Starts für 4 Stunden. Die Auswirkungen dürften länger spürbar sein.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8680559.webp",
 "source": "SRF",
 "topic": "Welt",
-"date": "2026-11-13T23:35:03+00:00",
+"date": "2026-11-14T06:19:56+00:00",
+"sum": "Die US-Luftfahrtbehörde stoppte landesweit alle Starts für 4 Stunden. Die Auswirkungen dürften länger spürbar sein."
+},
+{
+"id": "dd70e0ead463",
+"title": "Acamar – ein heller Stern ist nicht mehr da",
+"link": "https://www.spektrum.de/podcast/sternengeschichten-acamar-ein-heller-stern-ist-nicht-mehr-da/2354126",
+"text": "In der Antike und bis zum Mittelalter war Acamar einer der hellsten Sterne am Himmel. Jetzt ist er das nicht mehr. 🎙️",
+"img": "https://static.spektrum.de/fm/912/thumbnails/Nachthimmel_unsplash81609_Taylor-Leopold-CC0.jpg.3214439.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T06:17:00+00:00",
+"sum": "In der Antike und bis zum Mittelalter war Acamar einer der hellsten Sterne am Himmel. Jetzt ist er das nicht mehr. 🎙️"
+},
+{
+"id": "1c8a5bc3e9ef",
+"title": "Geschichten von der Büffelfarm",
+"link": "https://www.spektrum.de/podcast/nerds-at-work-geschichten-von-der-bueffelfarm/2354120",
+"text": "In dieser Folge des Podcasts »Nerds at Work« sprechen Jens und Christian über den Tod von Hubert Aiwanger und Texas. 🎙️",
+"img": "https://static.spektrum.de/fm/912/thumbnails/Loewe-Bueffel_iStock-178365776.2741419.jpg.2741425.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T06:16:00+00:00",
+"sum": "In dieser Folge des Podcasts »Nerds at Work« sprechen Jens und Christian über den Tod von Hubert Aiwanger und Texas. 🎙️"
+},
+{
+"id": "64d7e6aedf0d",
+"title": "In China – Weisses Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
+"link": "https://www.srf.ch/news/international/in-china-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an",
+"text": "Bislang gab es nur bilaterale Gespräche zwischen den Atommächten, das Treffen ist historisch.",
+"img": "https://www.srf.ch/static/cms/images//320ws/164f9e.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T06:15:43+00:00",
+"sum": "Bislang gab es nur bilaterale Gespräche zwischen den Atommächten, das Treffen ist historisch."
+},
+{
+"id": "93e46867b0a9",
+"title": "INTERVIEW - Nvidia und Anthropic machen die Börse nervös – ein 3600-Milliarden-Fonds-Chef gibt Entwarnung: «Die Umsätze sind sehr real»",
+"link": "https://www.nzz.ch/wirtschaft/nvidia-und-anthropic-machen-die-boerse-nervoes-ein-3600-milliarden-fonds-chef-gibt-entwarnung-die-umsaetze-sind-sehr-real-ld.10063100",
+"text": "Die Nvidia-Krise hat viele Anleger aufgeschreckt. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 für unbegründet.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/13/bab3d073-6a9b-4c98-8471-6449475436cc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1316,1316,x2286,y124",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-14T06:02:35+00:00",
+"sum": "Die Nvidia-Krise hat viele Anleger aufgeschreckt. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 für unbegründet."
+},
+{
+"id": "7f7b6d610449",
+"title": "US-Raumfahrtunternehmen – SpaceX scheitert beim Raketenfang – Starship erreicht Orbit",
+"link": "https://www.srf.ch/news/international/us-raumfahrtunternehmen-spacex-scheitert-beim-raketenfang-starship-erreicht-orbit",
+"text": "Beim jüngsten Testflug sollte SpaceX erstmals beide Teile seiner Riesenrakete auffangen. Es lief aber nicht wie geplant.",
+"img": "https://www.srf.ch/static/cms/images//320ws/64742c.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T05:59:29+00:00",
+"sum": "Beim jüngsten Testflug sollte SpaceX erstmals beide Teile seiner Riesenrakete auffangen. Es lief aber nicht wie geplant."
+},
+{
+"id": "8f1bd95ffda0",
+"title": "32 Verletzte – «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans",
+"link": "https://www.srf.ch/news/international/32-verletzte-ein-wunder-keine-toten-nach-schiffsunglueck-in-new-orleans",
+"text": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/21991c.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T05:50:45+00:00",
 "sum": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt."
 },
 {
+"id": "d36dc8e40548",
+"title": "Blende zu, KI an – wohin entwickelt sich die Smartphone-Fotografie? | c’t uplink",
+"link": "https://www.heise.de/news/Blende-zu-KI-an-wohin-entwickelt-sich-die-Smartphone-Fotografie-c-t-uplink-11524072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Ob variable Blende, Telekonverter oder KI: Smartphone-Kameras rüsten sowohl bei Hard- als auch Software auf. Doch was bringt die Fotografie wirklich voran?",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T05:30:00+00:00",
+"sum": "Ob variable Blende, Telekonverter oder KI: Smartphone-Kameras rüsten sowohl bei Hard- als auch Software auf. Doch was bringt die Fotografie wirklich voran?"
+},
+{
+"id": "75f629256bff",
+"title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+"link": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+"text": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel. Dennoch sind viele Politiker aus den USA in Antalya. Sie setzen weiter auf das Geschäft mit erneuerbaren Energien. Von Jakob Mayr.",
+"img": "https://images.tagesschau.de/image/74662585-3aca-45e4-bd69-d381da2ecb7c/AAABodhcaEk/AAABnSSvrFg/16x9-big/gavin-newsom-120.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T04:41:37+00:00",
+"sum": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel. Dennoch sind viele Politiker aus den USA in Antalya. Sie setzen weiter auf das Geschäft mit erneuerbaren Energien. Von Jakob Mayr."
+},
+{
+"id": "3ca0b329b467",
+"title": "Keine Priorität für Klimaschutz in der Koalition",
+"link": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
+"text": "Deutschland wird die selbst gesteckten Klimaziele für 2030 und 2040 verfehlen. Umwelt- und Naturschutzverbände werfen vor allem Kanzler Merz und Wirtschaftsministerin Reiche einen Rollback beim Klimaschutz vor. Von Susanne Henn.",
+"img": "https://images.tagesschau.de/image/b5997f85-5df0-401c-be2c-1544d33bb0bf/AAABodSIH68/AAABnSSvrFg/16x9-big/chemiepark-leuna-kraftwerk-schkopau-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T04:40:44+00:00",
+"sum": "Deutschland wird die selbst gesteckten Klimaziele für 2030 und 2040 verfehlen. Umwelt- und Naturschutzverbände werfen vor allem Kanzler Merz und Wirtschaftsministerin Reiche einen Rollback beim Klimaschutz vor. Von Susanne Henn."
+},
+{
+"id": "51c38d0d5e9e",
+"title": "Die Leber entgiftet unser Blut. Alles, was sie dabei an Unterstützung braucht, ist ein vernünftiger Lebensstil",
+"link": "https://www.nzz.ch/wissenschaft/die-leber-entgiftet-unser-blut-alles-was-sie-dabei-an-unterstuetzung-braucht-ist-ein-vernuenftiger-lebensstil-ld.10059875",
+"text": "Produkte zur «Leberreinigung» verkaufen sich im Internet bestens. Wissenschaftliche Belege für ihre versprochenen Wirkungen gibt es so gut wie keine. Die Kolumne «Hauptsache, gesund».",
+"img": "https://img-msp-prod.nzz.ch/2026/11/08/c1383773-cc91-4987-a9f8-ffd14ca1c39c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2833,2833,x860,y106",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-14T04:30:00+00:00",
+"sum": "Produkte zur «Leberreinigung» verkaufen sich im Internet bestens. Wissenschaftliche Belege für ihre versprochenen Wirkungen gibt es so gut wie keine. Die Kolumne «Hauptsache, gesund»."
+},
+{
+"id": "5d129d145911",
+"title": "INTERVIEW - Thomas Zurbuchen zieht Bilanz: «Mir ist es nicht gelungen, die Regierung der Schweiz von der Bedeutung des Weltraums zu überzeugen»",
+"link": "https://www.nzz.ch/wissenschaft/thomas-zurbuchen-zieht-bilanz-mir-ist-es-nicht-gelungen-die-regierung-der-schweiz-von-der-bedeutung-des-weltraums-zu-ueberzeugen-ld.10058629",
+"text": "In nur drei Jahren hat Thomas Zurbuchen die ETH Zürich zu einer wichtigen Adresse in der Weltraumforschung gemacht. Im Interview erklärt der ehemalige Wissenschaftsdirektor der Nasa, warum er die Schweiz nun wieder verlässt.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/13/86baef9a-4eb0-41c9-83b0-54c84affa2de.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4516,4516,x0,y1218",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-14T04:30:00+00:00",
+"sum": "In nur drei Jahren hat Thomas Zurbuchen die ETH Zürich zu einer wichtigen Adresse in der Weltraumforschung gemacht. Im Interview erklärt der ehemalige Wissenschaftsdirektor der Nasa, warum er die Schweiz nun wieder verlässt."
+},
+{
+"id": "75105e30452e",
+"title": "Die Heilerzellen, von denen nicht nur die Kardashians schwärmen: Muse-Zellen werfen Fragen auf",
+"link": "https://www.nzz.ch/wissenschaft/muse-zellen-revolutionaere-heiler-oder-teurer-hype-ohne-beweise-ld.10044893",
+"text": "Sie sollen Entzündungen und Schmerzen lindern oder kaputtes Gewebe ersetzen. Sie sind zwar nicht zugelassen, aber trotzdem in den USA, Europa und Asien erhältlich. Welche Wirkungen belegt sind.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/11/02141f72-a8bf-4e86-a907-f8a07978980a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2048,2048,x565,y0",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-14T04:30:00+00:00",
+"sum": "Sie sollen Entzündungen und Schmerzen lindern oder kaputtes Gewebe ersetzen. Sie sind zwar nicht zugelassen, aber trotzdem in den USA, Europa und Asien erhältlich. Welche Wirkungen belegt sind."
+},
+{
+"id": "0df652727249",
+"title": "Weisses Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+"link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
+"text": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weissem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+"img": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T03:18:01+00:00",
+"sum": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weissem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen."
+},
+{
+"id": "745e0f35945b",
+"title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+"link": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+"text": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+"img": "https://images.tagesschau.de/image/3335c8db-b9b7-4025-9004-d01279760b2b/AAABodfHHKI/AAABnSSvrFg/16x9-big/usa-flugzeuge-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T02:36:59+00:00",
+"sum": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache."
+},
+{
+"id": "ca144da2fe66",
+"title": "Kommunikationsprobleme – US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
+"link": "https://www.srf.ch/news/international/kommunikationsprobleme-us-luftfahrtbehoerde-hebt-landesweiten-flugstopp-wieder-auf",
+"text": "Es gab schwerwiegende Kommunikationsprobleme, die alle Flugsicherungszentralen betrafen, so der US-Verkehrsminister.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b4a225.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T01:39:51+00:00",
+"sum": "Es gab schwerwiegende Kommunikationsprobleme, die alle Flugsicherungszentralen betrafen, so der US-Verkehrsminister."
+},
+{
+"id": "8f683f255b7e",
+"title": "Börsengang Vvardis – Swiss-Smile-Schwestern mit harter Landung an der Wall Street",
+"link": "https://www.srf.ch/news/wirtschaft/boersengang-vvardis-swiss-smile-schwestern-mit-harter-landung-an-der-wall-street",
+"text": "Schweizer Firma will den Dentalmarkt revolutionieren. Die Wall Street reagiert mit frostigem Empfang. Aktienkurs taucht.",
+"img": "https://www.srf.ch/static/cms/images//320ws/4891995.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-14T01:06:09+00:00",
+"sum": "Schweizer Firma will den Dentalmarkt revolutionieren. Die Wall Street reagiert mit frostigem Empfang. Aktienkurs taucht."
+},
+{
+"id": "753d518dfc7a",
+"title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+"link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+"text": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+"img": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodbHq9A/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T00:51:37+00:00",
+"sum": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand."
+},
+{
 "id": "a4623768fca2",
-"title": "Wird das Starship nun komplett wiederverwendbar? SpaceX bricht das Auffangen der unteren Raketenstufe ab",
+"title": "Wird das Starship nun komplett wiederverwendbar? SpaceX bricht das Auffangen der unteren Raketenstufe ab, die obere Raketenstufe erreicht das All",
 "link": "https://www.nzz.ch/wissenschaft/wird-das-starship-endlich-komplett-wiederverwendbar-die-neuste-rakete-von-spacex-soll-erstmals-nach-einem-flug-zur-startrampe-zurueckkehren-ld.10058733",
 "text": "Derzeit findet der nächste Testflug der Rakete von Elon Musks Raumfahrtfirma statt. Läuft der Flug gut, ist das ein echter Durchbruch für die Raumfahrt.",
 "img": "https://img-msp-prod.nzz.ch/2026/10/26/e5a35022-e4cf-4e99-87e5-4a5afc5045d3.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3859,3859,x1362,y0",
 "source": "NZZ",
 "topic": "Wissenschaft",
-"date": "2026-11-13T23:09:49+00:00",
+"date": "2026-11-13T23:48:32+00:00",
 "sum": "Derzeit findet der nächste Testflug der Rakete von Elon Musks Raumfahrtfirma statt. Läuft der Flug gut, ist das ein echter Durchbruch für die Raumfahrt."
 },
 {
@@ -37,26 +246,15 @@
 "sum": "Remo Freulers Fazit fällt nüchtern aus. Für Samuel Ballet war das 0:0 gegen Slowenien dennoch ein besonderes Spiel."
 },
 {
-"id": "cca00e5d1e38",
-"title": "Kommunikationsprobleme – US-Luftfahrtbehörde verhängt landesweiten Flugstopp",
-"link": "https://www.srf.ch/news/international/kommunikationsprobleme-us-luftfahrtbehoerde-verhaengt-landesweiten-flugstopp",
-"text": "Es gebe schwerwiegende Kommunikationsprobleme, die alle Flugsicherungszentralen beträfen, so der US-Verkehrsminister.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b4a225.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-13T22:12:16+00:00",
-"sum": "Es gebe schwerwiegende Kommunikationsprobleme, die alle Flugsicherungszentralen beträfen, so der US-Verkehrsminister."
-},
-{
 "id": "5e20ddd3af72",
-"title": "USA: Alle Flughäfen gesperrt",
+"title": "USA: Alle Flughäfen stundenlang gesperrt",
 "link": "https://www.heise.de/news/USA-Alle-Flughaefen-gesperrt-11525181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "In den USA müssen derzeit alle Luftfahrzeuge auf dem Boden bleiben. Grund ist der Ausfall eines Kommunikationssystems.",
+"text": "In den USA mussten am Freitag alle Luftfahrzeuge mehr als vier Stunden auf dem Boden bleiben. Grund waren technische Probleme der Flugsicherung.",
 "img": "",
 "source": "heise",
 "topic": "Tech",
 "date": "2026-11-13T22:05:00+00:00",
-"sum": "In den USA müssen derzeit alle Luftfahrzeuge auf dem Boden bleiben. Grund ist der Ausfall eines Kommunikationssystems."
+"sum": "In den USA mussten am Freitag alle Luftfahrzeuge mehr als vier Stunden auf dem Boden bleiben. Grund waren technische Probleme der Flugsicherung."
 },
 {
 "id": "4a991d8a97e9",
@@ -103,17 +301,6 @@
 "sum": "Infolge eines tragischen Zusammenpralls von Owono und de Miguel verstarb Letzterer. Owono wurde nun lange gesperrt."
 },
 {
-"id": "753d518dfc7a",
-"title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
-"link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
-"text": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen.",
-"img": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodbHq9A/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T21:37:39+00:00",
-"sum": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen."
-},
-{
 "id": "87bb0c7088af",
 "title": "SBB testen Strom-Blackout – Provozierter Stromausfall: Züge nach drei Minuten wieder am Netz",
 "link": "https://www.srf.ch/news/schweiz/sbb-testen-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
@@ -156,17 +343,6 @@
 "topic": "Welt",
 "date": "2026-11-13T20:32:59+00:00",
 "sum": "Deutschland, Frankreich, Grossbritannien, Italien und Polen sollen mit EU-Institutionen an den Gesprächen dabei sein."
-},
-{
-"id": "fcd8a8c0025d",
-"title": "Ausfälle bei Software-Riesen – Microsoft-Dienste laufen stabiler – Problembehebung dauert an",
-"link": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-dienste-laufen-stabiler-problembehebung-dauert-an",
-"text": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c34684.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-13T20:27:48+00:00",
-"sum": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden."
 },
 {
 "id": "db57c61c2871",
@@ -653,17 +829,6 @@
 "sum": "Über gekaperte GitHub-Konten richten Angreifer Hintertüren bei AWS und Azure ein. Secrets auszutauschen reicht deshalb nicht."
 },
 {
-"id": "6eedc27300af",
-"title": "Brandstiftung: Auto von Nius-Chefredakteur Reichelt angezündet",
-"link": "https://www.tagesschau.de/inland/regional/berlin/reichelt-auto-angezuendet-100.html",
-"text": "In Berlin-Charlottenburg ist das Auto von Nius-Chefredakteur Reichelt ausgebrannt. Auf seinem rechtspopulistischen Online-Portal spricht Reichelt von einem \"Einschüchterungsversuch\". Der Staatschutz ermittelt.",
-"img": "https://images.tagesschau.de/image/9a56da2c-7aa0-4a1f-8c35-3e6f8c0d3fb2/AAABodUxp5U/AAABnSSvrFg/16x9-big/rbb-reichelt-auto-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T15:28:26+00:00",
-"sum": "In Berlin-Charlottenburg ist das Auto von Nius-Chefredakteur Reichelt ausgebrannt. Auf seinem rechtspopulistischen Online-Portal spricht Reichelt von einem \"Einschüchterungsversuch\". Der Staatschutz ermittelt."
-},
-{
 "id": "e790da8f20d3",
 "title": "Störungen bei Tech-Riesen – Klumpenrisiko Microsoft: Leben wir in fataler Abhängigkeit?",
 "link": "https://www.srf.ch/news/wirtschaft/stoerungen-bei-tech-riesen-klumpenrisiko-microsoft-leben-wir-in-fataler-abhaengigkeit",
@@ -741,17 +906,6 @@
 "sum": "Ist es eine gute Idee, einem LLM Admin-Rechte auf die eigene Wohnung zu geben? Wir haben es mit Home Assistant und HA-MCP ausprobiert."
 },
 {
-"id": "7a46748f9aad",
-"title": "WiiM Bar im Test: Viel Ausstattung und klare Stimmen für 499 Euro",
-"link": "https://www.heise.de/bestenlisten/testbericht/wiim-bar-im-test-viel-ausstattung-und-klare-stimmen-fuer-499-euro/8dtfsc8?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Die WiiM Bar kombiniert Dolby Atmos, DTS:X, einen Touchscreen und umfangreiche Streamingfunktionen. Doch überzeugt auch der Heimkinoklang?",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T15:00:00+00:00",
-"sum": "Die WiiM Bar kombiniert Dolby Atmos, DTS:X, einen Touchscreen und umfangreiche Streamingfunktionen. Doch überzeugt auch der Heimkinoklang?"
-},
-{
 "id": "dc30671f7367",
 "title": "Vodafone und andere: Telekommunikationsbranche streicht weltweit über 17.000 Stellen",
 "link": "https://www.golem.de/news/vodafone-und-andere-telekommunikationsbranche-streicht-weltweit-ueber-17-000-stellen-2611-215195.html",
@@ -769,7 +923,7 @@
 "text": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden. EU-Parlament und Mitgliedstaaten haben sich darauf verständigt, zusätzliche kostenlose Emissionszertifikate auszugeben. Von Andreas Meyer-Feist.",
 "img": "https://images.tagesschau.de/image/30260b61-1455-432e-bbe3-e33e999495f8/AAABnC0Cnlo/AAABnSSvrFg/16x9-big/industrie-222.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-13T14:35:01+00:00",
 "sum": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden. EU-Parlament und Mitgliedstaaten haben sich darauf verständigt, zusätzliche kostenlose Emissionszertifikate auszugeben. Von Andreas Meyer-Feist."
 },
@@ -926,39 +1080,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-13T13:17:00+00:00",
 "sum": "Krieg, Flucht, Migration und Misstrauen erschweren den Kampf gegen Ebola im Kongo. Warum Vertrauen dabei womöglich genauso wichtig ist wie Impfstoffe und Medikamente. 🎙️"
-},
-{
-"id": "cd53aa5cae88",
-"title": "Nach Rücktritt: Jensen Huang und Nvidia stehen vor stürmischen Zeiten",
-"link": "https://www.golem.de/news/nach-ruecktritt-jensen-huang-und-nvidia-stehen-vor-stuermischen-zeiten-2611-215183.html",
-"text": "Der Rücktritt von Jensen Huang könnte für Nvidia erst der Anfang sein. Der zurückgetretene CEO hinterlässt ein schweres Erbe, diverse Probleme könnten den Absatz gefährden. Eine Analyse von Johannes Hiltscher ( Nvidia , Börse )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215183&page=1&ts=1794575521",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T13:12:01+00:00",
-"sum": "Der Rücktritt von Jensen Huang könnte für Nvidia erst der Anfang sein. Der zurückgetretene CEO hinterlässt ein schweres Erbe, diverse Probleme könnten den Absatz gefährden. Eine Analyse von Johannes Hiltscher ( Nvidia , Börse )"
-},
-{
-"id": "e40e0daed489",
-"title": "Bundestag beschliesst Reform: Mehr Befugnisse für die Nachrichtendienste",
-"link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
-"text": "Heimlich Wohnungen betreten, Hackerangriffe, Falschinformationen: Deutsche Nachrichtendienste bekommen mehr Befugnisse. Der Bundestag hat die Reform nun beschlossen. Damit reagiert die Koalition auf die verschärfte Bedrohung.",
-"img": "https://images.tagesschau.de/image/d8498805-a053-4ad6-8618-dc875355bcbf/AAABoNPzfmk/AAABnSSvrFg/16x9-big/bundesnachrichtendienst-128.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T13:11:16+00:00",
-"sum": "Heimlich Wohnungen betreten, Hackerangriffe, Falschinformationen: Deutsche Nachrichtendienste bekommen mehr Befugnisse. Der Bundestag hat die Reform nun beschlossen. Damit reagiert die Koalition auf die verschärfte Bedrohung."
-},
-{
-"id": "79754f1e5cd4",
-"title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
-"link": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
-"text": "In Deutschland wurden im August so viele Unternehmensinsolvenzen registriert wie seit 13 Jahren nicht mehr. Die Pleitewelle dürfte weitergehen, meinen Experten. Gleichzeitig wird aber auch mehr gegründet.",
-"img": "https://images.tagesschau.de/image/724b5aaa-05e4-4f00-90c7-db121675a790/AAABodRUGMc/AAABnSSvrFg/16x9-big/insolvenz-220.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T13:00:43+00:00",
-"sum": "In Deutschland wurden im August so viele Unternehmensinsolvenzen registriert wie seit 13 Jahren nicht mehr. Die Pleitewelle dürfte weitergehen, meinen Experten. Gleichzeitig wird aber auch mehr gegründet."
 },
 {
 "id": "4cac74a9aefd",
@@ -1280,17 +1401,6 @@
 "sum": "Wegen grüner Schleimschichten und giftiger Blaualgen werden Seen häufig gesperrt. Forschende arbeiten an einem Frühwarnsystem, das Algenblüten vorhersagt, bevor das Wasser kippt. 🎙️"
 },
 {
-"id": "90eefd0acbd1",
-"title": "Was ist im Krater des Nördlinger Ries passiert?",
-"link": "https://www.spektrum.de/podcast/astrogeo-was-ist-im-krater-des-noerdlinger-ries-passiert/2353883",
-"text": "Das Nördlinger Ries ist ein gigantisch grosser Krater. Dass vor 14,8 Millionen Jahren dort ein Asteroid eingeschlagen ist, wollten viele Geologen lange nicht glauben. 🎙️",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-167245459.jpg.8377294.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T06:13:00+00:00",
-"sum": "Das Nördlinger Ries ist ein gigantisch grosser Krater. Dass vor 14,8 Millionen Jahren dort ein Asteroid eingeschlagen ist, wollten viele Geologen lange nicht glauben. 🎙️"
-},
-{
 "id": "d1b0eb832e67",
 "title": "Glarner Kantonalbank: Der Kanton setzt beim Gewinn neue Prioritäten",
 "link": "https://www.finews.ch/news/banken/74476-glarner-kantonalbank-eignerstrategie-kanton",
@@ -1434,28 +1544,6 @@
 "sum": "Immer wieder verlieren Topmanager ihre Posten wegen Affären. Eine Auswahl."
 },
 {
-"id": "5a9bf8e81a52",
-"title": "Hintergründe unklar – Mehrere Menschen in Washington angeschossen – ein Toter",
-"link": "https://www.srf.ch/news/international/hintergruende-unklar-mehrere-menschen-in-washington-angeschossen-ein-toter",
-"text": "Bei Schüssen in der US-Hauptstadt wurden vier Personen verletzt. Der mutmassliche Täter starb laut Polizei.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6669f4.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-12T21:19:48+00:00",
-"sum": "Bei Schüssen in der US-Hauptstadt wurden vier Personen verletzt. Der mutmassliche Täter starb laut Polizei."
-},
-{
-"id": "2535894e58bb",
-"title": "Finanzchefin wird Nachfolgerin – Affären bringen Nvidia-Chef Jensen Huang zu Fall",
-"link": "https://www.srf.ch/news/international/finanzchefin-wird-nachfolgerin-affaeren-bringen-nvidia-chef-jensen-huang-zu-fall",
-"text": "Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b89c50.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-12T21:17:27+00:00",
-"sum": "Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit."
-},
-{
 "id": "4e1b39a12f11",
 "title": "Verhandlungen zu Ukraine-Krieg – «Über Europa kann nicht ohne Europa gesprochen werden»",
 "link": "https://www.srf.ch/news/international/ukraine/verhandlungen-zu-ukraine-krieg-ueber-europa-kann-nicht-ohne-europa-gesprochen-werden",
@@ -1495,7 +1583,7 @@
 "text": "Vor seinem Rücktritt prägte Jensen Huang Nvidia über Jahrzehnte. Ein Blick zurück auf einen eindrucksvollen Aufstieg.",
 "img": "https://www.srf.ch/static/cms/images//320ws/6c2f8d7.webp",
 "source": "SRF",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-12T18:21:38+00:00",
 "sum": "Vor seinem Rücktritt prägte Jensen Huang Nvidia über Jahrzehnte. Ein Blick zurück auf einen eindrucksvollen Aufstieg."
 },
@@ -1542,17 +1630,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-12T17:10:33+00:00",
 "sum": "Der Milchverarbeiter konzentriert sich auf einen Hauptsitz und drei Produktlinien – das Wallis bangt um Raclette-Käse."
-},
-{
-"id": "5db9bf5b18d7",
-"title": "Multiple Sklerose: Hochaktive Hirnregionen sind besonders gefährdet",
-"link": "https://www.spektrum.de/news/neurodegeneration-die-epizentren-der-multiplen-sklerose/2353911",
-"text": "Bei multipler Sklerose wird die graue Substanz an mehreren Stellen im Gehirn abgebaut – offenbar ausgehend von besonders aktiven und gut vernetzten Epizentren.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-1434534146.jpg.8424802.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-12T16:30:00+00:00",
-"sum": "Bei multipler Sklerose wird die graue Substanz an mehreren Stellen im Gehirn abgebaut – offenbar ausgehend von besonders aktiven und gut vernetzten Epizentren."
 },
 {
 "id": "150cfd4a7e84",
@@ -1687,17 +1764,6 @@
 "sum": "Die Schweizer Privatbank verstärkt ihr Team für den Nahen Osten personell und holt einen Manger von der UBS in Genf."
 },
 {
-"id": "74854d786cb6",
-"title": "Auswirkungen des Hitzesommers – Der Gütertransport auf dem Rhein ist seit dem Sommer unterbrochen",
-"link": "https://www.srf.ch/news/wirtschaft/auswirkungen-des-hitzesommers-der-guetertransport-auf-dem-rhein-ist-seit-dem-sommer-unterbrochen",
-"text": "Der Rhein führt seit dem Sommer zu wenig Wasser, mit Folgen bis heute: Für den Gütertransport ist der Fluss zweigeteilt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/bba977.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-12T07:56:29+00:00",
-"sum": "Der Rhein führt seit dem Sommer zu wenig Wasser, mit Folgen bis heute: Für den Gütertransport ist der Fluss zweigeteilt."
-},
-{
 "id": "ce6fdb0785ab",
 "title": "Beschattungsaffäre holt Urs Rohner ein",
 "link": "https://www.finews.ch/news/banken/74461-urs-rohner-busse-edf-beschattungsaffaere",
@@ -1718,17 +1784,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-12T06:11:40+00:00",
 "sum": "Die Preise für Wohneigentum in der Schweiz steigen weiter deutlich. Gleichzeitig nimmt die Knappheit am Mietwohnungsmarkt zu. Raiffeisen Schweiz schlägt deshalb einen neuen Ansatz vor: In sogenannten «Weissen Zonen» sollen Bauvorschriften befristet gelockert und konkrete Ziele für zusätzlichen Wohnraum festgelegt werden."
-},
-{
-"id": "249a2f2bf29e",
-"title": "Was, wenn VW geht? Die grosse Frage von Zwickau",
-"link": "https://www.nzz.ch/wirtschaft/was-wenn-vw-geht-die-grosse-frage-von-zwickau-ld.10056615",
-"text": "Der Niedergang der Autobauer trifft Regionen, Städte und Familien in ganz Deutschland. Auch Zwickau im Bundesland Sachsen. Seit 122 Jahren dominiert hier das Auto. Jetzt steht alles auf der Kippe.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/10/7ca83698-c922-4100-a527-919be0588d45.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1555,1555,x2153,y1086",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-12T04:30:00+00:00",
-"sum": "Der Niedergang der Autobauer trifft Regionen, Städte und Familien in ganz Deutschland. Auch Zwickau im Bundesland Sachsen. Seit 122 Jahren dominiert hier das Auto. Jetzt steht alles auf der Kippe."
 },
 {
 "id": "f43b4e07fb1a",
@@ -1784,28 +1839,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-11T11:02:47+00:00",
 "sum": "Vielen Menschen ist das Thema Klimaschutz wichtig - das zumindest zeigen Umfragen. Doch häufig werden Massnahmen, die die Umwelt schützen sollen, abgelehnt. Wie passt das zusammen? Von Magdalena Schmude."
-},
-{
-"id": "9a883bd52c8f",
-"title": "INTERVIEW - Ist Huang Le gar keine Spionin? Das vermutet der Mann, der jahrzehntelang Geheimagenten ausgebildet hat",
-"link": "https://www.nzz.ch/technologie/geheimdienstexperte-zur-affaere-des-nvidia-ceo-huang-le-ist-keine-typische-spionin-ld.10059899",
-"text": "Der frühere Spionageabwehrchef Helmut Müller-Enbergs sagt: Die USA konstruieren ein Narrativ um Huang Le, die Geliebte des Nvidia-CEO Jensen Huang. Ihr Verhalten und ihr Lebenslauf sprechen gegen die Theorie, sie sei eine chinesische Spionin.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/09/32e2d19d-46bf-4667-baab-4dfaa21537d8.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=396,396,x110,y0",
-"source": "NZZ",
-"topic": "Tech",
-"date": "2026-11-11T04:30:00+00:00",
-"sum": "Der frühere Spionageabwehrchef Helmut Müller-Enbergs sagt: Die USA konstruieren ein Narrativ um Huang Le, die Geliebte des Nvidia-CEO Jensen Huang. Ihr Verhalten und ihr Lebenslauf sprechen gegen die Theorie, sie sei eine chinesische Spionin."
-},
-{
-"id": "e566087c615c",
-"title": "ERKLÄRT - Proteine statt Salat: Viele Menschen müssen Gewicht zunehmen. So gelingt es",
-"link": "https://www.nzz.ch/wissenschaft/gesundes-zunehmen-strategien-gegen-mangelernaehrung-ld.10052763",
-"text": "Jeder zweite Spitalpatient ist mangelernährt. Die Probleme beginnen oft zu Hause. Eine Ernährungsberaterin hat Tipps.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/06/1bd4f39b-14d7-4792-810a-f6c18515d68f.gif?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1600,1600,x400,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-11T04:30:00+00:00",
-"sum": "Jeder zweite Spitalpatient ist mangelernährt. Die Probleme beginnen oft zu Hause. Eine Ernährungsberaterin hat Tipps."
 }
 ]
 }
