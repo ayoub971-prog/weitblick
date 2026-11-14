@@ -1,8 +1,745 @@
 {
-"updated": "2026-11-14T06:31:56+00:00",
+"updated": "2026-11-14T15:08:30+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "c45868bd8fa6",
+"title": "Er nannte Jensen Huang ein «nationales Heiligtum»: Der US-Handelsminister Howard Lutnick gerät in den Sog des Nvidia-Skandals",
+"link": "https://www.nzz.ch/wirtschaft/er-nannte-jensen-huang-ein-nationales-heiligtum-der-us-handelsminister-howard-lutnick-geraet-in-den-sog-des-nvidia-skandals-ld.10063981",
+"text": "Finanzminister Scott Bessent wirft Handelsminister Howard Lutnick vor, Exporte der Hochleistungschips von Nvidia nach China nicht verhindert zu haben. Nun untersucht auch der Senat die Affäre.",
+"img": "https://img-msp-prod.nzz.ch/2025/03/14/11fb141a-7ac7-4e55-ab59-10ede9201683.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x1833,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-14T15:05:48+00:00",
+"sum": "Finanzminister Scott Bessent wirft Handelsminister Howard Lutnick vor, Exporte der Hochleistungschips von Nvidia nach China nicht verhindert zu haben. Nun untersucht auch der Senat die Affäre."
+},
+{
+"id": "873ad8bf601b",
+"title": "Anker Nano Dockingstation A83C3 im Test: Kompakt & mit herausnehmbarem USB-C-Hub",
+"link": "https://www.heise.de/bestenlisten/testbericht/anker-nano-dockingstation-a83c3-im-test-kompakt-und-mit-herausnehmbarem-usb-c-hub/nmntb6d?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die kompakte Anker Nano Dockingstation ist fair bepreist und bringt einen herausnehmbaren USB-C-Hub für unterwegs mit. Was sie taugt, zeigt der Test.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T15:00:00+00:00",
+"sum": "Die kompakte Anker Nano Dockingstation ist fair bepreist und bringt einen herausnehmbaren USB-C-Hub für unterwegs mit. Was sie taugt, zeigt der Test."
+},
+{
+"id": "6ea12aab7da3",
+"title": "Fossilien: Dieser Wal hatte den schiefsten Schädel aller Säugetiere",
+"link": "https://www.spektrum.de/news/fossilien-dieser-wal-hatte-den-schiefsten-schaedel-aller-saeugetiere/2354196",
+"text": "In Peru wurde eine ausgestorbene Art an Zwergpottwal gefunden. Ihr Schädel war aussergewöhnlich asymmetrisch geformt.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/Artwork_Jaime_Bran_Hauptbild.jpg.8425074.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T15:00:00+00:00",
+"sum": "In Peru wurde eine ausgestorbene Art an Zwergpottwal gefunden. Ihr Schädel war aussergewöhnlich asymmetrisch geformt."
+},
+{
+"id": "9861eb76c275",
+"title": "O2 mit mässigen Geschäftszahlen",
+"link": "https://www.heise.de/news/O2-mit-maessigen-Geschaeftszahlen-11525319.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Der Mobilfunker O2 Telefónica verzeichnet weiter zurückgehende Umsätze, nur im Festnetz gibt es noch Wachstum. Um Kosten zu senken, baut der Konzern Jobs ab.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T14:29:00+00:00",
+"sum": "Der Mobilfunker O2 Telefónica verzeichnet weiter zurückgehende Umsätze, nur im Festnetz gibt es noch Wachstum. Um Kosten zu senken, baut der Konzern Jobs ab."
+},
+{
+"id": "7b7e6498e3ac",
+"title": "Streit um Gesundheitskosten – Ärzte-Präsidentin: «Bundesrat hat seine Kompetenz überschritten»",
+"link": "https://www.srf.ch/news/schweiz/streit-um-gesundheitskosten-aerzte-praesidentin-bundesrat-hat-seine-kompetenz-ueberschritten",
+"text": "FMH-Präsidentin Yvonne Gilli kritisiert die Sparvorgaben aus Bern. Sie zeigt sich aber bereit, zu verhandeln.",
+"img": "https://www.srf.ch/static/cms/images//320ws/5d984f.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-14T14:18:50+00:00",
+"sum": "FMH-Präsidentin Yvonne Gilli kritisiert die Sparvorgaben aus Bern. Sie zeigt sich aber bereit, zu verhandeln."
+},
+{
+"id": "f2fc22f7406b",
+"title": "Weitere Sport-News – Viquerat legt 3. Schweizer Rekord nach – Triathlon-Team im Pech",
+"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-viquerat-legt-3-schweizer-rekord-nach-triathlon-team-im-pech",
+"text": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form.",
+"img": "https://www.srf.ch/static/cms/images//320ws/4c25cb8.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T14:13:28+00:00",
+"sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
+},
+{
+"id": "324b197cbfed",
+"title": "ATP Finals – Trotz Zverevs Nummer‑1-Status: Favoritenrolle gehört Alcaraz",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-trotz-zverevs-nummer-1-status-favoritenrolle-gehoert-alcaraz",
+"text": "Bei den ATP Finals in Turin trifft die Weltnummer 1 auf starke Konkurrenz. Alcaraz will erstmals triumphieren.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c4a7301.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T14:12:19+00:00",
+"sum": "Bei den ATP Finals in Turin trifft die Weltnummer 1 auf starke Konkurrenz. Alcaraz will erstmals triumphieren."
+},
+{
+"id": "ef8ce05dbe9e",
+"title": "Anzeige: IT-Jobs in Systemadministration, Netzwerkarchitektur und Security",
+"link": "https://www.golem.de/news/anzeige-it-jobs-in-systemadministration-netzwerkarchitektur-und-security-2611-215171.html",
+"text": "Die sechs Stellenangebote diese Woche reichen von der Administration von IT-Systemen über die Planung komplexer Netzwerke bis zur Entwicklung von Sicherheitskonzepten. ( Golem Karrierewelt , Unternehmenssoftware )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215171&page=1&ts=1794664801",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T14:00:01+00:00",
+"sum": "Die sechs Stellenangebote diese Woche reichen von der Administration von IT-Systemen über die Planung komplexer Netzwerke bis zur Entwicklung von Sicherheitskonzepten. ( Golem Karrierewelt , Unternehmenssoftware )"
+},
+{
+"id": "6bf3a0678be0",
+"title": "Springers Einwürfe: Die Vermessung der Ungleichheit",
+"link": "https://www.spektrum.de/kolumne/springers-einwuerfe-die-vermessung-der-ungleichheit/2342518",
+"text": "Der Reichtum der Nationen ist extrem unterschiedlich verteilt. Das hat verheerende Folgen. Doch zuverlässige Daten sind Mangelware.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_537863795.jpeg.8413197.jpeg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T14:00:00+00:00",
+"sum": "Der Reichtum der Nationen ist extrem unterschiedlich verteilt. Das hat verheerende Folgen. Doch zuverlässige Daten sind Mangelware."
+},
+{
+"id": "5f552d6bd966",
+"title": "Testspiele in Südamerika – Argentinien unterliegt Uruguay, Japan schlägt junges Brasilien",
+"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/testspiele-in-suedamerika-argentinien-unterliegt-uruguay-japan-schlaegt-junges-brasilien",
+"text": "Die Post-Messi-Ära hier und die Verjüngungskur da sorgen bei den grossen Fussballnationen Südamerikas für Niederlagen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b65538.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T13:49:51+00:00",
+"sum": "Die Post-Messi-Ära hier und die Verjüngungskur da sorgen bei den grossen Fussballnationen Südamerikas für Niederlagen."
+},
+{
+"id": "6e34eeeb040a",
+"title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+"link": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+"text": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+"img": "https://images.tagesschau.de/image/4c666b85-a4b1-47cb-a502-ae3a44ffe086/AAABodkGYWQ/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T13:48:00+00:00",
+"sum": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder."
+},
+{
+"id": "de3742371464",
+"title": "Inference Manager: neues Ubuntu-Tool verwaltet lokale KI-Modelle",
+"link": "https://www.heise.de/news/Inference-Manager-neues-Ubuntu-Tool-verwaltet-lokale-KI-Modelle-11525275.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Canonical hat auf dem Ubuntu Summit den Inference Manager vorgestellt, ein neues Werkzeug zur Verwaltung lokal installierter KI-Modelle.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T13:46:00+00:00",
+"sum": "Canonical hat auf dem Ubuntu Summit den Inference Manager vorgestellt, ein neues Werkzeug zur Verwaltung lokal installierter KI-Modelle."
+},
+{
+"id": "77c1379eb770",
+"title": "Vor Slalom-Auftakt in Levi – Routinier Zenhäusern: Mit neuem Ski zurück zu den Anfängen",
+"link": "https://www.srf.ch/sport/ski-alpin/weltcup-maenner/vor-slalom-auftakt-in-levi-routinier-zenhaeusern-mit-neuem-ski-zurueck-zu-den-anfaengen",
+"text": "Der Slalomspezialist geht ohne Kaderstatus in die Saison. Was bedeutet das für seine Vorbereitung und Ambitionen?",
+"img": "https://www.srf.ch/static/cms/images//320ws/1b0663.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T13:41:21+00:00",
+"sum": "Der Slalomspezialist geht ohne Kaderstatus in die Saison. Was bedeutet das für seine Vorbereitung und Ambitionen?"
+},
+{
+"id": "52f31b790d58",
+"title": "News zur Schweizer Nati – «Belastungssteuerung»: Ndoye reist aus dem Nationalteam ab",
+"link": "https://www.srf.ch/sport/fussball/super-league/news-zur-schweizer-nati-belastungssteuerung-ndoye-reist-aus-dem-nationalteam-ab",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten zur Schweizer Nati.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e43ba3.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T13:32:55+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten zur Schweizer Nati."
+},
+{
+"id": "9329a93f6585",
+"title": "Die neue Gefahr durch Künstliche Intelligenz",
+"link": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
+"text": "Cyberkriminelle nutzen KI, um Angriffe zu automatisieren. Banken setzen die Technologie zur Abwehr ein. Sicherheitsexperten sprechen von einem Wettlauf zwischen den KI-Systemen der Angreifer und denen der Banken. Von Sabina Wolf.",
+"img": "https://images.tagesschau.de/image/a53e5f61-ab9a-45c0-b9dc-8296a114c5ee/AAABocrXM0c/AAABnSSvrFg/16x9-big/banken-152.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Wirtschaft",
+"date": "2026-11-14T13:31:48+00:00",
+"sum": "Cyberkriminelle nutzen KI, um Angriffe zu automatisieren. Banken setzen die Technologie zur Abwehr ein. Sicherheitsexperten sprechen von einem Wettlauf zwischen den KI-Systemen der Angreifer und denen der Banken. Von Sabina Wolf."
+},
+{
+"id": "75ba1535a96f",
+"title": "Drogenhandel – Mafias kämpfen in Katalonien um die Macht von Europas Marihuana",
+"link": "https://www.srf.ch/news/dialog/drogenhandel-mafias-kaempfen-in-katalonien-um-die-macht-von-europas-marihuana",
+"text": "Katalonien ist zum Zentrum des Cannabisanbaus in Europa geworden. Mit dem Boom nehmen Gewalt und Kriminalität zu.",
+"img": "https://www.srf.ch/static/cms/images//320ws/052868.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T13:27:38+00:00",
+"sum": "Katalonien ist zum Zentrum des Cannabisanbaus in Europa geworden. Mit dem Boom nehmen Gewalt und Kriminalität zu."
+},
+{
+"id": "fb93eca94f40",
+"title": "Trauerakt in München: Grosse Anteilnahme bei Abschied von Aiwanger",
+"link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+"text": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war gross. Zu der Zeremonie in der Frauenkirche kamen mehr als 1.000 Trauergäste.",
+"img": "https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T13:22:33+00:00",
+"sum": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war gross. Zu der Zeremonie in der Frauenkirche kamen mehr als 1.000 Trauergäste."
+},
+{
+"id": "bfc912562a71",
+"title": "Frauen-Slalom in Levi – Aicher kann's auch im Stangenwald – Höpli überzeugt",
+"link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/frauen-slalom-in-levi-aicher-kann-s-auch-im-stangenwald-hoepli-ueberzeugt",
+"text": "Die Allrounderin feiert ihren 1. Slalom-Sieg. Camille Rast wird mit Levi nicht warm, Aline Höpli überrascht hingegen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/2000f2.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T13:05:11+00:00",
+"sum": "Die Allrounderin feiert ihren 1. Slalom-Sieg. Camille Rast wird mit Levi nicht warm, Aline Höpli überrascht hingegen."
+},
+{
+"id": "754bcc91e044",
+"title": "Starshield gedrosselt: Ukraine steuert Drohnen über israelische Satellitentechnik",
+"link": "https://www.golem.de/news/starshield-gedrosselt-ukraine-steuert-drohnen-ueber-israelische-satellitentechnik-2611-215225.html",
+"text": "Die Ukraine baut offenbar Satelliten-Terminals der Firma HiSky in ihre Drohnen ein weil Starlink ein unzuverlässiger Partner ist. ( Satelliten , Politik )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215225&page=1&ts=1794661502",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T13:05:02+00:00",
+"sum": "Die Ukraine baut offenbar Satelliten-Terminals der Firma HiSky in ihre Drohnen ein weil Starlink ein unzuverlässiger Partner ist. ( Satelliten , Politik )"
+},
+{
+"id": "0164b9c55043",
+"title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+"link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+"text": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+"img": "https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T12:42:12+00:00",
+"sum": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident."
+},
+{
+"id": "cefc0e60cbe5",
+"title": "Anzeige: Früher Black Friday - Nass-Trockensauger von Tineco mit Gutschein zum Tiefstpreis bei ...",
+"link": "https://www.golem.de/news/anzeige-frueher-black-friday-nass-trockensauger-von-tineco-mit-gutschein-zum-tiefstpreis-bei-amazon-2611-215206.html",
+"text": "Der Black Friday wirft seine Schatten voraus: Ein beliebter Nass-Trockensauger von Tineco ist bei Amazon mit Coupon jetzt zum Tiefstpreis erhältlich. ( Black Friday , Technik/Hardware )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215206&page=1&ts=1794660001",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T12:40:01+00:00",
+"sum": "Der Black Friday wirft seine Schatten voraus: Ein beliebter Nass-Trockensauger von Tineco ist bei Amazon mit Coupon jetzt zum Tiefstpreis erhältlich. ( Black Friday , Technik/Hardware )"
+},
+{
+"id": "3784a4804c97",
+"title": "Neue Gewichtung: OpenAI löst Robotik-Team auf",
+"link": "https://www.golem.de/news/neue-gewichtung-openai-loest-robotik-team-auf-2611-215222.html",
+"text": "OpenAI löst sein Robotik-Team auf und setzt nun auf allgemeine KI-Modelle als Grundlage für künftige Roboterforschung. ( Roboter , KI )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215222&page=1&ts=1794659702",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T12:35:02+00:00",
+"sum": "OpenAI löst sein Robotik-Team auf und setzt nun auf allgemeine KI-Modelle als Grundlage für künftige Roboterforschung. ( Roboter , KI )"
+},
+{
+"id": "16794b8938e3",
+"title": "Die etwas anderen News – Jugendproteste: Alle distanzieren sich gewaltig von Gewalt",
+"link": "https://www.srf.ch/news/schweiz/satire-und-comedy/die-etwas-anderen-news-jugendproteste-alle-distanzieren-sich-gewaltig-von-gewalt",
+"text": "Kein Bock auf Inhalte! Die Politik ist zu beschäftigt, sich von der Gewalt zu distanzieren, die noch nicht passiert ist.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e9bd7d.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-14T12:08:23+00:00",
+"sum": "Kein Bock auf Inhalte! Die Politik ist zu beschäftigt, sich von der Gewalt zu distanzieren, die noch nicht passiert ist."
+},
+{
+"id": "8fbf496f7ece",
+"title": "Batteriespeicher: Netzbetreiber fordert Notbremse bei Stromanschlüssen",
+"link": "https://www.golem.de/news/batteriespeicher-netzbetreiber-fordert-notbremse-bei-stromanschluessen-2611-215223.html",
+"text": "Unrentable Batteriespeicher drohen laut 50Hertz, die Netzanschlüsse der Industrie zu blockieren. Neue rechtliche Vorgaben seien erforderlich. ( Akku , Rechenzentrum )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215223&page=1&ts=1794657901",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T12:05:01+00:00",
+"sum": "Unrentable Batteriespeicher drohen laut 50Hertz, die Netzanschlüsse der Industrie zu blockieren. Neue rechtliche Vorgaben seien erforderlich. ( Akku , Rechenzentrum )"
+},
+{
+"id": "1df72da5fde1",
+"title": "Katar geht fremd – In Nahost entstehen gerade neue Verteidigungsbündnisse",
+"link": "https://www.srf.ch/news/international/katar-geht-fremd-in-nahost-entstehen-gerade-neue-verteidigungsbuendnisse",
+"text": "Die Golfstaaten haben verstanden: Im Ernstfall entscheiden die USA für die USA. Sie suchen darum weitere Schutzpartner.",
+"img": "https://www.srf.ch/static/cms/images//320ws/dcfbf9.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T12:00:43+00:00",
+"sum": "Die Golfstaaten haben verstanden: Im Ernstfall entscheiden die USA für die USA. Sie suchen darum weitere Schutzpartner."
+},
+{
+"id": "7e7c3809a731",
+"title": "heise-Angebot: iX-Workshop: Windows Server absichern und härten",
+"link": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-11515895.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmassnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T12:00:00+00:00",
+"sum": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmassnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten."
+},
+{
+"id": "b8bcd5bde33b",
+"title": "Nvidia-Angestellte wollen Jensen Huang zurück",
+"link": "https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Nachdem eine dritte Affäre des vormaligen Nvidia-Chefs Jensen Huang bekannt wurde, setzt der Fallout ein. Trotzdem wollen manche, dass er wiederkehrt.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T11:42:00+00:00",
+"sum": "Nachdem eine dritte Affäre des vormaligen Nvidia-Chefs Jensen Huang bekannt wurde, setzt der Fallout ein. Trotzdem wollen manche, dass er wiederkehrt."
+},
+{
+"id": "2153fed6955f",
+"title": "GTA 6: Warum jetzt alle Urlaub nehmen wollen",
+"link": "https://www.golem.de/news/gta-6-warum-jetzt-alle-urlaub-nehmen-wollen-2611-215221.html",
+"text": "Weltweit reichen Beschäftigte überdurchschnittlich viele Urlaubsanträge ein, nur um den Release von Grand Theft Auto VI nicht zu verpassen. ( GTA 6 , Arbeit )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215221&page=1&ts=1794656102",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T11:35:02+00:00",
+"sum": "Weltweit reichen Beschäftigte überdurchschnittlich viele Urlaubsanträge ein, nur um den Release von Grand Theft Auto VI nicht zu verpassen. ( GTA 6 , Arbeit )"
+},
+{
+"id": "ba2c764a82c5",
+"title": "Rating Slowenien – Schweiz – Embolo abgestraft – Nati-Defensive überzeugt SRF-User",
+"link": "https://www.srf.ch/sport/fussball/nationalmannschaft/rating-slowenien-schweiz-embolo-abgestraft-nati-defensive-ueberzeugt-srf-user",
+"text": "Die Meinung der User zur Schweizer Nati nach dem mauen 0:0 gegen Slowenien ist klar: hinten top, vorne überwiegend Flop.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c54228.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T11:29:19+00:00",
+"sum": "Die Meinung der User zur Schweizer Nati nach dem mauen 0:0 gegen Slowenien ist klar: hinten top, vorne überwiegend Flop."
+},
+{
+"id": "f90e7ea25238",
+"title": "Warkus' Welt: Amerikas Demokratie-Paradox",
+"link": "https://www.spektrum.de/kolumne/demokratie-freiheit-und-gleichheit-nach-der-revolution/2353979",
+"text": "Die USA entstanden aus den Idealen von Freiheit und Gleichheit. Doch zwischen Anspruch und Wirklichkeit klaffte von Beginn an eine tiefe Lücke, meint unser Philosophie-Kolumnist.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-2303415871.jpg.8424682.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T11:00:00+00:00",
+"sum": "Die USA entstanden aus den Idealen von Freiheit und Gleichheit. Doch zwischen Anspruch und Wirklichkeit klaffte von Beginn an eine tiefe Lücke, meint unser Philosophie-Kolumnist."
+},
+{
+"id": "69b52c27b26d",
+"title": "Kommunikationsprobleme: Mehr als 10.000 Flugausfälle nach Technikpanne in den USA",
+"link": "https://www.golem.de/news/kommunikationsprobleme-mehr-als-10-000-flugausfaelle-nach-technikpanne-in-den-usa-2611-215220.html",
+"text": "Erst vor wenigen Tagen hat die US-Flugsicherung die Ausmusterung von Disketten angekündigt. Doch die alten und neuen Systeme harmonieren noch nicht. ( Flugzeug , Luftfahrt )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215220&page=1&ts=1794653761",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T10:56:01+00:00",
+"sum": "Erst vor wenigen Tagen hat die US-Flugsicherung die Ausmusterung von Disketten angekündigt. Doch die alten und neuen Systeme harmonieren noch nicht. ( Flugzeug , Luftfahrt )"
+},
+{
+"id": "6043633a3271",
+"title": "Zähringer Derby am Freitag – Derbyheld Sonny Milano verzaubert Bern (endlich) ein erstes Mal",
+"link": "https://www.srf.ch/sport/eishockey/national-league/zaehringer-derby-am-freitag-derbyheld-sonny-milano-verzaubert-bern-endlich-ein-erstes-mal",
+"text": "Der US-Stürmer des SC Bern kam mit vielen Vorschusslorbeeren. Glänzen konnte er bislang selten. Am Freitag aber schon.",
+"img": "https://www.srf.ch/static/cms/images//320ws/73459a.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T10:39:53+00:00",
+"sum": "Der US-Stürmer des SC Bern kam mit vielen Vorschusslorbeeren. Glänzen konnte er bislang selten. Am Freitag aber schon."
+},
+{
+"id": "fed0446b1c88",
+"title": "Microsoft-Ausfall: Woran es lag und wer besonders litt",
+"link": "https://www.heise.de/news/Microsoft-Ausfall-Woran-es-lag-und-wer-besonders-litt-11525257.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Keine KI, keine Cyberattacke, soweit Microsofts erste Erklärung. Bei kritischen Strukturen in Deutschland waren die Auswirkungen gering.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T10:26:00+00:00",
+"sum": "Keine KI, keine Cyberattacke, soweit Microsofts erste Erklärung. Bei kritischen Strukturen in Deutschland waren die Auswirkungen gering."
+},
+{
+"id": "d10eb252c167",
+"title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+"link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
+"text": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+"img": "https://images.tagesschau.de/image/a26b9e2d-86af-4c40-851d-0bc71c016725/AAABodmK3dA/AAABnSSvrFg/16x9-big/microsoft-228.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T10:17:44+00:00",
+"sum": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht."
+},
+{
+"id": "6d7c20d20edd",
+"title": "SpaceX: Starship startet erneut ohne Landung des Boosters",
+"link": "https://www.golem.de/news/spacex-starship-startet-erneut-ohne-landung-des-boosters-2611-215218.html",
+"text": "Auch beim Flug 15 scheitert die Wiederverwendung des Starship-Systems. Wieder wurde der Booster vorzeitig gesprengt. Von Frank Wunderlich-Pfeiffer ( Starship , Raumfahrt )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215218&page=1&ts=1794651002",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T10:10:02+00:00",
+"sum": "Auch beim Flug 15 scheitert die Wiederverwendung des Starship-Systems. Wieder wurde der Booster vorzeitig gesprengt. Von Frank Wunderlich-Pfeiffer ( Starship , Raumfahrt )"
+},
+{
+"id": "b3c5f3f103a0",
+"title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+"link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
+"text": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
+"img": "https://images.tagesschau.de/image/9fe06521-e9d3-4c8b-b3f6-a46767c2e54e/AAABodl-Glc/AAABnSSvrFg/16x9-big/alkoholverbot-bahngelaende-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T10:07:05+00:00",
+"sum": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert."
+},
+{
+"id": "7e6c5fabd258",
+"title": "Gummihand-Illusion: Gesichtsillusion bringt Kindheitserinnerungen zurück",
+"link": "https://www.spektrum.de/news/koennen-sie-vergessene-kindheitserinnerungen-zurueckholen/2319861",
+"text": "Je älter man wird, desto mehr verblassen die Kindheitserinnerungen. Aber wenn man das Gehirn glauben lässt, dass man jünger ist, erwachen die Erinnerungen zu neuem Leben.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-82543290.jpeg.8310269.jpeg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T10:05:00+00:00",
+"sum": "Je älter man wird, desto mehr verblassen die Kindheitserinnerungen. Aber wenn man das Gehirn glauben lässt, dass man jünger ist, erwachen die Erinnerungen zu neuem Leben."
+},
+{
+"id": "db57c61c2871",
+"title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+"link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+"text": "Eine stundenlange Grossstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
+"img": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Wirtschaft",
+"date": "2026-11-14T09:55:34+00:00",
+"sum": "Eine stundenlange Grossstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick."
+},
+{
+"id": "ae162b3df6d0",
+"title": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
+"link": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html",
+"text": "Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215217&page=1&ts=1794649502",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T09:45:02+00:00",
+"sum": "Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )"
+},
+{
+"id": "14ec244646d0",
+"title": "Bilanz nach Nati-Aufstieg – Huggel: «Das zeigt, wie breit und gut aufgestellt die Nati ist»",
+"link": "https://www.srf.ch/sport/fussball/nationalmannschaft/bilanz-nach-nati-aufstieg-huggel-das-zeigt-wie-breit-und-gut-aufgestellt-die-nati-ist",
+"text": "SRF-Nati-Experte Beni Huggel zieht nach dem perfekten Aufstieg der Schweiz in die Nations League A ein positives Fazit.",
+"img": "https://www.srf.ch/static/cms/images//320ws/91fa63.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T09:40:06+00:00",
+"sum": "SRF-Nati-Experte Beni Huggel zieht nach dem perfekten Aufstieg der Schweiz in die Nations League A ein positives Fazit."
+},
+{
+"id": "cba0cb2fea76",
+"title": "Anzeige: Black Week Special - Vodafone empfehlen und bis zu 260 Euro Prämie sichern",
+"link": "https://www.golem.de/news/anzeige-black-week-special-vodafone-empfehlen-und-bis-zu-260-euro-praemie-sichern-2611-215156.html",
+"text": "Die Black Week bringt allerlei Angebote und Deals. Bei Vodafone sollen auch alle profitieren, die Vodafone ihren Freunden weiterempfehlen. ( Vodafone , Kabelnetz )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215156&page=1&ts=1794649201",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T09:40:01+00:00",
+"sum": "Die Black Week bringt allerlei Angebote und Deals. Bei Vodafone sollen auch alle profitieren, die Vodafone ihren Freunden weiterempfehlen. ( Vodafone , Kabelnetz )"
+},
+{
+"id": "8f1bd95ffda0",
+"title": "32 Verletzte – «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans",
+"link": "https://www.srf.ch/news/international/32-verletzte-ein-wunder-keine-toten-nach-schiffsunglueck-in-new-orleans",
+"text": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/21991c.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T09:36:40+00:00",
+"sum": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt."
+},
+{
+"id": "e722dec364d4",
+"title": "US-Politik in Lateinamerika – Trump will Kuba «erledigen», bevor er abtritt – Kuba reagiert",
+"link": "https://www.srf.ch/news/international/us-politik-in-lateinamerika-trump-will-kuba-erledigen-bevor-er-abtritt-kuba-reagiert",
+"text": "Erneut hat der US-Präsident angekündigt, Kuba einnehmen zu wollen. Droht ein neuer Krieg oder sind das nur leere Worte?",
+"img": "https://www.srf.ch/static/cms/images//320ws/d34f1d.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T09:33:12+00:00",
+"sum": "Erneut hat der US-Präsident angekündigt, Kuba einnehmen zu wollen. Droht ein neuer Krieg oder sind das nur leere Worte?"
+},
+{
+"id": "ba5e001be9d4",
+"title": "Plättchen in der Stellenwerttafel",
+"link": "https://www.spektrum.de/video/christian-spannagel-plaettchen-in-der-stellenwerttafel/2354152",
+"text": "Heutiges Thema im »Christian Spannagel«-Video: Stellenwertsysteme.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/maxresdefault.8425013.jpg.8425021.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T09:22:00+00:00",
+"sum": "Heutiges Thema im »Christian Spannagel«-Video: Stellenwertsysteme."
+},
+{
+"id": "2d9574ccb03a",
+"title": "Outlook und Teams: Serverausfälle bei Microsoft nicht wegen KI oder Hackern",
+"link": "https://www.golem.de/news/outlook-und-teams-serverausfaelle-bei-microsoft-nicht-wegen-ki-oder-hackern-2611-215215.html",
+"text": "Microsoft hat eine erste Erklärung für den stundenlangen Serverausfall gegeben. Eine ausführliche Fehleranalyse soll folgen. ( Microsoft 365 , Microsoft )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215215&page=1&ts=1794647341",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T09:09:01+00:00",
+"sum": "Microsoft hat eine erste Erklärung für den stundenlangen Serverausfall gegeben. Eine ausführliche Fehleranalyse soll folgen. ( Microsoft 365 , Microsoft )"
+},
+{
+"id": "5648a2bef33f",
+"title": "(g+) KI-Code in Open Source: Wie Maintainer ihre Projekte vor Überlastung schützen",
+"link": "https://www.golem.de/news/ki-code-in-open-source-wie-maintainer-ihre-projekte-vor-ueberlastung-schuetzen-2611-215205.html",
+"text": "KI-Code überflutet Open-Source-Projekte. Wie Maintainer mit Github-Funktionen, Beitragsregeln und Prüfverfahren die Kontrolle behalten. Ein Ratgebertext von Fabian Deitelhoff ( Github , KI )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215205&page=1&ts=1794646802",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T09:00:02+00:00",
+"sum": "KI-Code überflutet Open-Source-Projekte. Wie Maintainer mit Github-Funktionen, Beitragsregeln und Prüfverfahren die Kontrolle behalten. Ein Ratgebertext von Fabian Deitelhoff ( Github , KI )"
+},
+{
+"id": "c5c004592e8f",
+"title": "Adobe, VSCO und Hyänen – die Fotonews der Woche 46/2026",
+"link": "https://www.heise.de/news/Adobe-VSCO-und-Hyaenen-die-Fotonews-der-Woche-46-2026-11524154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Adobe zeigt die KI-Zukunft, VSCO verspricht Datenschutz, südkoreanische Fotografen fordern Ermittlungen und Netflix würdigt Avedon.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T09:00:00+00:00",
+"sum": "Adobe zeigt die KI-Zukunft, VSCO verspricht Datenschutz, südkoreanische Fotografen fordern Ermittlungen und Netflix würdigt Avedon."
+},
+{
+"id": "dd9afc3c98af",
+"title": "heise-Angebot: Rust als perfekte Sprache für Agentic AI: Online-Konferenz betterCode() Rust",
+"link": "https://www.heise.de/news/Rust-als-perfekte-Sprache-fuer-Agentic-AI-Online-Konferenz-betterCode-Rust-11523946.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die Online-Konferenz zeigt am 26. November, wie agentische Softwareentwicklung mit Rust gelingt und warum sich die Programmiersprache besonders dafür eignet.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T09:00:00+00:00",
+"sum": "Die Online-Konferenz zeigt am 26. November, wie agentische Softwareentwicklung mit Rust gelingt und warum sich die Programmiersprache besonders dafür eignet."
+},
+{
+"id": "47018f2f3430",
+"title": "Landesweites Startverbot – Flugchaos in den USA: Was hinter dem seltenen Groundstop steckt",
+"link": "https://www.srf.ch/news/international/landesweites-startverbot-flugchaos-in-den-usa-was-hinter-dem-seltenen-groundstop-steckt",
+"text": "Warum eine Technikpanne den US-Flugverkehr lahmlegte: Die Einordnung von SRF-Korrespondentin Barbara Colpi.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ed807f.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T08:35:59+00:00",
+"sum": "Warum eine Technikpanne den US-Flugverkehr lahmlegte: Die Einordnung von SRF-Korrespondentin Barbara Colpi."
+},
+{
+"id": "b28eb0fb885d",
+"title": "Defense Radar: F-15EX gegen Su-34 - was die Kampfjets unterscheidet",
+"link": "https://www.golem.de/news/defense-radar-f-15ex-gegen-su-34-was-die-kampfjets-unterscheidet-2611-215197.html",
+"text": "Ihre Wurzeln reichen bis in den Kalten Krieg, doch moderne Technik macht sie bis heute relevant. Unser Youtube-Format Defense Radar zeigt, welche Rolle die Kampfjets heute spielen. ( Defense Radar , Politik )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215197&page=1&ts=1794645301",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-14T08:35:01+00:00",
+"sum": "Ihre Wurzeln reichen bis in den Kalten Krieg, doch moderne Technik macht sie bis heute relevant. Unser Youtube-Format Defense Radar zeigt, welche Rolle die Kampfjets heute spielen. ( Defense Radar , Politik )"
+},
+{
+"id": "d4373e880ded",
+"title": "Produziert im Herkunftsland – Kriegt die Schweizer Schokolade Konkurrenz aus Afrika?",
+"link": "https://www.srf.ch/news/international/produziert-im-herkunftsland-kriegt-die-schweizer-schokolade-konkurrenz-aus-afrika",
+"text": "Kakao stammt mehrheitlich aus Westafrika, Schokolade aber wird meist anderswo gemacht. Ghana und Togo wollen das ändern.",
+"img": "https://www.srf.ch/static/cms/images//320ws/35bcf0c.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T08:33:29+00:00",
+"sum": "Kakao stammt mehrheitlich aus Westafrika, Schokolade aber wird meist anderswo gemacht. Ghana und Togo wollen das ändern."
+},
+{
+"id": "3d4b1f257f56",
+"title": "Schwarze Löcher sichtbar machen – Ein Teleskop so gross wie die Erde",
+"link": "https://www.spektrum.de/video/urknall-weltall-und-das-leben-schwarze-loecher-sichtbar-machen/2354142",
+"text": "Wie gelingt es, ein Schwarzes Loch in Millionen Lichtjahren Entfernung sichtbar zu machen? Das erklärt Anton Zensus vom Max-Planck-Institut für Radioastronomie.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/maxresdefault.8424923.jpg.8424931.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T08:21:00+00:00",
+"sum": "Wie gelingt es, ein Schwarzes Loch in Millionen Lichtjahren Entfernung sichtbar zu machen? Das erklärt Anton Zensus vom Max-Planck-Institut für Radioastronomie."
+},
+{
+"id": "a3b7e2c01c37",
+"title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+"link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+"text": "Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich beschlossenen Honorarkürzungen.",
+"img": "https://images.tagesschau.de/image/472318c2-e213-46de-96cb-8c4cae7426e9/AAABodqCYuA/AAABnSSvrFg/16x9-big/wartezimmer-arztpraxis-108.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T08:15:06+00:00",
+"sum": "Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich beschlossenen Honorarkürzungen."
+},
+{
+"id": "26f8f00e34b6",
+"title": "Neue Krebsbehandlung – Gleiche Diagnose – unterschiedliche Entscheide der Krankenkassen",
+"link": "https://www.srf.ch/news/dialog/neue-krebsbehandlung-gleiche-diagnose-unterschiedliche-entscheide-der-krankenkassen",
+"text": "Ein neues Medikament sorgt bei Krebspatienten für Hoffnung. Ob sie es erhalten, entscheidet jedoch ihre Krankenkasse.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f27925.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-14T08:09:24+00:00",
+"sum": "Ein neues Medikament sorgt bei Krebspatienten für Hoffnung. Ob sie es erhalten, entscheidet jedoch ihre Krankenkasse."
+},
+{
+"id": "20bf32ccfaaf",
+"title": "Polarlicht bis Porträt: Licht und Himmel in den Bildern der Woche 46",
+"link": "https://www.heise.de/news/Polarlicht-bis-Portraet-Licht-und-Himmel-in-den-Bildern-der-Woche-46-11522926.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Dramatische Himmel, stille Momente und starke Kontraste: Sieben Aufnahmen zwischen Naturschauspiel und präziser Beobachtung.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T08:00:00+00:00",
+"sum": "Dramatische Himmel, stille Momente und starke Kontraste: Sieben Aufnahmen zwischen Naturschauspiel und präziser Beobachtung."
+},
+{
+"id": "bf0691a0cd6e",
+"title": "Sternfotometrie mit Smart-Teleskopen: Astrophysik mit einem Klick?",
+"link": "https://www.spektrum.de/news/fotometrie-mit-smart-teleskopen/2343745",
+"text": "Smart-Teleskope eröffnen neue Möglichkeiten für astronomische Beobachtungen, beispielsweise Helligkeitsmessungen von veränderlichen Sternen.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/NGC4565_LQ_Com_roboto.jpg.8424473.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T08:00:00+00:00",
+"sum": "Smart-Teleskope eröffnen neue Möglichkeiten für astronomische Beobachtungen, beispielsweise Helligkeitsmessungen von veränderlichen Sternen."
+},
+{
+"id": "3a6e60964bb7",
+"title": "Globale Panne – Microsoft: Alle Dienste wiederhergestellt",
+"link": "https://www.srf.ch/news/wirtschaft/globale-panne-microsoft-alle-dienste-wiederhergestellt",
+"text": "Betroffen von der weltweiten Störung war der Dienst Microsoft 365 – also Outlook, Teams oder Copilot.",
+"img": "https://www.srf.ch/static/cms/images//320ws/13009d.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-14T07:27:57+00:00",
+"sum": "Betroffen von der weltweiten Störung war der Dienst Microsoft 365 – also Outlook, Teams oder Copilot."
+},
+{
+"id": "0b4efa8d8f5c",
+"title": "Warum in Polen schneller gebaut wird als in Deutschland",
+"link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+"text": "Wird in Polen eine neue Strasse oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski.",
+"img": "https://images.tagesschau.de/image/b699a181-b38d-4d47-bfa7-b5fb396c059c/AAABobFEKGI/AAABnSSvrFg/16x9-big/baustelle-bruecke-kolbaskowo-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T07:24:30+00:00",
+"sum": "Wird in Polen eine neue Strasse oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski."
+},
+{
+"id": "fa7dc1b579b6",
+"title": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
+"link": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
+"text": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.",
+"img": "https://images.tagesschau.de/image/9070a02c-fdf1-4a59-a65c-f94b49cbb5e5/AAABodjujCY/AAABnSSvrFg/16x9-big/mexiko-migranten-122.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T07:21:14+00:00",
+"sum": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke."
+},
+{
+"id": "9594ec30b2bd",
+"title": "Developer-Häppchen: Kiro schickt Bots los, Rider durchleuchtet Godot-Szenen",
+"link": "https://www.heise.de/news/Developer-Haeppchen-Kiro-schickt-Bots-los-Rider-durchleuchtet-Godot-Szenen-11523808.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Apache Storm, Lima, PhpStorm, AWS Kiro, ReSharper, Laravel, Node.js, Spring AI und Rider.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T07:17:00+00:00",
+"sum": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Apache Storm, Lima, PhpStorm, AWS Kiro, ReSharper, Laravel, Node.js, Spring AI und Rider."
+},
+{
+"id": "c0e59f3ae54c",
+"title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+"link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+"text": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+"img": "https://images.tagesschau.de/image/db3c732d-062f-452e-b840-ddd218f43e52/AAABodke9Pc/AAABnSSvrFg/16x9-big/flughafen-los-angeles-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-14T07:15:22+00:00",
+"sum": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth."
+},
+{
+"id": "3565083d7082",
+"title": "WTA-Finals in Indian Wells – Top-Favoritin Sabalenka fliegt schon nach der Gruppenphase raus",
+"link": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-in-indian-wells-top-favoritin-sabalenka-fliegt-schon-nach-der-gruppenphase-raus",
+"text": "Für Aryna Sabalenka sind die WTA-Finals nach 3 Matches und der Niederlage gegen Jelina Switolina bereits Geschichte.",
+"img": "https://www.srf.ch/static/cms/images//320ws/3c5ad3.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T07:13:43+00:00",
+"sum": "Für Aryna Sabalenka sind die WTA-Finals nach 3 Matches und der Niederlage gegen Jelina Switolina bereits Geschichte."
+},
+{
+"id": "c028b1cc88ea",
+"title": "Umstrittener Goldhandel – Studie: Strengere Dubai-Regeln für Gold greifen kaum",
+"link": "https://www.srf.ch/news/schweiz/umstrittener-goldhandel-studie-strengere-dubai-regeln-fuer-gold-greifen-kaum",
+"text": "Strengere Regeln für Goldimport aus den Emiraten versagen. Trotzdem bleibt die Schweiz Hauptabnehmerin.",
+"img": "https://www.srf.ch/static/cms/images//320ws/948175b.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-14T07:08:58+00:00",
+"sum": "Strengere Regeln für Goldimport aus den Emiraten versagen. Trotzdem bleibt die Schweiz Hauptabnehmerin."
+},
+{
+"id": "d4ac72ab871b",
+"title": "NHL in der Nacht auf Samstag – 7. Nashville-Sieg in Serie: Josi verwertet entscheidenden Penalty",
+"link": "https://www.srf.ch/sport/eishockey/nhl/nhl-in-der-nacht-auf-samstag-7-nashville-sieg-in-serie-josi-verwertet-entscheidenden-penalty",
+"text": "Im Duell der formstarken Teams behalten die Nashville Predators gegen die Vegas Golden Knights knapp die Oberhand.",
+"img": "https://www.srf.ch/static/cms/images//320ws/021467.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T07:00:33+00:00",
+"sum": "Im Duell der formstarken Teams behalten die Nashville Predators gegen die Vegas Golden Knights knapp die Oberhand."
+},
+{
+"id": "1a4b5d2559f8",
+"title": "Welcher Spieler war am erfolgreichsten?",
+"link": "https://www.spektrum.de/raetsel/welcher-spieler-war-am-erfolgreichsten/2292006",
+"text": "Welcher Streetball-Spieler hat die meisten Punkte erzielt?",
+"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-1249453615.jpg.8195541.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-14T06:52:00+00:00",
+"sum": "Welcher Streetball-Spieler hat die meisten Punkte erzielt?"
+},
+{
+"id": "903062692e61",
+"title": "Landesweites Startverbot – Technische Panne legte US-Flugverkehr lahm",
+"link": "https://www.srf.ch/news/international/landesweites-startverbot-technische-panne-legte-us-flugverkehr-lahm-1",
+"text": "Die US-Luftfahrtbehörde stoppte landesweit alle Starts für 4 Stunden. Die Auswirkungen dürften länger spürbar sein.",
+"img": "https://www.srf.ch/static/cms/images//320ws/bddf81.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-14T06:45:13+00:00",
+"sum": "Die US-Luftfahrtbehörde stoppte landesweit alle Starts für 4 Stunden. Die Auswirkungen dürften länger spürbar sein."
+},
+{
+"id": "74be9e5ce267",
+"title": "AWS Emulator im Detail: Die ganze Cloud auf dem eigenen Rechner?",
+"link": "https://www.heise.de/news/AWS-Emulator-im-Detail-Die-ganze-Cloud-auf-dem-eigenen-Rechner-11524450.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "AWS-Anwendungen ohne Cloud-Konto und Gebühren lokal testen: Wie der neue, kontroverse AWS Emulator unter der Haube funktioniert und was er leistet.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-14T06:32:00+00:00",
+"sum": "AWS-Anwendungen ohne Cloud-Konto und Gebühren lokal testen: Wie der neue, kontroverse AWS Emulator unter der Haube funktioniert und was er leistet."
+},
 {
 "id": "a7415f75799b",
 "title": "Free-to-Play: Gratis spielen zwischen Bratpfannen und Panzerschlachten",
@@ -13,28 +750,6 @@
 "topic": "Tech",
 "date": "2026-11-14T06:30:02+00:00",
 "sum": "Panzergefechte, Nachbarschaftskrieg und Anime-Abenteuer: Sieben Free-to-Play-Spiele bieten viel Abwechslung. Von Rainer Sigl ( Free-to-play , Spiele )"
-},
-{
-"id": "d2ed47c51e3f",
-"title": "Ausfälle bei Software-Riesen – Microsoft: Dienste für Verbraucher arbeiten wieder",
-"link": "https://www.srf.ch/news/wirtschaft/ausfaelle-bei-software-riesen-microsoft-dienste-fuer-verbraucher-arbeiten-wieder",
-"text": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c34684.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-14T06:29:15+00:00",
-"sum": "Betroffen ist der Dienst Microsoft 365 – also Outlook, Teams oder Copilot. Wir halten sie im Ticker auf dem Laufenden."
-},
-{
-"id": "7a3eb55e24f7",
-"title": "Landesweites Startverbot – Technische Panne legte US-Flugverkehr lahm: Das steckt dahinter",
-"link": "https://www.srf.ch/news/international/landesweites-startverbot-technische-panne-legte-us-flugverkehr-lahm-das-steckt-dahinter",
-"text": "Die US-Luftfahrtbehörde stoppte landesweit alle Starts für 4 Stunden. Die Auswirkungen dürften länger spürbar sein.",
-"img": "https://www.srf.ch/static/cms/images//320ws/8680559.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-14T06:19:56+00:00",
-"sum": "Die US-Luftfahrtbehörde stoppte landesweit alle Starts für 4 Stunden. Die Auswirkungen dürften länger spürbar sein."
 },
 {
 "id": "dd70e0ead463",
@@ -73,12 +788,12 @@
 "id": "93e46867b0a9",
 "title": "INTERVIEW - Nvidia und Anthropic machen die Börse nervös – ein 3600-Milliarden-Fonds-Chef gibt Entwarnung: «Die Umsätze sind sehr real»",
 "link": "https://www.nzz.ch/wirtschaft/nvidia-und-anthropic-machen-die-boerse-nervoes-ein-3600-milliarden-fonds-chef-gibt-entwarnung-die-umsaetze-sind-sehr-real-ld.10063100",
-"text": "Die Nvidia-Krise hat viele Anleger aufgeschreckt. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 für unbegründet.",
+"text": "Die Krise bei Nvidia und die Furcht vor einer KI-Blase verunsichern die Anleger. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 jedoch für unbegründet.",
 "img": "https://img-msp-prod.nzz.ch/2026/11/13/bab3d073-6a9b-4c98-8471-6449475436cc.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1316,1316,x2286,y124",
 "source": "NZZ",
 "topic": "Wirtschaft",
 "date": "2026-11-14T06:02:35+00:00",
-"sum": "Die Nvidia-Krise hat viele Anleger aufgeschreckt. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 für unbegründet."
+"sum": "Die Krise bei Nvidia und die Furcht vor einer KI-Blase verunsichern die Anleger. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 jedoch für unbegründet."
 },
 {
 "id": "7f7b6d610449",
@@ -90,17 +805,6 @@
 "topic": "Welt",
 "date": "2026-11-14T05:59:29+00:00",
 "sum": "Beim jüngsten Testflug sollte SpaceX erstmals beide Teile seiner Riesenrakete auffangen. Es lief aber nicht wie geplant."
-},
-{
-"id": "8f1bd95ffda0",
-"title": "32 Verletzte – «Ein Wunder»: Keine Toten nach Schiffsunglück in New Orleans",
-"link": "https://www.srf.ch/news/international/32-verletzte-ein-wunder-keine-toten-nach-schiffsunglueck-in-new-orleans",
-"text": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/21991c.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-14T05:50:45+00:00",
-"sum": "Ein Tanker ist auf dem Mississippi mit einem Passagierschiff kollidiert. 32 Menschen werden im Spital behandelt."
 },
 {
 "id": "d36dc8e40548",
@@ -217,7 +921,7 @@
 "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
 "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
 "text": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
-"img": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodbHq9A/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
+"img": "https://images.tagesschau.de/image/70311613-6efe-4411-b26f-9638163067eb/AAABodk9D7w/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-100.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
 "date": "2026-11-14T00:51:37+00:00",
@@ -257,17 +961,6 @@
 "sum": "In den USA mussten am Freitag alle Luftfahrzeuge mehr als vier Stunden auf dem Boden bleiben. Grund waren technische Probleme der Flugsicherung."
 },
 {
-"id": "4a991d8a97e9",
-"title": "Nations League – Klare Siege für Deutschland und die Niederlande",
-"link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-klare-siege-fuer-deutschland-und-die-niederlande",
-"text": "Wirtz und Neuling Gruda treffen für das Klopp-Team. Reijnders glänzt bei niederländischer Gala gegen Griechenland.",
-"img": "https://www.srf.ch/static/cms/images//320ws/28b5cd.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T21:56:14+00:00",
-"sum": "Wirtz und Neuling Gruda treffen für das Klopp-Team. Reijnders glänzt bei niederländischer Gala gegen Griechenland."
-},
-{
 "id": "2d26e2c1e270",
 "title": "Maues Spiel in Nations League – Minimalistische Nati steigt nach einem 0:0 in Slowenien auf",
 "link": "https://www.srf.ch/sport/fussball/nationalmannschaft/maues-spiel-in-nations-league-minimalistische-nati-steigt-nach-einem-0-0-in-slowenien-auf",
@@ -279,37 +972,15 @@
 "sum": "Die Schweizer Nati spielt in der 5. Runde der Nations League auswärts in Maribor gegen Slowenien 0:0."
 },
 {
-"id": "2d461161434f",
-"title": "Rating Slowenien – Schweiz – Welche Nati-Spieler haben überzeugt, welche nicht?",
-"link": "https://www.srf.ch/sport/fussball/nationalmannschaft/rating-slowenien-schweiz-welche-nati-spieler-haben-ueberzeugt-welche-nicht",
-"text": "Bewerten Sie hier die Leistung der Schweizer Spieler in der Nations League gegen Slowenien.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c54228.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T21:42:46+00:00",
-"sum": "Bewerten Sie hier die Leistung der Schweizer Spieler in der Nations League gegen Slowenien."
-},
-{
-"id": "2850643d952d",
-"title": "Nach Tod von de Miguel – Zwölf Spiele Sperre für Torhüter Jesus Owono",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/nach-tod-von-de-miguel-zwoelf-spiele-sperre-fuer-torhueter-jesus-owono",
-"text": "Infolge eines tragischen Zusammenpralls von Owono und de Miguel verstarb Letzterer. Owono wurde nun lange gesperrt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/9811ef.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T21:42:17+00:00",
-"sum": "Infolge eines tragischen Zusammenpralls von Owono und de Miguel verstarb Letzterer. Owono wurde nun lange gesperrt."
-},
-{
-"id": "87bb0c7088af",
-"title": "SBB testen Strom-Blackout – Provozierter Stromausfall: Züge nach drei Minuten wieder am Netz",
-"link": "https://www.srf.ch/news/schweiz/sbb-testen-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
-"text": "Was passiert bei einem Blackout im Schweizer Bahnstromnetz? Das haben die SBB mit einem neuen System getestet.",
+"id": "6a36b87cdf3e",
+"title": "SBB testet Strom-Blackout – Provozierter Stromausfall: Züge nach drei Minuten wieder am Netz",
+"link": "https://www.srf.ch/news/schweiz/sbb-testet-strom-blackout-provozierter-stromausfall-zuege-nach-drei-minuten-wieder-am-netz",
+"text": "Was passiert bei einem Blackout im Schweizer Bahnstromnetz? Das hat die SBB mit einem neuen System getestet.",
 "img": "https://www.srf.ch/static/cms/images//320ws/5917cc.webp",
 "source": "SRF",
 "topic": "Schweiz",
 "date": "2026-11-13T21:35:38+00:00",
-"sum": "Was passiert bei einem Blackout im Schweizer Bahnstromnetz? Das haben die SBB mit einem neuen System getestet."
+"sum": "Was passiert bei einem Blackout im Schweizer Bahnstromnetz? Das hat die SBB mit einem neuen System getestet."
 },
 {
 "id": "26894e8f7536",
@@ -323,17 +994,6 @@
 "sum": "Das Stadiondach hält, doch Zug kassiert die erste Heimpleite. Das Zähringer Derby geht an Bern."
 },
 {
-"id": "886673411182",
-"title": "WM-Viertelfinal – Eishockey-Nati der Frauen scheitert an Schweden",
-"link": "https://www.srf.ch/sport/eishockey/frauen-nationalteam/wm-viertelfinal-eishockey-nati-der-frauen-scheitert-an-schweden",
-"text": "Die Schweizerinnen müssen sich im Viertelfinal den stärkeren Schwedinnen knapp mit 0:1 geschlagen geben.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e47c9b.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T20:47:51+00:00",
-"sum": "Die Schweizerinnen müssen sich im Viertelfinal den stärkeren Schwedinnen knapp mit 0:1 geschlagen geben."
-},
-{
 "id": "4fb572e7ca11",
 "title": "Gipfeltreffen in Dublin – EU einig: Verhandlungsteam für Gespräche mit Russland steht",
 "link": "https://www.srf.ch/news/international/gipfeltreffen-in-dublin-eu-einig-verhandlungsteam-fuer-gespraeche-mit-russland-steht",
@@ -345,37 +1005,15 @@
 "sum": "Deutschland, Frankreich, Grossbritannien, Italien und Polen sollen mit EU-Institutionen an den Gesprächen dabei sein."
 },
 {
-"id": "db57c61c2871",
-"title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-"link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-"text": "Eine stundenlange Grossstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick.",
-"img": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-13T20:22:33+00:00",
-"sum": "Eine stundenlange Grossstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet werden - ein Überblick."
-},
-{
 "id": "de5c64d2ad1e",
 "title": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
 "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
 "text": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\".",
 "img": "https://images.tagesschau.de/image/3928cacb-31d8-47cb-8498-e9f33774c65e/AAABodWRBtU/AAABnSSvrFg/16x9-big/microsoft-174.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-13T20:21:45+00:00",
 "sum": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\"."
-},
-{
-"id": "2ce95fe63d5c",
-"title": "12. Runde Women's Super League – Zwei Traumtore bescheren Rapperswil-Jona verdientes Remis",
-"link": "https://www.srf.ch/sport/fussball/women-s-super-league/12-runde-women-s-super-league-zwei-traumtore-bescheren-rapperswil-jona-verdientes-remis",
-"text": "Rapperswil-Jona punktet in der WSL zum 6. Mal in Folge. GC verpasst den Sprung an die Tabellenspitze.",
-"img": "https://www.srf.ch/static/cms/images//320ws/08502e5.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T20:18:22+00:00",
-"sum": "Rapperswil-Jona punktet in der WSL zum 6. Mal in Folge. GC verpasst den Sprung an die Tabellenspitze."
 },
 {
 "id": "33af3004f28d",
@@ -400,17 +1038,6 @@
 "sum": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor."
 },
 {
-"id": "ead86f64a6cf",
-"title": "Wirtschaft vor acht vom 13.11.2026",
-"link": "https://www.tagesschau.de/video/video-1683484.html",
-"text": "Wirtschaft vor acht vom 13.11.2026",
-"img": "https://images.tagesschau.de/image/289caee6-0e8b-4fb9-b580-0271b24f0d12/AAABodZNCng/AAABnSSvrFg/16x9-big/sendungsbild-1827162.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-13T19:05:55+00:00",
-"sum": "Wirtschaft vor acht vom 13.11.2026"
-},
-{
 "id": "df4046eaa65d",
 "title": "Bloss keine Schokolade: Der beste Adventskalender 2026 für Schlaumeier & Co.",
 "link": "https://www.heise.de/bestenlisten/testsieger/bloss-keine-schokolade-der-beste-adventskalender-2026-fuer-schlaumeier-und-co/30ewgv3?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -420,17 +1047,6 @@
 "topic": "Tech",
 "date": "2026-11-13T19:00:00+00:00",
 "sum": "Adventskalender können mehr als nur Schokolade: Sie laden zum Werkeln, Rätseln, Experimentieren und Spielen ein. Wir zeigen unsere Top-5-Adventskalender 2026."
-},
-{
-"id": "439a92abcb5a",
-"title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-"link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
-"text": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
-"img": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T18:44:23+00:00",
-"sum": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland."
 },
 {
 "id": "4349e6f0f8fe",
@@ -466,17 +1082,6 @@
 "sum": "Bewerten Sie die Positionen der Ja- und Nein-Seiten zum Urnengang vom 29. November und finden Sie heraus, wo Sie stehen."
 },
 {
-"id": "aed39402d17e",
-"title": "Marktbericht: DAX schwächelt nach Allzeithoch",
-"link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-"text": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
-"img": "https://images.tagesschau.de/image/2351cbd8-2118-4ab8-94b8-3a9bb0f49b44/AAABnOFHOtk/AAABnSSvrFg/16x9-big/boerse-494.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T17:57:57+00:00",
-"sum": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent."
-},
-{
 "id": "cefa5522b366",
 "title": "Abstimmung Gemeinde Davos – Wohnung in Ferienwohnung umwandeln? Das soll schwieriger werden",
 "link": "https://www.srf.ch/news/abstimmung-gemeinde-davos-wohnung-in-ferienwohnung-umwandeln-das-soll-schwieriger-werden",
@@ -486,28 +1091,6 @@
 "topic": "Schweiz",
 "date": "2026-11-13T17:53:33+00:00",
 "sum": "Eine mögliche Einschränkung der Umwandlung von Erst- in Zweitwohnung kommt am 29. November in Davos zur Abstimmung."
-},
-{
-"id": "7b70acd786dd",
-"title": "Anzeige: Bosch Pro Drehschlagschrauber bei Amazon nun klar unter Vergleichspreis",
-"link": "https://www.golem.de/news/anzeige-bosch-pro-deahschlagschrauber-bei-amazon-nun-klar-unter-vergleichspreis-2611-215209.html",
-"text": "Der Bosch Professional GDX 18V-285 ist ein Akku-Drehschlagschrauber. Amazon verkauft ihn nun günstiger als anderswo und üblicherweise. ( Technik/Hardware )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215209&page=1&ts=1794592201",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T17:50:01+00:00",
-"sum": "Der Bosch Professional GDX 18V-285 ist ein Akku-Drehschlagschrauber. Amazon verkauft ihn nun günstiger als anderswo und üblicherweise. ( Technik/Hardware )"
-},
-{
-"id": "32a56775ac19",
-"title": "Anzeige: ISO 27001: Grundlagen für ein sicheres ISMS",
-"link": "https://www.golem.de/news/anzeige-iso-27001-grundlagen-fuer-ein-sicheres-isms-2611-215194.html",
-"text": "ISO 27001 definiert Anforderungen an das Informationssicherheitsmanagement. Ein zweitägiger Online-Workshop vermittelt die Grundlagen und bereitet auf die Zertifizierung vor. ( Golem Karrierewelt , Server-Applikationen )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215194&page=1&ts=1794591901",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T17:45:01+00:00",
-"sum": "ISO 27001 definiert Anforderungen an das Informationssicherheitsmanagement. Ein zweitägiger Online-Workshop vermittelt die Grundlagen und bereitet auf die Zertifizierung vor. ( Golem Karrierewelt , Server-Applikationen )"
 },
 {
 "id": "d3e8a73fa8e8",
@@ -532,61 +1115,6 @@
 "sum": "Gegen den Little-Britain-Star und Kinderbuchautor wird wegen schwerwiegender Sexualstraftaten ermittelt."
 },
 {
-"id": "adb788603ea0",
-"title": "Generative KI stiftet Chaos in Brüssel und Strassburg",
-"link": "https://www.heise.de/news/KI-ueberflutet-EU-Institutionen-mit-Antraegen-und-Halluzinationen-11525079.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Chatbots sorgen in Brüssel und Strassburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete schlagen Alarm wegen demokratischer Risiken.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T17:21:00+00:00",
-"sum": "Chatbots sorgen in Brüssel und Strassburg für eine Flut an Änderungsanträgen und Anfragen. Beamte und Abgeordnete schlagen Alarm wegen demokratischer Risiken."
-},
-{
-"id": "ecde647f63c4",
-"title": "Anzeige: TechniSat 550 IR Internetradio mit DAB+ für nur noch rund 90 Euro bei Amazon",
-"link": "https://www.golem.de/news/anzeige-technisat-550-ir-internetradio-mit-dab-fuer-nur-noch-rund-90-euro-bei-amazon-2611-215202.html",
-"text": "Das TechniSat Digitradio 550 IR empfängt DAB+, UKW und Internetradio und ist bei Amazon deutlich günstiger als im Schnitt. ( Technik/Hardware , Technisat )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215202&page=1&ts=1794590402",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T17:20:02+00:00",
-"sum": "Das TechniSat Digitradio 550 IR empfängt DAB+, UKW und Internetradio und ist bei Amazon deutlich günstiger als im Schnitt. ( Technik/Hardware , Technisat )"
-},
-{
-"id": "98ece7539759",
-"title": "Nachfolger von Carrick – Pochettino übernimmt bei Manchester United",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/nachfolger-von-carrick-pochettino-uebernimmt-bei-manchester-united",
-"text": "Der Trainer des US-Nationalteams versucht sich beim taumelnden englischen Rekordmeister.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ae4b2f.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T17:15:22+00:00",
-"sum": "Der Trainer des US-Nationalteams versucht sich beim taumelnden englischen Rekordmeister."
-},
-{
-"id": "d1435f577fbd",
-"title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
-"link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
-"text": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
-"img": "https://images.tagesschau.de/image/eecb45d2-2e15-4d6a-8801-4d54cc64cf9e/AAABodUoTEY/AAABnSSvrFg/16x9-big/rettungskraefte-wohnhaus-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T17:15:20+00:00",
-"sum": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet."
-},
-{
-"id": "e4134c737c54",
-"title": "Ausschreitungen in Basel – Mildere Urteile in zweiter Instanz für Basler «Saubannerzug»",
-"link": "https://www.srf.ch/news/schweiz/ausschreitungen-in-basel-mildere-urteile-in-zweiter-instanz-fuer-basler-saubannerzug",
-"text": "Das Basler Appellationsgericht verhängt für zwölf Beschuldigte überwiegend bedingte Geld- statt Freiheitsstrafen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/9ae4f8.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-13T17:07:33+00:00",
-"sum": "Das Basler Appellationsgericht verhängt für zwölf Beschuldigte überwiegend bedingte Geld- statt Freiheitsstrafen."
-},
-{
 "id": "c6c6436f5621",
 "title": "Historischer Vertrag – Solothurner Regierungsrat will Löhne von Domherren kürzen",
 "link": "https://www.srf.ch/news/schweiz/historischer-vertrag-solothurner-regierungsrat-will-loehne-von-domherren-kuerzen",
@@ -598,94 +1126,6 @@
 "sum": "Die Kantone des Bistums Basel zahlen teilweise den Lohn der Domherren. Solothurn kürzt in Zukunft seine Beiträge."
 },
 {
-"id": "35078fa94bb7",
-"title": "(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way",
-"link": "https://www.golem.de/news/opinion-anthropic-s-dario-amodei-can-t-always-have-his-way-2611-215204.html",
-"text": "Anthropic PBC has benefited from the single-minded focus of a leader who doesn't waver from his decisions. But that advantage could become a liability. Von Parmy Olson ( Anthropic , Silicon Valley )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215204&page=1&ts=1794589202",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T17:00:02+00:00",
-"sum": "Anthropic PBC has benefited from the single-minded focus of a leader who doesn't waver from his decisions. But that advantage could become a liability. Von Parmy Olson ( Anthropic , Silicon Valley )"
-},
-{
-"id": "913b6b4af919",
-"title": "US-Politik in Lateinamerika – Trump will Kuba «erledigen», bevor er abtritt",
-"link": "https://www.srf.ch/news/international/us-politik-in-lateinamerika-trump-will-kuba-erledigen-bevor-er-abtritt",
-"text": "Erneut hat der US-Präsident angekündigt, Kuba einnehmen zu wollen. Droht ein neuer Krieg oder sind das nur leere Worte?",
-"img": "https://www.srf.ch/static/cms/images//320ws/d34f1d.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-13T16:51:40+00:00",
-"sum": "Erneut hat der US-Präsident angekündigt, Kuba einnehmen zu wollen. Droht ein neuer Krieg oder sind das nur leere Worte?"
-},
-{
-"id": "4f6191fac2ff",
-"title": "Japan: Sony und JR East wollen 40 Bahnhöfe mit UWB-Ticketgates ausstatten",
-"link": "https://www.heise.de/news/Japan-Sony-und-JR-East-wollen-40-Bahnhoefe-mit-UWB-Ticketgates-ausstatten-11524971.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "UWB kennt man vor allem von Apples Airtags. Die Präzision im Nahbereich lässt sich aber auch für Tickets nutzen. Das Smartphone kann dann in der Tasche bleiben.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T16:47:00+00:00",
-"sum": "UWB kennt man vor allem von Apples Airtags. Die Präzision im Nahbereich lässt sich aber auch für Tickets nutzen. Das Smartphone kann dann in der Tasche bleiben."
-},
-{
-"id": "9eadbf2cd94a",
-"title": "Musikstars pilgern nach 95 Jahren in die Abbey Road in London",
-"link": "https://www.tagesschau.de/kultur/legendaere-abbey-road-tonstudios-100.html",
-"text": "Seit 95 Jahren sind die Abbey Road Studios legendär: Die Beatles, Pink Floyd, Edward Elgar und Adele haben hier Musikgeschichte geschrieben. Ein Ort voller Mythen - und ein bis heute gefragtes Studio. Von Hannah Rau.",
-"img": "https://images.tagesschau.de/image/f48cfb3d-56c8-484d-8be2-25703f5b48be/AAABodT5Kf4/AAABnSSvrFg/16x9-big/abbey-road-studio-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T16:41:43+00:00",
-"sum": "Seit 95 Jahren sind die Abbey Road Studios legendär: Die Beatles, Pink Floyd, Edward Elgar und Adele haben hier Musikgeschichte geschrieben. Ein Ort voller Mythen - und ein bis heute gefragtes Studio. Von Hannah Rau."
-},
-{
-"id": "aac1f575cecb",
-"title": "Apple liefert iPhone Duo offenbar früher als erwartet aus",
-"link": "https://www.heise.de/news/Apple-liefert-iPhone-Duo-offenbar-frueher-als-erwartet-aus-11524981.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Einige Vorbesteller des iPhone Duo sollen das faltbare iPhone bereits vor Weihnachten statt erst Ende Januar erhalten.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T16:41:00+00:00",
-"sum": "Einige Vorbesteller des iPhone Duo sollen das faltbare iPhone bereits vor Weihnachten statt erst Ende Januar erhalten."
-},
-{
-"id": "5bfd4f1b5d54",
-"title": "AfD will Ex-Fussballprofi Berthold als Bundespräsidenten nominieren",
-"link": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
-"text": "Der ehemalige Fussballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor.",
-"img": "https://images.tagesschau.de/image/8a357c52-432c-4162-988c-fb5723ee6c98/AAABodZtqQ0/AAABnSSvrFg/16x9-big/thomas-berthold-110.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T16:37:14+00:00",
-"sum": "Der ehemalige Fussballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor."
-},
-{
-"id": "a4691d364730",
-"title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
-"link": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
-"text": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoss zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland als \"gesetzt\" an.",
-"img": "https://images.tagesschau.de/image/613de0f2-fee8-4cf4-a734-9b3483edb868/AAABodWQyBc/AAABnSSvrFg/16x9-big/merz-dublin-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T16:36:49+00:00",
-"sum": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoss zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland als \"gesetzt\" an."
-},
-{
-"id": "7fd5c7528323",
-"title": "Vorsicht, Umbruch: Word zerschiesst bald das Layout alter Dokumente",
-"link": "https://www.heise.de/news/Vorsicht-Umbruch-Word-zerschiesst-bald-das-Layout-alter-Dokumente-11524878.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Microsoft entfernt einige alte Kompatibilitätseinstellungen in Word. Bei älteren Dokumenten drohen deshalb ab Dezember 2026 Layout-Verschiebungen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T16:35:00+00:00",
-"sum": "Microsoft entfernt einige alte Kompatibilitätseinstellungen in Word. Bei älteren Dokumenten drohen deshalb ab Dezember 2026 Layout-Verschiebungen."
-},
-{
 "id": "36805fe13db7",
 "title": "Kann sich Mercedes Deutschland noch leisten? Darum eskaliert jetzt der Konflikt bei dem Autohersteller",
 "link": "https://www.nzz.ch/wirtschaft/kann-sich-mercedes-deutschland-noch-leisten-darum-eskaliert-jetzt-der-konflikt-bei-dem-autohersteller-ld.10058665",
@@ -695,28 +1135,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-13T16:31:01+00:00",
 "sum": "Das Management des Stuttgarter Konzerns ringt mit der Gewerkschaft erbittert um Privilegien wie die 35-Stunden-Woche. Der Streit wird zum Testfall für die gesamte deutsche Autobranche."
-},
-{
-"id": "0a4d3cb60592",
-"title": "Bit-Rauschen, der Prozessor-Podcast: Nvidia nach dem Rücktritt von Jensen Huang",
-"link": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Nvidia-nach-dem-Ruecktritt-von-Jensen-Huang-11524919.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Nach Affären und Spionageverdacht tritt Nvidia-Boss Huang ab. Was wir wissen und wie es weitergehen könnte bei Nvidia: Folge 2026/23 des Podcasts Bit-Rauschen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T16:15:00+00:00",
-"sum": "Nach Affären und Spionageverdacht tritt Nvidia-Boss Huang ab. Was wir wissen und wie es weitergehen könnte bei Nvidia: Folge 2026/23 des Podcasts Bit-Rauschen."
-},
-{
-"id": "528c28825704",
-"title": "Neue PC-Spiele im Dezember 2026: „Warhammer 40,000: Dawn of War IV“",
-"link": "https://www.heise.de/news/Neue-PC-Spiele-im-Dezember-2026-Warhammer-40-000-Dawn-of-War-IV-11524600.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Im Dezember werden unter anderem „Warhammer 40,000: Dawn of War IV“ und „Thief: The Dark Project Remastered“ veröffentlicht.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T16:12:00+00:00",
-"sum": "Im Dezember werden unter anderem „Warhammer 40,000: Dawn of War IV“ und „Thief: The Dark Project Remastered“ veröffentlicht."
 },
 {
 "id": "9df7ea2dbd84",
@@ -736,20 +1154,9 @@
 "text": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina.",
 "img": "https://images.tagesschau.de/image/76e76dc2-084b-4083-b0f6-0170948898c1/AAABodV3-1Q/AAABnSSvrFg/16x9-big/quantum-systems-102.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-13T16:02:19+00:00",
 "sum": "Nach dem Cyberangriff auf den bayerischen Drohnenhersteller Quantum Systems läuft die Suche nach den Tätern. Vieles deutet auf einen russischen Hintergrund hin. Das Unternehmen ist wichtiger Ausrüster des ukrainischen Militärs. Von Stephan Lina."
-},
-{
-"id": "c3728ed28ee8",
-"title": "«Englands Finest» – Rekordfussballer Harry Kane begeistert eine ganze Nation",
-"link": "https://www.srf.ch/sport/fussball/nations-league/englands-finest-rekordfussballer-harry-kane-begeistert-eine-ganze-nation",
-"text": "Erst wird Harry Kane für sein 126. Länderspiel geehrt. Anschliessend bedankt er sich mit dem Siegtreffer gegen Kroatien.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2c75946.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T16:01:14+00:00",
-"sum": "Erst wird Harry Kane für sein 126. Länderspiel geehrt. Anschliessend bedankt er sich mit dem Siegtreffer gegen Kroatien."
 },
 {
 "id": "8e0c4ca52872",
@@ -774,39 +1181,6 @@
 "sum": "Kein Kolben, kein Rotor, keine Verbrennung: Physiker haben einen Motor, der aus einem einzigen Quantensystem besteht, im Labor gebaut. Und er verrichtet tatsächlich Arbeit."
 },
 {
-"id": "2a8e3ae727ae",
-"title": "Anzeige: Saugroboter mit Wischfunktion von Dreame reduziert bei Amazon",
-"link": "https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-dreame-reduziert-bei-amazon-2611-215203.html",
-"text": "Den Saugroboter Dreame L40 Ultra A mit Wischfunktion, 24.000 Pa und Multifunktionsdock gibt es zum Sparpreis bei Amazon. ( Saugroboter , Technik/Hardware )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215203&page=1&ts=1794585004",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T15:50:04+00:00",
-"sum": "Den Saugroboter Dreame L40 Ultra A mit Wischfunktion, 24.000 Pa und Multifunktionsdock gibt es zum Sparpreis bei Amazon. ( Saugroboter , Technik/Hardware )"
-},
-{
-"id": "755f677ae4cc",
-"title": "Kommentar zum Haushalt: Die Koalition geht auf dem Zahnfleisch",
-"link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-koalition-geht-auf-zahnfleisch-100.html",
-"text": "Der Bundeshaushalt für das kommende Jahr steht. Doch die Einigung ist ohne Richtung, ohne Ambition und ohne Vision, findet Sabine Henkel. Union und SPD fehlt nicht nur Geld, sondern vor allem Mut und eine Strategie.",
-"img": "https://images.tagesschau.de/image/bf26840d-cc4e-40f0-8749-91ab552f8dd4/AAABodWQ96s/AAABnSSvrFg/16x9-big/paul-loebe-haus-110.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-13T15:40:10+00:00",
-"sum": "Der Bundeshaushalt für das kommende Jahr steht. Doch die Einigung ist ohne Richtung, ohne Ambition und ohne Vision, findet Sabine Henkel. Union und SPD fehlt nicht nur Geld, sondern vor allem Mut und eine Strategie."
-},
-{
-"id": "d7206709c887",
-"title": "Lizenz zum Einbruch: Bundestag winkt umkämpfte Geheimdienstreform durch",
-"link": "https://www.heise.de/news/Lizenz-zum-Einbruch-Bundestag-winkt-umkaempfte-Geheimdienstreform-durch-11524886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Trotz Warnungen vor Grundrechtsbrüchen erhalten BND und Verfassungsschutz weitreichende Befugnisse für Wohnungseinbrüche, KI-Überwachung und Datenmanipulation.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T15:33:00+00:00",
-"sum": "Trotz Warnungen vor Grundrechtsbrüchen erhalten BND und Verfassungsschutz weitreichende Befugnisse für Wohnungseinbrüche, KI-Überwachung und Datenmanipulation."
-},
-{
 "id": "1b114592721f",
 "title": "Ausfälle bei Software-Riesen – Microsoft-Ausfall: Das gilt jetzt am Arbeitsplatz",
 "link": "https://www.srf.ch/news/international/ausfaelle-bei-software-riesen-microsoft-ausfall-das-gilt-jetzt-am-arbeitsplatz",
@@ -818,17 +1192,6 @@
 "sum": "Globale Störung bei Microsoft: Arbeitsrechtsexperte Thomas Geiser erklärt, wer bezahlt und wer heimgehen darf."
 },
 {
-"id": "6c5b9b35a40f",
-"title": "Gestohlene Token: Secret-Stealer in Tausenden GitHub-Repositories",
-"link": "https://www.heise.de/news/Gestohlene-Token-Secret-Stealer-in-Tausenden-GitHub-Repositories-11524706.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Über gekaperte GitHub-Konten richten Angreifer Hintertüren bei AWS und Azure ein. Secrets auszutauschen reicht deshalb nicht.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T15:30:00+00:00",
-"sum": "Über gekaperte GitHub-Konten richten Angreifer Hintertüren bei AWS und Azure ein. Secrets auszutauschen reicht deshalb nicht."
-},
-{
 "id": "e790da8f20d3",
 "title": "Störungen bei Tech-Riesen – Klumpenrisiko Microsoft: Leben wir in fataler Abhängigkeit?",
 "link": "https://www.srf.ch/news/wirtschaft/stoerungen-bei-tech-riesen-klumpenrisiko-microsoft-leben-wir-in-fataler-abhaengigkeit",
@@ -838,28 +1201,6 @@
 "topic": "Welt",
 "date": "2026-11-13T15:28:18+00:00",
 "sum": "IT-Experte Matthias Stürmer spricht von einem Weckruf: Verwaltung und Unternehmen brauchten einen Plan B zu Microsoft."
-},
-{
-"id": "c622e0e35619",
-"title": "Siri AI: Dann kommt Apples KI-System auf ältere Apple-TV-4K-Geräte",
-"link": "https://www.heise.de/news/Siri-AI-Dann-kommt-Apples-KI-System-auf-aeltere-Apple-TV-4K-Geraete-11524528.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Apple hat Details genannt, wann sein verbessertes KI-System auf die Multimediaboxen früherer Bauart kommt. Ein Problem bleibt allerdings die EU-Thematik.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T15:24:00+00:00",
-"sum": "Apple hat Details genannt, wann sein verbessertes KI-System auf die Multimediaboxen früherer Bauart kommt. Ein Problem bleibt allerdings die EU-Thematik."
-},
-{
-"id": "9187ebe6e68f",
-"title": "heise+ | Bit-Rauschen: Nvidia-Chef tritt ab, KI-Aktien fahren Achterbahn",
-"link": "https://www.heise.de/hintergrund/Bit-Rauschen-Nvidia-Chef-tritt-ab-KI-Aktien-fahren-Achterbahn-11420684.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Nvidia-Boss Jensen Huang traf heimlich eine Frau, die der Spionage verdächtigt wird und die Midterm-Wahlen in den USA versetzen KI-Aktien einen Dämpfer.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T15:15:00+00:00",
-"sum": "Nvidia-Boss Jensen Huang traf heimlich eine Frau, die der Spionage verdächtigt wird und die Midterm-Wahlen in den USA versetzen KI-Aktien einen Dämpfer."
 },
 {
 "id": "1fef87cbc29e",
@@ -895,28 +1236,6 @@
 "sum": "Das Bundesgericht weist die Beschwerde der Stadt Zürich in Sachen «ÖV-Initiative» ab."
 },
 {
-"id": "b6feb6c0e04a",
-"title": "Home Assistant mit KI: Gruselig und gut",
-"link": "https://www.heise.de/news/Home-Assistant-mit-KI-Gruselig-und-gut-11524108.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Ist es eine gute Idee, einem LLM Admin-Rechte auf die eigene Wohnung zu geben? Wir haben es mit Home Assistant und HA-MCP ausprobiert.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-13T15:02:00+00:00",
-"sum": "Ist es eine gute Idee, einem LLM Admin-Rechte auf die eigene Wohnung zu geben? Wir haben es mit Home Assistant und HA-MCP ausprobiert."
-},
-{
-"id": "dc30671f7367",
-"title": "Vodafone und andere: Telekommunikationsbranche streicht weltweit über 17.000 Stellen",
-"link": "https://www.golem.de/news/vodafone-und-andere-telekommunikationsbranche-streicht-weltweit-ueber-17-000-stellen-2611-215195.html",
-"text": "Der Stellenabbau bei Vodafone Deutschland ist Teil einer weltweiten Entlassungswelle im Telcosektor. KI dient vielen Konzernen vor allem als Vorwand. ( Telekommunikation , Studien )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215195&page=1&ts=1794581162",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T14:46:02+00:00",
-"sum": "Der Stellenabbau bei Vodafone Deutschland ist Teil einer weltweiten Entlassungswelle im Telcosektor. KI dient vielen Konzernen vor allem als Vorwand. ( Telekommunikation , Studien )"
-},
-{
 "id": "64ee2edd74c4",
 "title": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
 "link": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
@@ -939,39 +1258,6 @@
 "sum": "Für den St. Galler FDP-Politiker rückt Andrea Abderhalden in die grosse Kammer nach."
 },
 {
-"id": "76e2c973d2bb",
-"title": "Wissenschaftsbarometer: KI wird immer häufiger für Gesundheitsfragen genutzt",
-"link": "https://www.golem.de/news/wissenschaftsbarometer-ki-wird-immer-haeufiger-fuer-gesundheitsfragen-genutzt-2611-215196.html",
-"text": "In Deutschland ist der Bildungsgrad entscheidend dafür, wie oft KI in Gesundheitsfragen konsultiert wird. ( KI , Medizin )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215196&page=1&ts=1794580081",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T14:28:01+00:00",
-"sum": "In Deutschland ist der Bildungsgrad entscheidend dafür, wie oft KI in Gesundheitsfragen konsultiert wird. ( KI , Medizin )"
-},
-{
-"id": "8aae2027ae5e",
-"title": "Elektroautos: China setzt bei Elektromotoren auf Magneten und leichtes Magnesium",
-"link": "https://www.golem.de/news/elektroautos-china-setzt-bei-elektromotoren-auf-magneten-und-leichtes-magnesium-2611-215192.html",
-"text": "Die RWTH Aachen hat 115 Elektromotoren für Autos miteinander verglichen - von chinesischen, europäischen und amerikanischen Herstellern. ( Elektroauto , Auto )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215192&page=1&ts=1794579124",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T14:12:04+00:00",
-"sum": "Die RWTH Aachen hat 115 Elektromotoren für Autos miteinander verglichen - von chinesischen, europäischen und amerikanischen Herstellern. ( Elektroauto , Auto )"
-},
-{
-"id": "be3e91dadfd0",
-"title": "Golem-Umfrage: Das beliebteste Windows der Golem-Community ist ...",
-"link": "https://www.golem.de/news/golem-umfrage-das-beliebteste-windows-der-golem-community-ist-2611-215086.html",
-"text": "Per Umfrage und über Golem Talk haben wir ausserdem das meistgehasste Windows gefunden - und das, das ihr als erstes genutzt habt. Von Oliver Nickel ( Windows 11 , Microsoft )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215086&page=1&ts=1794578402",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T14:00:02+00:00",
-"sum": "Per Umfrage und über Golem Talk haben wir ausserdem das meistgehasste Windows gefunden - und das, das ihr als erstes genutzt habt. Von Oliver Nickel ( Windows 11 , Microsoft )"
-},
-{
 "id": "7a4200a4a764",
 "title": "Riffe: Taucher entdecken gigantische Koralle",
 "link": "https://www.spektrum.de/news/riffe-taucher-entdecken-gigantische-koralle/2354137",
@@ -981,28 +1267,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-13T14:00:00+00:00",
 "sum": "Vor der australischen Cocos-Insel erstreckt sich eine Art Superorganismus in einem der Riffe. Erst jetzt wird Biologen klar, wie gross diese Korallenkolonie im Meer tatsächlich ist."
-},
-{
-"id": "0fd60bd49dfd",
-"title": "Rockstar Games: Fast 5.000 Menschen haben an GTA 6 gearbeitet",
-"link": "https://www.golem.de/news/rockstar-games-fast-5-000-menschen-haben-an-gta-6-gearbeitet-2611-215191.html",
-"text": "Tausende Mitarbeiter, Studios auf mehreren Kontinenten und eine kleine Führungsgruppe: Rockstar Games erklärt den Aufwand hinter GTA 6. ( GTA 6 , Red Dead Redemption )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215191&page=1&ts=1794578102",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T13:55:02+00:00",
-"sum": "Tausende Mitarbeiter, Studios auf mehreren Kontinenten und eine kleine Führungsgruppe: Rockstar Games erklärt den Aufwand hinter GTA 6. ( GTA 6 , Red Dead Redemption )"
-},
-{
-"id": "3bad7ee994f8",
-"title": "Vor Saisonauftakt im Slalom – Rasts Levi-Plan: «Oben überleben, unten Skifahren»",
-"link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/vor-saisonauftakt-im-slalom-rasts-levi-plan-oben-ueberleben-unten-skifahren",
-"text": "Mit Camille Rast und Wendy Holdener geht die Schweiz auf dem Papier mit den zwei Favoritinnen in den Levi-Slalom.",
-"img": "https://www.srf.ch/static/cms/images//320ws/3648b0.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T13:53:50+00:00",
-"sum": "Mit Camille Rast und Wendy Holdener geht die Schweiz auf dem Papier mit den zwei Favoritinnen in den Levi-Slalom."
 },
 {
 "id": "650ef617d552",
@@ -1016,17 +1280,6 @@
 "sum": "Das Aufsichtsgremium von Nvidia hat den 63-Jährigen hinausgeworfen. Das Board hatte letztlich keine Wahl mehr."
 },
 {
-"id": "5b5375e06a60",
-"title": "Anzeige: Smartwatch Garmin Instinct 3 zum Jahrestiefpreis bei Amazon",
-"link": "https://www.golem.de/news/anzeige-smartwatch-garmin-instinct-3-zum-jahrestiefpreis-bei-amazon-2611-215193.html",
-"text": "Die Smartwatch Garming Instinct 3 mit AMOLED-Display, Multiband-GPS und individueller Trainingssteuerung ist bei Amazon stark reduziert. ( Garmin , Smartwatch )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215193&page=1&ts=1794577502",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T13:45:02+00:00",
-"sum": "Die Smartwatch Garming Instinct 3 mit AMOLED-Display, Multiband-GPS und individueller Trainingssteuerung ist bei Amazon stark reduziert. ( Garmin , Smartwatch )"
-},
-{
 "id": "2e800bb1b1fe",
 "title": "Videospiel-Release steht an – Weltweit mehr Ferienanträge zum Start von GTA 6",
 "link": "https://www.srf.ch/news/gesellschaft/videospiel-release-steht-an-weltweit-mehr-ferienantraege-zum-start-von-gta-6",
@@ -1038,17 +1291,6 @@
 "sum": "Weltweit nehmen sich Angestellte zum Release von GTA 6 frei – in der Schweiz ist dieser Trend nicht klar erkennbar."
 },
 {
-"id": "345eccda6120",
-"title": "Reform: Bundestag beschliesst mehr Befugnisse für Geheimdienste",
-"link": "https://www.golem.de/news/reform-bundestag-beschliesst-mehr-befugnisse-fuer-geheimdienste-2611-215190.html",
-"text": "Der Bundestag erweitert die Befugnisse von BND und Verfassungsschutz. Beide Dienste dürfen damit bei drohender Sabotage selbst eingreifen. ( Geheimdienste , Politik )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215190&page=1&ts=1794577142",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T13:39:02+00:00",
-"sum": "Der Bundestag erweitert die Befugnisse von BND und Verfassungsschutz. Beide Dienste dürfen damit bei drohender Sabotage selbst eingreifen. ( Geheimdienste , Politik )"
-},
-{
 "id": "3e728d6d4db7",
 "title": "Distorsion im Kniegelenk – Mélanie Meillard verletzt sich und verpasst Levi-Slalom",
 "link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/distorsion-im-kniegelenk-melanie-meillard-verletzt-sich-und-verpasst-levi-slalom",
@@ -1058,17 +1300,6 @@
 "topic": "Sport",
 "date": "2026-11-13T13:26:21+00:00",
 "sum": "Die Walliserin zieht sich im Training in Levi eine Verletzung zu und wird am Samstag nicht starten."
-},
-{
-"id": "964fd746de4d",
-"title": "Star Wars: Originalversion von Krieg der Sterne kommt wieder in die Kinos",
-"link": "https://www.golem.de/news/star-wars-originalversion-von-krieg-der-sterne-kommt-wieder-in-die-kinos-2611-215189.html",
-"text": "Zum 50-jährigen Jubiläum kommt 2027 der allererste Star-Wars-Film wieder in die Kinos - in der unveränderten Originalversion. ( Star Wars , Digitalkino )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215189&page=1&ts=1794576362",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-13T13:26:02+00:00",
-"sum": "Zum 50-jährigen Jubiläum kommt 2027 der allererste Star-Wars-Film wieder in die Kinos - in der unveränderten Originalversion. ( Star Wars , Digitalkino )"
 },
 {
 "id": "d5d84771d679",
@@ -1102,17 +1333,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-13T12:39:42+00:00",
 "sum": "Mercedes erwägt, zwei Werke zu schliessen. Die Krise der deutschen Autobauer trifft auch Schweizer Zulieferer."
-},
-{
-"id": "271d7f991361",
-"title": "Nach Sieg über Frankreich – «Raubtier» und Pechvogel: Esposito-Brüder verzücken Italien",
-"link": "https://www.srf.ch/sport/fussball/nations-league/nach-sieg-ueber-frankreich-raubtier-und-pechvogel-esposito-brueder-verzuecken-italien",
-"text": "Auch dank der Espositos zeigt die Formkurve der Italiener nach oben – trotz unterschiedlichem Verlauf des Abends.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e66332.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T12:31:26+00:00",
-"sum": "Auch dank der Espositos zeigt die Formkurve der Italiener nach oben – trotz unterschiedlichem Verlauf des Abends."
 },
 {
 "id": "0eff04f54115",
@@ -1159,17 +1379,6 @@
 "sum": "Artemis II verursachte ungewöhnlich starke Veränderungen in der Ionosphäre: Die Mission hinterliess eine Tausende Kilometer lange Spur. Forscher warnen vor Navigationsausfällen."
 },
 {
-"id": "70c62df4255e",
-"title": "Nahrungsergänzungsmittel: Was gegen chronische Entzündungen wirklich hilft",
-"link": "https://www.spektrum.de/news/nahrungsergaenzungsmittel-was-gegen-chronische-entzuendungen-hilft/2299542",
-"text": "Chronische Entzündungen gelten als Risikofaktor für zahlreiche Erkrankungen. Welche Nahrungsergänzungsmittel können hier helfen? Nur für wenige gibt es überzeugende Belege.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_183826950.jpeg.8422431.jpeg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T12:00:00+00:00",
-"sum": "Chronische Entzündungen gelten als Risikofaktor für zahlreiche Erkrankungen. Welche Nahrungsergänzungsmittel können hier helfen? Nur für wenige gibt es überzeugende Belege."
-},
-{
 "id": "9269e441c2cf",
 "title": "DIE NEUESTEN ENTWICKLUNGEN - Ebola-Ausbruch in Zentralafrika: Das Virus breitet sich in Kongo in ländliche Gebiete aus",
 "link": "https://www.nzz.ch/wissenschaft/ebola-ausbruch-in-zentralafrika-mehr-als-300-ebola-tote-in-kongo-erster-fall-in-frankreich-nachgewiesen-ld.10007509",
@@ -1192,28 +1401,6 @@
 "sum": "Störungsmeldungen kommen aus 74 Ländern. Was bisher zur Ursache bekannt ist und wie weit die Störung reicht."
 },
 {
-"id": "2568d4224597",
-"title": "Mehr Abstand zu Europa – Grönland will die Uhr wieder zurückdrehen",
-"link": "https://www.srf.ch/news/international/mehr-abstand-zu-europa-groenland-will-die-uhr-wieder-zurueckdrehen",
-"text": "Der zeitliche Abstand zwischen der Schweiz und Grönland beträgt ab 31. Oktober 2027 wieder vier Stunden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2718dfd.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-13T10:19:40+00:00",
-"sum": "Der zeitliche Abstand zwischen der Schweiz und Grönland beträgt ab 31. Oktober 2027 wieder vier Stunden."
-},
-{
-"id": "4f8ab7ec3e2a",
-"title": "Angriff mit Verzögerung: Wenige Eingriffe verwandeln KI-Agenten in digitale »Schläfer«",
-"link": "https://www.spektrum.de/news/verzoegerte-ki-angriff-wenige-eingriffe-machen-ki-agenten-zu-schlaefer/2353949",
-"text": "Die KI verhält sich zunächst völlig normal – doch sobald ein geheimer Trigger auftaucht, erzeugt sie Schadcode. Dieser Angriff funktioniert viel einfacher als gedacht.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_1557043342.jpeg.8424673.jpeg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T10:00:00+00:00",
-"sum": "Die KI verhält sich zunächst völlig normal – doch sobald ein geheimer Trigger auftaucht, erzeugt sie Schadcode. Dieser Angriff funktioniert viel einfacher als gedacht."
-},
-{
 "id": "dbca725ca23d",
 "title": "Weltweit mehr Urlaubsanträge vor Start des Videospiels \"GTA VI\"",
 "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weltweit-mehr-urlaubsantraege-start-gta6-100.html",
@@ -1223,39 +1410,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-13T09:12:03+00:00",
 "sum": "13 Jahre nach seiner letzten Version steht das neue Videospiel \"Grand Theft Auto VI\" vor der Premiere. Software-Anbieter berichten von weltweit gestiegenen Urlaubsanträgen im Vorfeld. Der Entwickler hofft auf ein Milliardengeschäft."
-},
-{
-"id": "2e874e9601e1",
-"title": "Agentenparadies – Wien ist eine Agentenhochburg – Österreich will gegensteuern",
-"link": "https://www.srf.ch/news/international/agentenparadies-wien-ist-eine-agentenhochburg-oesterreich-will-gegensteuern",
-"text": "Wer von Wien aus andere Staaten ausspioniert, bleibt bisher oft straffrei. Die Regierung will diese Lücke schliessen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/57c7c6.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-13T09:02:22+00:00",
-"sum": "Wer von Wien aus andere Staaten ausspioniert, bleibt bisher oft straffrei. Die Regierung will diese Lücke schliessen."
-},
-{
-"id": "f0881601c1ad",
-"title": "Abstimmung Kanton Uri – Muss bald mehr bezahlen, wer in Uri Auto fährt?",
-"link": "https://www.srf.ch/news/abstimmung-kanton-uri-muss-bald-mehr-bezahlen-wer-in-uri-auto-faehrt",
-"text": "Eine höhere Strassenverkehrssteuer soll mithelfen, die Finanzen ins Lot zu bringen. SVP und FDP sind dagegen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d5e988.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-13T08:59:40+00:00",
-"sum": "Eine höhere Strassenverkehrssteuer soll mithelfen, die Finanzen ins Lot zu bringen. SVP und FDP sind dagegen."
-},
-{
-"id": "1198eae954ca",
-"title": "Internationale Fussball-News – Frankreichs Upamecano aus «persönlichen Gründen» abgereist",
-"link": "https://www.srf.ch/sport/fussball/nations-league/internationale-fussball-news-frankreichs-upamecano-aus-persoenlichen-gruenden-abgereist",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/26f3be.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-13T08:46:26+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
 },
 {
 "id": "c253a5cc9eb4",
@@ -1269,17 +1423,6 @@
 "sum": "Mit dem Abgang von Nvidia-Gründer Huang verliert das Unternehmen seinen visionären Vordenker. Was bedeutet das jetzt für das Unternehmen selbst und die Konkurrenz? Von R. Spiegelhauer."
 },
 {
-"id": "fb8bd03305d8",
-"title": "Hamed Abdel-Samad – With God on their Side",
-"link": "https://www.spektrum.de/video/dai-heidelberg-hamed-abdel-samad-with-god-on-their-side/2353901",
-"text": "Hat das aufklärerische Ideal der Trennung von Religion und Staat noch eine Zukunft? Über diese Frage und mehr spricht Hamed Abdel-Samad.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/maxresdefault.8424516.jpg.8424524.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T08:15:00+00:00",
-"sum": "Hat das aufklärerische Ideal der Trennung von Religion und Staat noch eine Zukunft? Über diese Frage und mehr spricht Hamed Abdel-Samad."
-},
-{
 "id": "70f83e1ad2b5",
 "title": "Software-Riese Microsoft – Ausfall bei Microsoft dauert an – kein Anzeichen für Cyberangriff",
 "link": "https://www.srf.ch/news/wirtschaft/software-riese-microsoft-ausfall-bei-microsoft-dauert-an-kein-anzeichen-fuer-cyberangriff",
@@ -1289,28 +1432,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-13T08:14:56+00:00",
 "sum": "Betroffen ist der Cloud-Dienst Microsoft 365 – dazu gehören unter anderem Outlook, Teams oder der KI-Assistent Copilot."
-},
-{
-"id": "20a3dfec4583",
-"title": "Abstimmung Stadt Zürich – Die Stadt Zürich stimmt über eine Quote für Seniorenwohnungen ab",
-"link": "https://www.srf.ch/news/abstimmung-stadt-zuerich-die-stadt-zuerich-stimmt-ueber-eine-quote-fuer-seniorenwohnungen-ab",
-"text": "Jede fünfte städtische Wohnung für Senioren reservieren, das will eine Initiative. Der Gegenvorschlag geht noch weiter.",
-"img": "https://www.srf.ch/static/cms/images//320ws/52a38d.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-13T08:10:34+00:00",
-"sum": "Jede fünfte städtische Wohnung für Senioren reservieren, das will eine Initiative. Der Gegenvorschlag geht noch weiter."
-},
-{
-"id": "27ca321e612d",
-"title": "Sozialer Kipppunkt: Bestandsrückgang bei Elefanten erreicht kritische Schwelle",
-"link": "https://www.spektrum.de/news/artenschutz-sozialer-kipppunkt-bei-elefanten/2353922",
-"text": "Populationseinbussen beim Asiatischen Elefanten führen zu einem sozialen Kipppunkt, bei dem der Zusammenhalt der Gemeinschaften zunehmend kollabiert.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/P1340122.JPG.8424691.gif?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T08:00:00+00:00",
-"sum": "Populationseinbussen beim Asiatischen Elefanten führen zu einem sozialen Kipppunkt, bei dem der Zusammenhalt der Gemeinschaften zunehmend kollabiert."
 },
 {
 "id": "0fd4fb6b79f9",
@@ -1335,28 +1456,6 @@
 "sum": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China."
 },
 {
-"id": "1b2fb8ac99c6",
-"title": "Die fabelhafte Welt der Mathematik: Laut Mathematik sollte die Welt am 13. November 2026 untergehen",
-"link": "https://www.spektrum.de/kolumne/apokalypse-am-13-november-2026-sollte-die-menschheit-am-ende-sein/2349586",
-"text": "Drei Forscher berechneten 1960 das Ende der Menschheit: den 13. November 2026. Ihre Formel lag jahrzehntelang erstaunlich richtig. Doch dann veränderte sich etwas.",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-2202723428.jpg.8253190.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T07:00:00+00:00",
-"sum": "Drei Forscher berechneten 1960 das Ende der Menschheit: den 13. November 2026. Ihre Formel lag jahrzehntelang erstaunlich richtig. Doch dann veränderte sich etwas."
-},
-{
-"id": "4c8ea4ff3cf7",
-"title": "Welche Zahlen können in die Gleichung eingesetzt werden?",
-"link": "https://www.spektrum.de/raetsel/welche-zahlen-koennen-in-die-gleichung-eingesetzt-werden/2340539",
-"text": "Welche drei Primzahlen erfüllen die Gleichung?",
-"img": "https://static.spektrum.de/fm/912/thumbnails/GettyImages-2026282147.jpg.8321406.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T06:49:00+00:00",
-"sum": "Welche drei Primzahlen erfüllen die Gleichung?"
-},
-{
 "id": "26681d9c35c9",
 "title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Ausschuss des US-Senats lädt Huang zu Anhörung vor",
 "link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
@@ -1368,39 +1467,6 @@
 "sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaison publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen"
 },
 {
-"id": "56cfdd732b23",
-"title": "Am US‑Veteranentag – Hegseth ehrt Soldat für Rüge seiner eigenen Besuchergruppe",
-"link": "https://www.srf.ch/news/international/am-us-veteranentag-hegseth-ehrt-soldat-fuer-ruege-seiner-eigenen-besuchergruppe",
-"text": "US-Verteidigungsminister Hegseth wurde wegen unangemessenen Verhaltens am Nationalfriedhof in Arlington zurechtgewiesen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/45833f2.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-13T06:38:38+00:00",
-"sum": "US-Verteidigungsminister Hegseth wurde wegen unangemessenen Verhaltens am Nationalfriedhof in Arlington zurechtgewiesen."
-},
-{
-"id": "aba4f330d05f",
-"title": "Typ-II-Diabetes vorbeugen: Was im Alltag wirklich hilft",
-"link": "https://www.spektrum.de/podcast/hoergang-typ-ii-diabetes-vorbeugen-was-im-alltag-wirklich-hilft/2353889",
-"text": "Wer Übergewicht, Bluthochdruck, Diabetesfälle in der Familie oder einen früheren Schwangerschaftsdiabetes aufweist, sollte das persönliche Risiko ärztlich abklären lassen. 🎙️",
-"img": "https://static.spektrum.de/fm/912/thumbnails/AdobeStock_60826669.jpeg.4719006.jpeg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T06:14:00+00:00",
-"sum": "Wer Übergewicht, Bluthochdruck, Diabetesfälle in der Familie oder einen früheren Schwangerschaftsdiabetes aufweist, sollte das persönliche Risiko ärztlich abklären lassen. 🎙️"
-},
-{
-"id": "492da2604f50",
-"title": "Blaualgen: Mit Daten gegen die Badesperre",
-"link": "https://www.spektrum.de/podcast/forschungsquartett-blaualgen-mit-daten-gegen-die-badesperre/2353885",
-"text": "Wegen grüner Schleimschichten und giftiger Blaualgen werden Seen häufig gesperrt. Forschende arbeiten an einem Frühwarnsystem, das Algenblüten vorhersagt, bevor das Wasser kippt. 🎙️",
-"img": "https://static.spektrum.de/fm/912/thumbnails/iStock-846109762.jpg.5588030.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-13T06:13:00+00:00",
-"sum": "Wegen grüner Schleimschichten und giftiger Blaualgen werden Seen häufig gesperrt. Forschende arbeiten an einem Frühwarnsystem, das Algenblüten vorhersagt, bevor das Wasser kippt. 🎙️"
-},
-{
 "id": "d1b0eb832e67",
 "title": "Glarner Kantonalbank: Der Kanton setzt beim Gewinn neue Prioritäten",
 "link": "https://www.finews.ch/news/banken/74476-glarner-kantonalbank-eignerstrategie-kanton",
@@ -1410,17 +1476,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-13T06:00:04+00:00",
 "sum": "Der Kanton Glarus befasst sich in regelmässigen Abständen mit der Eignerstrategie der Glarner Kantonalbank (GLKB). Der Regierungsrat will die Risikotragfähigkeit der Bank weiter stärken und die Eigenkapitalbasis soll aus eigener Ertragskraft ausgebaut werden."
-},
-{
-"id": "63937f7aab8b",
-"title": "Steuer-Dilemma – Heiratsstrafe erneut abschaffen – führt das zum Steuerchaos?",
-"link": "https://www.srf.ch/news/steuer-dilemma-heiratsstrafe-erneut-abschaffen-fuehrt-das-zum-steuerchaos",
-"text": "Ein Ja zur Mitte-Initiative würde die Heiratsstrafe erneut abschaffen: Die Folgen für die Individualbesteuerung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d45118.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-13T05:46:48+00:00",
-"sum": "Ein Ja zur Mitte-Initiative würde die Heiratsstrafe erneut abschaffen: Die Folgen für die Individualbesteuerung."
 },
 {
 "id": "ce97f2994748",
@@ -1542,39 +1597,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-12T21:50:58+00:00",
 "sum": "Immer wieder verlieren Topmanager ihre Posten wegen Affären. Eine Auswahl."
-},
-{
-"id": "4e1b39a12f11",
-"title": "Verhandlungen zu Ukraine-Krieg – «Über Europa kann nicht ohne Europa gesprochen werden»",
-"link": "https://www.srf.ch/news/international/ukraine/verhandlungen-zu-ukraine-krieg-ueber-europa-kann-nicht-ohne-europa-gesprochen-werden",
-"text": "Am Treffen der Europäischen Politischen Gemeinschaft in Dublin dominiert ein Thema: Die Verhandlungen zum Ukraine-Krieg.",
-"img": "https://www.srf.ch/static/cms/images//320ws/5ed18e.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-12T19:53:16+00:00",
-"sum": "Am Treffen der Europäischen Politischen Gemeinschaft in Dublin dominiert ein Thema: Die Verhandlungen zum Ukraine-Krieg."
-},
-{
-"id": "09d28ae03a31",
-"title": "Auf Wunsch des 46-Jährigen – Leader Servette Chênois und Trainer Toro gehen getrennte Wege",
-"link": "https://www.srf.ch/sport/fussball/women-s-super-league/auf-wunsch-des-46-jaehrigen-leader-servette-chenois-und-trainer-toro-gehen-getrennte-wege",
-"text": "Servette Chênois muss auf Trainersuche gehen: Meistercoach Cristian Toro verlässt den Klub Ende Jahr auf eigenen Wunsch.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ae577c.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-12T19:03:30+00:00",
-"sum": "Servette Chênois muss auf Trainersuche gehen: Meistercoach Cristian Toro verlässt den Klub Ende Jahr auf eigenen Wunsch."
-},
-{
-"id": "559bae57b365",
-"title": "Historischer Einzug in Senat – Bittere Pille für Trump: Demokrat Colom siegt in Mississippi",
-"link": "https://www.srf.ch/news/international/usa/historischer-einzug-in-senat-bittere-pille-fuer-trump-demokrat-colom-siegt-in-mississippi",
-"text": "Bei den Zwischenwahlen in den USA können die Demokraten einen weiteren Erfolg feiern – und zwar einen bemerkenswerten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/753b13.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-12T18:26:15+00:00",
-"sum": "Bei den Zwischenwahlen in den USA können die Demokraten einen weiteren Erfolg feiern – und zwar einen bemerkenswerten."
 },
 {
 "id": "6f0e3fce477a",
@@ -1742,17 +1764,6 @@
 "sum": "Vermögende Familien in der Schweiz, Deutschland und Österreich suchen vermehrt nach einem «Plan B», wie Arton Capital beobachtet. Der Spezialist für Investitionsmigration hat in Zürich ein Büro eröffnet und zielt auch auf Kunden aus der Golfregion, die in der Schweiz Fuss fassen wollen."
 },
 {
-"id": "a9a2ca36d63f",
-"title": "MELDUNGEN WIRTSCHAFT - Das Finanzdepartement büsst Ex-CS-Präsident Urs Rohner +++ Münchner Start-up Agile Robots erhält 500 Millionen Dollar",
-"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
-"text": "Die neuesten Meldungen aus der Wirtschaft.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/09/36813326-b1fc-4c52-8816-b27866e4dc2e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3672,3672,x726,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-12T08:19:46+00:00",
-"sum": "Die neuesten Meldungen aus der Wirtschaft."
-},
-{
 "id": "398e23e12ad4",
 "title": "Lombard Odier verstärkt Nahost-Team",
 "link": "https://www.finews.ch/news/banken/74463-lombard-odier-ali-harb-execvutive-vice-president-vae-oman",
@@ -1795,50 +1806,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-11T16:01:31+00:00",
 "sum": "Wie schwer und gross man ist, sagt allein nicht genug über die Gesundheit aus. Deshalb ist der Body-Mass-Index (BMI) seit Jahren in der Kritik. Eine neue Studie zeigt, welche Vorteile eine genauere Diagnose bringen würde. Von Veronika Simon."
-},
-{
-"id": "1fb639481d0f",
-"title": "Lombard Odier: «Im Nahen Osten liegen wir vor unserem Wachstumsplan»",
-"link": "https://www.finews.ch/news/banken/74454-lombard-odier-ali-janoudi-naher-osten-vermoegenswachstum",
-"text": "Lombard Odier verzeichnet in seiner Geschäftseinheit New Markets ein zweistelliges Wachstum der verwalteten Vermögen. Partner Ali Janoudi erklärt, weshalb der Aufstieg Dubais die Bedeutung der Schweiz nicht schmälert und welche Chancen er im Nahen Osten sieht.",
-"img": "https://www.finews.ch/images/news/2026/11/Ali_Janoudi_Lombard_Odier.png",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-11T13:12:17+00:00",
-"sum": "Lombard Odier verzeichnet in seiner Geschäftseinheit New Markets ein zweistelliges Wachstum der verwalteten Vermögen. Partner Ali Janoudi erklärt, weshalb der Aufstieg Dubais die Bedeutung der Schweiz nicht schmälert und welche Chancen er im Nahen Osten sieht."
-},
-{
-"id": "a1e58c04a2fe",
-"title": "KI kann wie ein Anwalt schreiben – aber kann sie auch wie einer denken?",
-"link": "https://www.finews.ch/news/finanzplatz/74447-ki-anwaelte-vertrauen-juristische-kuenstliche-intelligenz",
-"text": "Juristische KI wird das Vertrauen der Anwaltschaft erst dann gewinnen, wenn sie über die blosse Fähigkeit, überzeugende Texte zu verfassen, hinausgeht und verlässliche juristische Schlussfolgerungen liefert, schreibt Dominique Lecocq in seinem Beitrag für finews.first.",
-"img": "https://www.finews.ch/images/news/2026/11/Dominique_Lecocq1.png",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-11T12:07:23+00:00",
-"sum": "Juristische KI wird das Vertrauen der Anwaltschaft erst dann gewinnen, wenn sie über die blosse Fähigkeit, überzeugende Texte zu verfassen, hinausgeht und verlässliche juristische Schlussfolgerungen liefert, schreibt Dominique Lecocq in seinem Beitrag für finews.first."
-},
-{
-"id": "bee5a5e36a3f",
-"title": "ERKLÄRT - Vogelgrippe: In den USA ist erneut eine Person an Vogelgrippe gestorben, drei Infektionen bei Menschen innert eines Monats im selben Gliedstaat– spitzt sich die Lage zu?",
-"link": "https://www.nzz.ch/wissenschaft/vogelgrippe-h5n1-wie-gross-ist-die-gefahr-fuer-menschen-ld.1834759",
-"text": "Vogelgrippeviren grassieren ungebremst auf allen Kontinenten und töten Tausende Wildvögel und immer mehr Säugetiere. Der Ausbruch in den USA ist in puncto Dynamik und Grösse einzigartig. Antworten auf die wichtigsten Fragen.",
-"img": "https://img-msp-prod.nzz.ch/2024/06/26/e0f24d70-bc7a-467d-9c06-97e61c64ffdd.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1544,1544,x468,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-11T11:22:19+00:00",
-"sum": "Vogelgrippeviren grassieren ungebremst auf allen Kontinenten und töten Tausende Wildvögel und immer mehr Säugetiere. Der Ausbruch in den USA ist in puncto Dynamik und Grösse einzigartig. Antworten auf die wichtigsten Fragen."
-},
-{
-"id": "09f1987bf718",
-"title": "Wenn Klimaschutz überfordert",
-"link": "https://www.tagesschau.de/wissen/klima/klimaschutz-212.html",
-"text": "Vielen Menschen ist das Thema Klimaschutz wichtig - das zumindest zeigen Umfragen. Doch häufig werden Massnahmen, die die Umwelt schützen sollen, abgelehnt. Wie passt das zusammen? Von Magdalena Schmude.",
-"img": "https://images.tagesschau.de/image/114dd0fe-64f4-446e-9c83-6e2d01758f4b/AAABocoR3xI/AAABnSSvrFg/16x9-big/solarmodul-haus-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wissenschaft",
-"date": "2026-11-11T11:02:47+00:00",
-"sum": "Vielen Menschen ist das Thema Klimaschutz wichtig - das zumindest zeigen Umfragen. Doch häufig werden Massnahmen, die die Umwelt schützen sollen, abgelehnt. Wie passt das zusammen? Von Magdalena Schmude."
 }
 ]
 }
