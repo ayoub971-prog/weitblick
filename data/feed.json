@@ -1,8 +1,228 @@
 {
-"updated": "2026-11-15T17:13:47+00:00",
+"updated": "2026-11-15T22:53:36+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "fe85ea0e6991",
+"title": "Nations League: Gruppe A3 – England beendet Spaniens Monster-Serie",
+"link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a3-england-beendet-spaniens-monster-serie",
+"text": "Nach 43 Länderspielen ohne Niederlage muss sich Spanien den «Three Lions» in Madrid 2:3 geschlagen geben.",
+"img": "https://www.srf.ch/static/cms/images//320ws/3e6051.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T22:44:26+00:00",
+"sum": "Nach 43 Länderspielen ohne Niederlage muss sich Spanien den «Three Lions» in Madrid 2:3 geschlagen geben."
+},
+{
+"id": "59d3ce065344",
+"title": "Zwei-Satz-Sieg über Switolina – 11. neue Siegerin in Serie: Andrejewa gewinnt erstmals WTA Finals",
+"link": "https://www.srf.ch/sport/tennis/wta-tour/zwei-satz-sieg-ueber-switolina-11-neue-siegerin-in-serie-andrejewa-gewinnt-erstmals-wta-finals",
+"text": "Seit Serena Williams' 5. Triumph 2014 gab es jedes Jahr eine neue WTA-Finals-Siegerin. Heuer ist es Mirra Andrejewa.",
+"img": "https://www.srf.ch/static/cms/images//320ws/9093ca.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T22:21:18+00:00",
+"sum": "Seit Serena Williams' 5. Triumph 2014 gab es jedes Jahr eine neue WTA-Finals-Siegerin. Heuer ist es Mirra Andrejewa."
+},
+{
+"id": "26681d9c35c9",
+"title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Jensen Huang arbeitet offenbar auf Rückkehr als CEO hin",
+"link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
+"text": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-15T21:50:00+00:00",
+"sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall."
+},
+{
+"id": "f8c24853a71c",
+"title": "Nations League: Gruppe A1 – Belgien entzaubert Italien – auch Frankreich im Viertelfinal",
+"link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a1-belgien-entzaubert-italien-auch-frankreich-im-viertelfinal",
+"text": "Belgien dank des 4:1 im Direktduell und Frankreich ziehen am letzten Spieltag noch an Italien vorbei.",
+"img": "https://www.srf.ch/static/cms/images//320ws/51f42a.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T21:43:15+00:00",
+"sum": "Belgien dank des 4:1 im Direktduell und Frankreich ziehen am letzten Spieltag noch an Italien vorbei."
+},
+{
+"id": "2cb662f84bb5",
+"title": "Über 10 Millionen Follower – Der Whatsapp-«General», der Lula zum Sieg führte",
+"link": "https://www.srf.ch/news/international/ueber-10-millionen-follower-der-whatsapp-general-der-lula-zum-sieg-fuehrte",
+"text": "André Janones mobilisierte Millionen Menschen – und verhalf Lula da Silva zum Sieg. Kann das auch in Spanien passieren?",
+"img": "https://www.srf.ch/static/cms/images//320ws/84ff9a.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-15T21:04:45+00:00",
+"sum": "André Janones mobilisierte Millionen Menschen – und verhalf Lula da Silva zum Sieg. Kann das auch in Spanien passieren?"
+},
+{
+"id": "fc9023cad342",
+"title": "Estland schliesst ab Dezember Grenzübergänge nach Russland",
+"link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+"text": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schliesst Estland seine drei Grenzübergänge zum Nachbarland.",
+"img": "https://images.tagesschau.de/image/11e09190-b5e6-46e8-a56c-d80e5758e5aa/AAABoeAPp-M/AAABnSSvrFg/16x9-big/grenze-estland-russland-104.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-15T20:44:43+00:00",
+"sum": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schliesst Estland seine drei Grenzübergänge zum Nachbarland."
+},
+{
+"id": "128a6ff812e3",
+"title": "Alle Jahre wieder – Keine Überraschungen im Halbfinal: USA und Kanada wieder im Final",
+"link": "https://www.srf.ch/sport/eishockey/frauen-eishockey/alle-jahre-wieder-keine-ueberraschungen-im-halbfinal-usa-und-kanada-wieder-im-final",
+"text": "Zum 24. Mal im 25. Eishockey-WM-Final der Frauen machen die USA und Kanada den Titel unter sich aus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/dcc961.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T20:37:17+00:00",
+"sum": "Zum 24. Mal im 25. Eishockey-WM-Final der Frauen machen die USA und Kanada den Titel unter sich aus."
+},
+{
+"id": "220d4d9cf3c2",
+"title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+"link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
+"text": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen. Von B. Meier.",
+"img": "https://images.tagesschau.de/image/7157fc29-5e0c-4186-94a6-0076a2abc558/AAABoeDP9zc/AAABnSSvrFg/16x9-big/eisenkot-netanjahu-102.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-15T20:23:26+00:00",
+"sum": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen. Von B. Meier."
+},
+{
+"id": "78e64f6b61b8",
+"title": "Internationale Fussball-News – Frick wird Trainer in Aberdeen – Weiler in Washington entlassen",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-frick-wird-trainer-in-aberdeen-weiler-in-washington-entlassen",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8fd58c8.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T19:20:53+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
+},
+{
+"id": "9663e613a3ec",
+"title": "Weil Kanada hart bleibt – IIHF bestätigt: Eishockey-U20-WM wird ohne Russland stattfinden",
+"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/weil-kanada-hart-bleibt-iihf-bestaetigt-eishockey-u20-wm-wird-ohne-russland-stattfinden",
+"text": "In den letzten Wochen wurde viel über die mögliche Rückkehr Russlands diskutiert – nun ist sie vorerst vom Tisch.",
+"img": "https://www.srf.ch/static/cms/images//320ws/efb416.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T19:06:29+00:00",
+"sum": "In den letzten Wochen wurde viel über die mögliche Rückkehr Russlands diskutiert – nun ist sie vorerst vom Tisch."
+},
+{
+"id": "aea90f5e6a8a",
+"title": "Top 10: Die beste Dockingstation mit USB-C im Test",
+"link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-dockingstation-im-test-strom-bild-und-daten-ueber-ein-kabel/nvxfwxg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Ob Macbook oder Windows-Laptop: Anschlüsse für LAN & Co. sind Mangelware. Wir zeigen die zehn besten USB-C-Dockingstations.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-15T19:00:00+00:00",
+"sum": "Ob Macbook oder Windows-Laptop: Anschlüsse für LAN & Co. sind Mangelware. Wir zeigen die zehn besten USB-C-Dockingstations."
+},
+{
+"id": "61d5f0d8fbd1",
+"title": "Mit 46 Jahren zurück – Rückkehr erfolgt: Ronaldinho absolviert eine Halbzeit für Ravenna",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/mit-46-jahren-zurueck-rueckkehr-erfolgt-ronaldinho-absolviert-eine-halbzeit-fuer-ravenna",
+"text": "Ronaldinho hat in der dritten italienischen Liga bei Ravenna debütiert. Der Brasilianer durfte gleich von Beginn an ran.",
+"img": "https://www.srf.ch/static/cms/images//320ws/badd8ed.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T18:56:47+00:00",
+"sum": "Ronaldinho hat in der dritten italienischen Liga bei Ravenna debütiert. Der Brasilianer durfte gleich von Beginn an ran."
+},
+{
+"id": "74d92c26175f",
+"title": "Im Wald vergraben – Millionen-Fund: «Wendepunkt in der ungarischen Politik»",
+"link": "https://www.srf.ch/news/international/im-wald-vergraben-millionen-fund-wendepunkt-in-der-ungarischen-politik",
+"text": "Der Fund von 17.7 Millionen Euro Bargeld verstärkt den Druck auf Orbans angeschlagene Fidesz-Partei.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8f457d.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-15T18:56:20+00:00",
+"sum": "Der Fund von 17.7 Millionen Euro Bargeld verstärkt den Druck auf Orbans angeschlagene Fidesz-Partei."
+},
+{
+"id": "9db48fe8f577",
+"title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
+"link": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
+"text": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äusserte er sich. Offen liess Heil, mit welcher Frau er kandidieren will.",
+"img": "https://images.tagesschau.de/image/f962e541-2509-42bb-a115-4ea9044ea8ec/AAABoeA8Lts/AAABnSSvrFg/16x9-big/sendungsbild-1827956.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-15T18:44:55+00:00",
+"sum": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äusserte er sich. Offen liess Heil, mit welcher Frau er kandidieren will."
+},
+{
+"id": "2c7ccb18b8b7",
+"title": "Hightech-City in Hongkong – Chinesische Regierung forciert umstrittenes Megaprojekt",
+"link": "https://www.srf.ch/news/international/hightech-city-in-hongkong-chinesische-regierung-forciert-umstrittenes-megaprojekt",
+"text": "Hongkong baut am wohl grössten Städtebauprojekt. Einheimische müssen dafür weichen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d7cfb2b.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-15T18:10:04+00:00",
+"sum": "Hongkong baut am wohl grössten Städtebauprojekt. Einheimische müssen dafür weichen."
+},
+{
+"id": "950d010e05c3",
+"title": "Hunderte Flüchtlinge auf Kanaren angekommen",
+"link": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
+"text": "Rund 1.500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro. Der Präsident der Kanaren forderte Hilfen aus Madrid ein.",
+"img": "https://images.tagesschau.de/image/d8c716a3-4fe1-4814-ae78-b6f7d9ae4f8d/AAABoeAudJc/AAABnSSvrFg/16x9-big/el-hierro-boot-fluechtlinge-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-15T17:31:41+00:00",
+"sum": "Rund 1.500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro. Der Präsident der Kanaren forderte Hilfen aus Madrid ein."
+},
+{
+"id": "8795297ae0f6",
+"title": "ATP Finals in Turin – Zverev mit Auftakt nach Mass – Shelton in 3 Sätzen erfolgreich",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-zverev-mit-auftakt-nach-mass-shelton-in-3-saetzen-erfolgreich",
+"text": "Die Jagd auf Titel Nummer 3 ist eröffnet: Die deutsche Weltnummer 1 lässt Rafael Jodar keine Chance.",
+"img": "https://www.srf.ch/static/cms/images//320ws/99c8fe.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T17:18:59+00:00",
+"sum": "Die Jagd auf Titel Nummer 3 ist eröffnet: Die deutsche Weltnummer 1 lässt Rafael Jodar keine Chance."
+},
+{
+"id": "8ce8ff37ef8c",
+"title": "National League am Sonntag – Effiziente Genfer lassen Kloten verzweifeln – Ambri mit 4:0-Sieg",
+"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-sonntag-effiziente-genfer-lassen-kloten-verzweifeln-ambri-mit-4-0-sieg",
+"text": "Trotz deutlichem Chancenplus muss sich Kloten Servette mit 3:5 beugen. Ambri baut seine Serie auf 6 Heimsiege aus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e64695.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T17:18:27+00:00",
+"sum": "Trotz deutlichem Chancenplus muss sich Kloten Servette mit 3:5 beugen. Ambri baut seine Serie auf 6 Heimsiege aus."
+},
+{
+"id": "afe7f26a8c21",
+"title": "Waffenexporte – Schweizer Munition gelangte über Umwege nach Russland",
+"link": "https://www.srf.ch/news/waffenexporte-schweizer-munition-gelangte-ueber-umwege-nach-russland",
+"text": "Zwei Wochen vor der Abstimmung über das Kriegsmaterialgesetz sorgt eine Recherche der NZZ am Sonntag für Diskussionen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/270a01.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-15T17:17:42+00:00",
+"sum": "Zwei Wochen vor der Abstimmung über das Kriegsmaterialgesetz sorgt eine Recherche der NZZ am Sonntag für Diskussionen."
+},
+{
+"id": "7d598ce28859",
+"title": "Facebook-App las Fotogalerien von Millionen italienischen Nutzern ohne Erlaubnis",
+"link": "https://www.heise.de/news/Datenschutzverstoss-Meta-soll-in-Italien-805-Millionen-Euro-Strafe-zahlen-11525635.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Über die Facebook-App las Meta auf Android-Geräten Fotos von 20 Millionen Nutzern ohne Einwilligung aus. Nun verhängen Italiens Datenschützer eine Strafe.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-15T17:08:00+00:00",
+"sum": "Über die Facebook-App las Meta auf Android-Geräten Fotos von 20 Millionen Nutzern ohne Einwilligung aus. Nun verhängen Italiens Datenschützer eine Strafe."
+},
 {
 "id": "550799bad806",
 "title": "Bäume mit Geschichte – Wie das Tessin für den Erhalt seiner Kastanienwälder kämpft",
@@ -13,50 +233,6 @@
 "topic": "Schweiz",
 "date": "2026-11-15T17:05:03+00:00",
 "sum": "Jahrhundertealte Kastanienbäume prägen das Tessin und Graubünden. Ihr Fortbestand ist keine Selbstverständlichkeit."
-},
-{
-"id": "7be198dfa99b",
-"title": "2027 in Turku dabei – 100 Tore: Unihockeyanerinnen runden WM-Quali perfekt ab",
-"link": "https://www.srf.ch/sport/mehr-sport/unihockey/2027-in-turku-dabei-100-tore-unihockeyanerinnen-runden-wm-quali-perfekt-ab",
-"text": "Dank des abschliessenden 14:1 über Polen kommen die amtierenden Weltmeisterinnen in der WM-Quali auf genau 100 Tore.",
-"img": "https://www.srf.ch/static/cms/images//320ws/401395.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T17:02:02+00:00",
-"sum": "Dank des abschliessenden 14:1 über Polen kommen die amtierenden Weltmeisterinnen in der WM-Quali auf genau 100 Tore."
-},
-{
-"id": "35479aa68980",
-"title": "Jetzt auf SRF zwei – «Sportpanorama» mit FIS-Präsident Alexander Ospelt",
-"link": "https://www.srf.ch/sport/mehr-sport/in-eigener-sache/jetzt-auf-srf-zwei-sportpanorama-mit-fis-praesident-alexander-ospelt",
-"text": "Der FIS-Präsident spricht mit Fabienne Gyr über klimatische Wintersport-Bedrohungen und zusätzliche Weltmeisterschaften.",
-"img": "https://www.srf.ch/static/cms/images//320ws/18248a.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T17:00:40+00:00",
-"sum": "Der FIS-Präsident spricht mit Fabienne Gyr über klimatische Wintersport-Bedrohungen und zusätzliche Weltmeisterschaften."
-},
-{
-"id": "a6f823e8e106",
-"title": "Im Testspiel vs. Hajduk Split – Comeback nach 4-jähriger Sperre: Hamburgs Vuskovic ist zurück",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/im-testspiel-vs-hajduk-split-comeback-nach-4-jaehriger-sperre-hamburgs-vuskovic-ist-zurueck",
-"text": "Darauf haben die HSV-Fans lange gewartet: die Rückkehr Mario Vuskovics. Über 54'000 Fans waren beim Comeback dabei.",
-"img": "https://www.srf.ch/static/cms/images//320ws/82542e5.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T16:53:27+00:00",
-"sum": "Darauf haben die HSV-Fans lange gewartet: die Rückkehr Mario Vuskovics. Über 54'000 Fans waren beim Comeback dabei."
-},
-{
-"id": "fc9023cad342",
-"title": "Estland schliesst ab Dezember Grenzübergänge nach Russland",
-"link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-"text": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schliesst Estland seine drei Grenzübergänge zum Nachbarland.",
-"img": "https://images.tagesschau.de/image/11e09190-b5e6-46e8-a56c-d80e5758e5aa/AAABoeAPp-M/AAABnSSvrFg/16x9-big/grenze-estland-russland-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-15T16:52:46+00:00",
-"sum": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schliesst Estland seine drei Grenzübergänge zum Nachbarland."
 },
 {
 "id": "707234589087",
@@ -92,17 +268,6 @@
 "sum": "Mit Bildern von einem Wolf im Schafspelz hatte der Verfassungsschutz vor Islamisten gewarnt. Bremens Innensenatorin sagt nun: Das Ziel der Kampagne war richtig, die Umsetzung aber nicht."
 },
 {
-"id": "4f14cede5708",
-"title": "17'555 Fans in Regionalliga – Dank Popp-Hattrick: BVB gewinnt Revierderby vor Rekordkulisse",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/17-555-fans-in-regionalliga-dank-popp-hattrick-bvb-gewinnt-revierderby-vor-rekordkulisse",
-"text": "Alexandra Popp bringt Dortmunds Frauen im Derby gegen Schalke früh auf Kurs. Am Ende gewinnen die «Schwarz-Gelben» 4:0.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f35c66.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T16:10:08+00:00",
-"sum": "Alexandra Popp bringt Dortmunds Frauen im Derby gegen Schalke früh auf Kurs. Am Ende gewinnen die «Schwarz-Gelben» 4:0."
-},
-{
 "id": "b8bcd5bde33b",
 "title": "Nvidia-Angestellte wollen Jensen Huang zurück",
 "link": "https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -126,14 +291,14 @@
 },
 {
 "id": "e8706e084e5c",
-"title": "Zehntausende protestieren gegen Rundfunkreform in Tschechien",
+"title": "Massenprotest gegen Rundfunkreform in Tschechien",
 "link": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html",
-"text": "Zehntausende sind in Prag auf die Strasse gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie fürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen.",
+"text": "Mehrere Hunderttausend Menschen sind in Prag auf die Strasse gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie befürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen.",
 "img": "https://images.tagesschau.de/image/5b018cb0-b341-49a7-9b0f-0f90b00a8adb/AAABod_QJDk/AAABnSSvrFg/16x9-big/prag-demo-108.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
 "date": "2026-11-15T15:40:55+00:00",
-"sum": "Zehntausende sind in Prag auf die Strasse gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie fürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen."
+"sum": "Mehrere Hunderttausend Menschen sind in Prag auf die Strasse gegangen, um gegen Pläne zur Finanzierung der öffentlich-rechtlichen Medien zu protestieren. Sie befürchten, die Regierung könnte die Sender mit der Reform unter ihre Kontrolle bringen."
 },
 {
 "id": "33a811d5e894",
@@ -158,17 +323,6 @@
 "sum": "Bei einem Einsatz in Zürich und Dübendorf stellte die Polizei neben Rauschgift auch Waffen und 60'000 Franken sicher."
 },
 {
-"id": "3d7c74aad10f",
-"title": "Ukraine und Russland: Serie von Angriffen - wohl auch Energieanlagen betroffen",
-"link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
-"text": "Am Wochenende hat es eine Serie russischer Angriffe auf die Ukraine gegeben - laut Präsident Selenskyj sind auch Energieanlagen darunter. Die Ukraine wiederum griff offenbar eine petrochemische Anlage in Russland an.",
-"img": "https://images.tagesschau.de/image/6ea808b8-a97e-4ce2-b799-f35e8e4cd604/AAABod5Fx4A/AAABnSSvrFg/16x9-big/ukraine-2932.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-15T15:29:20+00:00",
-"sum": "Am Wochenende hat es eine Serie russischer Angriffe auf die Ukraine gegeben - laut Präsident Selenskyj sind auch Energieanlagen darunter. Die Ukraine wiederum griff offenbar eine petrochemische Anlage in Russland an."
-},
-{
 "id": "42dc30c3882a",
 "title": "UnrealIRCd: Angreifer nutzen Lücke für Befehle mit Serverrechten aus",
 "link": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -189,17 +343,6 @@
 "topic": "Welt",
 "date": "2026-11-15T15:24:11+00:00",
 "sum": "Der Volkstrauertag ist kein gesetzlicher Feiertag, aber ein staatlicher Gedenktag. Im ganzen Land wird heute an Kriegsopfer erinnert. In diesem Jahr zusammen mit dem österreichischem Bundespräsidenten Van der Bellen. Er rief zu mehr Mitgefühl auf."
-},
-{
-"id": "1395860bfbd2",
-"title": "News aus dem Wintersport – Eisschnellläufer Wenger mit starkem Weltcup-Auftakt",
-"link": "https://www.srf.ch/sport/mehr-sport/wintersport/news-aus-dem-wintersport-eisschnelllaeufer-wenger-mit-starkem-weltcup-auftakt",
-"text": "Hier finden Sie die wichtigsten Kurzmeldungen des Tages aus dem Wintersport.",
-"img": "https://www.srf.ch/static/cms/images//320ws/fd0a39.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T15:13:53+00:00",
-"sum": "Hier finden Sie die wichtigsten Kurzmeldungen des Tages aus dem Wintersport."
 },
 {
 "id": "67cf907300d8",
@@ -233,17 +376,6 @@
 "topic": "Welt",
 "date": "2026-11-15T14:58:36+00:00",
 "sum": "Für die einen ist es eine Plage am Badestrand, für andere ein Geschäftsmodell: In Osthessen steht Europas grösste Quallenfarm. Warum sich die Zucht der Nesseltiere wirtschaftlich lohnt. Von Christof Dörr."
-},
-{
-"id": "7ea15780b247",
-"title": "ATP Finals in Turin – 10 Asse im Startsatz: Zverev mit Auftakt nach Mass",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-10-asse-im-startsatz-zverev-mit-auftakt-nach-mass",
-"text": "Die Jagd auf Titel Nummer 3 ist eröffnet: Die deutsche Weltnummer 1 lässt Rafael Jodar keine Chance.",
-"img": "https://www.srf.ch/static/cms/images//320ws/99c8fe.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T14:57:20+00:00",
-"sum": "Die Jagd auf Titel Nummer 3 ist eröffnet: Die deutsche Weltnummer 1 lässt Rafael Jodar keine Chance."
 },
 {
 "id": "98d94ead16ba",
@@ -455,17 +587,6 @@
 "sum": "Steigende Inflation und höhere Zinserwartungen setzen Bitcoin und Gold unter Druck. Gleichzeitig zieht der KI-Boom Kapital an. ( Bitcoin , KI )"
 },
 {
-"id": "147115a9385e",
-"title": "Internationale Fussball-News – Washington trennt sich von Weiler",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-washington-trennt-sich-von-weiler",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f9c42d.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T12:03:56+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
-},
-{
 "id": "001e6ef6eb8c",
 "title": "heise-Angebot: c’t-Webinar: Claude in der Praxis – vom ersten Chat zum eignen Assistenten",
 "link": "https://www.heise.de/news/c-t-Webinar-Claude-in-der-Praxis-vom-ersten-Chat-zum-eignen-Assistenten-11491124.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -486,28 +607,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-15T12:00:00+00:00",
 "sum": "Die indonesische Insel Flores ist bekannt für einen Verwandten von uns. Er lebte dort mit einer sehr eigenen Tierwelt. Das bestätigt der Fund eines Vogelknochens."
-},
-{
-"id": "2cb662f84bb5",
-"title": "Über 10 Millionen Follower – Der Whatsapp-«General», der Lula zum Sieg führte",
-"link": "https://www.srf.ch/news/international/ueber-10-millionen-follower-der-whatsapp-general-der-lula-zum-sieg-fuehrte",
-"text": "André Janones mobilisierte Millionen Menschen – und verhalf Lula da Silva zum Sieg. Kann das auch in Spanien passieren?",
-"img": "https://www.srf.ch/static/cms/images//320ws/84ff9a.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-15T11:57:10+00:00",
-"sum": "André Janones mobilisierte Millionen Menschen – und verhalf Lula da Silva zum Sieg. Kann das auch in Spanien passieren?"
-},
-{
-"id": "3f69ab4cb0ca",
-"title": "Korruptionsermittlungen – Im Wald vergraben: Ermittler finden in Ungarn Millionen Euro",
-"link": "https://www.srf.ch/news/international/korruptionsermittlungen-im-wald-vergraben-ermittler-finden-in-ungarn-millionen-euro",
-"text": "Der Fund verstärkt den Druck auf Orbans angeschlagene Fidesz-Partei.",
-"img": "https://www.srf.ch/static/cms/images//320ws/8f457d.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-15T11:51:01+00:00",
-"sum": "Der Fund verstärkt den Druck auf Orbans angeschlagene Fidesz-Partei."
 },
 {
 "id": "c72db15a04be",
@@ -563,17 +662,6 @@
 "topic": "Welt",
 "date": "2026-11-15T11:15:26+00:00",
 "sum": "Weniger Aufträge, steigende Kosten: Handwerkspräsident Dittrich warnt davor, dass die Branche bis zu 80.000 Arbeitsplätze pro Jahr verlieren könnte - wenn nicht gegengesteuert wird."
-},
-{
-"id": "e5a1c43b2b55",
-"title": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
-"link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
-"text": "In rund einem Monat will sich der AfD-Politiker Siegmund in Sachsen-Anhalt zum Ministerpräsidenten wählen lassen. Viele Migranten überlegen, wegzuziehen. Doch was gilt für Asylsuchende mit einer Wohnsitzauflage? Von L. Pfeuffer-Rooschüz.",
-"img": "https://images.tagesschau.de/image/28f4fd4a-b416-4fe6-b3a0-960111e269a1/AAABodSItw4/AAABnSSvrFg/16x9-big/strassenbahn-haltestelle-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-15T11:10:03+00:00",
-"sum": "In rund einem Monat will sich der AfD-Politiker Siegmund in Sachsen-Anhalt zum Ministerpräsidenten wählen lassen. Viele Migranten überlegen, wegzuziehen. Doch was gilt für Asylsuchende mit einer Wohnsitzauflage? Von L. Pfeuffer-Rooschüz."
 },
 {
 "id": "f890c70af552",
@@ -653,17 +741,6 @@
 "sum": "Tausende nutzen den Klimagipfel in Antalya für Kritik an der türkischen Regierung."
 },
 {
-"id": "a40bb456d231",
-"title": "Presse reagiert deutlich – Portugal erlebt Blamage: «Cristiano hat das nicht verdient»",
-"link": "https://www.srf.ch/sport/fussball/nations-league/presse-reagiert-deutlich-portugal-erlebt-blamage-cristiano-hat-das-nicht-verdient",
-"text": "Ausgerechnet im ersten Spiel nach der Ära Ronaldo kassiert Portugal in Braga eine historische Niederlage.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d6c7e5.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T10:08:40+00:00",
-"sum": "Ausgerechnet im ersten Spiel nach der Ära Ronaldo kassiert Portugal in Braga eine historische Niederlage."
-},
-{
 "id": "07d633dcd51e",
 "title": "heise+ | Smart Home Bastelprojekt: Briefkastenmelder mit Zigbee und ESP32 bauen",
 "link": "https://www.heise.de/ratgeber/Smart-Home-Bastelprojekt-Briefkastenmelder-mit-Zigbee-und-ESP32-bauen-11513083.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
@@ -684,17 +761,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-15T10:00:00+00:00",
 "sum": "Das Vakuum ist nicht leer, sondern steckt voller virtueller Teilchen. Fachleute konnten nun im Teilchenbeschleuniger nachverfolgen, wie diese zu real messbaren Partikeln wurden."
-},
-{
-"id": "f86dee48a90f",
-"title": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
-"link": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html",
-"text": "Stromausfälle, Treibstoffmangel, steigende Preise: Die verschärften US-Sanktionen treffen die Menschen in Kuba hart. In Havanna versuchen sie, der Krise etwas entgegenzusetzen. Mit Musik, Unternehmergeist und Improvisation. Von Marie-Kristin Boese.",
-"img": "https://images.tagesschau.de/image/5b5ff1c5-be54-4998-96c2-7c3f3362e72c/AAABodUh46Y/AAABnSSvrFg/16x9-big/muellsammler-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-15T09:46:38+00:00",
-"sum": "Stromausfälle, Treibstoffmangel, steigende Preise: Die verschärften US-Sanktionen treffen die Menschen in Kuba hart. In Havanna versuchen sie, der Krise etwas entgegenzusetzen. Mit Musik, Unternehmergeist und Improvisation. Von Marie-Kristin Boese."
 },
 {
 "id": "f168c29790aa",
@@ -752,17 +818,6 @@
 "sum": "Im März 2027 findet die JavaLand-Konferenz im grössten Freizeitpark Deutschlands statt. Das Programm bietet rund 120 Sessions und einen Workshoptag."
 },
 {
-"id": "50028d417b44",
-"title": "4. Amtszeit für Infantino? – Wenger laut Medien kein Infantino-Herausforderer",
-"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/4-amtszeit-fuer-infantino-wenger-laut-medien-kein-infantino-herausforderer",
-"text": "Hier erfahren Sie alles Wichtige im Vorfeld der Fifa-Präsidentenwahl, die im März 2027 stattfindet.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b08bc1.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T08:23:21+00:00",
-"sum": "Hier erfahren Sie alles Wichtige im Vorfeld der Fifa-Präsidentenwahl, die im März 2027 stattfindet."
-},
-{
 "id": "2dcaaf8e41b9",
 "title": "Energiewende im Schwerverkehr – Bei Lastwagen kommt der Umstieg auf Elektroantrieb voran",
 "link": "https://www.srf.ch/news/dialog/energiewende-im-schwerverkehr-bei-lastwagen-kommt-der-umstieg-auf-elektroantrieb-voran",
@@ -783,28 +838,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-15T08:00:00+00:00",
 "sum": "An sonnigen Tagen treibt es viele Menschen nach draussen. Und sie ticken auch generell ein wenig anders: Psychologen haben beobachtet, wie sich Werte mit den Jahreszeiten wandeln."
-},
-{
-"id": "a78d4b64aa91",
-"title": "Daten-GAU in Berlin: Forensiker über den Rhysida-Leak",
-"link": "https://www.heise.de/news/Berliner-Daten-GAU-Wie-man-einen-Leak-seziert-11524771.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Nach ihrer Attacke gegen die Berliner Verwaltung stellte die Hackergruppe Rhysida mehrere Terabyte Daten ins Netz. Doch wie analysiert man solche Dateimassen?",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-15T07:16:00+00:00",
-"sum": "Nach ihrer Attacke gegen die Berliner Verwaltung stellte die Hackergruppe Rhysida mehrere Terabyte Daten ins Netz. Doch wie analysiert man solche Dateimassen?"
-},
-{
-"id": "db1e2cd24e09",
-"title": "heise+ | Outdoor-Dimmer im Eigenbau: Smarte Lichtsteuerung für Garten und Fassade",
-"link": "https://www.heise.de/ratgeber/Outdoor-Dimmer-im-Eigenbau-Smarte-Lichtsteuerung-fuer-Garten-und-Fassade-11483943.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-"text": "Herkömmliche Funksteckdosen schalten Lichterketten nur ein oder aus. Mit einem Shelly-Dimmer im Aussengehäuse regeln Sie die Helligkeit stufenlos.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-15T07:00:00+00:00",
-"sum": "Herkömmliche Funksteckdosen schalten Lichterketten nur ein oder aus. Mit einem Shelly-Dimmer im Aussengehäuse regeln Sie die Helligkeit stufenlos."
 },
 {
 "id": "ddad4ed057d7",
@@ -849,17 +882,6 @@
 "topic": "Schweiz",
 "date": "2026-11-15T06:28:19+00:00",
 "sum": "Knapp 40 Prozent der Gastro-Lernenden schmeissen ihre Lehre. Nun sollen auch die Betriebe Unterstützung erhalten."
-},
-{
-"id": "3111cafb704b",
-"title": "WTA Finals in Indian Wells – Russin Andrejewa und Ukrainerin Switolina spielen um den Titel",
-"link": "https://www.srf.ch/sport/tennis/wta-tour/wta-finals-in-indian-wells-russin-andrejewa-und-ukrainerin-switolina-spielen-um-den-titel",
-"text": "Wie zuvor Mirra Andrejewa gibt sich auch Jelina Switolina im Halbfinal der WTA Finals überhaupt keine Blösse.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a09931.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T06:21:48+00:00",
-"sum": "Wie zuvor Mirra Andrejewa gibt sich auch Jelina Switolina im Halbfinal der WTA Finals überhaupt keine Blösse."
 },
 {
 "id": "f2ca1a9027f0",
@@ -987,7 +1009,7 @@
 "title": "Autoversicherungen werden immer teurer: So kann man sparen",
 "link": "https://www.nzz.ch/finanzen/teure-autoversicherungen-2027-tipps-zum-sparen-von-hunderten-franken-ld.10063012",
 "text": "Autofahrer sollten Prämienerhöhungen bei den Versicherungen ihrer Fahrzeuge nicht einfach still erdulden. Bei einem Wechsel lassen sich oft mehrere hundert Franken pro Jahr sparen.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/03/19dd6b99-e30e-4253-b4ad-babd29b23ce4.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4640,4640,x1160,y0",
+"img": "https://img-msp-prod.nzz.ch/2026/11/03/19dd6b99-e30e-4253-b4ad-babd29b23ce4.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4640,4640,x561,y0",
 "source": "NZZ",
 "topic": "Wirtschaft",
 "date": "2026-11-15T04:30:00+00:00",
@@ -1069,6 +1091,17 @@
 "topic": "Welt",
 "date": "2026-11-14T19:17:28+00:00",
 "sum": "Die Anwältin Imaan Mazari-Hazir ist in ihrer Heimat Pakistan bekannt für ihren Mut. Nun sitzt sie aber hinter Gittern."
+},
+{
+"id": "b68cd96af3aa",
+"title": "Schallmauer durchbrochen – Als erster Goalie: Genoni tritt dem 1000er-Klub bei",
+"link": "https://www.srf.ch/sport/eishockey/national-league/schallmauer-durchbrochen-als-erster-goalie-genoni-tritt-dem-1000er-klub-bei",
+"text": "Leonardo Genoni knackt mit seinem Einsatz gegen die ZSC Lions die Marke von 1000 National-League-Spielen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a582a07.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-14T18:40:18+00:00",
+"sum": "Leonardo Genoni knackt mit seinem Einsatz gegen die ZSC Lions die Marke von 1000 National-League-Spielen."
 },
 {
 "id": "992148780106",
@@ -1181,17 +1214,6 @@
 "sum": "In Peru wurde eine ausgestorbene Art an Zwergpottwal gefunden. Ihr Schädel war aussergewöhnlich asymmetrisch geformt."
 },
 {
-"id": "7b7e6498e3ac",
-"title": "Streit um Gesundheitskosten – Ärzte-Präsidentin: «Bundesrat hat seine Kompetenz überschritten»",
-"link": "https://www.srf.ch/news/schweiz/streit-um-gesundheitskosten-aerzte-praesidentin-bundesrat-hat-seine-kompetenz-ueberschritten",
-"text": "FMH-Präsidentin Yvonne Gilli kritisiert die Sparvorgaben aus Bern. Sie zeigt sich aber bereit, zu verhandeln.",
-"img": "https://www.srf.ch/static/cms/images//320ws/5d984f.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-14T14:18:50+00:00",
-"sum": "FMH-Präsidentin Yvonne Gilli kritisiert die Sparvorgaben aus Bern. Sie zeigt sich aber bereit, zu verhandeln."
-},
-{
 "id": "ef8ce05dbe9e",
 "title": "Anzeige: IT-Jobs in Systemadministration, Netzwerkarchitektur und Security",
 "link": "https://www.golem.de/news/anzeige-it-jobs-in-systemadministration-netzwerkarchitektur-und-security-2611-215171.html",
@@ -1300,17 +1322,6 @@
 "topic": "Welt",
 "date": "2026-11-14T08:35:59+00:00",
 "sum": "Warum eine Technikpanne den US-Flugverkehr lahmlegte: Die Einordnung von SRF-Korrespondentin Barbara Colpi."
-},
-{
-"id": "d4373e880ded",
-"title": "Produziert im Herkunftsland – Kriegt die Schweizer Schokolade Konkurrenz aus Afrika?",
-"link": "https://www.srf.ch/news/international/produziert-im-herkunftsland-kriegt-die-schweizer-schokolade-konkurrenz-aus-afrika",
-"text": "Kakao stammt mehrheitlich aus Westafrika, Schokolade aber wird meist anderswo gemacht. Ghana und Togo wollen das ändern.",
-"img": "https://www.srf.ch/static/cms/images//320ws/35bcf0c.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-14T08:33:29+00:00",
-"sum": "Kakao stammt mehrheitlich aus Westafrika, Schokolade aber wird meist anderswo gemacht. Ghana und Togo wollen das ändern."
 },
 {
 "id": "3d4b1f257f56",
@@ -1621,17 +1632,6 @@
 "sum": "Der Chef ist zurückgetreten - doch die Aufarbeitung der Spionageaffäre um Jensen Huang und Nvidia beginnt erst. Huang und Handelsminister Lutnick sollen vor dem US-Senat aussagen. Es geht um mögliche Chip-Lieferungen nach China."
 },
 {
-"id": "26681d9c35c9",
-"title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Ausschuss des US-Senats lädt Huang zu Anhörung vor",
-"link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
-"text": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaison publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen",
-"img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-13T06:42:00+00:00",
-"sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaison publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen"
-},
-{
 "id": "d1b0eb832e67",
 "title": "Glarner Kantonalbank: Der Kanton setzt beim Gewinn neue Prioritäten",
 "link": "https://www.finews.ch/news/banken/74476-glarner-kantonalbank-eignerstrategie-kanton",
@@ -1707,61 +1707,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-13T02:36:47+00:00",
 "sum": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmasslichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp."
-},
-{
-"id": "1ef2cfe8882c",
-"title": "Affären am Arbeitsplatz – Wenn Liebe den Job kostet – diese Chefs räumten ihre Posten",
-"link": "https://www.srf.ch/news/wirtschaft/affaeren-am-arbeitsplatz-wenn-liebe-den-job-kostet-diese-chefs-raeumten-ihre-posten",
-"text": "Immer wieder verlieren Topmanager ihre Posten wegen Affären. Eine Auswahl.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d3ff82.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-12T21:50:58+00:00",
-"sum": "Immer wieder verlieren Topmanager ihre Posten wegen Affären. Eine Auswahl."
-},
-{
-"id": "6f0e3fce477a",
-"title": "Rückblick nach Rücktritt – Von Grafikchips zu KI: Der Aufstieg von Nvidia unter Jensen Huang",
-"link": "https://www.srf.ch/news/wirtschaft/rueckblick-nach-ruecktritt-von-grafikchips-zu-ki-der-aufstieg-von-nvidia-unter-jensen-huang",
-"text": "Vor seinem Rücktritt prägte Jensen Huang Nvidia über Jahrzehnte. Ein Blick zurück auf einen eindrucksvollen Aufstieg.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6c2f8d7.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-12T18:21:38+00:00",
-"sum": "Vor seinem Rücktritt prägte Jensen Huang Nvidia über Jahrzehnte. Ein Blick zurück auf einen eindrucksvollen Aufstieg."
-},
-{
-"id": "70ee2ef89fc9",
-"title": "Bedeutung der Sparkassen – Als die Schweizer Bevölkerung das Sparen lernte",
-"link": "https://www.srf.ch/news/wirtschaft/bedeutung-der-sparkassen-als-die-schweizer-bevoelkerung-das-sparen-lernte",
-"text": "Ein neuer Blick in die Geschichte der Schweizer Banken zeigt: Sparkassen waren fundamental für den heutigen Wohlstand.",
-"img": "https://www.srf.ch/static/cms/images//320ws/71da48.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-12T18:00:06+00:00",
-"sum": "Ein neuer Blick in die Geschichte der Schweizer Banken zeigt: Sparkassen waren fundamental für den heutigen Wohlstand."
-},
-{
-"id": "eb56dde3da17",
-"title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-"link": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-"text": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer.",
-"img": "https://images.tagesschau.de/image/56cefa31-32a3-45e7-88a7-9847e5d79f89/AAABocrx_Uc/AAABnSSvrFg/16x9-big/frankfurt-banken-116.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-12T17:31:15+00:00",
-"sum": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer."
-},
-{
-"id": "26ccde87e6f9",
-"title": "Absetzung von Nvidia-Chef – Die Lehren aus dem Fall Jensen Huang und seinen Affären",
-"link": "https://www.srf.ch/news/wirtschaft/absetzung-von-nvidia-chef-die-lehren-aus-dem-fall-jensen-huang-und-seinen-affaeren",
-"text": "Nvidias Erfolg war eng mit Jensen Huang verknüpft. Sein Sturz offenbart die Kehrseite dieser Abhängigkeit.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e85dcb.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-12T17:16:52+00:00",
-"sum": "Nvidias Erfolg war eng mit Jensen Huang verknüpft. Sein Sturz offenbart die Kehrseite dieser Abhängigkeit."
 }
 ]
 }
