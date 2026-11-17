@@ -1,8 +1,195 @@
 {
-"updated": "2026-11-16T18:37:10+00:00",
+"updated": "2026-11-17T02:57:30+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "9bff4fbd2e86",
+"title": "Proteste in Frankreich: Die Wut der Schüler, die Ohnmacht der Schulen",
+"link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html",
+"text": "Gewerkschaften und Gelbwesten haben in Frankreich für heute erneut zu Protesten aufgerufen. Schüler wollen sich daran beteiligen. Schulleiter und Schulleiterinnen fühlen sich allein gelassen. Von Julia Borutta.",
+"img": "https://images.tagesschau.de/image/e7e502cf-ddf9-419e-b061-574de7cab9dc/AAABoeYP5kw/AAABnSSvrFg/16x9-big/proteste-frankreich-190.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-17T02:20:12+00:00",
+"sum": "Gewerkschaften und Gelbwesten haben in Frankreich für heute erneut zu Protesten aufgerufen. Schüler wollen sich daran beteiligen. Schulleiter und Schulleiterinnen fühlen sich allein gelassen. Von Julia Borutta."
+},
+{
+"id": "46ce8723dea0",
+"title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+"link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+"text": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an - ein gefährliches Produkt ohne angemessene Sicherheitsverfahren oder Aufsicht habe das Unternehmen entwickelt und getestet. Von R. Spiegelhauer.",
+"img": "https://images.tagesschau.de/image/107293a0-c863-4c97-aa48-5a6679dbacfa/AAABoebsccw/AAABnSSvrFg/16x9-big/altman-106.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-17T01:16:16+00:00",
+"sum": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an - ein gefährliches Produkt ohne angemessene Sicherheitsverfahren oder Aufsicht habe das Unternehmen entwickelt und getestet. Von R. Spiegelhauer."
+},
+{
+"id": "6d21c857bfea",
+"title": "Softwareproblem stört US-Banken",
+"link": "https://www.heise.de/news/Softwareproblem-stoert-US-Banken-11527077.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Kunden mehrerer US-Banken beklagen Problem mit Geldtransaktionen. JPMorgan Chase kämpft mit einem Softwarebug.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-16T22:22:00+00:00",
+"sum": "Kunden mehrerer US-Banken beklagen Problem mit Geldtransaktionen. JPMorgan Chase kämpft mit einem Softwarebug."
+},
+{
+"id": "5687477a1c24",
+"title": "Stimmen nach dem Nati-Spiel – Ein spezieller Platz für das Trikot und ein Essen für ein Tor",
+"link": "https://www.srf.ch/sport/fussball/nationalmannschaft/stimmen-nach-dem-nati-spiel-ein-spezieller-platz-fuer-das-trikot-und-ein-essen-fuer-ein-tor",
+"text": "Mit einem 4:0 sorgte die Nati für einen erfolgreichen Jahresabschluss. Freuen dürfte die Akteure nicht nur das Ergebnis.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ac611b.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-16T22:20:45+00:00",
+"sum": "Mit einem 4:0 sorgte die Nati für einen erfolgreichen Jahresabschluss. Freuen dürfte die Akteure nicht nur das Ergebnis."
+},
+{
+"id": "984c6bd8116c",
+"title": "ATP Finals in Turin – 21 Winner, 9 Fehler: Alcaraz macht mit Tiafoe kurzen Prozess",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-21-winner-9-fehler-alcaraz-macht-mit-tiafoe-kurzen-prozess",
+"text": "Carlos Alcaraz lanciert die ATP Finals in Turin mit einem äusserst überzeugenden 6:2, 6:2 über Frances Tiafoe.",
+"img": "https://www.srf.ch/static/cms/images//320ws/355899.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-16T22:13:24+00:00",
+"sum": "Carlos Alcaraz lanciert die ATP Finals in Turin mit einem äusserst überzeugenden 6:2, 6:2 über Frances Tiafoe."
+},
+{
+"id": "089891623d99",
+"title": "Nations League: Gruppe A2 – Deutschland watscht Niederlande ab und holt Gruppensieg",
+"link": "https://www.srf.ch/sport/fussball/nations-league/nations-league-gruppe-a2-deutschland-watscht-niederlande-ab-und-holt-gruppensieg",
+"text": "Deutschland fegt die Niederlande zum Abschluss der Nations-League-Gruppe A2 in Berlin mit 5:0 vom Feld.",
+"img": "https://www.srf.ch/static/cms/images//320ws/826d46.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-16T21:50:45+00:00",
+"sum": "Deutschland fegt die Niederlande zum Abschluss der Nations-League-Gruppe A2 in Berlin mit 5:0 vom Feld."
+},
+{
+"id": "0e97207b80b8",
+"title": "Rating Schweiz – Schottland – Wie hat Ihnen der Auftritt der Nati zum Jahresabschluss gefallen?",
+"link": "https://www.srf.ch/sport/fussball/nations-league/rating-schweiz-schottland-wie-hat-ihnen-der-auftritt-der-nati-zum-jahresabschluss-gefallen",
+"text": "Bewerten Sie hier die Leistung der Schweizer Akteure im Nations-League-Spiel gegen Schottland.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f92349.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-16T21:42:45+00:00",
+"sum": "Bewerten Sie hier die Leistung der Schweizer Akteure im Nations-League-Spiel gegen Schottland."
+},
+{
+"id": "a31876d7056a",
+"title": "4:0 gegen Schottland – Zwei Jubilare und zwei Debüt-Tore: Erfolgreiche Nati feiert Sieg",
+"link": "https://www.srf.ch/sport/fussball/nationalmannschaft/4-0-gegen-schottland-zwei-jubilare-und-zwei-debuet-tore-erfolgreiche-nati-feiert-sieg",
+"text": "Die Schweizer Nati schlägt Schottland zum Abschluss der Nations League in St. Gallen mit 4:0.",
+"img": "https://www.srf.ch/static/cms/images//320ws/dfb3e5.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-16T21:42:06+00:00",
+"sum": "Die Schweizer Nati schlägt Schottland zum Abschluss der Nations League in St. Gallen mit 4:0."
+},
+{
+"id": "2cd4d0c21976",
+"title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
+"link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
+"text": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
+"img": "https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-16T20:48:40+00:00",
+"sum": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden."
+},
+{
+"id": "302fb952aa92",
+"title": "Eishockey-WM der Frauen – USA untermauern Vormachtstellung mit Finalsieg über Kanada",
+"link": "https://www.srf.ch/sport/eishockey/wm/eishockey-wm-der-frauen-usa-untermauern-vormachtstellung-mit-finalsieg-ueber-kanada",
+"text": "Die US-Amerikanerinnen verteidigen in Herning ihren WM-Titel. Im ewigen Final-Duell mit Kanada resultiert ein 6:2.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1ce8c63.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-16T20:39:22+00:00",
+"sum": "Die US-Amerikanerinnen verteidigen in Herning ihren WM-Titel. Im ewigen Final-Duell mit Kanada resultiert ein 6:2."
+},
+{
+"id": "a9a2ca36d63f",
+"title": "MELDUNGEN WIRTSCHAFT - Kalifornien verklagt OpenAI wegen Hacking-Attacken",
+"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
+"text": "Die neuesten Meldungen aus der Wirtschaft.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/09/36813326-b1fc-4c52-8816-b27866e4dc2e.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3672,3672,x726,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-16T20:24:05+00:00",
+"sum": "Die neuesten Meldungen aus der Wirtschaft."
+},
+{
+"id": "40d114a5c544",
+"title": "Abhängigkeit von US-Militärtechnologie: Europäer suchen Alternativen",
+"link": "https://www.heise.de/news/Abhaengigkeit-von-US-Militaertechnologie-Europaeer-suchen-Alternativen-11527013.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Europäische Militärs wollen ihre Abhängigkeit von den USA verringern und suchen Alternativen vor allem zur Software von Palantir. Einfach wird das nicht.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-16T20:23:00+00:00",
+"sum": "Europäische Militärs wollen ihre Abhängigkeit von den USA verringern und suchen Alternativen vor allem zur Software von Palantir. Einfach wird das nicht."
+},
+{
+"id": "5afe30f903b1",
+"title": "Grenze zu Russland – Warum Estland seine Grenzen zu Russland schliesst",
+"link": "https://www.srf.ch/news/international/ukraine/grenze-zu-russland-warum-estland-seine-grenzen-zu-russland-schliesst",
+"text": "Ab 1. Dezember 2026 werden die Übergänge nach Russland geschlossen. SRF-Auslandredaktor Peter Voegeli erklärt, warum.",
+"img": "https://www.srf.ch/static/cms/images//320ws/60ac17.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-16T19:50:30+00:00",
+"sum": "Ab 1. Dezember 2026 werden die Übergänge nach Russland geschlossen. SRF-Auslandredaktor Peter Voegeli erklärt, warum."
+},
+{
+"id": "4f52d8321482",
+"title": "KI-Regeln: Staaten und Firmen fordern Sicherheit und Transparenz",
+"link": "https://www.heise.de/news/KI-Regeln-Staaten-und-Firmen-fordern-Sicherheit-und-Transparenz-11526847.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Achtzehn Länder und zehn KI-Firmen formulieren Rahmenbedingungen für KIs+. Neben den üblichen Floskeln gibt es interessante Details. Deutschland fehlte anfangs.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-16T19:36:00+00:00",
+"sum": "Achtzehn Länder und zehn KI-Firmen formulieren Rahmenbedingungen für KIs+. Neben den üblichen Floskeln gibt es interessante Details. Deutschland fehlte anfangs."
+},
+{
+"id": "cc85f30e44ae",
+"title": "Sammelklage in Europa – 18'000 Hotels wehren sich gegen Booking.com",
+"link": "https://www.srf.ch/news/wirtschaft/sammelklage-in-europa-18-000-hotels-wehren-sich-gegen-booking-com",
+"text": "Rund 800 Schweizer Hotels beteiligen sich an der Klage. Ein Überblick über Vorwürfe, Rechtslage und Reaktionen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d54ec1f.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-16T19:30:07+00:00",
+"sum": "Rund 800 Schweizer Hotels beteiligen sich an der Klage. Ein Überblick über Vorwürfe, Rechtslage und Reaktionen."
+},
+{
+"id": "52dfbfa34626",
+"title": "Top500: Chinas LineShine verteidigt Platz 1 der schnellsten Supercomputer",
+"link": "https://www.heise.de/news/Top500-Chinas-LineShine-verteidigt-Platz-1-der-schnellsten-Supercomputer-11526327.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die 68. Top500-Liste der schnellsten Supercomputer zeigt auf den Spitzenplätzen keine Änderungen: KI-Rechenzentren stehlen anderen Grossinstallationen die Show.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-16T19:00:00+00:00",
+"sum": "Die 68. Top500-Liste der schnellsten Supercomputer zeigt auf den Spitzenplätzen keine Änderungen: KI-Rechenzentren stehlen anderen Grossinstallationen die Show."
+},
+{
+"id": "f578df7bab05",
+"title": "Abschiebezentrum geplant: Was steckt hinter den Ruanda-Plänen?",
+"link": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",
+"text": "Abgelehnte Asylbewerber sollen in Zukunft nach Ruanda gebracht werden können - auch wenn sie keine Verbindung zu dem Land haben. Innenminister Dobrindt will das zusammen mit vier anderen EU-Staaten und Ruanda möglich machen. Von Alena Lagmöller.",
+"img": "https://images.tagesschau.de/image/d87a08a6-d40c-44d7-97aa-b670e7a006a5/AAABmQPv0w8/AAABnSSvrFg/16x9-big/flugzeug-hannover-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-16T18:59:11+00:00",
+"sum": "Abgelehnte Asylbewerber sollen in Zukunft nach Ruanda gebracht werden können - auch wenn sie keine Verbindung zu dem Land haben. Innenminister Dobrindt will das zusammen mit vier anderen EU-Staaten und Ruanda möglich machen. Von Alena Lagmöller."
+},
 {
 "id": "26681d9c35c9",
 "title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Der Verwaltungsrat lehnt laut Berichten eine Rückkehr von Jensen Huang ab",
@@ -11,19 +198,8 @@
 "img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
 "source": "NZZ",
 "topic": "Wirtschaft",
-"date": "2026-11-16T18:34:21+00:00",
+"date": "2026-11-16T18:36:50+00:00",
 "sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall."
-},
-{
-"id": "16d636067264",
-"title": "Internationale Fussball-News – Lukaku beendet Nati-Karriere – Frank übernimmt bei Palace",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-lukaku-beendet-nati-karriere-frank-uebernimmt-bei-palace",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/611ac0.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-16T18:31:40+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
 },
 {
 "id": "f9444aef29a1",
@@ -57,17 +233,6 @@
 "topic": "Tech",
 "date": "2026-11-16T18:12:00+00:00",
 "sum": "Apple testet für das iPhone Duo das Entsperren per Gesichtserkennung. Es ist kein Ersatz für Touch ID. Eine zweite Funktion sperrt das Gerät beim Zuklappen."
-},
-{
-"id": "2cd4d0c21976",
-"title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
-"link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-"text": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden.",
-"img": "https://images.tagesschau.de/image/e865af29-aaff-4a5d-ad59-76a33bcc702c/AAABoeTlNbc/AAABnSSvrFg/16x9-big/tesla-cybercab-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-16T17:59:15+00:00",
-"sum": "Tesla will drei Milliarden Euro für den Ausbau des Werks in Grünheide östlich von Berlin ausgeben. Der US-Elektroautobauer will damit ein neues Produktionsgebäude finanzieren. Künftig sollen dort \"Cybercabs\" - fahrerlose Taxis - gebaut werden."
 },
 {
 "id": "571d53a50a67",
@@ -378,17 +543,6 @@
 "sum": "Dürfen Maschinen autonom über Leben und Tod entscheiden? Viele Länder wollen das verhindern, so auch die Schweiz und Deutschland. Doch die Verhandlungen mit Grossmächten harzen schon, bevor sie wirklich losgehen."
 },
 {
-"id": "984c6bd8116c",
-"title": "ATP Finals in Turin – 21 Winner, 9 Fehler: Alcaraz macht mit Tiafoe kurzen Prozess",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-21-winner-9-fehler-alcaraz-macht-mit-tiafoe-kurzen-prozess",
-"text": "Carlos Alcaraz lanciert die ATP Finals in Turin mit einem äusserst überzeugenden 6:2, 6:2 über Frances Tiafoe.",
-"img": "https://www.srf.ch/static/cms/images//320ws/355899.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-16T15:06:37+00:00",
-"sum": "Carlos Alcaraz lanciert die ATP Finals in Turin mit einem äusserst überzeugenden 6:2, 6:2 über Frances Tiafoe."
-},
-{
 "id": "f4caeb60c975",
 "title": "Tesla will drei Milliarden Euro in Werk in Grünheide stecken",
 "link": "https://www.heise.de/news/Tesla-will-drei-Milliarden-Euro-in-Werk-in-Gruenheide-stecken-11526787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -532,17 +686,6 @@
 "sum": "Weggefährten setzen sich für Jensen Huang ein. Kann er wieder Nvidia-Chef werden?"
 },
 {
-"id": "0b15cab2a78c",
-"title": "KI-Update kompakt: Nvidia-Drama, Berufseinstieg, Siri AI, Home Assistant mit KI",
-"link": "https://www.heise.de/news/KI-Update-kompakt-Nvidia-Drama-Berufseinstieg-Siri-AI-Home-Assistant-mit-KI-11524748.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-16T14:00:00+00:00",
-"sum": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen."
-},
-{
 "id": "1b551dbb5465",
 "title": "Pipelines für Kohlendioxid: Ein Abgasrohr vom Schornstein bis zum Meer",
 "link": "https://www.spektrum.de/news/kohlendioxid-ein-abgasrohr-vom-schornstein-bis-ans-meer/2354219",
@@ -552,17 +695,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-16T14:00:00+00:00",
 "sum": "Kohlendioxid aus der Industrie soll schon bald unter der Nordsee gespeichert werden. Forschende schlagen nun ein Netz von Pipelines für den Transport vor."
-},
-{
-"id": "18065b2b1d84",
-"title": "Rust 1.100: Never-Type nach zehn Jahren stabil, Cargo hält neue Versionen zurück",
-"link": "https://www.heise.de/news/Rust-1-100-Never-Type-nach-zehn-Jahren-stabil-Cargo-haelt-neue-Versionen-zurueck-11525017.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das Release stabilisiert zwei lang erwartete Features und nimmt dafür einen kleinen Bruch in Kauf: Für ältere Editionen ändert sich die Typinferenz.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-16T13:55:00+00:00",
-"sum": "Das Release stabilisiert zwei lang erwartete Features und nimmt dafür einen kleinen Bruch in Kauf: Für ältere Editionen ändert sich die Typinferenz."
 },
 {
 "id": "646bc71bf000",
@@ -587,17 +719,6 @@
 "sum": "Das Hin und Her um die Stromsteuer geht weiter. Bundeskanzler Merz sieht dafür Spielraum im Bundeshalt 2027. ( Bundesregierung , Elektroauto )"
 },
 {
-"id": "dca4ea31ad26",
-"title": "«Pack deine Sachen und hau ab» – Nach Pleite und Rot: Brasilien-Trainer Ancelotti angefeindet",
-"link": "https://www.srf.ch/sport/fussball/fussball-allgemein/pack-deine-sachen-und-hau-ab-nach-pleite-und-rot-brasilien-trainer-ancelotti-angefeindet",
-"text": "Carlo Ancelotti und Brasilien legten jüngst gegen Japan einen schwachen Auftritt mit blamablem Finale hin.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0f6a72.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-16T13:33:07+00:00",
-"sum": "Carlo Ancelotti und Brasilien legten jüngst gegen Japan einen schwachen Auftritt mit blamablem Finale hin."
-},
-{
 "id": "deeaf4374198",
 "title": "Wetterwechsel – Jetstream über der Schweiz: Es stehen stürmische Tage bevor",
 "link": "https://www.srf.ch/news/schweiz/wetterwechsel-jetstream-ueber-der-schweiz-es-stehen-stuermische-tage-bevor",
@@ -620,17 +741,6 @@
 "sum": "Das eigentliche Ziel sind Hosts für VMware ESXi, auf denen die Angreifer einen Data Wiper installieren. ( Malware , PHP )"
 },
 {
-"id": "aa625ab72894",
-"title": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
-"link": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html",
-"text": "Der Schweriner Landtag hat Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wiedergewählt. Das Parlament bestätigte die SPD-Politikerin für weitere fünf Jahre im Amt. Schwesig führt MV bereits seit 2017.",
-"img": "https://images.tagesschau.de/image/0d7104df-f254-4aa4-9114-6b2e51095b79/AAABoeSVHs0/AAABnSSvrFg/16x9-big/schwesig-414.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-16T13:23:01+00:00",
-"sum": "Der Schweriner Landtag hat Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wiedergewählt. Das Parlament bestätigte die SPD-Politikerin für weitere fünf Jahre im Amt. Schwesig führt MV bereits seit 2017."
-},
-{
 "id": "03700166a139",
 "title": "Directroutes: Telekom verkauft kostenpflichtiges Peering über den DE-CIX",
 "link": "https://www.golem.de/news/directroutes-telekom-verkauft-kostenpflichtiges-peering-ueber-den-de-cix-2611-215265.html",
@@ -651,28 +761,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-16T13:02:48+00:00",
 "sum": "Schwere Mängel bei der Bekämpfung von Geldwäscherei bringen Revolut in Italien unter gerichtliche Verwaltung. Während andere Banken zu den untersuchten Kunden Hunderte Verdachtsmeldungen einreichten, erstattete die Digitalbank keine einzige. Nun müssen zwei gerichtlich bestellte Verwalter die Verbesserung der Kontrollen überwachen."
-},
-{
-"id": "0b8ef2e89f79",
-"title": "NASA ruft dazu auf, Voyager 1 mit dem Smartphone Morsezeichen zu senden",
-"link": "https://www.heise.de/news/NASA-ruft-dazu-auf-Voyager-1-mit-dem-Smartphone-Morsezeichen-zu-senden-11526207.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Am Mittwoch wird sich Voyager 1 als erste Sonde überhaupt mehr als einen Lichttag von uns entfernen. Die NASA fordert uns dazu auf, ein Zeichen zu setzen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-16T13:02:00+00:00",
-"sum": "Am Mittwoch wird sich Voyager 1 als erste Sonde überhaupt mehr als einen Lichttag von uns entfernen. Die NASA fordert uns dazu auf, ein Zeichen zu setzen."
-},
-{
-"id": "ab782240cc6a",
-"title": "Auf nach Hogwarts: 25 Jahre „Harry Potter“ im Film",
-"link": "https://www.heise.de/news/Auf-nach-Hogwarts-25-Jahre-Harry-Potter-im-Film-11526453.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Im November 2001 läuft „Harry Potter und der Stein der Weisen“ an. In Deutschland wird er nach „Titanic“ der erfolgreichste Film der vergangenen 50 Jahre.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-16T13:02:00+00:00",
-"sum": "Im November 2001 läuft „Harry Potter und der Stein der Weisen“ an. In Deutschland wird er nach „Titanic“ der erfolgreichste Film der vergangenen 50 Jahre."
 },
 {
 "id": "e2c9761bbf52",
@@ -719,17 +807,6 @@
 "sum": "Im dritten Quartal hat die Wirtschaft nicht an das starke Vorquartal anknüpfen können. Treiber war der Industriesektor."
 },
 {
-"id": "88c54ccc32b3",
-"title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
-"link": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
-"text": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
-"img": "https://images.tagesschau.de/image/08258aaa-6bc7-4587-8e53-9d190092cf87/AAABoeRlSGU/AAABnSSvrFg/16x9-big/merz-1800.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-16T12:46:45+00:00",
-"sum": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen."
-},
-{
 "id": "297858e7a716",
 "title": "Nach Sieg an WTA Finals – Andrejewa dankt sich selbst und nimmt die Nummer 1 ins Visier",
 "link": "https://www.srf.ch/sport/tennis/wta-tour/nach-sieg-an-wta-finals-andrejewa-dankt-sich-selbst-und-nimmt-die-nummer-1-ins-visier",
@@ -761,17 +838,6 @@
 "topic": "Sport",
 "date": "2026-11-16T12:29:21+00:00",
 "sum": "Im «Sportpanorama» zeigt FIS-Präsident Alexander Ospelt auf, wie sich der Skirennsport in Zukunft anpassen könnte."
-},
-{
-"id": "20a94448d11d",
-"title": "EU-Aussenminister wollen Ukraine-Strategie ausarbeiten",
-"link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-ukraine-nahost-100.html",
-"text": "Erstmals könnten EU-Staaten die Chance haben, aktiv über ein Kriegsende in der Ukraine mit zu verhandeln. Doch auch eine andere Region verlieren die EU-Aussenminister nicht aus dem Blick: den Gazastreifen. Von Sabrina Fritz.",
-"img": "https://images.tagesschau.de/image/ae8433de-302d-4ce6-b879-2974a1bc9416/AAABoeQi11I/AAABnSSvrFg/16x9-big/kallas-212.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-16T12:23:50+00:00",
-"sum": "Erstmals könnten EU-Staaten die Chance haben, aktiv über ein Kriegsende in der Ukraine mit zu verhandeln. Doch auch eine andere Region verlieren die EU-Aussenminister nicht aus dem Blick: den Gazastreifen. Von Sabrina Fritz."
 },
 {
 "id": "4b144c889681",
@@ -818,17 +884,6 @@
 "sum": "Wegen hoher Preise und weniger Produktion hat die deutsche Industrie 2025 weniger Energie verbraucht. Dabei wird Kohle immer unwichtiger. Doch auch die Erneuerbaren spielen eine eher untergeordnete Rolle."
 },
 {
-"id": "70b3f0c94bab",
-"title": "Showdown gegen Niederlande – Viertelfinal oder Abstiegskampf: wegweisendes Spiel für DFB-Elf",
-"link": "https://www.srf.ch/sport/fussball/nations-league/showdown-gegen-niederlande-viertelfinal-oder-abstiegskampf-wegweisendes-spiel-fuer-dfb-elf",
-"text": "Zum Abschluss der Gruppenphase braucht die DFB-Elf Punkte – und das ausgerechnet gegen selbstbewusste Niederländer.",
-"img": "https://www.srf.ch/static/cms/images//320ws/11b024.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-16T11:28:53+00:00",
-"sum": "Zum Abschluss der Gruppenphase braucht die DFB-Elf Punkte – und das ausgerechnet gegen selbstbewusste Niederländer."
-},
-{
 "id": "a12e1a53b421",
 "title": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
 "link": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html",
@@ -849,17 +904,6 @@
 "topic": "Welt",
 "date": "2026-11-16T11:20:53+00:00",
 "sum": "Resistente Keime fordern Millionen Opfer. Nun ruft die Weltgesundheitsorganisation zu einer globalen Aktionswoche auf."
-},
-{
-"id": "dd12d19dda0a",
-"title": "Aufstieg mit Jugendklub – Highlight zum Karriere-Abschluss für Chapecoense-Überlebenden",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/aufstieg-mit-jugendklub-highlight-zum-karriere-abschluss-fuer-chapecoense-ueberlebenden",
-"text": "Alan Ruschel war einer von 6 Überlebenden des Flugzeugabsturzes von Chapecoense. Nun beendet er seine Karriere.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d43e46.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-16T11:20:18+00:00",
-"sum": "Alan Ruschel war einer von 6 Überlebenden des Flugzeugabsturzes von Chapecoense. Nun beendet er seine Karriere."
 },
 {
 "id": "b4a71ae404ad",
@@ -970,17 +1014,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-16T09:00:00+00:00",
 "sum": "KI-Hersteller warnen vor dem baldigen Ende der Menschheit durch KI. Doch wie realistisch ist das? Ist es möglich, alle Menschen umzubringen? Und wenn ja, kann die KI das schaffen?"
-},
-{
-"id": "e77c2583f579",
-"title": "Erfolgreicher Nati-Coach – Vorzeitige Vertragsverlängerung mit Yakin? «Ist ihm piepegal!»",
-"link": "https://www.srf.ch/sport/fussball/nationalmannschaft/erfolgreicher-nati-coach-vorzeitige-vertragsverlaengerung-mit-yakin-ist-ihm-piepegal",
-"text": "Die SRF-Protagonisten diskutieren über die Frage, ob der Vertrag mit dem Nati-Coach vorzeitig verlängert werden soll.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d6ae11.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-16T08:50:04+00:00",
-"sum": "Die SRF-Protagonisten diskutieren über die Frage, ob der Vertrag mit dem Nati-Coach vorzeitig verlängert werden soll."
 },
 {
 "id": "d776fb838d17",
@@ -1181,6 +1214,17 @@
 "sum": "André Janones mobilisierte Millionen Menschen – und verhalf Lula da Silva zum Sieg. Kann das auch in Spanien passieren?"
 },
 {
+"id": "9663e613a3ec",
+"title": "Weil Kanada hart bleibt – IIHF bestätigt: Eishockey-U20-WM wird ohne Russland stattfinden",
+"link": "https://www.srf.ch/sport/eishockey/eishockey-allgemein/weil-kanada-hart-bleibt-iihf-bestaetigt-eishockey-u20-wm-wird-ohne-russland-stattfinden",
+"text": "In den letzten Wochen wurde viel über die mögliche Rückkehr Russlands diskutiert – nun ist sie vorerst vom Tisch.",
+"img": "https://www.srf.ch/static/cms/images//320ws/efb416.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-15T19:06:29+00:00",
+"sum": "In den letzten Wochen wurde viel über die mögliche Rückkehr Russlands diskutiert – nun ist sie vorerst vom Tisch."
+},
+{
 "id": "1281eec2192a",
 "title": "Hightech-City in Hongkong – Regierung forciert umstrittenes Megaprojekt",
 "link": "https://www.srf.ch/news/international/hightech-city-in-hongkong-regierung-forciert-umstrittenes-megaprojekt",
@@ -1234,17 +1278,6 @@
 "topic": "Welt",
 "date": "2026-11-15T16:23:43+00:00",
 "sum": "Die Menschen protestieren in Prag gegen geplante Änderungen bei der Finanzierung der öffentlich-rechtlichen Sender."
-},
-{
-"id": "50b8bff87719",
-"title": "Rodriguez und Freuler – «Die coole Socke» und «der Unscheinbare» feiern Jubiläen",
-"link": "https://www.srf.ch/sport/fussball/nationalmannschaft/rodriguez-und-freuler-die-coole-socke-und-der-unscheinbare-feiern-jubilaeen",
-"text": "Zum Abschluss der Nations-League-Kampagne gegen Schottland feiert die Nati am Montag auch zwei verdiente Spieler.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a4454a.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-15T16:18:08+00:00",
-"sum": "Zum Abschluss der Nations-League-Kampagne gegen Schottland feiert die Nati am Montag auch zwei verdiente Spieler."
 },
 {
 "id": "50361cf51b62",
@@ -1355,17 +1388,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-15T10:00:00+00:00",
 "sum": "Das Vakuum ist nicht leer, sondern steckt voller virtueller Teilchen. Fachleute konnten nun im Teilchenbeschleuniger nachverfolgen, wie diese zu real messbaren Partikeln wurden."
-},
-{
-"id": "f26d6132d01f",
-"title": "US-Midterms – Tanz-Protest gegen Musk – jetzt erst recht!",
-"link": "https://www.srf.ch/news/international/us-midterms-tanz-protest-gegen-musk-jetzt-erst-recht",
-"text": "Zum Wahlerfolg der Demokraten trugen viele bei, die sich seit knapp zwei Jahren gegen Trumps Politik gewehrt haben.",
-"img": "https://www.srf.ch/static/cms/images//320ws/982767.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-15T09:28:25+00:00",
-"sum": "Zum Wahlerfolg der Demokraten trugen viele bei, die sich seit knapp zwei Jahren gegen Trumps Politik gewehrt haben."
 },
 {
 "id": "b181c674c115",
@@ -1577,17 +1599,6 @@
 "sum": "Der Konzern hat über eine Funktion der Facebook-App ohne gesonderte Zustimmung auf Nutzerfotos und -videos zugegriffen."
 },
 {
-"id": "c45868bd8fa6",
-"title": "Er nannte Jensen Huang ein «nationales Heiligtum»: Der US-Handelsminister Howard Lutnick gerät in den Sog des Nvidia-Skandals",
-"link": "https://www.nzz.ch/wirtschaft/er-nannte-jensen-huang-ein-nationales-heiligtum-der-us-handelsminister-howard-lutnick-geraet-in-den-sog-des-nvidia-skandals-ld.10063981",
-"text": "Finanzminister Scott Bessent wirft Handelsminister Howard Lutnick vor, Exporte der Hochleistungschips von Nvidia nach China nicht verhindert zu haben. Nun untersucht auch der Senat die Affäre.",
-"img": "https://img-msp-prod.nzz.ch/2025/03/14/11fb141a-7ac7-4e55-ab59-10ede9201683.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3667,3667,x1833,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-14T15:05:48+00:00",
-"sum": "Finanzminister Scott Bessent wirft Handelsminister Howard Lutnick vor, Exporte der Hochleistungschips von Nvidia nach China nicht verhindert zu haben. Nun untersucht auch der Senat die Affäre."
-},
-{
 "id": "d10eb252c167",
 "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
 "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
@@ -1630,28 +1641,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-14T06:02:35+00:00",
 "sum": "Die Krise bei Nvidia und die Furcht vor einer KI-Blase verunsichern die Anleger. Mike Gitlin, CEO des Fondsriesen Capital Group, hält Vergleiche mit der Finanzkrise 2008 jedoch für unbegründet."
-},
-{
-"id": "8f683f255b7e",
-"title": "Börsengang Vvardis – Swiss-Smile-Schwestern mit harter Landung an der Wall Street",
-"link": "https://www.srf.ch/news/wirtschaft/boersengang-vvardis-swiss-smile-schwestern-mit-harter-landung-an-der-wall-street",
-"text": "Schweizer Firma will den Dentalmarkt revolutionieren. Die Wall Street reagiert mit frostigem Empfang. Aktienkurs taucht.",
-"img": "https://www.srf.ch/static/cms/images//320ws/4891995.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-14T01:06:09+00:00",
-"sum": "Schweizer Firma will den Dentalmarkt revolutionieren. Die Wall Street reagiert mit frostigem Empfang. Aktienkurs taucht."
-},
-{
-"id": "de5c64d2ad1e",
-"title": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
-"link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
-"text": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\".",
-"img": "https://images.tagesschau.de/image/3928cacb-31d8-47cb-8498-e9f33774c65e/AAABodWRBtU/AAABnSSvrFg/16x9-big/microsoft-174.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-13T20:21:45+00:00",
-"sum": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\"."
 }
 ]
 }
