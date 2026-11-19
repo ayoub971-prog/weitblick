@@ -1,8 +1,362 @@
 {
-"updated": "2026-11-18T17:17:51+00:00",
+"updated": "2026-11-19T00:26:37+00:00",
 "ai": false,
-"errors": [],
+"errors": [
+"finews/Wirtschaft: mismatched tag: line 93, column 2"
+],
 "items": [
+{
+"id": "955f3a6f8118",
+"title": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
+"link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
+"text": "Es gilt schon vorab als historisch - das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel in Shenzhen. Doch die Positionen der drei Präsidenten bei den Themen atomare Abrüstung, Iran oder Ukraine klaffen teils auseinander.",
+"img": "https://images.tagesschau.de/image/b9746c7c-dad7-4709-945d-4ea1b7db9016/AAABoe7Tp0E/AAABnSSvrFg/16x9-big/xi-jinping-donald-trump-wladimir-putin-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-18T23:33:32+00:00",
+"sum": "Es gilt schon vorab als historisch - das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel in Shenzhen. Doch die Positionen der drei Präsidenten bei den Themen atomare Abrüstung, Iran oder Ukraine klaffen teils auseinander."
+},
+{
+"id": "4ca5307c4fd8",
+"title": "Anzeige: Black Friday Woche 2026 - Jetzt die besten Deals bei Amazon sichern",
+"link": "https://www.golem.de/news/anzeige-black-friday-woche-2026-jetzt-die-besten-deals-bei-amazon-sichern-2611-215370.html",
+"text": "Amazon hat uns mit den frühen Black Friday Angeboten bereits einen Vorgeschmack geliefert. Seit Mitternacht läuft jetzt die Black Friday Woche. ( Black Friday , Amazon )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215370&page=1&ts=1795042861",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-18T23:01:01+00:00",
+"sum": "Amazon hat uns mit den frühen Black Friday Angeboten bereits einen Vorgeschmack geliefert. Seit Mitternacht läuft jetzt die Black Friday Woche. ( Black Friday , Amazon )"
+},
+{
+"id": "3fb0e59f58c3",
+"title": "Sicherheitsfix: PHP-Admins bekommen Donnerstagnachmittag zu tun",
+"link": "https://www.heise.de/news/Sicherheitsfix-PHP-Admins-bekommen-Donnerstagnachmittag-zu-tun-11530253.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Krachen nginx und WordPress, darf PHP nicht fehlen. Es gibt auch kritische Probleme; Details und Updates folgen am Donnerstag.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T21:50:00+00:00",
+"sum": "Krachen nginx und WordPress, darf PHP nicht fehlen. Es gibt auch kritische Probleme; Details und Updates folgen am Donnerstag."
+},
+{
+"id": "6deb65adb93b",
+"title": "News aus dem Radsport – Roglic zu Team mit Schweizer Lizenz – Romandie-Route bekannt",
+"link": "https://www.srf.ch/sport/rad/news-aus-dem-radsport-roglic-zu-team-mit-schweizer-lizenz-romandie-route-bekannt",
+"text": "Hier finden Sie die wichtigsten Meldungen des Tages aus dem Radsport.",
+"img": "https://www.srf.ch/static/cms/images//320ws/463b54.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-18T21:44:22+00:00",
+"sum": "Hier finden Sie die wichtigsten Meldungen des Tages aus dem Radsport."
+},
+{
+"id": "be95a1044fce",
+"title": "ATP Finals in Turin – Auch gegen Medwedew makellos: Alcaraz im Halbfinal",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-auch-gegen-medwedew-makellos-alcaraz-im-halbfinal",
+"text": "Der Spanier gewinnt bei den ATP Finals erneut ohne Satzverlust. Weil auch Tiafoe siegt, ist Alcaraz vorzeitig weiter.",
+"img": "https://www.srf.ch/static/cms/images//320ws/6390b5.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-18T21:29:28+00:00",
+"sum": "Der Spanier gewinnt bei den ATP Finals erneut ohne Satzverlust. Weil auch Tiafoe siegt, ist Alcaraz vorzeitig weiter."
+},
+{
+"id": "0a9c6cbf49fa",
+"title": "Vor dem GP Las Vegas – F1-Titel vergeben: Warum sich das frühe Aufstehen trotzdem lohnt",
+"link": "https://www.srf.ch/sport/motorsport/formel-1/vor-dem-gp-las-vegas-f1-titel-vergeben-warum-sich-das-fruehe-aufstehen-trotzdem-lohnt",
+"text": "Das Rennen in Las Vegas verspricht sportliche Spannung – auch wenn der Weltmeister bereits feststeht.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d7b65fc.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-18T21:09:41+00:00",
+"sum": "Das Rennen in Las Vegas verspricht sportliche Spannung – auch wenn der Weltmeister bereits feststeht."
+},
+{
+"id": "fec55d4721f6",
+"title": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
+"link": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+"text": "Trotz der Waffenruhe hat Israels Armee nach eigenen Angaben einen neuen Einsatz im Zentrum des Gazastreifens begonnen. Ziel des Angriffs sei Infrastruktur der Terrororganisation Hamas. Die Islamisten werfen Israel Eskalation vor.",
+"img": "https://images.tagesschau.de/image/7e17a424-7280-4eda-8fc5-c5623d7149df/AAABleaWtkk/AAABnSSvrFg/16x9-big/israel-soldaten-112.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-18T21:04:52+00:00",
+"sum": "Trotz der Waffenruhe hat Israels Armee nach eigenen Angaben einen neuen Einsatz im Zentrum des Gazastreifens begonnen. Ziel des Angriffs sei Infrastruktur der Terrororganisation Hamas. Die Islamisten werfen Israel Eskalation vor."
+},
+{
+"id": "06c3da8c9870",
+"title": "Champions Hockey League – Keine Genfer Wunder-Wende: Freiburg verwaltet Vorsprung souverän",
+"link": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-keine-genfer-wunder-wende-freiburg-verwaltet-vorsprung-souveraen",
+"text": "Der Schweizer Meister kommt nach dem 6:1-Sieg im Hinspiel zu einem späten 3:3-Remis. Nun geht's gegen Skelleftea.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a28c2b.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-18T21:02:52+00:00",
+"sum": "Der Schweizer Meister kommt nach dem 6:1-Sieg im Hinspiel zu einem späten 3:3-Remis. Nun geht's gegen Skelleftea."
+},
+{
+"id": "346c441164f7",
+"title": "Zug feiert Heimsieg über Ajoie – Nach 114 torlosen Spielen: Stadler trifft und wird Matchwinner",
+"link": "https://www.srf.ch/sport/eishockey/national-league/zug-feiert-heimsieg-ueber-ajoie-nach-114-torlosen-spielen-stadler-trifft-und-wird-matchwinner",
+"text": "Der EV Zug schlägt Ajoie zuhause mit 3:0. Livio Stadler avanciert zum Matchwinner der Zentralschweizer.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8eb92c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-18T20:59:45+00:00",
+"sum": "Der EV Zug schlägt Ajoie zuhause mit 3:0. Livio Stadler avanciert zum Matchwinner der Zentralschweizer."
+},
+{
+"id": "0a18f885985f",
+"title": "Hegseth in Caracas – Die USA und Venezuela wollen militärisch zusammenarbeiten",
+"link": "https://www.srf.ch/news/international/usa/hegseth-in-caracas-die-usa-und-venezuela-wollen-militaerisch-zusammenarbeiten",
+"text": "US-Verteidigungsminister Hegseth hat eine Vereinbarung zur militärischen Zusammenarbeit mit Venezuela unterzeichnet.",
+"img": "https://www.srf.ch/static/cms/images//320ws/94cae7.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-18T20:45:47+00:00",
+"sum": "US-Verteidigungsminister Hegseth hat eine Vereinbarung zur militärischen Zusammenarbeit mit Venezuela unterzeichnet."
+},
+{
+"id": "70224d952a57",
+"title": "Webserver: nginx-Update schliesst schwere Lücken",
+"link": "https://www.heise.de/news/Webserver-nginx-Update-schliesst-schwere-Luecken-11530216.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Für den weltweit meistgenutzten Webserver nginx gibt es frische Patches. Unbedingt unverzüglich updaten.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T20:36:00+00:00",
+"sum": "Für den weltweit meistgenutzten Webserver nginx gibt es frische Patches. Unbedingt unverzüglich updaten."
+},
+{
+"id": "87c1d08ef366",
+"title": "Millionen Webserver gefährdet: NGINX-Lücke erlaubt Codeausführung ohne Anmeldung",
+"link": "https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html",
+"text": "Zwei NGINX-Lücken könnten bei aktivem HTTP/2 Codeausführung auf Webservern ermöglichen. Die Patches sollten schnell eingespielt werden. ( Nginx , Server )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215378&page=1&ts=1795034101",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-18T20:35:01+00:00",
+"sum": "Zwei NGINX-Lücken könnten bei aktivem HTTP/2 Codeausführung auf Webservern ermöglichen. Die Patches sollten schnell eingespielt werden. ( Nginx , Server )"
+},
+{
+"id": "c17db9e47886",
+"title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
+"link": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
+"text": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, das an einer Technik gegen Datenstau bei Mikrochips arbeitet.",
+"img": "https://images.tagesschau.de/image/0f01818e-9276-4c62-85d0-fe32a5d49eb6/AAABofAwtGU/AAABnSSvrFg/16x9-big/zukunftspreis-112.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-18T19:44:46+00:00",
+"sum": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, das an einer Technik gegen Datenstau bei Mikrochips arbeitet."
+},
+{
+"id": "801a2d7083e8",
+"title": "WordPress-Update schliesst zig Lücken",
+"link": "https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T19:38:00+00:00",
+"sum": "WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten."
+},
+{
+"id": "004dc2f8e140",
+"title": "News aus der Super League – Stocker bleibt bei Basel Sportlicher Leiter",
+"link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-stocker-bleibt-bei-basel-sportlicher-leiter",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem Schweizer Fussball.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7e0c75.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-18T19:31:30+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem Schweizer Fussball."
+},
+{
+"id": "87e8be904ef0",
+"title": "Lyft-Übernahme: FreeNow verschwindet vom Markt",
+"link": "https://www.heise.de/news/Nach-FreeNow-Uebernahme-Lyft-steigt-wieder-bei-Mietwagen-ein-11530160.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Nach der Übernahme von FreeNow will Lyft wieder Mietwagen vermitteln. Mittelfristig wird die Marke FreeNow vom Markt verschwinden.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T19:20:00+00:00",
+"sum": "Nach der Übernahme von FreeNow will Lyft wieder Mietwagen vermitteln. Mittelfristig wird die Marke FreeNow vom Markt verschwinden."
+},
+{
+"id": "4b95c22c1018",
+"title": "Bilaterale Verträge mit der EU – Eine «positive Story»: Charmeoffensive aus Brüssel",
+"link": "https://www.srf.ch/news/schweiz/bilaterale-vertraege-mit-der-eu-eine-positive-story-charmeoffensive-aus-bruessel",
+"text": "Während im Bundeshaus gepokert wird, rührt Brüssel die Werbetrommel: Die Schweiz und die EU seien logische Partner.",
+"img": "https://www.srf.ch/static/cms/images//320ws/784fdc.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-18T19:16:33+00:00",
+"sum": "Während im Bundeshaus gepokert wird, rührt Brüssel die Werbetrommel: Die Schweiz und die EU seien logische Partner."
+},
+{
+"id": "b177dfdcec05",
+"title": "Top 10: Die beste Screenbar im Test – Monitorlampe mit hellem Licht ab 23 Euro",
+"link": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-screenbar-im-test-monitorlampe-mit-hellem-licht-ab-23-euro/1y3x1w6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Screenbars leuchten den Schreibtisch blendfrei aus und kosten keinen Platz. Wir zeigen die zehn besten Monitorlampen aus 21 Tests.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T19:00:00+00:00",
+"sum": "Screenbars leuchten den Schreibtisch blendfrei aus und kosten keinen Platz. Wir zeigen die zehn besten Monitorlampen aus 21 Tests."
+},
+{
+"id": "e778165c1f8f",
+"title": "Gartner widerspricht KI-Blase: Weltweiter KI-Ausbau \"ist womöglich noch zu klein\"",
+"link": "https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html",
+"text": "Rund 2,4 Billionen US-Dollar sollen 2027 weltweit in KI-Infrastruktur fliessen - weit mehr, als Endkunden bisher für Anwendungen zahlen. Gartner hält den massiven Vorab-Ausbau für nötig. ( KI , Studien )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215377&page=1&ts=1795025522",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-18T18:12:02+00:00",
+"sum": "Rund 2,4 Billionen US-Dollar sollen 2027 weltweit in KI-Infrastruktur fliessen - weit mehr, als Endkunden bisher für Anwendungen zahlen. Gartner hält den massiven Vorab-Ausbau für nötig. ( KI , Studien )"
+},
+{
+"id": "65be04a50c23",
+"title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
+"link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
+"text": "Trotz Vorbehalten einiger Progressiver haben die US-Demokraten ihren Fraktionschef Jeffries für den Vorsitz des US-Repräsentantenhauses nominiert. Als solcher könnte er auch Untersuchungen gegen die Trump-Regierung vorantreiben.",
+"img": "https://images.tagesschau.de/image/3f79ecb3-1431-4762-a7ce-4a9ec7f56719/AAABoe_Bh9Q/AAABnSSvrFg/16x9-big/jeffries-110.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-18T18:11:40+00:00",
+"sum": "Trotz Vorbehalten einiger Progressiver haben die US-Demokraten ihren Fraktionschef Jeffries für den Vorsitz des US-Repräsentantenhauses nominiert. Als solcher könnte er auch Untersuchungen gegen die Trump-Regierung vorantreiben."
+},
+{
+"id": "da370bba8d0d",
+"title": "Tabakprävention – Bundesrat will Präventionsabgabe auf E-Zigaretten und Snus",
+"link": "https://www.srf.ch/news/schweiz/tabakpraevention-bundesrat-will-praeventionsabgabe-auf-e-zigaretten-und-snus",
+"text": "Zigaretten werden zunehmend durch Alternativen ersetzt – auch auf diese soll künftig eine Abgabe erhoben werden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7ebfb3.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-18T18:04:38+00:00",
+"sum": "Zigaretten werden zunehmend durch Alternativen ersetzt – auch auf diese soll künftig eine Abgabe erhoben werden."
+},
+{
+"id": "811adadae47c",
+"title": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
+"link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html",
+"text": "Die Ukraine braucht dringend Geld - den Grossteil soll die EU nach Willen der Kommission übernehmen. Für die Rückzahlung sollen künftige russische Reparationen genutzt werden. Doch einige Mitgliedsstaaten sind dagegen. Von T. Hassel und C. Feld.",
+"img": "https://images.tagesschau.de/image/f315ab8d-9361-4165-b851-54e10a2f8eb3/AAABoe9v4Zk/AAABnSSvrFg/16x9-big/kubilius-leyen-dombrovskis-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-18T18:02:26+00:00",
+"sum": "Die Ukraine braucht dringend Geld - den Grossteil soll die EU nach Willen der Kommission übernehmen. Für die Rückzahlung sollen künftige russische Reparationen genutzt werden. Doch einige Mitgliedsstaaten sind dagegen. Von T. Hassel und C. Feld."
+},
+{
+"id": "3ec24e152242",
+"title": "Staatsbesuch aus Golfstaat – Die Schweiz und Katar: Eine Partnerschaft, die Fragen aufwirft",
+"link": "https://www.srf.ch/news/schweiz/staatsbesuch-aus-golfstaat-die-schweiz-und-katar-eine-partnerschaft-die-fragen-aufwirft",
+"text": "Der Emir von Katar ist zum Staatsbesuch in der Schweiz. Die Länder wollen in der Friedensvermittlung enger kooperieren.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c7113a.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-18T17:55:49+00:00",
+"sum": "Der Emir von Katar ist zum Staatsbesuch in der Schweiz. Die Länder wollen in der Friedensvermittlung enger kooperieren."
+},
+{
+"id": "e03c8d33dc73",
+"title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
+"link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
+"text": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?",
+"img": "https://images.tagesschau.de/image/8a268990-afaf-46e2-a32a-b9b72c2724c1/AAABoe96oJY/AAABnSSvrFg/16x9-big/werbung-gta-vi-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-18T17:55:38+00:00",
+"sum": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?"
+},
+{
+"id": "f5faf69e784f",
+"title": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
+"link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
+"text": "Das Rekordhoch der vergangenen Woche ist längst wieder passé. Der Leitindex DAX endet mit einem deutlichen Minus und fällt bis auf 25.736 Punkte. Da helfen auch gute Zahlen aus der Industrie nichts.",
+"img": "https://images.tagesschau.de/image/18371428-3210-4453-b7ab-1fd97fa2d32f/AAABm5eTw7w/AAABnSSvrFg/16x9-big/statuen-baer-bulle-deutsche-boerse-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-18T17:45:45+00:00",
+"sum": "Das Rekordhoch der vergangenen Woche ist längst wieder passé. Der Leitindex DAX endet mit einem deutlichen Minus und fällt bis auf 25.736 Punkte. Da helfen auch gute Zahlen aus der Industrie nichts."
+},
+{
+"id": "ee9847f1f5df",
+"title": "Anzeige: Shelly 1 Gen4 WLAN Smart-Relais (2 Stk.) zum neuen Bestpreis rund 30 Euro bei Amazon",
+"link": "https://www.golem.de/news/anzeige-shelly-1-gen4-wlan-smart-relais-2-stk-zum-neuen-bestpreis-rund-30-euro-bei-amazon-2611-215367.html",
+"text": "Das Shelly 1 Gen4 steuert Licht und Garagentor per WLAN, Zigbee und Matter ohne Hub und ist im Doppelpack so günstig wie nie. ( Technik/Hardware , WLAN )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215367&page=1&ts=1795023902",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-18T17:45:02+00:00",
+"sum": "Das Shelly 1 Gen4 steuert Licht und Garagentor per WLAN, Zigbee und Matter ohne Hub und ist im Doppelpack so günstig wie nie. ( Technik/Hardware , WLAN )"
+},
+{
+"id": "9328f822dfc9",
+"title": "Anzeige: Mit Vibe Coding eigene Anwendungen per KI entwickeln",
+"link": "https://www.golem.de/news/anzeige-mit-vibe-coding-eigene-anwendungen-per-ki-entwickeln-2611-215329.html",
+"text": "Vibe Coding ermöglicht die Softwareentwicklung mit KI ohne Programmierkenntnisse. Ein Online-Workshop zeigt, wie sich eigene Apps, Tools und Prototypen erstellen lassen. ( Golem Karrierewelt , Programmiersprachen )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215329&page=1&ts=1795023901",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-18T17:45:01+00:00",
+"sum": "Vibe Coding ermöglicht die Softwareentwicklung mit KI ohne Programmierkenntnisse. Ein Online-Workshop zeigt, wie sich eigene Apps, Tools und Prototypen erstellen lassen. ( Golem Karrierewelt , Programmiersprachen )"
+},
+{
+"id": "a72aa1cc1d8f",
+"title": "Dateiformat RUML übersetzt Gesetze in maschinenlesbare Logik",
+"link": "https://www.heise.de/news/Dateiformat-RUML-uebersetzt-Gesetze-in-maschinenlesbare-Logik-11530020.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Das JSON-Format RUML soll Gesetze maschinenausführbar machen. Die von SPRIND unterstützte Rulemapping Group startet zudem das Law as Code Institut.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T17:31:00+00:00",
+"sum": "Das JSON-Format RUML soll Gesetze maschinenausführbar machen. Die von SPRIND unterstützte Rulemapping Group startet zudem das Law as Code Institut."
+},
+{
+"id": "c97e58cc0277",
+"title": "Klimakonferenz in Antalya – Nepal und Tuvalu fordern Taten statt Worte von reichen Ländern",
+"link": "https://www.srf.ch/wissen/klimawandel/klimakonferenz-in-antalya-nepal-und-tuvalu-fordern-taten-statt-worte-von-reichen-laendern",
+"text": "Die Industrieländer versprachen besonders vom Klimawandel bedrohten Staaten finanzielle Hilfe. Passiert ist wenig.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c16d20b.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-18T17:27:45+00:00",
+"sum": "Die Industrieländer versprachen besonders vom Klimawandel bedrohten Staaten finanzielle Hilfe. Passiert ist wenig."
+},
+{
+"id": "465fbddc848d",
+"title": "Live-Talk: GTA VI angezockt – wird es dem Hype gerecht?",
+"link": "https://www.heise.de/ratgeber/Live-Talk-GTA-VI-angezockt-wird-es-dem-Hype-gerecht-11524580.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "GTA VI ist da! Wir haben es angespielt und teilen im Livestream unsere Eindrücke und beantworten Ihre Fragen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T17:25:00+00:00",
+"sum": "GTA VI ist da! Wir haben es angespielt und teilen im Livestream unsere Eindrücke und beantworten Ihre Fragen."
+},
+{
+"id": "9b57a42cdb16",
+"title": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
+"link": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
+"text": "Österreichs Ex-Aussenministerin Kneissl fiel schon während ihrer Amtszeit durch ihre Nähe zu Russland auf. Inzwischen lebt sie dort und stellt sich öffentlich hinter Putin. In ihrem Heimatland könnte das jetzt Folgen haben.",
+"img": "https://images.tagesschau.de/image/4128a5e5-8c23-467c-b980-64a2311c60d8/AAABoe9q4v0/AAABnSSvrFg/16x9-big/kneissl-110.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-18T17:17:56+00:00",
+"sum": "Österreichs Ex-Aussenministerin Kneissl fiel schon während ihrer Amtszeit durch ihre Nähe zu Russland auf. Inzwischen lebt sie dort und stellt sich öffentlich hinter Putin. In ihrem Heimatland könnte das jetzt Folgen haben."
+},
+{
+"id": "c15dbaf1526b",
+"title": "AI Gigafactory im Norden: Nokia und Partner planen europäische KI-Infrastruktur",
+"link": "https://www.heise.de/news/AI-Gigafactory-im-Norden-Nokia-und-Partner-planen-europaeische-KI-Infrastruktur-11530042.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T17:14:00+00:00",
+"sum": "Ein nordisch-baltisches Konsortium will mit einer souveränen Cloud, grünem Strom und schnellen Netzen den EU-Wettbewerb für KI-Gigafactories aufmischen."
+},
 {
 "id": "c6c7becf3c33",
 "title": "Anzeige: Externe SSD von Samsung mit 1 TByte für unter 180 Euro bei Amazon",
@@ -19,7 +373,7 @@
 "title": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
 "link": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
 "text": "Offenbar aus Hunger heraus haben isoliert lebende Indigene in Brasilien Kontakt zur Aussenwelt gesucht: Etwa 20 Angehörige der Awá kamen Berichten zufolge in ein Dorf, um nach Lebensmitteln zu fragen - \"ein beunruhigendes Zeichen\", so eine NGO.",
-"img": "https://images.tagesschau.de/image/ff511569-142c-4ea3-b12c-b67a196bf772/AAABoe9GXN4/AAABnSSvrFg/16x9-big/awa-100.jpg?width=1920",
+"img": "https://images.tagesschau.de/image/ff511569-142c-4ea3-b12c-b67a196bf772/AAABoe_x1c8/AAABnSSvrFg/16x9-big/awa-100.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
 "date": "2026-11-18T17:09:00+00:00",
@@ -49,7 +403,7 @@
 },
 {
 "id": "b90bce0b4fda",
-"title": "Der Dollar notiert auf Jahreshoch – diese vier Gründe stehen dahinter",
+"title": "Der Dollar notiert auf Jahreshoch – diese vier Gründe stecken dahinter",
 "link": "https://www.nzz.ch/wirtschaft/der-dollar-notiert-auf-jahreshoch-diese-vier-gruende-stehen-dahinter-ld.10067302",
 "text": "Nach Donald Trumps Zollschock im April 2025 schrieben viele Investoren den Dollar bereits ab. Doch es kam alles ganz anders.",
 "img": "https://img-msp-prod.nzz.ch/2026/11/18/bcfa0555-ddd2-4c4d-8c0b-eef763474e7d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2470,2470,x617,y0",
@@ -85,7 +439,7 @@
 "title": "Börsengang der KI-Firma – Die Köpfe hinter Anthropic: Wer sind die Geschwister Amodei?",
 "link": "https://www.srf.ch/news/wirtschaft/boersengang-der-ki-firma-die-koepfe-hinter-anthropic-wer-sind-die-geschwister-amodei",
 "text": "Das KI-Unternehmen wird von den Geschwistern Dario und Daniela Amodei geführt. Schicksalsschläge treiben die beiden an.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c1a305c.webp",
+"img": "https://www.srf.ch/static/cms/images//320ws/6180bec.webp",
 "source": "SRF",
 "topic": "Welt",
 "date": "2026-11-18T16:57:00+00:00",
@@ -147,17 +501,6 @@
 "sum": "Mit 400.000 neuen Anschlüssen soll Bayern Schwerpunkt beim Glasfaserausbau der Telekom bleiben. In München bremst der Konzern das Tempo jedoch deutlich. ( Telekom , Glasfaser )"
 },
 {
-"id": "e00bb9743ea1",
-"title": "Anthropic und Cisco integrieren Claude Mythos 5 in AI Defense",
-"link": "https://www.heise.de/news/Anthropic-und-Cisco-integrieren-Claude-Mythos-5-in-AI-Defense-11529932.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Anthropic und Cisco kooperieren bei der Absicherung von KI-Agenten. Das Modell Mythos 5 hält Einzug in die KI-Sicherheitsplattform AI Defense.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T16:42:00+00:00",
-"sum": "Anthropic und Cisco kooperieren bei der Absicherung von KI-Agenten. Das Modell Mythos 5 hält Einzug in die KI-Sicherheitsplattform AI Defense."
-},
-{
 "id": "5676816bb7ed",
 "title": "BGH: KI-generierte Schriftsätze können unzulässige Rechtsmittel sein",
 "link": "https://www.heise.de/news/BGH-KI-generierte-Schriftsaetze-koennen-unzulaessige-Rechtsmittel-sein-11529938.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -167,6 +510,17 @@
 "topic": "Tech",
 "date": "2026-11-18T16:42:00+00:00",
 "sum": "Wer Revisionsbegründungen ungeprüft von Künstlicher Intelligenz erstellen lässt, riskiert laut Bundesgerichtshof, dass das eingelegte Rechtsmittel ungültig ist."
+},
+{
+"id": "e00bb9743ea1",
+"title": "Anthropic und Cisco integrieren Claude Mythos 5 in AI Defense",
+"link": "https://www.heise.de/news/Anthropic-und-Cisco-integrieren-Claude-Mythos-5-in-AI-Defense-11529932.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Anthropic und Cisco kooperieren bei der Absicherung von KI-Agenten. Das Modell Mythos 5 hält Einzug in die KI-Sicherheitsplattform AI Defense.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-18T16:42:00+00:00",
+"sum": "Anthropic und Cisco kooperieren bei der Absicherung von KI-Agenten. Das Modell Mythos 5 hält Einzug in die KI-Sicherheitsplattform AI Defense."
 },
 {
 "id": "8be94cf9da8c",
@@ -246,17 +600,6 @@
 "sum": "Die Marke DPD soll verschwinden, der neue Anbieter könnte DHL stärker Konkurrenz machen. ( GLS , Post )"
 },
 {
-"id": "8d24e5e5238d",
-"title": "Microsoft Ignite 26: Azure wird agentischer und Windows rückt in die Cloud",
-"link": "https://www.heise.de/news/Microsoft-Ignite-26-Azure-wird-agentischer-und-Windows-rueckt-in-die-Cloud-11529788.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T15:54:00+00:00",
-"sum": "Agenten stehen im Mittelpunkt der Ignite 2026: Microsoft will Azure zur zentralen Plattform dafür ausbauen und stellt neue KI-Modelle vor."
-},
-{
 "id": "18a19d35d561",
 "title": "Kommentar zur Stromsteuer-Einigung: Fahren auf Sicht - aber wer sitzt eigentlich am Steuer?",
 "link": "https://www.tagesschau.de/kommentar/koalitionsausschuss-merz-stromsteuersenkung-100.html",
@@ -279,17 +622,6 @@
 "sum": "Union und SPD haben sich auf eine Senkung der Stromsteuer geeinigt. Doch die Verhandlungen liefen Teilnehmern zufolge teils ruppig. Wie es zur Einigung kam und warum sie ein Vorgeschmack auf die kommenden Monate sein könnte. Von Tina Handel."
 },
 {
-"id": "af95757d8de7",
-"title": "#heiseshow: Anthropic, Cloud-Ausfälle, Voyager 1",
-"link": "https://www.heise.de/news/heiseshow-Anthropic-Cloud-Ausfaelle-Voyager-1-11529900.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "In der #heiseshow: Anthropic plant den Börsengang, die Abhängigkeit von Microsoft, Apple & Co. wird zum Risiko und Voyager 1 ist einen Lichttag entfernt.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T15:44:00+00:00",
-"sum": "In der #heiseshow: Anthropic plant den Börsengang, die Abhängigkeit von Microsoft, Apple & Co. wird zum Risiko und Voyager 1 ist einen Lichttag entfernt."
-},
-{
 "id": "3ba36fbcda3b",
 "title": "Apec-Gipfel – Umarmung und Bankett – Xi, Trump und Putin in Shenzhen",
 "link": "https://www.srf.ch/news/international/apec-gipfel-umarmung-und-bankett-xi-trump-und-putin-in-shenzhen",
@@ -299,17 +631,6 @@
 "topic": "Welt",
 "date": "2026-11-18T15:42:51+00:00",
 "sum": "Das asiatisch-pazifische Wirtschaftstreffen Apec hat gestartet. Ein Überblick über Gäste, Themen und Machtpositionen."
-},
-{
-"id": "e6f41d8202d5",
-"title": "Nebenkostenprivileg: Verfassungsgericht weist Beschwerde gegen TKG zurück",
-"link": "https://www.heise.de/news/Nebenkostenprivileg-Verfassungsgericht-weist-Beschwerde-gegen-TKG-zurueck-11529488.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Mit dem Aus des Nebenkostenprivilegs konnten Hausbesitzer ihre Kabel-Verträge kündigen. Verfassungsbeschwerden von Netzbetreibern hat Karlsruhe zurückgewiesen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T15:40:00+00:00",
-"sum": "Mit dem Aus des Nebenkostenprivilegs konnten Hausbesitzer ihre Kabel-Verträge kündigen. Verfassungsbeschwerden von Netzbetreibern hat Karlsruhe zurückgewiesen."
 },
 {
 "id": "e5efe94a1a3a",
@@ -367,28 +688,6 @@
 "sum": "Die Ukraine braucht dringend Geld. Die EU will dem Land mit einem neuen Darlehen beistehen. Staaten mit einem Triple-A-Rating sollen ihr Engagement ebenfalls erhöhen. Das zielt eindeutig auch auf die Schweiz."
 },
 {
-"id": "a44e8641e2af",
-"title": "ATP Finals in Turin – Auch gegen Medwedew makellos: Alcaraz auf Kurs",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-auch-gegen-medwedew-makellos-alcaraz-auf-kurs",
-"text": "Der Spanier gewinnt bei den ATP Finals erneut ohne Satzverlust und macht einen grossen Schritt Richtung Halbfinals.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6390b5.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-18T15:17:39+00:00",
-"sum": "Der Spanier gewinnt bei den ATP Finals erneut ohne Satzverlust und macht einen grossen Schritt Richtung Halbfinals."
-},
-{
-"id": "c68ae1317e13",
-"title": "Copilotforce: Wie KI-Agenten Unternehmenssoftware-Oberflächen ablösen",
-"link": "https://www.heise.de/news/Copilotforce-Microsoft-macht-Copilot-zur-Bedienoberflaeche-fuer-Salesforce-11529752.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Microsoft und Salesforce integrieren CRM-Funktionen und Geschäftsprozesse in Copilot. Ersetzt der KI-Assistent bald die klassische Bedienoberfläche?",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T15:14:00+00:00",
-"sum": "Microsoft und Salesforce integrieren CRM-Funktionen und Geschäftsprozesse in Copilot. Ersetzt der KI-Assistent bald die klassische Bedienoberfläche?"
-},
-{
 "id": "0711e0dc9e4f",
 "title": "Gegen Ständeratsentscheid – EU-Paket: Nationalratskommission gegen Ständemehr",
 "link": "https://www.srf.ch/news/schweiz/gegen-staenderatsentscheid-eu-paket-nationalratskommission-gegen-staendemehr",
@@ -411,28 +710,6 @@
 "sum": "Kriege, Wirtschaftskrisen, Wohnungsnot: Viele Jugendliche sorgen sich um ihre Zukunft. Das zeigt die neue COPSY-Studie. Ob Kinder dauerhaft psychisch belastet sind, hängt aber von etwas anderem ab. Von Melanie Stinn."
 },
 {
-"id": "138e44d21a94",
-"title": "Bundesratswahl 2026 – Parmelin-Nachfolge: SRF schätzt alle möglichen SVP-Tickets ein",
-"link": "https://www.srf.ch/news/schweiz/bundesratswahl-2026-parmelin-nachfolge-srf-schaetzt-alle-moeglichen-svp-tickets-ein",
-"text": "Wer hat Chancen aufs Ticket zu kommen und welches Ticket ist am wahrscheinlichsten? Alle 84 Kombinationen im Überblick.",
-"img": "https://www.srf.ch/static/cms/images//320ws/03caf0.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-18T15:02:45+00:00",
-"sum": "Wer hat Chancen aufs Ticket zu kommen und welches Ticket ist am wahrscheinlichsten? Alle 84 Kombinationen im Überblick."
-},
-{
-"id": "89a72b80bacb",
-"title": "Fensterputzroboter Ecovacs Winbot Mini 2 im Test: Kleiner Preis, grosse Hilfe?",
-"link": "https://www.heise.de/bestenlisten/testbericht/fensterputzroboter-ecovacs-winbot-mini-2-im-test-kleiner-preis-grosse-hilfe/vrqx4lm?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Der Ecovacs Winbot Mini 2 bekommt Filz-Kantenschrubber und eine neue Navigation. Wie viel besser er putzt als sein Vorgänger, zeigt der Test.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T15:00:00+00:00",
-"sum": "Der Ecovacs Winbot Mini 2 bekommt Filz-Kantenschrubber und eine neue Navigation. Wie viel besser er putzt als sein Vorgänger, zeigt der Test."
-},
-{
 "id": "ae3b4b907c12",
 "title": "Weltraumschrott: Aufräumen im All",
 "link": "https://www.spektrum.de/news/weltraumschrott-die-orbitale-muellabfuhr-kommt/2262354",
@@ -444,17 +721,6 @@
 "sum": "Spezielle Satelliten sollen noch in diesem Jahrzehnt grosse Schrottteile aktiv aus dem Weltraum entfernen. Und bald darauf andere Raumfahrzeuge volltanken und reparieren."
 },
 {
-"id": "8649c6cfc19f",
-"title": "Für Galaxy S26-Serie: Samsung gibt erste Beta von One UI 9.5 frei",
-"link": "https://www.heise.de/news/Fuer-Galaxy-S26-Serie-Samsung-gibt-erste-Beta-von-One-UI-9-5-frei-11529818.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Samsung hat die erste Betaversion von One UI 9.5 für die Galaxy-S26-Serie mit neuen Funktionen veröffentlicht. Auch in Deutschland lässt sie sich ausprobieren.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T14:52:00+00:00",
-"sum": "Samsung hat die erste Betaversion von One UI 9.5 für die Galaxy-S26-Serie mit neuen Funktionen veröffentlicht. Auch in Deutschland lässt sie sich ausprobieren."
-},
-{
 "id": "265456556010",
 "title": "Power Play: Unser Test von GTA 6 beginnt um Mitternacht",
 "link": "https://www.golem.de/news/power-play-unser-test-von-gta-6-beginnt-um-mitternacht-2611-215350.html",
@@ -464,17 +730,6 @@
 "topic": "Tech",
 "date": "2026-11-18T14:48:02+00:00",
 "sum": "Für den ausführlichen Golem-Test von GTA 6 nehmen wir uns rund einen Monat Zeit. Bis dahin gibt es sicher viel zu erzählen. Von Peter Steinlechner ( GTA 6 , Rockstar )"
-},
-{
-"id": "18d6b60054fd",
-"title": "Neuberger verpflichtet Investmentprofi für den Standort Zürich",
-"link": "https://www.finews.ch/news/finanzplatz/74560-neuberger-michael-sommer-investmentmanager-assetmanagement",
-"text": "Der US-Vermögensverwalter Neuberger hat für die Betreuung institutioneller Kunden einen Experten verpflichtet, der zuvor bei BNP Paribas, Credit Suisse, Goldman Sachs, Schroders und Man Group Erfahrung gesammelt hat.",
-"img": "https://www.finews.ch/images/news/2026/11/Michael-Sommer_Neuberger-neu.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T14:40:54+00:00",
-"sum": "Der US-Vermögensverwalter Neuberger hat für die Betreuung institutioneller Kunden einen Experten verpflichtet, der zuvor bei BNP Paribas, Credit Suisse, Goldman Sachs, Schroders und Man Group Erfahrung gesammelt hat."
 },
 {
 "id": "06c159fc90d5",
@@ -499,17 +754,6 @@
 "sum": "Führungswechsel beim europäischen Cloud-Marktführer: SAP-Manager Saueressig übernimmt bei Ionos und soll das Geschäft mit Grosskunden und KI ausbauen. ( SAP , Rechenzentrum )"
 },
 {
-"id": "b9010a2911a1",
-"title": "Microsoft stellt neue KI-Modelle vor und erweitert sein Lizenzgeschäft",
-"link": "https://www.heise.de/news/Microsoft-stellt-neue-KI-Modelle-vor-und-erweitert-sein-Lizenzgeschaeft-11529784.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Microsoft setzt verstärkt auf spezialisierte KI-Modelle, die preislich mit der Konkurrenz mithalten sollen. Ein Spitzenmodell ist aber weiter in Entwicklung.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T14:33:00+00:00",
-"sum": "Microsoft setzt verstärkt auf spezialisierte KI-Modelle, die preislich mit der Konkurrenz mithalten sollen. Ein Spitzenmodell ist aber weiter in Entwicklung."
-},
-{
 "id": "73d626415dc6",
 "title": "Wie steht es um das Vertrauen in den KI-Boom? Der IPO von Anthropic wird es zeigen",
 "link": "https://www.nzz.ch/wirtschaft/wie-steht-es-um-das-vertrauen-in-den-ki-boom-der-ipo-von-anthropic-wird-es-zeigen-ld.10065173",
@@ -532,17 +776,6 @@
 "sum": "Zwei ehemalige Mitarbeiterinnen des Schlagerstars haben den Sänger wegen mutmasslicher sexueller Übergriffe angezeigt."
 },
 {
-"id": "12a895ffbf32",
-"title": "DAK-Auswertung: Jugendliche konsumieren immer mehr Nikotinbeutel",
-"link": "https://www.tagesschau.de/inland/gesellschaft/nikotinbeutel-jugendliche-100.html",
-"text": "Kein Rauchen, kein Dampfen: Nikotinbeutel sind unauffällig. Doch der konzentrierte Suchtstoff bereitet Gesundheitsexperten Sorgen - sie warnen vor einer möglichen Legalisierung. Denn Teenager greifen schon jetzt oft zu.",
-"img": "https://images.tagesschau.de/image/b2f9bc0c-141b-43d1-bdd2-c9105254dd3d/AAABoe7fi74/AAABnSSvrFg/16x9-big/nikotinbeutel-134.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-18T14:24:48+00:00",
-"sum": "Kein Rauchen, kein Dampfen: Nikotinbeutel sind unauffällig. Doch der konzentrierte Suchtstoff bereitet Gesundheitsexperten Sorgen - sie warnen vor einer möglichen Legalisierung. Denn Teenager greifen schon jetzt oft zu."
-},
-{
 "id": "ef9fa89d3d9e",
 "title": "Colossus-Rechenzentrum: Memphis verteilt SpaceX-Steuereinnahmen an Anwohner",
 "link": "https://www.golem.de/news/colossus-rechenzentrum-memphis-verteilt-spacex-steuereinnahmen-an-anwohner-2611-215362.html",
@@ -552,28 +785,6 @@
 "topic": "Tech",
 "date": "2026-11-18T14:12:02+00:00",
 "sum": "Die Stadt Memphis gibt einen Teil der Steuereinnahmen durch SpaceX an die Nachbarschaft des Colossus-Rechenzentrums zurück. ( Rechenzentrum , Barrierefreiheit )"
-},
-{
-"id": "cbe6912d0d11",
-"title": "OHB soll einen Satellit für die Beseitigung von Weltraumschrott bauen",
-"link": "https://www.heise.de/news/OHB-soll-einen-Satellit-fuer-die-Beseitigung-von-Weltraumschrott-bauen-11529740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Die ESA hat einen Auftrag für eine Mission für die Beseitigung von Weltraumschrott an OHB vergeben. Die seit längerem geplante Mission soll 2030 starten.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-18T14:04:00+00:00",
-"sum": "Die ESA hat einen Auftrag für eine Mission für die Beseitigung von Weltraumschrott an OHB vergeben. Die seit längerem geplante Mission soll 2030 starten."
-},
-{
-"id": "b554bde2cbfd",
-"title": "Petersdom wurde heute vor 400 Jahren geweiht",
-"link": "https://www.tagesschau.de/ausland/europa/400-jahre-petersdom-100.html",
-"text": "Seit der Antike pilgern Gläubige an den Ort des heutigen Petersdoms. Dort soll das Grab des Apostels Petrus liegen. Vor genau 400 Jahren, am 18. November 1626, wurde die Basilika geweiht. Von Anna Giordano.",
-"img": "https://images.tagesschau.de/image/f1407138-0bff-4c78-8e71-6e7e03faa8f1/AAABoe7z5kY/AAABnSSvrFg/16x9-big/regenbogen-vatikan-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-18T14:02:36+00:00",
-"sum": "Seit der Antike pilgern Gläubige an den Ort des heutigen Petersdoms. Dort soll das Grab des Apostels Petrus liegen. Vor genau 400 Jahren, am 18. November 1626, wurde die Basilika geweiht. Von Anna Giordano."
 },
 {
 "id": "9c6afb4a45d7",
@@ -609,17 +820,6 @@
 "sum": "Ein bislang unbekannter Flugfrosch bettet seine Eier in eine gallertartige Masse ein, in der sich die Kaulquappen geschützt entwickeln."
 },
 {
-"id": "0c3294e9868f",
-"title": "Nach Datenleak: Deutsche-Bank-Papiere weiter unter Druck",
-"link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-146.html",
-"text": "Die Deutsche Bank bemüht sich nach dem XXL-Datenleak um Schadensbegrenzung. Anleger gehen auf Nummer sicher und verkaufen weiter ihre Aktien.",
-"img": "https://images.tagesschau.de/image/8300fb2f-0268-43ec-99da-a181d56cfa58/AAABoe7sBTk/AAABnSSvrFg/16x9-big/christian-sewing-126.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-18T13:48:13+00:00",
-"sum": "Die Deutsche Bank bemüht sich nach dem XXL-Datenleak um Schadensbegrenzung. Anleger gehen auf Nummer sicher und verkaufen weiter ihre Aktien."
-},
-{
 "id": "3741b97ee7c0",
 "title": "Sofja Kowalewskaja und die Formel für das Unmögliche",
 "link": "https://www.spektrum.de/podcast/sofja-kowalewskaja-und-die-formel-fuer-das-unmoegliche/2354807",
@@ -648,7 +848,7 @@
 "text": "Leichtere Befristungen, weniger Kündigungsschutz für Hochverdiener: Bereits im Juli hatte sich die Koalition grundsätzlich auf mehrere Änderungen im Arbeitsrecht verständigt. Nun hat das Kabinett das Gesetz auf den Weg gebracht.",
 "img": "https://images.tagesschau.de/image/43695d7f-87f4-4de1-b798-8140b6ea1728/AAABoe6sRCU/AAABnSSvrFg/16x9-big/grossraumbuero-136.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-18T13:44:31+00:00",
 "sum": "Leichtere Befristungen, weniger Kündigungsschutz für Hochverdiener: Bereits im Juli hatte sich die Koalition grundsätzlich auf mehrere Änderungen im Arbeitsrecht verständigt. Nun hat das Kabinett das Gesetz auf den Weg gebracht."
 },
@@ -659,7 +859,7 @@
 "text": "Bei VW starten kommende Woche die Tarifgespräche. Im NDR-Interview spricht Konzernchef Blume über zu hohe Kosten, teure Werke und den umstrittenen Auftritt des Audi-Chefs in den USA. Von Annette Deutskens.",
 "img": "https://images.tagesschau.de/image/bed1d740-da5a-46c3-940f-98deeecb3f5f/AAABoe70aAA/AAABnSSvrFg/16x9-big/oliver-blume-140.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-18T13:43:17+00:00",
 "sum": "Bei VW starten kommende Woche die Tarifgespräche. Im NDR-Interview spricht Konzernchef Blume über zu hohe Kosten, teure Werke und den umstrittenen Auftritt des Audi-Chefs in den USA. Von Annette Deutskens."
 },
@@ -686,39 +886,6 @@
 "sum": "Ab Januar wollen Union und SPD die Stromsteuer für ein Jahr auf das europäische Mindestniveau senken. Auch ein Spritpreisdeckel ist vereinbart. Was wurde konkret beschlossen und wie viel Entlastung könnte das im Alltag bringen?"
 },
 {
-"id": "753f9c7522eb",
-"title": "APEC-Gipfel in Shenzhen: Xi umarmt Trump - Putin schon da",
-"link": "https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html",
-"text": "Die Staatschefs der drei Grossmächte China, USA und Russland - Xi, Trump und Putin - sind zum APEC-Gipfel in Shenzhen eingetroffen. Dabei stach eine besondere Geste hervor.",
-"img": "https://images.tagesschau.de/image/0e454729-eaa0-45b0-bc8f-6afb50ad563f/AAABoe7hEDs/AAABnSSvrFg/16x9-big/xi-trump-152.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-18T13:23:23+00:00",
-"sum": "Die Staatschefs der drei Grossmächte China, USA und Russland - Xi, Trump und Putin - sind zum APEC-Gipfel in Shenzhen eingetroffen. Dabei stach eine besondere Geste hervor."
-},
-{
-"id": "cd416673f017",
-"title": "Kritische Bugs: Google schliesst mehr als 200 Lücken in Chrome",
-"link": "https://www.golem.de/news/kritische-bugs-google-schliesst-mehr-als-200-luecken-in-chrome-2611-215363.html",
-"text": "Mindestens eine kritische Lücke in Google Chrome erlaubt über manipulierten Netzwerk-Traffic einen Sandbox Escape. ( Chrome , Google )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215363&page=1&ts=1795008182",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-18T13:23:02+00:00",
-"sum": "Mindestens eine kritische Lücke in Google Chrome erlaubt über manipulierten Netzwerk-Traffic einen Sandbox Escape. ( Chrome , Google )"
-},
-{
-"id": "38ddf9f04bbf",
-"title": "NSA muss Hauptsitz schliessen: Patch-Fehler legt Geheimdienstnetz lahm",
-"link": "https://www.golem.de/news/nsa-muss-hauptsitz-schliessen-patch-fehler-legt-geheimdienstnetz-lahm-2611-215361.html",
-"text": "Nach dem Einspielen eines Patches ist das Kommunikationsnetzwerk der NSA weitestgehend ausgefallen. ( NSA , Politik )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215361&page=1&ts=1795006921",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-18T13:02:01+00:00",
-"sum": "Nach dem Einspielen eines Patches ist das Kommunikationsnetzwerk der NSA weitestgehend ausgefallen. ( NSA , Politik )"
-},
-{
 "id": "78b93d8e42cf",
 "title": "Infografik: Das Immunsystem in den ersten 1000 Tagen",
 "link": "https://www.spektrum.de/news/schwangerschaft-was-das-immunsystem-von-babys-beeinflusst/2338377",
@@ -728,50 +895,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-18T13:00:00+00:00",
 "sum": "Schon vor der Geburt bildet das Kind Abwehrzellen, beeinflusst von Signalen der Mutter. Danach formen Mikroben, Ernährung, Impfungen und Umweltfaktoren das kindliche Immunsystem."
-},
-{
-"id": "a316393f9c8e",
-"title": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
-"link": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html",
-"text": "Mancherorts sind bereits 50 Liter Regen binnen 24 Stunden runtergekommen - kombiniert mit heftigem Wind. Das bleibt zunächst auch so. Für fast ganz Deutschland gelten Unwetterwarnungen. Bislang war vor allem NRW betroffen.",
-"img": "https://images.tagesschau.de/image/ad51b652-05fa-47e6-9495-466c708659a2/AAABoe696bk/AAABnSSvrFg/16x9-big/regen-196.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-18T12:59:46+00:00",
-"sum": "Mancherorts sind bereits 50 Liter Regen binnen 24 Stunden runtergekommen - kombiniert mit heftigem Wind. Das bleibt zunächst auch so. Für fast ganz Deutschland gelten Unwetterwarnungen. Bislang war vor allem NRW betroffen."
-},
-{
-"id": "66544087021d",
-"title": "Anzeige: Black Week - PS5 Slim Digital mit GTA 6 und unendlich Datenvolumen für 1 Euro bei o2",
-"link": "https://www.golem.de/news/anzeige-black-week-ps5-slim-digital-mit-gta-6-und-unendlich-datenvolumen-fuer-1-euro-bei-o2-2611-215280.html",
-"text": "Morgen erscheint das lang erwartete GTA 6. Zur Black Week bietet o2 das Spiel mit der PS5 Slim Digital und Top-Handytarif für nur 1 Euro an. ( O2 , Spiele )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215280&page=1&ts=1795006201",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-18T12:50:01+00:00",
-"sum": "Morgen erscheint das lang erwartete GTA 6. Zur Black Week bietet o2 das Spiel mit der PS5 Slim Digital und Top-Handytarif für nur 1 Euro an. ( O2 , Spiele )"
-},
-{
-"id": "559d8fb3e941",
-"title": "Nach Cyberangriff: Japan nimmt Supercomputer Fugaku vom Netz",
-"link": "https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html",
-"text": "Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. ( Supercomputer , Computer )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215359&page=1&ts=1795005902",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-18T12:45:02+00:00",
-"sum": "Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. ( Supercomputer , Computer )"
-},
-{
-"id": "7cea9f29fc23",
-"title": "\"Kleiner Hüpfer\", \"überfällig\", \"abenteuerlich\" - Reaktionen auf Stromsteuersenkung",
-"link": "https://www.tagesschau.de/inland/stromsteuer-reaktionen-100.html",
-"text": "Sie kommt also, die vom Kanzler versprochene Stromsteuersenkung - zumindest für 2027. Die Massnahme selbst stösst auf ein weitgehend positives Echo. Doch es gibt auch viel Kritik - daran, dass die Entlastung nicht dauerhaft ist.",
-"img": "https://images.tagesschau.de/image/3e372ecd-5e45-4a79-a66f-80cb62d7fc66/AAABoe1pyac/AAABnSSvrFg/16x9-big/merz-1804.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-18T12:40:24+00:00",
-"sum": "Sie kommt also, die vom Kanzler versprochene Stromsteuersenkung - zumindest für 2027. Die Massnahme selbst stösst auf ein weitgehend positives Echo. Doch es gibt auch viel Kritik - daran, dass die Entlastung nicht dauerhaft ist."
 },
 {
 "id": "1d5f14af5f53",
@@ -794,17 +917,6 @@
 "topic": "Schweiz",
 "date": "2026-11-18T12:33:51+00:00",
 "sum": "Der Halsring ist das erste Schmuckstück aus der Frühbronzezeit, das auf dem Lötschenpass gefunden wurde."
-},
-{
-"id": "a0d36c8d8121",
-"title": "(g+) Lokale KI: Wann sich ein eigener KI-Server rechnet und wann er nur beruhigt",
-"link": "https://www.golem.de/news/lokale-ki-wann-sich-ein-eigener-ki-server-rechnet-und-wann-er-nur-beruhigt-2611-215216.html",
-"text": "Ein eigener KI-Server soll Kosten sparen und unabhängiger von Cloudanbietern machen. Doch was kostet er tatsächlich? Ein Deep Dive von Benedikt Matthes ( KI , Nvidia )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215216&page=1&ts=1795005002",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-18T12:30:02+00:00",
-"sum": "Ein eigener KI-Server soll Kosten sparen und unabhängiger von Cloudanbietern machen. Doch was kostet er tatsächlich? Ein Deep Dive von Benedikt Matthes ( KI , Nvidia )"
 },
 {
 "id": "97cfce926e33",
@@ -917,17 +1029,6 @@
 "sum": "Was bleibt von uns, wenn es die Erde nicht mehr gibt? Die Raumsonde Voyager 1 trägt eine Botschaft der Menschheit hinaus ins All. Nun erreicht sie eine historische Wegmarke."
 },
 {
-"id": "015250ad0cdd",
-"title": "UBS setzt 2027 auf Europa und Gold",
-"link": "https://www.finews.ch/news/banken/74554-ubs-2027-steigende-aktienmaerkte-goldpreis-5000-dollar-je-unze-risiken-des-ki-booms-aktien-europa-usa",
-"text": "Die UBS erwartet für 2027 weiter steigende Aktienmärkte und einen Goldpreis von 5000 Dollar je Unze. Gleichzeitig warnt die Grossbank vor den Risiken des KI-Booms. Bei Aktien bevorzugt sie inzwischen Europa gegenüber den USA.",
-"img": "https://www.finews.ch/images/news/2026/03/Gold_Symbolbild_Shutterstock.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T09:59:27+00:00",
-"sum": "Die UBS erwartet für 2027 weiter steigende Aktienmärkte und einen Goldpreis von 5000 Dollar je Unze. Gleichzeitig warnt die Grossbank vor den Risiken des KI-Booms. Bei Aktien bevorzugt sie inzwischen Europa gegenüber den USA."
-},
-{
 "id": "c7ef509581d2",
 "title": "So weit wie noch nie: Raumsonde \"Voyager 1\" - einen Lichttag von Erde entfernt",
 "link": "https://www.tagesschau.de/wissen/technologie/voyager-1-100.html",
@@ -950,17 +1051,6 @@
 "sum": "15 Millionen Dokumente der Deutschen Bank wurden geleakt. Ein Journalist des «Tages-Anzeigers» hat mitrecherchiert."
 },
 {
-"id": "b76885de602c",
-"title": "Anaheim-Stürmer «on fire» – Vier Hattricks in einem Monat: Gauthier schreibt NHL-Geschichte",
-"link": "https://www.srf.ch/sport/eishockey/nhl/anaheim-stuermer-on-fire-vier-hattricks-in-einem-monat-gauthier-schreibt-nhl-geschichte",
-"text": "Cutter Gauthier trifft und trifft und trifft – und jagt damit historische Bestmarken.",
-"img": "https://www.srf.ch/static/cms/images//320ws/3aa6c81.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-18T09:20:18+00:00",
-"sum": "Cutter Gauthier trifft und trifft und trifft – und jagt damit historische Bestmarken."
-},
-{
 "id": "ee96e38e92ff",
 "title": "Ursachenforschung Weinkonsum – Weinbranche verliert treuste Kunden – wie weiter?",
 "link": "https://www.srf.ch/news/wirtschaft/ursachenforschung-weinkonsum-weinbranche-verliert-treuste-kunden-wie-weiter",
@@ -972,17 +1062,6 @@
 "sum": "Der Weinkonsum ist weltweit eingebrochen. Marktforschende rechnen mit weiteren Rückgängen. Die Suche nach den Gründen."
 },
 {
-"id": "9e5cae25a17f",
-"title": "Die Finma hat ein Einsehen und will die Beaufsichtigten entlasten",
-"link": "https://www.finews.ch/news/finanzplatz/74547-finma-entlastung-beaufsichtigte-bewilligungsverfahren-datenerhebungen-konsulation-aufsichtsmitteilungen",
-"text": "Endlich ist es soweit: Die Finma legt ein Massnahmenpaket auf, um die administrative Belastung der Finanzmarktteilnehmer zu reduzieren. Im Zentrum stehen Bewilligungsverfahren und Datenerhebungen. Vor wichtigen Aufsichtsmitteilungen soll neu die Branche konsultiert werden. Der Schritt ist zu begrüssen, egal ob er aus innerer Einsicht oder auf äusseren Druck erfolgt, findet finews.",
-"img": "https://www.finews.ch/images/news/2026/11/Stefan-Walter-Finma.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T09:03:46+00:00",
-"sum": "Endlich ist es soweit: Die Finma legt ein Massnahmenpaket auf, um die administrative Belastung der Finanzmarktteilnehmer zu reduzieren. Im Zentrum stehen Bewilligungsverfahren und Datenerhebungen. Vor wichtigen Aufsichtsmitteilungen soll neu die Branche konsultiert werden. Der Schritt ist zu begrüssen, egal ob er aus innerer Einsicht oder auf äusseren Druck erfolgt, findet finews."
-},
-{
 "id": "f95fb22a8695",
 "title": "Stromsteuersenkung und Spritpreisdeckel - zeitlich begrenzt",
 "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
@@ -992,17 +1071,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-18T08:55:03+00:00",
 "sum": "Die Spitzen von Union und SPD haben sich im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle geeinigt. Die Finanzierung steht allerdings nur für 2027. Auch ein Spritpreisdeckel soll zeitlich begrenzt kommen."
-},
-{
-"id": "2a6e311af95c",
-"title": "SRF-Interview – Schär: «Ich hatte Zweifel, ob es überhaupt weitergehen kann»",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/srf-interview-schaer-ich-hatte-zweifel-ob-es-ueberhaupt-weitergehen-kann",
-"text": "Im Januar verletzte sich Fabian Schär am Fuss. Für den Ex-Nati-Akteur folgten schwierige Monate der Ungewissheit.",
-"img": "https://www.srf.ch/static/cms/images//320ws/4c402a.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-18T08:41:46+00:00",
-"sum": "Im Januar verletzte sich Fabian Schär am Fuss. Für den Ex-Nati-Akteur folgten schwierige Monate der Ungewissheit."
 },
 {
 "id": "6154558737ec",
@@ -1025,39 +1093,6 @@
 "topic": "Sport",
 "date": "2026-11-18T08:03:05+00:00",
 "sum": "Im kommenden März wird Gianni Infantino in der Wahl zum Fifa-Präsidenten herausgefordert. Alles zum aktuellen Stand."
-},
-{
-"id": "b76a67ebf3c8",
-"title": "Raiffeisen startet Ratinguniversum mit 28 prominenten Namen",
-"link": "https://www.finews.ch/news/finanzplatz/74540-raiffeisen-lancierung-credit-research-schweizerunternehmen-anleihenmarkt-sbi-ratingkriterium",
-"text": "Neu bewertet auch Raiffeisen Schweiz die Schuldnerqualität von inländischen Unternehmen. Damit will die Bank ihr Potenzial im Firmenkundengeschäft besser ausschöpfen und zugleich Unternehmen den Weg zum Kapitalmarkt erleichtern. Die Ratings sollen auch im Swiss Bond Index berücksichtigt werden – der Zeitpunkt ist allerdings offen.",
-"img": "https://www.finews.ch/images/news/2026/11/Philipp-Ackermann-Raiffeisen.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T07:34:57+00:00",
-"sum": "Neu bewertet auch Raiffeisen Schweiz die Schuldnerqualität von inländischen Unternehmen. Damit will die Bank ihr Potenzial im Firmenkundengeschäft besser ausschöpfen und zugleich Unternehmen den Weg zum Kapitalmarkt erleichtern. Die Ratings sollen auch im Swiss Bond Index berücksichtigt werden – der Zeitpunkt ist allerdings offen."
-},
-{
-"id": "2aa599f6bed0",
-"title": "Umfrage: Schweizer Grossanleger setzen auf Europa statt auf die USA",
-"link": "https://www.finews.ch/news/finanzplatz/74539-umfrage-schweizer-institutionelle-investoren-natixis-staatsverschuldung-hohe-bewertungen",
-"text": "Schweizer institutionelle Investoren blicken optimistischer auf das Börsenjahr 2027 als ihre internationalen Kollegen. Gleichzeitig wächst die Sorge über die Staatsverschuldung und die hohen Bewertungen an den Aktienmärkten.",
-"img": "https://www.finews.ch/images/news/2026/11/n.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T07:29:18+00:00",
-"sum": "Schweizer institutionelle Investoren blicken optimistischer auf das Börsenjahr 2027 als ihre internationalen Kollegen. Gleichzeitig wächst die Sorge über die Staatsverschuldung und die hohen Bewertungen an den Aktienmärkten."
-},
-{
-"id": "de525663a654",
-"title": "Test gegen Costa Rica – 7:0: Auch das argentinische Imperium schlägt zurück",
-"link": "https://www.srf.ch/sport/fussball/test-laenderspiele/test-gegen-costa-rica-7-0-auch-das-argentinische-imperium-schlaegt-zurueck",
-"text": "Vier Tage nach der Niederlage gegen Uruguay lässt Argentinien dem Gast aus Costa Rica keine Chance.",
-"img": "https://www.srf.ch/static/cms/images//320ws/0f928e.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-18T07:23:21+00:00",
-"sum": "Vier Tage nach der Niederlage gegen Uruguay lässt Argentinien dem Gast aus Costa Rica keine Chance."
 },
 {
 "id": "82530b1d527c",
@@ -1104,17 +1139,6 @@
 "sum": "Wie kann aus den beiden Figuren ein spiegelsymmetrisches Muster gebildet werden?"
 },
 {
-"id": "e93858c7afd6",
-"title": "Nachhaltige Anlagen: Schweizer akzeptieren deutlich tiefere Renditen",
-"link": "https://www.finews.ch/news/finanzplatz/74536-nachhaltige-anlagen-studie-hochschule-luzern-widerspruch-anleger-auf-nachhaltigkeit-setzen-einbussen-bei-rendite-mehrheit-versteht-nicht-wie-banken-nachhaltige-anlageprodukte-definieren",
-"text": "Nachhaltige Anlagen gewinnen in der Schweiz stark an Bedeutung. Eine neue Studie der Hochschule Luzern zeigt allerdings einen Widerspruch: Während immer mehr Anleger auf Nachhaltigkeit setzen und dafür sogar Einbussen bei der Rendite akzeptieren, versteht eine Mehrheit nicht, wie Banken nachhaltige Anlageprodukte definieren.",
-"img": "https://www.finews.ch/images/news/2026/11/esg.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T06:44:04+00:00",
-"sum": "Nachhaltige Anlagen gewinnen in der Schweiz stark an Bedeutung. Eine neue Studie der Hochschule Luzern zeigt allerdings einen Widerspruch: Während immer mehr Anleger auf Nachhaltigkeit setzen und dafür sogar Einbussen bei der Rendite akzeptieren, versteht eine Mehrheit nicht, wie Banken nachhaltige Anlageprodukte definieren."
-},
-{
 "id": "b790f3c04608",
 "title": "Quartalszahlen von Walt Disney – Disney übertrifft die Erwartungen der Wall Street",
 "link": "https://www.srf.ch/news/wirtschaft/quartalszahlen-von-walt-disney-disney-uebertrifft-die-erwartungen-der-wall-street",
@@ -1148,17 +1172,6 @@
 "sum": "Damit sind alle Senatsrennen entschieden. Die Demokraten werden eine Mehrheit von 56 der 100 Sitze haben."
 },
 {
-"id": "75d14c86afc0",
-"title": "Schweizer Angebotsmieten so teuer wie noch nie",
-"link": "https://www.finews.ch/news/finanzplatz/74535-mieten-fuer-neu-ausgeschriebene-wohnungen-oktober-homegate-mietindex-rekordwert-schaffhausen-genf-stadt-zuerich",
-"text": "Die Mieten für neu ausgeschriebene Wohnungen in der Schweiz steigen weiter. Im Oktober erreichte der Homegate-Mietindex einen neuen Rekordwert. Besonders stark verteuerten sich die Angebote in den Kantonen Schaffhausen und Genf. In der Stadt Zürich gingen die Mieten dagegen kurzfristig leicht zurück.",
-"img": "https://www.finews.ch/images/news/2026/11/w.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T06:21:26+00:00",
-"sum": "Die Mieten für neu ausgeschriebene Wohnungen in der Schweiz steigen weiter. Im Oktober erreichte der Homegate-Mietindex einen neuen Rekordwert. Besonders stark verteuerten sich die Angebote in den Kantonen Schaffhausen und Genf. In der Stadt Zürich gingen die Mieten dagegen kurzfristig leicht zurück."
-},
-{
 "id": "be7f96753e5f",
 "title": "Wie über’s Klima reden bei Socialmedia?",
 "link": "https://www.spektrum.de/podcast/mission-energiewende-wie-uebers-klima-reden-bei-socialmedia/2354589",
@@ -1170,39 +1183,6 @@
 "sum": "Wie ein komplexes Thema wie die Klimakrise auf die winzigen Kacheln in sozialen Medien wie Instagram passt, darum geht es in der Folge des Podcasts »Forschungsquartett«. 🎙️"
 },
 {
-"id": "c47387a2f1bc",
-"title": "Schweizer Sicherheit mit Renditeaufschlag – wo liegt der Haken?",
-"link": "https://www.finews.ch/news/finanzplatz/74534-schweizer-privatplatzierungen-bringen-mehr-rendite-als-oblis",
-"text": "Schweizer Schuldner gelten als solide. Doch Sicherheit hat ihren Preis: Die Renditen sind tief. An einem Event in Zug zeigten QCAM und Cosmofunding der Zürcher Kantonalbank, wie sich Schweizer Kreditqualität dennoch in lukrative Geschäfte übersetzen lässt.",
-"img": "https://www.finews.ch/images/news/2026/11/Shed_Header.png",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T06:04:25+00:00",
-"sum": "Schweizer Schuldner gelten als solide. Doch Sicherheit hat ihren Preis: Die Renditen sind tief. An einem Event in Zug zeigten QCAM und Cosmofunding der Zürcher Kantonalbank, wie sich Schweizer Kreditqualität dennoch in lukrative Geschäfte übersetzen lässt."
-},
-{
-"id": "fc98516c36c4",
-"title": "Die nächste Generation fordert die Banken heraus",
-"link": "https://www.finews.ch/news/banken/74472-nextgen-unternehmertum-banken-finanzierung-familienunternehmen-liechtenstein-finance",
-"text": "Der Generationenwechsel in Familienunternehmen stellt Banken und Vermögensverwalter vor neue Herausforderungen. Welche Rolle können die Finanzplätze Schweiz und Liechtenstein dabei spielen? Eine hochkarätig besetzte Veranstaltung von Liechtenstein Finance und finews geht diesen Fragen nach.",
-"img": "https://www.finews.ch/images/news/2026/11/Lichtenstein_neu_.png",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T05:54:40+00:00",
-"sum": "Der Generationenwechsel in Familienunternehmen stellt Banken und Vermögensverwalter vor neue Herausforderungen. Welche Rolle können die Finanzplätze Schweiz und Liechtenstein dabei spielen? Eine hochkarätig besetzte Veranstaltung von Liechtenstein Finance und finews geht diesen Fragen nach."
-},
-{
-"id": "7d8d87e4cb9d",
-"title": "Gefahr Cyberattacke – Gemeinden im Kampf gegen Hackerangriffe gefordert",
-"link": "https://www.srf.ch/news/schweiz/gefahr-cyberattacke-gemeinden-im-kampf-gegen-hackerangriffe-gefordert",
-"text": "Cyberattacken treffen alle: Im Aargau rüsten Gemeinden nun auf, in Bern unterstützt der Kanton.",
-"img": "https://www.srf.ch/static/cms/images//320ws/94c919.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-18T05:30:45+00:00",
-"sum": "Cyberattacken treffen alle: Im Aargau rüsten Gemeinden nun auf, in Bern unterstützt der Kanton."
-},
-{
 "id": "26681d9c35c9",
 "title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Nvidia setzt rasantes Wachstum fort",
 "link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
@@ -1212,17 +1192,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-18T05:29:30+00:00",
 "sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall."
-},
-{
-"id": "59dfef79c160",
-"title": "Raiffeisen holt ehemaligen UBS-Manager in die Geschäftsleitung",
-"link": "https://www.finews.ch/news/banken/74529-raiffeisen-schweiz-patrick-steiner-leiter-des-departements-products-solutions-mitglied-der-geschaeftsleitung-neu-geschaffene-organisationseinheit",
-"text": "Raiffeisen Schweiz ernennt Patrick Steiner zum neuen Leiter des Departements Products & Solutions. Er übernimmt die Funktion spätestens am 1. März 2027 und wird gleichzeitig Mitglied der Geschäftsleitung. Er übernimmt bei Raiffeisen die Führung einer neu geschaffenen Organisationseinheit.",
-"img": "https://www.finews.ch/images/news/2026/11/ps.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-18T05:20:41+00:00",
-"sum": "Raiffeisen Schweiz ernennt Patrick Steiner zum neuen Leiter des Departements Products & Solutions. Er übernimmt die Funktion spätestens am 1. März 2027 und wird gleichzeitig Mitglied der Geschäftsleitung. Er übernimmt bei Raiffeisen die Führung einer neu geschaffenen Organisationseinheit."
 },
 {
 "id": "07dae995ce94",
@@ -1267,17 +1236,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-18T05:00:42+00:00",
 "sum": "Die Deutsche-Bank-Tochter DWS verwaltet Milliarden für Betriebsrenten in einer Stiftung, die nicht von der Finanzaufsicht Bafin kontrolliert wird. Doch nun droht der Stiftung Ärger mit Ermittlern, wie Recherchen von NDR, WDR und SZ zeigen."
-},
-{
-"id": "2ee31562ed16",
-"title": "2. SRG-Umfrage auf einen Blick – Dem Bund drohen mindestens zwei Niederlagen",
-"link": "https://www.srf.ch/news/schweiz/2-srg-umfrage-auf-einen-blick-dem-bund-drohen-mindestens-zwei-niederlagen",
-"text": "Wäre anfangs November abgestimmt worden, wäre die MWST-Erhöhung für die AHV und die Mitte-Initiative abgelehnt worden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/913685.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-18T05:00:05+00:00",
-"sum": "Wäre anfangs November abgestimmt worden, wäre die MWST-Erhöhung für die AHV und die Mitte-Initiative abgelehnt worden."
 },
 {
 "id": "43ced319811c",
@@ -1379,17 +1337,6 @@
 "sum": "Das Geschäft des Chip-Entwicklers läuft trotz den Turbulenzen um seinen gefallenen CEO weiterhin hervorragend. Die Investoren hören das sehr gerne – die Nvidia-Aktie legt im nachbörslichen Handel zu."
 },
 {
-"id": "1cc4383ad771",
-"title": "ATP Finals in Turin – Erneut makellos: Zverev bereits im Halbfinal",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-erneut-makellos-zverev-bereits-im-halbfinal",
-"text": "Die deutsche Weltnummer 1 gibt auch gegen Ben Shelton keinen Satz ab. Arthur Fils schlägt Rafael Jodar.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a18d66e.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-17T21:35:03+00:00",
-"sum": "Die deutsche Weltnummer 1 gibt auch gegen Ben Shelton keinen Satz ab. Arthur Fils schlägt Rafael Jodar."
-},
-{
 "id": "ff48853eb25a",
 "title": "Fico in der Kritik – Zehntausende protestieren in der Slowakei gegen Regierung",
 "link": "https://www.srf.ch/news/international/fico-in-der-kritik-zehntausende-protestieren-in-der-slowakei-gegen-regierung",
@@ -1421,17 +1368,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-17T20:02:41+00:00",
 "sum": "Whistleblower-Daten enthüllen prominente Kunden der Deutschen Bank – die Schweiz spielt dabei eine Schlüsselrolle."
-},
-{
-"id": "7cc9fd7888a0",
-"title": "Champions Hockey League – Blandisi schiesst den HC Davos in den Viertelfinal",
-"link": "https://www.srf.ch/sport/eishockey/champions-hockey-league/champions-hockey-league-blandisi-schiesst-den-hc-davos-in-den-viertelfinal",
-"text": "Die Bündner behalten in der Champions Hockey League in Pilsen in der Verlängerung die Nerven.",
-"img": "https://www.srf.ch/static/cms/images//320ws/8007fc.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-17T19:08:02+00:00",
-"sum": "Die Bündner behalten in der Champions Hockey League in Pilsen in der Verlängerung die Nerven."
 },
 {
 "id": "3b07916bc0a7",
@@ -1544,28 +1480,6 @@
 "sum": "Planeten hinterlassen winzige Spuren in Gravitationswellen von Doppelsystemen aus zwei Weissen Zwergen und könnten so künftig mit dem Weltraumobservatorium LISA entdeckt werden."
 },
 {
-"id": "49554fcd1b8b",
-"title": "Roboter-Pianist – Mensch gegen Maschine: Das Klavierduell",
-"link": "https://www.srf.ch/news/international/roboter-pianist-mensch-gegen-maschine-das-klavierduell",
-"text": "Kann Technik Kunst ersetzen? Ein Roboter fordert am Klavier menschliche Virtuosen heraus – mit verblüffender Präzision.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c2615e.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-17T14:21:48+00:00",
-"sum": "Kann Technik Kunst ersetzen? Ein Roboter fordert am Klavier menschliche Virtuosen heraus – mit verblüffender Präzision."
-},
-{
-"id": "83bfc6c7cf4f",
-"title": "Zusammenarbeit EU-Ruanda – Warum Ruanda abgewiesene Asylbewerber aus Europa aufnehmen will",
-"link": "https://www.srf.ch/news/international/zusammenarbeit-eu-ruanda-warum-ruanda-abgewiesene-asylbewerber-aus-europa-aufnehmen-will",
-"text": "Die freie Journalistin Naveena Kottoor aus Nairobi beobachtet die Entwicklung genau.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f740e1.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-17T14:20:34+00:00",
-"sum": "Die freie Journalistin Naveena Kottoor aus Nairobi beobachtet die Entwicklung genau."
-},
-{
 "id": "d0ab6ae50897",
 "title": "Mini-Lichtquelle: Rekordkleiner Laser stösst an die Grenzen der Physik",
 "link": "https://www.spektrum.de/news/mini-lichtquelle-rekordkleiner-laser-stoesst-an-die-grenzen-der-physik/2354643",
@@ -1577,28 +1491,6 @@
 "sum": "Wie kompakt kann ein Laser werden? Mit einem nur rund 100 Nanometer kleinen Bauteil tasten sich Forscher an ein fundamentales Limit der Miniaturisierung heran."
 },
 {
-"id": "8b043e96bb4d",
-"title": "Apec-Gipfel in China – Die Themen, die neben dem Gipfel dominieren",
-"link": "https://www.srf.ch/news/international/apec-gipfel-in-china-die-themen-die-neben-dem-gipfel-dominieren",
-"text": "Xi empfängt Trump und Putin in Shenzhen. Dazu vier weitere Punkte, die den Apec-Gipfel prägen dürften.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d93ac5.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-17T13:31:48+00:00",
-"sum": "Xi empfängt Trump und Putin in Shenzhen. Dazu vier weitere Punkte, die den Apec-Gipfel prägen dürften."
-},
-{
-"id": "a458e5b17b5e",
-"title": "Deloitte Schweiz: Geschäft mit Finanzindustrie sinkt zweistellig",
-"link": "https://www.finews.ch/news/finanzplatz/74527-banken-und-versicherungen-wichtigste-kundengruppe-deloitte-groessten-umsatzrueckgang-folgen-mitarbeiter-von-pwc",
-"text": "Banken und Versicherungen bleiben die wichtigste Kundengruppe von Deloitte. Doch ausgerechnet hier gibt es den grössten Umsatzrückgang. Noch grösser sind die Folgen allerdings für die Mitarbeiter von PwC.",
-"img": "https://www.finews.ch/images/news/2026/11/d2.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-17T13:29:02+00:00",
-"sum": "Banken und Versicherungen bleiben die wichtigste Kundengruppe von Deloitte. Doch ausgerechnet hier gibt es den grössten Umsatzrückgang. Noch grösser sind die Folgen allerdings für die Mitarbeiter von PwC."
-},
-{
 "id": "f54c449bfdf7",
 "title": "Kampf um Fifa-Präsidium – Das ist Infantino-Gegner Philippe Diallo",
 "link": "https://www.srf.ch/sport/fussball/fussball-allgemein/kampf-um-fifa-praesidium-das-ist-infantino-gegner-philippe-diallo",
@@ -1608,50 +1500,6 @@
 "topic": "Sport",
 "date": "2026-11-17T12:49:49+00:00",
 "sum": "Im Ring gekämpft hat Philippe Diallos Vater. Nun wartet auf den Sohn der wohl grösste Kampf seines Lebens."
-},
-{
-"id": "9d0556bf18f8",
-"title": "Freiburger Kantonalbank holt Rating von Moody's ein",
-"link": "https://www.finews.ch/news/banken/74525-freiburger-kantonalbank-fkb-rating-moodys-staatsgarantie-ersteinstufung",
-"text": "Aufgrund der Garantie des Hauptaktionärs und weiterer Stärken erhält das Staatsinstitut des Kantons Freiburg eine sehr gute Bewertung von Moody's. Damit verfügt die Freiburger Kantonalbank neu über eine Einstufung einer internationalen Ratingagentur.",
-"img": "https://www.finews.ch/images/news/2026/11/Hauptsitz_FKB-Fribourg.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-17T12:43:04+00:00",
-"sum": "Aufgrund der Garantie des Hauptaktionärs und weiterer Stärken erhält das Staatsinstitut des Kantons Freiburg eine sehr gute Bewertung von Moody's. Damit verfügt die Freiburger Kantonalbank neu über eine Einstufung einer internationalen Ratingagentur."
-},
-{
-"id": "f3b9f6af96bd",
-"title": "Schweizer Banken überraschen selbst die Bain-Experten",
-"link": "https://www.finews.ch/news/banken/74523-schweizer-banken-bain-studie-kundenzufriedenheit-digitalbanken-retail-banking",
-"text": "Digitalbanken gelten als Vorreiter bei der Kundenzufriedenheit. Doch das Resultat einer neuen Untersuchung von Bain & Company zeigt ein überraschendes Bild für die Schweiz.",
-"img": "https://www.finews.ch/images/news/2026/11/customers.png",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-17T12:32:18+00:00",
-"sum": "Digitalbanken gelten als Vorreiter bei der Kundenzufriedenheit. Doch das Resultat einer neuen Untersuchung von Bain & Company zeigt ein überraschendes Bild für die Schweiz."
-},
-{
-"id": "090e30d7b196",
-"title": "Wer kauft künftig die wachsende Flut an Anleihen?",
-"link": "https://www.finews.ch/news/finanzplatz/74521-staatenschulden-steigen-technologiekonzerne-viele-milliarden-ausbau-kuenstlicher-intelligenz-traditionelle-investoren-ziehen-sich-zurueck-analyse-des-vermoegensverwalters-dpam-renditen-von-obligationen-laengerfristig-hoeheren-niveau",
-"text": "Staaten verschulden sich immer stärker, Technologiekonzerne benötigen viele Kredit-Milliarden für den Ausbau künstlicher Intelligenz. Gleichzeitig ziehen sich traditionelle Investoren teilweise aus dem Anleihemarkt zurück. Eine Analyse des Vermögensverwalters DPAM zeigt, weshalb die Renditen von Obligationen längerfristig auf einem höheren Niveau bleiben könnten.",
-"img": "https://www.finews.ch/images/news/2026/11/Unknown_copy_copy.png",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-17T11:40:52+00:00",
-"sum": "Staaten verschulden sich immer stärker, Technologiekonzerne benötigen viele Kredit-Milliarden für den Ausbau künstlicher Intelligenz. Gleichzeitig ziehen sich traditionelle Investoren teilweise aus dem Anleihemarkt zurück. Eine Analyse des Vermögensverwalters DPAM zeigt, weshalb die Renditen von Obligationen längerfristig auf einem höheren Niveau bleiben könnten."
-},
-{
-"id": "335d1478cbe3",
-"title": "Swiss Re: Die Abhängigkeit von KI und Finanzmärkten steigt",
-"link": "https://www.finews.ch/news/finanzplatz/74519-weltwirtschaft-2027-staerker-wachsen-swiss-re-investitionen-in-kuenstliche-intelligenz-steigende-vermoegenswerte-und-konsumausgaben-wohlhabender-haushalte-konjunktur",
-"text": "Die Weltwirtschaft dürfte 2027 wieder etwas stärker wachsen. Doch der Aufschwung steht laut Swiss Re auf einem schmalen Fundament. Investitionen in künstliche Intelligenz, steigende Vermögenswerte und die Konsumausgaben wohlhabender Haushalte treiben die Konjunktur.",
-"img": "https://www.finews.ch/images/news/2026/11/ai.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-17T10:21:02+00:00",
-"sum": "Die Weltwirtschaft dürfte 2027 wieder etwas stärker wachsen. Doch der Aufschwung steht laut Swiss Re auf einem schmalen Fundament. Investitionen in künstliche Intelligenz, steigende Vermögenswerte und die Konsumausgaben wohlhabender Haushalte treiben die Konjunktur."
 },
 {
 "id": "2ec13d60d91f",
