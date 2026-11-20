@@ -1,18 +1,117 @@
 {
-"updated": "2026-11-19T20:42:28+00:00",
+"updated": "2026-11-20T03:23:57+00:00",
 "ai": false,
 "errors": [],
 "items": [
 {
-"id": "679f5ef20440",
-"title": "Spionagegericht: Grossbritannien muss Auftrag für Apple-Hintertür gestehen",
-"link": "https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das britische Innenministerium hat Apple befohlen, eine Hintertür in die iCloud einzubauen. Ein Gericht zwingt das Ministerium dazu, das öffentlich zuzugeben.",
+"id": "938750bbd513",
+"title": "In Dutzenden Städten: Jugendproteste in ganz Deutschland",
+"link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html",
+"text": "In Dutzenden Städten sind Proteste angekündigt. Unter anderem die Bundesschülerkonferenz, \"Schulstreik gegen die Wehrpflicht\", \"Gen Z regelt\" und Fridays For Future haben heute bundesweit zu Demonstrationen aufgerufen.",
+"img": "https://images.tagesschau.de/image/c0c2c996-a40a-45d6-b6c2-ccf49acfbc61/AAABofbUDM0/AAABnSSvrFg/16x9-big/genz-regelt-104.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-20T03:16:02+00:00",
+"sum": "In Dutzenden Städten sind Proteste angekündigt. Unter anderem die Bundesschülerkonferenz, \"Schulstreik gegen die Wehrpflicht\", \"Gen Z regelt\" und Fridays For Future haben heute bundesweit zu Demonstrationen aufgerufen."
+},
+{
+"id": "20b63f9cbe0d",
+"title": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
+"link": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
+"text": "Insgesamt 1.000 Stellen in München und Frankfurt will man bei der Lufthansa Airlines streichen, das geht aus einem Brief an Mitarbeiter hervor. Auf Anfrage wollte die Airline dem internen Schreiben \"nichts hinzufügen\".",
+"img": "https://images.tagesschau.de/image/2841e225-4886-4828-8c4b-5ef6e85bc0ab/AAABofZ_wqM/AAABnSSvrFg/16x9-big/lufhansa-boeing-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-20T01:56:36+00:00",
+"sum": "Insgesamt 1.000 Stellen in München und Frankfurt will man bei der Lufthansa Airlines streichen, das geht aus einem Brief an Mitarbeiter hervor. Auf Anfrage wollte die Airline dem internen Schreiben \"nichts hinzufügen\"."
+},
+{
+"id": "b1239dda4068",
+"title": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
+"link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html",
+"text": "In ganz Deutschland sollen Betriebe einen Tag lang stillstehen - seit Mitternacht rollt die Streikwelle der IG Metall an. Betroffen sind Betriebe der Metall- und Elektroindustrie.",
+"img": "https://images.tagesschau.de/image/04bf49bc-e6a4-487a-bbef-fcb909596702/AAABofZbVKE/AAABnSSvrFg/16x9-big/ig-metall-streik-110.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Wirtschaft",
+"date": "2026-11-20T00:41:04+00:00",
+"sum": "In ganz Deutschland sollen Betriebe einen Tag lang stillstehen - seit Mitternacht rollt die Streikwelle der IG Metall an. Betroffen sind Betriebe der Metall- und Elektroindustrie."
+},
+{
+"id": "4995a961bbc3",
+"title": "Was sind KI-Agenten? Was können sie? Und soll ich einem vertrauen?",
+"link": "https://www.nzz.ch/technologie/was-sind-ki-agenten-was-koennen-sie-und-soll-ich-einem-vertrauen-ld.10056257",
+"text": "Antworten auf die drängenden Fragen zum neuesten KI-Hype.",
+"img": "https://img-msp-prod.nzz.ch/2026/10/29/111c687a-874e-4bad-a7f2-978bd4748860.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2593,2593,x648,y0",
+"source": "NZZ",
+"topic": "Tech",
+"date": "2026-11-19T23:30:00+00:00",
+"sum": "Antworten auf die drängenden Fragen zum neuesten KI-Hype."
+},
+{
+"id": "6d2ec352aec9",
+"title": "WTF: Schummelbremse Notfallwarnung: Südkorea lässt bei Aufnahmetests Handys läuten",
+"link": "https://www.heise.de/news/Suedkorea-aktiviert-Katastrophenalarmsystem-um-Handys-bei-Uni-Test-zu-finden-11531901.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Südkorea offenbart Obsession über Uni-Aufnahmetests. Flughäfen werden gesperrt, und das Notfall-Warnsystem muss zum Aufspüren von Handys herhalten.",
 "img": "",
 "source": "heise",
 "topic": "Tech",
-"date": "2026-11-19T20:33:00+00:00",
-"sum": "Das britische Innenministerium hat Apple befohlen, eine Hintertür in die iCloud einzubauen. Ein Gericht zwingt das Ministerium dazu, das öffentlich zuzugeben."
+"date": "2026-11-19T22:07:00+00:00",
+"sum": "Südkorea offenbart Obsession über Uni-Aufnahmetests. Flughäfen werden gesperrt, und das Notfall-Warnsystem muss zum Aufspüren von Handys herhalten."
+},
+{
+"id": "a9a2ca36d63f",
+"title": "MELDUNGEN WIRTSCHAFT - Lufthansa will 1000 Stellen an Drehkreuzen streichen +++ BASF gibt Übernahmepläne für Evonik auf",
+"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
+"text": "Die neuesten Meldungen aus der Wirtschaft.",
+"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-19T21:50:27+00:00",
+"sum": "Die neuesten Meldungen aus der Wirtschaft."
+},
+{
+"id": "ba6ede00e1f2",
+"title": "Women's Champions League – Schertenleib und Barcelona lassen Servette keine Chance",
+"link": "https://www.srf.ch/sport/fussball/frauen-fussball/women-s-champions-league-schertenleib-und-barcelona-lassen-servette-keine-chance",
+"text": "Die Genferinnen unterliegen beim Titelverteidiger mit Sydney Schertenleib nach couragiertem Start 0:6.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d354ce.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-19T21:49:58+00:00",
+"sum": "Die Genferinnen unterliegen beim Titelverteidiger mit Sydney Schertenleib nach couragiertem Start 0:6."
+},
+{
+"id": "c0a9d97d9ad8",
+"title": "National League am Donnerstag – Vom 0:2 zum 5:2: Lions glückt Reaktion in Lausanne",
+"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-donnerstag-vom-0-2-zum-5-2-lions-glueckt-reaktion-in-lausanne",
+"text": "Die ZSC Lions finden in Lausanne trotz eines missglückten Startdrittels auf die Siegerstrasse zurück.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8f4553.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-19T21:35:45+00:00",
+"sum": "Die ZSC Lions finden in Lausanne trotz eines missglückten Startdrittels auf die Siegerstrasse zurück."
+},
+{
+"id": "65e241c586c2",
+"title": "ATP Finals in Turin – Zverev marschiert durch – auch Shelton im Halbfinal",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-zverev-marschiert-durch-auch-shelton-im-halbfinal",
+"text": "Alexander Zverev gewinnt an den ATP Finals auch sein 3. Gruppenspiel. Ben Shelton schafft ebenfalls die Halbfinal-Quali.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b81e076.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-19T21:25:49+00:00",
+"sum": "Alexander Zverev gewinnt an den ATP Finals auch sein 3. Gruppenspiel. Ben Shelton schafft ebenfalls die Halbfinal-Quali."
+},
+{
+"id": "f4b8cb06772c",
+"title": "Rekord an der Wallstreet – Anthropic an der Börse: Fünf Fragen zum Handelsstart",
+"link": "https://www.srf.ch/news/wirtschaft/rekord-an-der-wallstreet-anthropic-an-der-boerse-fuenf-fragen-zum-handelsstart",
+"text": "Es ist der grösste Börsengang der Geschichte: Was man zum Handelsstart des KI-Riesen Anthropic in New York wissen muss.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b7e6dc.webp",
+"source": "SRF",
+"topic": "Wirtschaft",
+"date": "2026-11-19T21:14:36+00:00",
+"sum": "Es ist der grösste Börsengang der Geschichte: Was man zum Handelsstart des KI-Riesen Anthropic in New York wissen muss."
 },
 {
 "id": "bd1c96723694",
@@ -22,8 +121,19 @@
 "img": "https://images.tagesschau.de/image/da56066e-144a-4dc7-ae58-03711aca6b57/AAABofUz-fU/AAABnSSvrFg/16x9-big/wadephul-442.jpg?width=1920",
 "source": "Tagesschau",
 "topic": "Welt",
-"date": "2026-11-19T20:29:09+00:00",
+"date": "2026-11-19T21:02:03+00:00",
 "sum": "Aussenminister Wadephul gibt sich nach den jüngsten Bemühungen um einen Frieden für die Ukraine optimistisch. Frankreichs Präsident Macron will erneut über einen NATO-Beitritt der Ukraine sprechen."
+},
+{
+"id": "679f5ef20440",
+"title": "Britische Regierung muss gestehen, dass sie Apple eine Hintertür befohlen hat",
+"link": "https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Das britische Innenministerium hat Apple befohlen, eine Hintertür in die iCloud einzubauen. Ein Gericht zwingt das Ministerium dazu, das öffentlich zuzugeben.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-19T20:33:00+00:00",
+"sum": "Das britische Innenministerium hat Apple befohlen, eine Hintertür in die iCloud einzubauen. Ein Gericht zwingt das Ministerium dazu, das öffentlich zuzugeben."
 },
 {
 "id": "17be089684f9",
@@ -57,17 +167,6 @@
 "topic": "Welt",
 "date": "2026-11-19T19:09:01+00:00",
 "sum": "Der westliche Blick auf unbekannte Kulturen verändert sich: von Rousseau zum Handyvideo."
-},
-{
-"id": "fb4159e33172",
-"title": "Wirtschaft vor acht vom 19.11.2026",
-"link": "https://www.tagesschau.de/video/video-1686732.html",
-"text": "Wirtschaft vor acht vom 19.11.2026",
-"img": "https://images.tagesschau.de/image/67c49960-9490-48d8-914e-55bdd7131f46/AAABofUybEk/AAABnSSvrFg/16x9-big/sendungsbild-1830130.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Wirtschaft",
-"date": "2026-11-19T19:05:09+00:00",
-"sum": "Wirtschaft vor acht vom 19.11.2026"
 },
 {
 "id": "58e6ff03db1b",
@@ -156,17 +255,6 @@
 "topic": "Tech",
 "date": "2026-11-19T17:55:02+00:00",
 "sum": "Eine magnetische Powerbank von Anker mit Qi2, 15 W und 10.000 mAh ist zum Black Friday bei Amazon so günstig wie noch nie in diesem Jahr. ( Technik/Hardware , Black Friday )"
-},
-{
-"id": "f4b8cb06772c",
-"title": "Rekord an der Wallstreet – Anthropic an der Börse: Fünf Fragen zum Handelsstart",
-"link": "https://www.srf.ch/news/wirtschaft/rekord-an-der-wallstreet-anthropic-an-der-boerse-fuenf-fragen-zum-handelsstart",
-"text": "Es ist der grösste Börsengang der Geschichte: Was man zum Handelsstart des KI-Riesen Anthropic in New York wissen muss.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b7e6dc.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-19T17:54:26+00:00",
-"sum": "Es ist der grösste Börsengang der Geschichte: Was man zum Handelsstart des KI-Riesen Anthropic in New York wissen muss."
 },
 {
 "id": "666e238c2c13",
@@ -620,28 +708,6 @@
 "sum": "In Schipkau in Brandenburg liefert die weltweit höchste Windkraftanlage nun Strom. Weitere sind schon in Planung, 2030 soll die Serienfertigung beginnen."
 },
 {
-"id": "04ac8d0de926",
-"title": "ATP Finals in Turin – Shelton wahrt Chance auf Halbfinaleinzug",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-shelton-wahrt-chance-auf-halbfinaleinzug",
-"text": "Ben Shelton gewinnt sein letztes Gruppenspiel an den ATP gegen Rafael Jodar in zwei Sätzen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/921209.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-19T15:38:40+00:00",
-"sum": "Ben Shelton gewinnt sein letztes Gruppenspiel an den ATP gegen Rafael Jodar in zwei Sätzen."
-},
-{
-"id": "aa184eb9ce6f",
-"title": "DDR6-Arbeitsspeicher: Höhere Transferraten, breiterer Bus, schmalere Module",
-"link": "https://www.heise.de/news/DDR6-Arbeitsspeicher-Hoehere-Transferraten-breiterer-Bus-schmalere-Module-11531064.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das Industriegremium JEDEC meldet eine „Vorschau“ auf DDR6-SDRAM. Damit bestückte Speichermodule werden kaum breiter als heutige SO-DIMMs, aber viel schneller.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-19T15:36:00+00:00",
-"sum": "Das Industriegremium JEDEC meldet eine „Vorschau“ auf DDR6-SDRAM. Damit bestückte Speichermodule werden kaum breiter als heutige SO-DIMMs, aber viel schneller."
-},
-{
 "id": "bba2f739d598",
 "title": "Der Oberschenkel zwickt – Medien: Grünes Licht für angeschlagenen Alcaraz",
 "link": "https://www.srf.ch/sport/tennis/atp-tour/der-oberschenkel-zwickt-medien-gruenes-licht-fuer-angeschlagenen-alcaraz",
@@ -761,17 +827,6 @@
 "topic": "Sport",
 "date": "2026-11-19T14:36:17+00:00",
 "sum": "Die Doppelspezialistin feiert ihr BJKC-Debüt – mit 29 Jahren. Wieso sie dem Einzel den Rücken kehrte."
-},
-{
-"id": "a9a2ca36d63f",
-"title": "MELDUNGEN WIRTSCHAFT - BASF gibt Übernahmepläne für Evonik auf +++ Deutsche Bundesregierung einigt sich mit Unicredit über Übernahme der Commerzbank",
-"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
-"text": "Die neuesten Meldungen aus der Wirtschaft.",
-"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-19T14:36:10+00:00",
-"sum": "Die neuesten Meldungen aus der Wirtschaft."
 },
 {
 "id": "15824d3732bb",
@@ -912,7 +967,7 @@
 "text": "Unternehmen und Behörden sollen durch eine Beteiligung der Telekom am französischen Start-up Mistral mit \"vertrauenswürdiger KI aus Europa\" versorgt werden. Der Rekord-Börsengang von Anthropic stabilisiert derweil den DAX.",
 "img": "https://images.tagesschau.de/image/ebe22df9-417a-4157-91a6-3c6f17678345/AAABofOpHS4/AAABnSSvrFg/16x9-big/mistral-104.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-19T12:57:07+00:00",
 "sum": "Unternehmen und Behörden sollen durch eine Beteiligung der Telekom am französischen Start-up Mistral mit \"vertrauenswürdiger KI aus Europa\" versorgt werden. Der Rekord-Börsengang von Anthropic stabilisiert derweil den DAX."
 },
@@ -959,17 +1014,6 @@
 "topic": "Welt",
 "date": "2026-11-19T11:48:04+00:00",
 "sum": "Der Internationale Gerichtshof ist überzeugt, Myanmar habe die muslimische Minderheit gezielt auslöschen wollen."
-},
-{
-"id": "38938122bd0b",
-"title": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
-"link": "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html",
-"text": "Russland wirft Frankreich vor, sich mit Soldaten in der Ukraine direkt am Krieg zu beteiligen. Die französische Regierung weist das zurück, bestätigt aber die Anwesenheit von Militärpersonal. Was ist ihre Aufgabe? Von C. Rienäcker.",
-"img": "https://images.tagesschau.de/image/279e1540-bb28-496b-808f-84f620ef8f04/AAABofObQ2k/AAABnSSvrFg/16x9-big/haubitze-caesar-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-19T11:38:46+00:00",
-"sum": "Russland wirft Frankreich vor, sich mit Soldaten in der Ukraine direkt am Krieg zu beteiligen. Die französische Regierung weist das zurück, bestätigt aber die Anwesenheit von Militärpersonal. Was ist ihre Aufgabe? Von C. Rienäcker."
 },
 {
 "id": "19238c75a750",
@@ -1214,17 +1258,6 @@
 "sum": "Silicon Valley-Entwickler träumen von einem digitalen Überwesen - einer \"Superintelligenz\". 11KM über bedrohliche Zukunftsvisionen und was dahintersteckt."
 },
 {
-"id": "3e7dde26f2c3",
-"title": "Frauenfussball-Serie – «Hidden Stories»: Alle Folgen im Überblick",
-"link": "https://www.srf.ch/sport/fussball/frauen-fussball/frauenfussball-serie-hidden-stories-alle-folgen-im-ueberblick-2",
-"text": "Akteurinnen aus dem Fussball verraten uns ihre ganz persönlichen Geschichten.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a4fb6e.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-19T07:44:46+00:00",
-"sum": "Akteurinnen aus dem Fussball verraten uns ihre ganz persönlichen Geschichten."
-},
-{
 "id": "55e90c15144b",
 "title": "Jugendstreik – Jung, politisch, unzufrieden: Europas Jugend rebelliert",
 "link": "https://www.srf.ch/news/international/jugendstreik-jung-politisch-unzufrieden-europas-jugend-rebelliert",
@@ -1443,17 +1476,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-19T01:22:18+00:00",
 "sum": "Mit einem Einstandspreis von 83 Dollar übertrifft das KI-Unternehmen die Prognosen deutlich. Anthropic verkauft zudem deutlich mehr Aktien als angekündigt. Neun wichtige Fragen und Antworten zum vielleicht grössten Börsengang aller Zeiten."
-},
-{
-"id": "be95a1044fce",
-"title": "ATP Finals in Turin – Auch gegen Medwedew makellos: Alcaraz im Halbfinal",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-in-turin-auch-gegen-medwedew-makellos-alcaraz-im-halbfinal",
-"text": "Der Spanier gewinnt bei den ATP Finals erneut ohne Satzverlust. Weil auch Tiafoe siegt, ist Alcaraz vorzeitig weiter.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6390b5.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-18T21:29:28+00:00",
-"sum": "Der Spanier gewinnt bei den ATP Finals erneut ohne Satzverlust. Weil auch Tiafoe siegt, ist Alcaraz vorzeitig weiter."
 },
 {
 "id": "c17db9e47886",
