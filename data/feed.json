@@ -1,8 +1,96 @@
 {
-"updated": "2026-11-20T21:50:49+00:00",
+"updated": "2026-11-21T03:15:12+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "b37f7b315a1b",
+"title": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
+"link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
+"text": "Krywyj Rih ist die Heimatstadt des ukrainischen Präsidenten Selenskyj. Nun wurde die Industriestadt erneut mit ballistischen Raketen beschossen. Eine Rakete schlug demnach nahe Wohnhäusern und einem Restaurant ein.",
+"img": "https://images.tagesschau.de/image/9b3f1d60-628a-4f5d-bb7f-caa6b22aee9a/AAABofv5kMM/AAABnSSvrFg/16x9-big/ukraine-krywyj-rih-108.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-21T02:39:59+00:00",
+"sum": "Krywyj Rih ist die Heimatstadt des ukrainischen Präsidenten Selenskyj. Nun wurde die Industriestadt erneut mit ballistischen Raketen beschossen. Eine Rakete schlug demnach nahe Wohnhäusern und einem Restaurant ein."
+},
+{
+"id": "83db1d8d5e20",
+"title": "Jugendliche erneut zu Tausenden auf den Strassen",
+"link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+"text": "Zehntausende junge Menschen haben am Freitag friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus.",
+"img": "https://images.tagesschau.de/image/2c703d3c-7472-41bf-bb2d-e59b13301821/AAABofv4RzI/AAABnSSvrFg/16x9-big/jugendproteste-120.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-21T02:38:36+00:00",
+"sum": "Zehntausende junge Menschen haben am Freitag friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus."
+},
+{
+"id": "2d7419a54286",
+"title": "Die KI-Branche zieht einen weiteren rabenschwarzen Börsentag ein: Nvidia verliert 14 Prozent an Marktwert",
+"link": "https://www.nzz.ch/wirtschaft/die-ki-branche-zieht-einen-weiteren-rabenschwarzen-boersentag-ein-nvidia-verliert-14-prozent-an-marktwert-ld.10070689",
+"text": "Auch Anthropic wird am zweiten Tag nach seinem erfolgreichen IPO abgestraft. Die Sorgen an der Börse wiegen schwer, dass die KI-Unternehmen niemals so profitabel werden könnten, wie man sich das erhofft.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/19/6c4c125a-83d9-4e7f-87ea-1712f1ce047a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1825,1825,x373,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-21T01:13:58+00:00",
+"sum": "Auch Anthropic wird am zweiten Tag nach seinem erfolgreichen IPO abgestraft. Die Sorgen an der Börse wiegen schwer, dass die KI-Unternehmen niemals so profitabel werden könnten, wie man sich das erhofft."
+},
+{
+"id": "f13af0b2a710",
+"title": "National League am Freitag – Bern und Langnau mit Heimsiegen – Zug im Torrausch",
+"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-bern-und-langnau-mit-heimsiegen-zug-im-torrausch",
+"text": "In der National League feiern Bern, Zug, Langnau und Freiburg Heimsiege.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a56ec7b.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-20T22:45:47+00:00",
+"sum": "In der National League feiern Bern, Zug, Langnau und Freiburg Heimsiege."
+},
+{
+"id": "8dd187bad5b0",
+"title": "Europaweite Demonstrationen – Von Prag bis London: Die Jugend geht auf die Strasse",
+"link": "https://www.srf.ch/news/international/europaweite-demonstrationen-von-prag-bis-london-die-jugend-geht-auf-die-strasse",
+"text": "Junge Menschen protestieren gegen Aufrüstung und Krieg und setzen sich für eine lebenswerte Zukunft ein.",
+"img": "https://www.srf.ch/static/cms/images//320ws/2f0328.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-20T22:44:52+00:00",
+"sum": "Junge Menschen protestieren gegen Aufrüstung und Krieg und setzen sich für eine lebenswerte Zukunft ein."
+},
+{
+"id": "c8c05d893cea",
+"title": "Monatelanges Out befürchtet – Kompany und Eberl bestätigen: Kane erleidet Syndesmosebandriss",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/monatelanges-out-befuerchtet-kompany-und-eberl-bestaetigen-kane-erleidet-syndesmosebandriss",
+"text": "Bayerns Super-Stürmer Harry Kane muss im Heimspiel gegen Köln schon früh verletzt raus. Die Diagnose ist brutal.",
+"img": "https://www.srf.ch/static/cms/images//320ws/e3f679.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-20T22:34:36+00:00",
+"sum": "Bayerns Super-Stürmer Harry Kane muss im Heimspiel gegen Köln schon früh verletzt raus. Die Diagnose ist brutal."
+},
+{
+"id": "15a201c0bd9a",
+"title": "«Arena» zu Klima – Bundesrat Rösti: «Ich würde dieser Konferenz die Note 4,5 geben»",
+"link": "https://www.srf.ch/news/schweiz/arena-zu-klima-bundesrat-roesti-ich-wuerde-dieser-konferenz-die-note-4-5-geben",
+"text": "An der Klimakonferenz verhandelt die Welt über den Ausstieg aus den fossilen Energien. Das gibt auch im Inland zu reden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1e0241a.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-20T22:24:05+00:00",
+"sum": "An der Klimakonferenz verhandelt die Welt über den Ausstieg aus den fossilen Energien. Das gibt auch im Inland zu reden."
+},
+{
+"id": "df6089f2fd8f",
+"title": "Bundesliga: 10. Spieltag – Bayern-Schock: Kane und Olise verletzt – nur 1:1 gegen Köln",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-10-spieltag-bayern-schock-kane-und-olise-verletzt-nur-1-1-gegen-koeln",
+"text": "Bayern München patzt zum Auftakt der 10. Bundesliga-Runde. Zudem sorgt sich der FCB um Harry Kane und Michael Olise.",
+"img": "https://www.srf.ch/static/cms/images//320ws/dea897.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-20T22:14:20+00:00",
+"sum": "Bayern München patzt zum Auftakt der 10. Bundesliga-Runde. Zudem sorgt sich der FCB um Harry Kane und Michael Olise."
+},
 {
 "id": "762f5b196e7a",
 "title": "Schweizweiter Jugendstreik – Jugend-Demos: Tausende auf der Strasse, wenige Zwischenfälle",
@@ -24,17 +112,6 @@
 "topic": "Schweiz",
 "date": "2026-11-20T21:41:20+00:00",
 "sum": "Zwei Hardliner, keine Romande: Die SVP nimmt den Protest in Kauf und könnte damit letztlich durchkommen."
-},
-{
-"id": "df6089f2fd8f",
-"title": "Bundesliga: 10. Spieltag – Bayern-Schock: Kane und Olise verletzt – nur 1:1 gegen Köln",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-10-spieltag-bayern-schock-kane-und-olise-verletzt-nur-1-1-gegen-koeln",
-"text": "Bayern München patzt zum Auftakt der 10. Bundesliga-Runde. Zudem sorgt sich der FCB um Harry Kane und Michael Olise.",
-"img": "https://www.srf.ch/static/cms/images//320ws/dea897.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-20T21:41:03+00:00",
-"sum": "Bayern München patzt zum Auftakt der 10. Bundesliga-Runde. Zudem sorgt sich der FCB um Harry Kane und Michael Olise."
 },
 {
 "id": "f85813035b14",
@@ -79,17 +156,6 @@
 "topic": "Sport",
 "date": "2026-11-20T21:23:19+00:00",
 "sum": "Der FC Winterthur verliert das Verfolgerduell mit Tabellennachbar Yverdon 0:2 – bei Luca Zuffis 200. Einsatz."
-},
-{
-"id": "f13af0b2a710",
-"title": "National League am Freitag – Bern und Langnau mit Heimsiegen – Zug im Torrausch",
-"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-bern-und-langnau-mit-heimsiegen-zug-im-torrausch",
-"text": "In der National League feiern Bern, Zug, Langnau und Freiburg Heimsiege.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a56ec7b.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-20T21:15:40+00:00",
-"sum": "In der National League feiern Bern, Zug, Langnau und Freiburg Heimsiege."
 },
 {
 "id": "b67ea488d153",
@@ -178,17 +244,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-20T19:58:08+00:00",
 "sum": "BMW und Audi in Bayern, Werften im Norden: Mehr als Hunderttausend Beschäftigte haben für 24 Stunden die Arbeit niedergelegt. Ein neues Gesprächsangebot hat die Streikwelle vorerst nicht gestoppt. In der kommenden Woche geht es weiter."
-},
-{
-"id": "8dd187bad5b0",
-"title": "Europaweite Demonstrationen – Von Prag bis London: Die Jugend geht auf die Strasse",
-"link": "https://www.srf.ch/news/international/europaweite-demonstrationen-von-prag-bis-london-die-jugend-geht-auf-die-strasse",
-"text": "Junge Menschen protestieren gegen Aufrüstung und Krieg und setzen sich für eine lebenswerte Zukunft ein.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2f0328.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-20T19:39:27+00:00",
-"sum": "Junge Menschen protestieren gegen Aufrüstung und Krieg und setzen sich für eine lebenswerte Zukunft ein."
 },
 {
 "id": "bb9a5e0afb77",
@@ -323,17 +378,6 @@
 "sum": "Sechs Jahre nach dem Brexit rücken Grossbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Grossbritanniens in die EU. Von Sarah López."
 },
 {
-"id": "ba7711a5a366",
-"title": "D-You-Wallet: Warten auf Weihnachten",
-"link": "https://www.heise.de/news/D-You-Wallet-Warten-auf-Weihnachten-11533284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Bundesdigitalminister Wildberger vertraut beim Start der D-You-Wallet auf die BSI-Sicherheitseinschätzung bis Weihnachten.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-20T17:42:00+00:00",
-"sum": "Bundesdigitalminister Wildberger vertraut beim Start der D-You-Wallet auf die BSI-Sicherheitseinschätzung bis Weihnachten."
-},
-{
 "id": "0e8c2f8c3fcd",
 "title": "Mozilla genervt: Warum es immer noch keinen richtigen Firefox für iOS gibt",
 "link": "https://www.heise.de/news/Mozilla-genervt-Warum-es-immer-noch-keinen-richtigen-Firefox-fuer-iOS-gibt-11533296.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -343,6 +387,17 @@
 "topic": "Tech",
 "date": "2026-11-20T17:42:00+00:00",
 "sum": "In der EU muss Apple eigentlich Browser mit eigener Engine aufs iPhone lassen. Praktisch verhindern die Vorgaben des Konzerns das jedoch, kritisiert Mozilla."
+},
+{
+"id": "ba7711a5a366",
+"title": "D-You-Wallet: Warten auf Weihnachten",
+"link": "https://www.heise.de/news/D-You-Wallet-Warten-auf-Weihnachten-11533284.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Bundesdigitalminister Wildberger vertraut beim Start der D-You-Wallet auf die BSI-Sicherheitseinschätzung bis Weihnachten.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-20T17:42:00+00:00",
+"sum": "Bundesdigitalminister Wildberger vertraut beim Start der D-You-Wallet auf die BSI-Sicherheitseinschätzung bis Weihnachten."
 },
 {
 "id": "6643b96bf2e8",
@@ -508,17 +563,6 @@
 "topic": "Welt",
 "date": "2026-11-20T16:22:30+00:00",
 "sum": "Seit dem Angriff Russlands unterstützt Deutschland die Ukraine - insgesamt mit mehr als 100 Milliarden Euro. Ausgaben, die sich auszahlen könnten. Kanzler Merz sieht - trotz des Krieges - positive Effekte für die deutsche Wirtschaft."
-},
-{
-"id": "448404cb518c",
-"title": "Polen wirft Russland gezielte Provokation vor",
-"link": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html",
-"text": "Mehrere Flugkörper sind in den polnischen Luftraum eingedrungen - nach Einschätzung der Regierung eine gezielte Provokation Russlands. Sie könnte in Zusammenhang mit einer Übung der Ukraine-Unterstützer stehen, die derzeit in Polen stattfindet.",
-"img": "https://images.tagesschau.de/image/f4403ee8-c08e-4ac1-80e5-9ad3a537976a/AAABofjeheU/AAABnSSvrFg/16x9-big/polizei-polen-110.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-20T16:22:28+00:00",
-"sum": "Mehrere Flugkörper sind in den polnischen Luftraum eingedrungen - nach Einschätzung der Regierung eine gezielte Provokation Russlands. Sie könnte in Zusammenhang mit einer Übung der Ukraine-Unterstützer stehen, die derzeit in Polen stattfindet."
 },
 {
 "id": "54b476d15479",
@@ -697,17 +741,6 @@
 "sum": "Lokale Zeitpläne, Radar-Präsenzsensor und potenzialfreier Kontakt: Wie sich das nur 40 Euro teure Sonoff Core an einer wassergeführten Fussbodenheizung schlägt."
 },
 {
-"id": "f4614a3fc5ce",
-"title": "Selbsttest im Blindflug: Wie GIMP seine GUI bändigen will",
-"link": "https://www.heise.de/news/GIMP-fuehrt-automatisierte-GUI-Tests-ein-11533074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Die GIMP-Entwickler testen die Bedienoberfläche nun automatisiert auf CI-Servern per Headless-Desktop und Screenreader-Schnittstelle.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-20T15:00:00+00:00",
-"sum": "Die GIMP-Entwickler testen die Bedienoberfläche nun automatisiert auf CI-Servern per Headless-Desktop und Screenreader-Schnittstelle."
-},
-{
 "id": "7d49eadaec94",
 "title": "Gaming-PC für 280 Euro | c't 3003",
 "link": "https://www.heise.de/news/SteamDeck-fuer-die-Hosentasche-DroidDeck-bringt-Steam-auf-Android-11532341.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -717,6 +750,17 @@
 "topic": "Tech",
 "date": "2026-11-20T15:00:00+00:00",
 "sum": "Gaming-PC für unter 300 Euro: DroidDeck und Retroid Pocket Nova im c't-3003-Test."
+},
+{
+"id": "f4614a3fc5ce",
+"title": "Selbsttest im Blindflug: Wie GIMP seine GUI bändigen will",
+"link": "https://www.heise.de/news/GIMP-fuehrt-automatisierte-GUI-Tests-ein-11533074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die GIMP-Entwickler testen die Bedienoberfläche nun automatisiert auf CI-Servern per Headless-Desktop und Screenreader-Schnittstelle.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-20T15:00:00+00:00",
+"sum": "Die GIMP-Entwickler testen die Bedienoberfläche nun automatisiert auf CI-Servern per Headless-Desktop und Screenreader-Schnittstelle."
 },
 {
 "id": "7199b45377e5",
@@ -805,17 +849,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-20T14:00:00+00:00",
 "sum": "Der »Rødhals-Mann« erlebte wohl persönlich den Einzug der Landwirtschaft im heutigen Dänemark: An seinen Knochen lässt sich ablesen, wie die Zeit der Jäger und Sammler endete."
-},
-{
-"id": "670018c0c62d",
-"title": "Gespräche mit Russland ja - aber wo?",
-"link": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html",
-"text": "Gesprächsbereit, aber nicht um jeden Preis: Verteidigungsminister Pistorius hat das Angebot Russlands für ein Treffen mit den Europäern begrüsst. Moskau käme dafür aber nicht infrage. Zudem bezweifelt er eine ehrliche Verhandlungsbereitschaft.",
-"img": "https://images.tagesschau.de/image/45ff9437-bd7d-4219-a362-32251b531299/AAABofkJ6zc/AAABnSSvrFg/16x9-big/boris-pistorius-214.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-20T13:59:25+00:00",
-"sum": "Gesprächsbereit, aber nicht um jeden Preis: Verteidigungsminister Pistorius hat das Angebot Russlands für ein Treffen mit den Europäern begrüsst. Moskau käme dafür aber nicht infrage. Zudem bezweifelt er eine ehrliche Verhandlungsbereitschaft."
 },
 {
 "id": "4579fd9da3f1",
@@ -1058,17 +1091,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-20T09:12:00+00:00",
 "sum": "Wie sicher ist KI? Das diskutieren Politik, Tech-Branche und Wissenschaft immer heftiger. Ein Grund: der Hugging-Face-Vorfall. Was steckt dahinter? 🎙️"
-},
-{
-"id": "88caa5eee0be",
-"title": "Krankenkassenprämien – Veraltete Prämienregionen: Die Ungerechtigkeit bleibt",
-"link": "https://www.srf.ch/sendungen/kassensturz-espresso/espresso/krankenkassenpraemien-veraltete-praemienregionen-die-ungerechtigkeit-bleibt",
-"text": "Die Einteilung der Prämienregionen in den Kantonen ist über 20 Jahre alt. Dennoch wird sie nicht angepasst.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f6eebe.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-20T08:36:47+00:00",
-"sum": "Die Einteilung der Prämienregionen in den Kantonen ist über 20 Jahre alt. Dennoch wird sie nicht angepasst."
 },
 {
 "id": "228af3fe72c1",
@@ -1478,17 +1500,6 @@
 "sum": "Der norwegische Staatsfonds verkauft den Zürcher Bürokomplex Üetlihof für 850 Millionen Franken an mehrere Immobilienfonds von UBS Asset Management. Die Grossbank bleibt dem Standort als Mieterin langfristig treu."
 },
 {
-"id": "488481a60a1a",
-"title": "Billie Jean King Cup – Karamoko: Emotionen und Siege teilen – auch in Thailand?",
-"link": "https://www.srf.ch/sport/tennis/billie-jean-king-cup/billie-jean-king-cup-karamoko-emotionen-und-siege-teilen-auch-in-thailand",
-"text": "Die Doppelspezialistin feiert ihr BJKC-Debüt – mit 29 Jahren. Wieso sie dem Einzel den Rücken kehrte.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e2aa14.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-19T14:36:17+00:00",
-"sum": "Die Doppelspezialistin feiert ihr BJKC-Debüt – mit 29 Jahren. Wieso sie dem Einzel den Rücken kehrte."
-},
-{
 "id": "15824d3732bb",
 "title": "Recherche zu Billigproduktion – Hilferuf im Schwangerschaftstest führt zu Arbeitslager in China",
 "link": "https://www.srf.ch/news/dialog/recherche-zu-billigproduktion-hilferuf-im-schwangerschaftstest-fuehrt-zu-arbeitslager-in-china",
@@ -1764,17 +1775,6 @@
 "sum": "Das KI-Unternehmen wird von den Geschwistern Dario und Daniela Amodei geführt. Schicksalsschläge treiben die beiden an."
 },
 {
-"id": "157d4fd38a21",
-"title": "Ukraine-Hilfe: Die EU erwartet von der wohlhabenden Schweiz mehr Unterstützung",
-"link": "https://www.nzz.ch/wirtschaft/ukraine-hilfe-die-eu-erwartet-von-der-wohlhabenden-schweiz-mehr-unterstuetzung-ld.10067645",
-"text": "Die Ukraine braucht dringend Geld. Die EU will dem Land mit einem neuen Darlehen beistehen. Staaten mit einem Triple-A-Rating sollen ihr Engagement ebenfalls erhöhen. Das zielt eindeutig auch auf die Schweiz.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/18/e14f4fff-e18a-4de3-bbc3-5fa4e9576aaf.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3465,3465,x866,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-18T15:32:24+00:00",
-"sum": "Die Ukraine braucht dringend Geld. Die EU will dem Land mit einem neuen Darlehen beistehen. Staaten mit einem Triple-A-Rating sollen ihr Engagement ebenfalls erhöhen. Das zielt eindeutig auch auf die Schweiz."
-},
-{
 "id": "4a80866984e6",
 "title": "Studie: Diese Themen machen Kindern und Jugendlichen Angst",
 "link": "https://www.tagesschau.de/wissen/copsy-studie-2026-100.html",
@@ -1894,17 +1894,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-18T04:14:00+00:00",
 "sum": "Beim Fehlstart einer Rakete verliert die United Launch Alliance vierzig kommerzielle Satelliten. Die Folgen des Unglücks sind jedoch weitaus gravierender."
-},
-{
-"id": "06ab28518827",
-"title": "Nvidia im Umbruch – Nach den Skandalen beginnen bei Nvidia die Aufräumarbeiten",
-"link": "https://www.srf.ch/news/wirtschaft/nvidia-im-umbruch-nach-den-skandalen-beginnen-bei-nvidia-die-aufraeumarbeiten",
-"text": "Nvidia übertrifft mit Geschäftszahlen die Erwartungen. Doch nun folgt die juristische Aufarbeitung der Skandale.",
-"img": "https://www.srf.ch/static/cms/images//320ws/fa5af5.webp",
-"source": "SRF",
-"topic": "Wirtschaft",
-"date": "2026-11-18T00:30:27+00:00",
-"sum": "Nvidia übertrifft mit Geschäftszahlen die Erwartungen. Doch nun folgt die juristische Aufarbeitung der Skandale."
 }
 ]
 }
