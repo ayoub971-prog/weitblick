@@ -1,8 +1,30 @@
 {
-"updated": "2026-11-21T20:33:34+00:00",
+"updated": "2026-11-22T02:16:39+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "557e2a6b5bcd",
+"title": "Klimakonferenz in Antalya: Neuer Entwurf soll den Durchbruch bringen",
+"link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+"text": "Eigentlich sollte die COP31 Freitag enden - doch die fast 200 Staaten ringen in der Türkei weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien. Ein neuer Entwurf stimmt das Gastgeberland optimistisch.",
+"img": "https://images.tagesschau.de/image/86168682-dd57-4d10-8eda-1f1910d9925c/AAABogD3JAQ/AAABnSSvrFg/16x9-big/cop31-120.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-22T01:55:26+00:00",
+"sum": "Eigentlich sollte die COP31 Freitag enden - doch die fast 200 Staaten ringen in der Türkei weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien. Ein neuer Entwurf stimmt das Gastgeberland optimistisch."
+},
+{
+"id": "4213930e2f51",
+"title": "National League am Samstag – SCB nach 14-Tore-Spektakel weiter im Hoch – Kloten besiegt HCD",
+"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-samstag-scb-nach-14-tore-spektakel-weiter-im-hoch-kloten-besiegt-hcd",
+"text": "Biel trifft zuhause gegen Bern 5 Mal und gewinnt dennoch nicht. Kloten bleibt der Davoser Angstgegner und Zug verliert.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a23a2a.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-21T23:46:50+00:00",
+"sum": "Biel trifft zuhause gegen Bern 5 Mal und gewinnt dennoch nicht. Kloten bleibt der Davoser Angstgegner und Zug verliert."
+},
 {
 "id": "ec966b884081",
 "title": "Fussball aus den Topligen – Zuerst Lachen, dann Weinen: PSG-Doué muss nach Tor verletzt raus",
@@ -11,8 +33,63 @@
 "img": "https://www.srf.ch/static/cms/images//320ws/66ed32.webp",
 "source": "SRF",
 "topic": "Sport",
-"date": "2026-11-21T20:23:55+00:00",
+"date": "2026-11-21T22:19:31+00:00",
 "sum": "Hier finden Sie die wichtigsten Meldungen aus Europas Topligen."
+},
+{
+"id": "b681b1f534c0",
+"title": "2:0 zu Hause im Rhône-Derby – Dank Köpfchen den Bann gebrochen: Sion besiegt den Servette-Fluch",
+"link": "https://www.srf.ch/sport/fussball/super-league/2-0-zu-hause-im-rhone-derby-dank-koepfchen-den-bann-gebrochen-sion-besiegt-den-servette-fluch",
+"text": "Erstmals nach über 5 Jahren gewinnt Sion wieder einmal gegen Servette. Zwei Kopfballtore ebnen den Wallisern den Weg.",
+"img": "https://www.srf.ch/static/cms/images//320ws/edffc4.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-21T21:50:19+00:00",
+"sum": "Erstmals nach über 5 Jahren gewinnt Sion wieder einmal gegen Servette. Zwei Kopfballtore ebnen den Wallisern den Weg."
+},
+{
+"id": "3d9cded32643",
+"title": "14. Runde in der Super League – Reaktion auf 0:5-Klatsche: Lugano schlägt GC knapp dank Jokern",
+"link": "https://www.srf.ch/sport/fussball/super-league/14-runde-in-der-super-league-reaktion-auf-0-5-klatsche-lugano-schlaegt-gc-knapp-dank-jokern",
+"text": "Leader Lugano reagiert auf das 0:5 gegen St. Gallen mit einem 2:1 gegen GC – dank einem Joker-Tor in der 83. Minute.",
+"img": "https://www.srf.ch/static/cms/images//320ws/173114.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-21T21:43:55+00:00",
+"sum": "Leader Lugano reagiert auf das 0:5 gegen St. Gallen mit einem 2:1 gegen GC – dank einem Joker-Tor in der 83. Minute."
+},
+{
+"id": "92f3d0e39992",
+"title": "ATP Finals: Halbfinals – Alcaraz und Zverev spielen um den Titel in Turin",
+"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-halbfinals-alcaraz-und-zverev-spielen-um-den-titel-in-turin",
+"text": "Carlos Alcaraz schlägt Ben Shelton in 3 Sätzen, Alexander Zverev bezwingt Daniil Medwedew in 2 Durchgängen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d9e0aa.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-21T21:16:45+00:00",
+"sum": "Carlos Alcaraz schlägt Ben Shelton in 3 Sätzen, Alexander Zverev bezwingt Daniil Medwedew in 2 Durchgängen."
+},
+{
+"id": "952f918dcdf6",
+"title": "Die Corona-Pandemie beschleunigte Altersprozesse bei Kindern, Jugendlichen und jungen Erwachsenen",
+"link": "https://www.nzz.ch/wissenschaft/corona-beschleunigt-alterungsprozesse-jugendliche-besonders-betroffen-ld.10056129",
+"text": "Eine neue Studie zeigt: Die ersten zwei Lockdowns führten zu Veränderungen im Erbgut. Der Befund ist der erstmalige biologische Beweis für negative gesundheitliche Auswirkungen der Pandemie.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/20/15f2d289-e6c4-47d0-a899-80d44cc3590a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2678,2678,x683,y1377",
+"source": "NZZ",
+"topic": "Wissenschaft",
+"date": "2026-11-21T20:51:58+00:00",
+"sum": "Eine neue Studie zeigt: Die ersten zwei Lockdowns führten zu Veränderungen im Erbgut. Der Befund ist der erstmalige biologische Beweis für negative gesundheitliche Auswirkungen der Pandemie."
+},
+{
+"id": "7113fae957f1",
+"title": "Von falschen Haaren bis zur Hand an Halle Berrys Taille: E-Mails zeigen die gnadenlose Kontrolle hinter der Marke Roger Federer",
+"link": "https://www.nzz.ch/wirtschaft/von-falschen-haaren-bis-zur-hand-an-halle-berrys-taille-e-mails-zeigen-die-gnadenlose-kontrolle-hinter-der-marke-roger-federer-ld.10067063",
+"text": "Interne Dokumente von Schweiz Tourismus enthüllen den extremen Perfektionismus bei der Inszenierung der Werbe-Ikone – und heikle Freundschaftsdienste der steuerfinanzierten Marketingorganisation.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/19/1ba03823-299b-4f50-bbea-eb25406d058d.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2880,2880,x960,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-21T20:45:00+00:00",
+"sum": "Interne Dokumente von Schweiz Tourismus enthüllen den extremen Perfektionismus bei der Inszenierung der Werbe-Ikone – und heikle Freundschaftsdienste der steuerfinanzierten Marketingorganisation."
 },
 {
 "id": "47b0e3ceea05",
@@ -90,17 +167,6 @@
 "topic": "Welt",
 "date": "2026-11-21T19:54:06+00:00",
 "sum": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von O. Chladkova."
-},
-{
-"id": "3d9cded32643",
-"title": "14. Runde in der Super League – Reaktion auf 0:5-Klatsche: Lugano schlägt GC knapp dank Jokern",
-"link": "https://www.srf.ch/sport/fussball/super-league/14-runde-in-der-super-league-reaktion-auf-0-5-klatsche-lugano-schlaegt-gc-knapp-dank-jokern",
-"text": "Leader Lugano reagiert auf das 0:5 gegen St. Gallen mit einem 2:1 gegen GC – dank einem Joker-Tor in der 83. Minute.",
-"img": "https://www.srf.ch/static/cms/images//320ws/173114.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-21T19:16:23+00:00",
-"sum": "Leader Lugano reagiert auf das 0:5 gegen St. Gallen mit einem 2:1 gegen GC – dank einem Joker-Tor in der 83. Minute."
 },
 {
 "id": "b67e65ab9ba5",
@@ -257,17 +323,6 @@
 "sum": "Schloss Wildenstein bei Bubendorf gehört dem Kanton Baselland. Bespielt wird es von einem Verein mit Nachwuchssorgen."
 },
 {
-"id": "f26fb1704745",
-"title": "ATP Finals: Halbfinals – Für einmal kein Schaulaufen: Alcaraz kämpft sich in den Final",
-"link": "https://www.srf.ch/sport/tennis/atp-tour/atp-finals-halbfinals-fuer-einmal-kein-schaulaufen-alcaraz-kaempft-sich-in-den-final",
-"text": "Carlos Alcaraz schlägt Ben Shelton in 3 Sätzen und zieht an den ATP Finals in Turin in ins Endspiel ein.",
-"img": "https://www.srf.ch/static/cms/images//320ws/d9e0aa.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-21T15:52:50+00:00",
-"sum": "Carlos Alcaraz schlägt Ben Shelton in 3 Sätzen und zieht an den ATP Finals in Turin in ins Endspiel ein."
-},
-{
 "id": "a448c332c239",
 "title": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
 "link": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
@@ -299,17 +354,6 @@
 "topic": "Sport",
 "date": "2026-11-21T15:13:32+00:00",
 "sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
-},
-{
-"id": "695fd711bc13",
-"title": "MotoGP in Portugal – Drama in Portimao: Marquez stürzt auf dem Weg zum Titel",
-"link": "https://www.srf.ch/sport/motorsport/motorrad/motogp-in-portugal-drama-in-portimao-marquez-stuerzt-auf-dem-weg-zum-titel",
-"text": "Der Spanier verpasst beim MotoGP-Sprint in Portugal durch einen unnötigen Sturz die vorzeitige Krönung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e546086.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-21T15:11:31+00:00",
-"sum": "Der Spanier verpasst beim MotoGP-Sprint in Portugal durch einen unnötigen Sturz die vorzeitige Krönung."
 },
 {
 "id": "614f4e9690ad",
@@ -725,7 +769,7 @@
 "text": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar.",
 "img": "https://images.tagesschau.de/image/2dc21d0a-7742-47b7-b951-a2b950e8014f/AAABof1N474/AAABnSSvrFg/16x9-big/gta-174.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-21T09:39:17+00:00",
 "sum": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar."
 },
@@ -860,17 +904,6 @@
 "topic": "Tech",
 "date": "2026-11-21T07:35:00+00:00",
 "sum": "Wie lässt sich die Cyberresilienz von Kliniken testen und bewerten? Ein Ansatz berücksichtigt das Zusammenspiel von Software, Infrastruktur und Mensch."
-},
-{
-"id": "cb5c7af24299",
-"title": "Kein Sieg seit über 5 Jahren – Sion hat verlernt, gegen Servette zu gewinnen",
-"link": "https://www.srf.ch/sport/fussball/super-league/kein-sieg-seit-ueber-5-jahren-sion-hat-verlernt-gegen-servette-zu-gewinnen",
-"text": "Die Walliser mischen in der Super League vorne mit. Im SRF-Livespiel am Samstag geht es aber gegen den «Angstgegner».",
-"img": "https://www.srf.ch/static/cms/images//320ws/aa5f03.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-21T07:32:45+00:00",
-"sum": "Die Walliser mischen in der Super League vorne mit. Im SRF-Livespiel am Samstag geht es aber gegen den «Angstgegner»."
 },
 {
 "id": "691c678253d3",
@@ -1531,17 +1564,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-19T18:43:51+00:00",
 "sum": "Die Vorschläge des Bundesrates für die Reform des Gesetzes zur Bankenstabilität stossen auf harsche Kritik. Der UBS fehlt die Verhältnismässigkeit, der Bankenverband hält sie für unausgewogen."
-},
-{
-"id": "d6e79e35e3b5",
-"title": "Es ist der grösste Börsengang aller Zeiten: Anthropic übertrifft alle Prognosen und startet mit einem Kursfeuerwerk",
-"link": "https://www.nzz.ch/wirtschaft/anthropic-uebertrifft-alle-prognosen-und-startet-mit-einem-kursfeuerwerk-an-der-boerse-ld.10068793",
-"text": "Mit einem Eröffnungskurs von 111.50 Dollar übertrifft Anthropic den Ausgabepreis um 34 Prozent. Ob Anthropic den hohen Erwartungen tatsächlich gerecht wird, ist damit noch nicht gesagt.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/19/f2e13845-74aa-4fd6-b9fe-dda2643ce222.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1483,1483,x0,y350",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-19T17:04:33+00:00",
-"sum": "Mit einem Eröffnungskurs von 111.50 Dollar übertrifft Anthropic den Ausgabepreis um 34 Prozent. Ob Anthropic den hohen Erwartungen tatsächlich gerecht wird, ist damit noch nicht gesagt."
 },
 {
 "id": "f2e5458da989",
