@@ -1,8 +1,217 @@
 {
-"updated": "2026-11-23T20:17:01+00:00",
+"updated": "2026-11-24T04:51:29+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "771262293c24",
+"title": "Digitalsteuer, Frequenzen und Elektroschrott sollen EU-Ambitionen finanzieren",
+"link": "https://www.heise.de/news/Digitalsteuer-Frequenzen-und-Elektroschrott-sollen-EU-Ambitionen-finanzieren-11535458.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die EU soll mehr tun. Das Geld dafür soll aus neuen Steuern und von den Mitgliedsstaaten kommen. Ratspräsident Costa hat Ideen, darunter Frequenzgebühren.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-24T04:45:00+00:00",
+"sum": "Die EU soll mehr tun. Das Geld dafür soll aus neuen Steuern und von den Mitgliedsstaaten kommen. Ratspräsident Costa hat Ideen, darunter Frequenzgebühren."
+},
+{
+"id": "530b89c0d268",
+"title": "Schweizer Batterien sollen in der Ukraine Leben retten",
+"link": "https://www.nzz.ch/wirtschaft/schweizer-batterien-sollen-in-der-ukraine-leben-retten-ld.10061634",
+"text": "Das Startup Emost hat Stromspeicher für Baustellen entwickelt. Nun liefert es mit Bundeshilfe 150 Geräte ins Kriegsgebiet. Sie versorgen dort bei Stromausfällen Spitäler, Schutzräume und Schulen.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/23/964a76e4-5c13-4730-b5df-8f1e5ff66dae.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2261,2261,x852,y141",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-24T04:30:00+00:00",
+"sum": "Das Startup Emost hat Stromspeicher für Baustellen entwickelt. Nun liefert es mit Bundeshilfe 150 Geräte ins Kriegsgebiet. Sie versorgen dort bei Stromausfällen Spitäler, Schutzräume und Schulen."
+},
+{
+"id": "f06c83030e6a",
+"title": "Die polnische Industriestadt Lodz lockt westliche Konzerne für Auslagerungen – nun gehen ihr die Arbeitskräfte aus",
+"link": "https://www.nzz.ch/wirtschaft/lodz-eine-alte-industriestadt-erfindet-sich-neu-ld.10059976",
+"text": "Nach dem Niedergang der Textilindustrie erfand sich die Metropole als beliebter Standort für Industrieproduktion und Dienstleistungszentren neu. Doch Abwanderung und Überalterung drohen die Entwicklung zu bremsen.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/17/eba12ebb-9b40-4d6b-8864-85f3a252d5c0.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5250,5250,x875,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-24T04:30:00+00:00",
+"sum": "Nach dem Niedergang der Textilindustrie erfand sich die Metropole als beliebter Standort für Industrieproduktion und Dienstleistungszentren neu. Doch Abwanderung und Überalterung drohen die Entwicklung zu bremsen."
+},
+{
+"id": "2750cc52e3dd",
+"title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+"link": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+"text": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehören zufolge am Dienstagmorgen in Sükoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle.",
+"img": "https://images.tagesschau.de/image/247cc5aa-27b9-4acb-9e72-d6b8af409c6f/AAABogu1DBY/AAABnSSvrFg/16x9-big/ulleung-suedkorea-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T04:23:38+00:00",
+"sum": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehören zufolge am Dienstagmorgen in Sükoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle."
+},
+{
+"id": "f227a64e3788",
+"title": "Nvidia-Affäre: USA verhängen Handelsverbot über Megaspeed",
+"link": "https://www.heise.de/news/Nvidia-Affaere-USA-verhaengen-Handelsverbot-ueber-Megaspeed-11535434.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Megaspeed soll Nvidia-Chips für China organisiert haben. Spät reagieren die USA mit einem Handelsembargo. Das trifft auch eine Alibaba-Tochter.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-24T04:15:00+00:00",
+"sum": "Megaspeed soll Nvidia-Chips für China organisiert haben. Spät reagieren die USA mit einem Handelsembargo. Das trifft auch eine Alibaba-Tochter."
+},
+{
+"id": "75e0824e28a0",
+"title": "Kriegsfolgen im Gazastreifen: Verseuchtes Wasser, Gift in den Trümmern",
+"link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html",
+"text": "Auf den Strassen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so Oxfam. Von Julio Segador.",
+"img": "https://images.tagesschau.de/image/64b30784-df0a-4f90-adfc-2e0ac931d913/AAABogu-CfE/AAABnSSvrFg/16x9-big/gazastreifen-364.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T04:09:27+00:00",
+"sum": "Auf den Strassen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so Oxfam. Von Julio Segador."
+},
+{
+"id": "27b1f1f3b58c",
+"title": "Deutsche Dokumentarfilmer gewinnen Internationalen Emmy",
+"link": "https://www.tagesschau.de/kultur/internationaler-emmy-mrf-ard-100.html",
+"text": "Eine Mischung aus True Crime und Roadmovie: Für ihre ARD-Dokumentation \"Der talentierte Mr. F.\" über einen Film-Dieb haben deutsche Filmemacher den Internationalen Emmy verliehen bekommen.",
+"img": "https://images.tagesschau.de/image/faf62676-101c-4d6e-869d-8bc19103aee1/AAABogtZmiI/AAABnSSvrFg/16x9-big/internationaler-emmy-mrf-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T03:23:18+00:00",
+"sum": "Eine Mischung aus True Crime und Roadmovie: Für ihre ARD-Dokumentation \"Der talentierte Mr. F.\" über einen Film-Dieb haben deutsche Filmemacher den Internationalen Emmy verliehen bekommen."
+},
+{
+"id": "9a0f25667e90",
+"title": "Schweizer Büro in Nordkorea – Kim Yo Jong droht mit Schliessung von diplomatischem Büro",
+"link": "https://www.srf.ch/news/international/schweizer-buero-in-nordkorea-kim-yo-jong-droht-mit-schliessung-von-diplomatischem-buero",
+"text": "Die Schwester von Nordkoreas Machthaber droht wegen Sanktionen mit der Schliessung des Schweizer Büros in Pjöngjang.",
+"img": "https://www.srf.ch/static/cms/images//320ws/59bd0e.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-24T02:58:50+00:00",
+"sum": "Die Schwester von Nordkoreas Machthaber droht wegen Sanktionen mit der Schliessung des Schweizer Büros in Pjöngjang."
+},
+{
+"id": "99caf4e91940",
+"title": "Deutschland baut künftig ukrainische Drohnen",
+"link": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+"text": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffspläne im All mahnte er zur Ruhe.",
+"img": "https://images.tagesschau.de/image/6b7d65a3-66be-4fc7-8ea4-766d8c14ff33/AAABogn92jg/AAABnSSvrFg/16x9-big/pistorius-chmara-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T01:46:30+00:00",
+"sum": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffspläne im All mahnte er zur Ruhe."
+},
+{
+"id": "26681d9c35c9",
+"title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Trump verteidigt die Rückkehr von Huang +++ Demokraten wollen Wiederernennung von Huang untersuchen +++ Megaspeed steht in den USA neu auf schwarzer Liste",
+"link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
+"text": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-24T01:35:58+00:00",
+"sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall."
+},
+{
+"id": "3376eb527dca",
+"title": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
+"link": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+"text": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert. Von J. Barke.",
+"img": "https://images.tagesschau.de/image/bca964b7-f795-49df-a04c-a24ede4f9ee3/AAABogqnvA8/AAABnSSvrFg/16x9-big/elsalvador-haiti-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T00:53:40+00:00",
+"sum": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert. Von J. Barke."
+},
+{
+"id": "f2db8d5becfb",
+"title": "Nvidia macht eine abrupte Kehrtwende und holt Jensen Huang als CEO zurück",
+"link": "https://www.nzz.ch/wirtschaft/jensen-huang-kehrt-als-ceo-zu-nvidia-zurueck-ld.10072449",
+"text": "Der Verwaltungsrat des Chip-Entwicklers spricht sich einstimmig für die Rückkehr des Langzeitchefs aus, der das Unternehmen wegen mehrerer Affären verlassen musste.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/23/e5ec93df-a78e-4c49-9420-3bf28827ebd7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2560,2560,x640,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-23T22:01:24+00:00",
+"sum": "Der Verwaltungsrat des Chip-Entwicklers spricht sich einstimmig für die Rückkehr des Langzeitchefs aus, der das Unternehmen wegen mehrerer Affären verlassen musste."
+},
+{
+"id": "4b0b703ec9e1",
+"title": "Krieg in der Ukraine – Russland-Flagge soll bei Sportevents in der EU verboten werden",
+"link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russland-flagge-soll-bei-sportevents-in-der-eu-verboten-werden",
+"text": "EU-Kommissionspräsidentin von der Leyen hat Vorschläge für das 22. EU-Sanktionspaket gegen Russland präsentiert.",
+"img": "https://www.srf.ch/static/cms/images//320ws/dc0434.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-23T21:52:10+00:00",
+"sum": "EU-Kommissionspräsidentin von der Leyen hat Vorschläge für das 22. EU-Sanktionspaket gegen Russland präsentiert."
+},
+{
+"id": "c0db91fa12b1",
+"title": "Binance-Kryptodiebstahl: USA wollen eine Milliarde US-Dollar zurück",
+"link": "https://www.heise.de/news/Binance-Kryptodiebstahl-USA-wollen-eine-Milliarde-US-Dollar-zurueck-11535386.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Das US-Justizministerium jagt die Gelder aus dem Binance-Hack und will mehr als eine Milliarde Dollar in USDC-Stablecoin auf diversen Blockchains einziehen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-23T21:18:00+00:00",
+"sum": "Das US-Justizministerium jagt die Gelder aus dem Binance-Hack und will mehr als eine Milliarde Dollar in USDC-Stablecoin auf diversen Blockchains einziehen."
+},
+{
+"id": "87602fb8d5c6",
+"title": "Davis Cup: Final 8 in Bologna – Auger-Aliassime trifft auf Mentor, Cobolli freut sich aufs Zocken",
+"link": "https://www.srf.ch/sport/tennis/davis-cup/davis-cup-final-8-in-bologna-auger-aliassime-trifft-auf-mentor-cobolli-freut-sich-aufs-zocken",
+"text": "In Bologna geht es ab Dienstag um den Davis-Cup-Titel. Was gibt es vor dem Kampf um die «Salatschüssel» zu sagen?",
+"img": "https://www.srf.ch/static/cms/images//320ws/667ce5.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-23T21:11:47+00:00",
+"sum": "In Bologna geht es ab Dienstag um den Davis-Cup-Titel. Was gibt es vor dem Kampf um die «Salatschüssel» zu sagen?"
+},
+{
+"id": "ff24647c3037",
+"title": "Champions League – De Bruyne: Zurück an den Ort besserer Zeiten",
+"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-de-bruyne-zurueck-an-den-ort-besserer-zeiten",
+"text": "Der Belgier kehrt mit Napoli zu ManCity zurück. Aus mehreren Gründen eine emotionale Geschichte.",
+"img": "https://www.srf.ch/static/cms/images//320ws/c89c5d.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-23T21:07:41+00:00",
+"sum": "Der Belgier kehrt mit Napoli zu ManCity zurück. Aus mehreren Gründen eine emotionale Geschichte."
+},
+{
+"id": "2924550417f6",
+"title": "Champions League – Bei Arsenal fehlt der «Unersetzliche», BVB hofft auf Guirassy",
+"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-bei-arsenal-fehlt-der-unersetzliche-bvb-hofft-auf-guirassy",
+"text": "Die «Gunners» müssen im Top-Duell gegen den BVB auf Stammgoalie David Raya verzichten. Grund zur Sorge?",
+"img": "https://www.srf.ch/static/cms/images//320ws/e1edf5.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-23T21:06:13+00:00",
+"sum": "Die «Gunners» müssen im Top-Duell gegen den BVB auf Stammgoalie David Raya verzichten. Grund zur Sorge?"
+},
+{
+"id": "02df5030e6b6",
+"title": "Lust auf Abkühlung – Schweiz schleckte im Sommer 17 Millionen Liter Glace",
+"link": "https://www.srf.ch/news/schweiz/lust-auf-abkuehlung-schweiz-schleckte-im-sommer-17-millionen-liter-glace",
+"text": "Die Schweizer kauften im Sommer 2026 spürbar mehr Glace – besonders gefragt waren Erfrischungen für unterwegs.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7dbf82.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-23T20:17:53+00:00",
+"sum": "Die Schweizer kauften im Sommer 2026 spürbar mehr Glace – besonders gefragt waren Erfrischungen für unterwegs."
+},
+{
+"id": "b012b952f1f9",
+"title": "Mega-Deal: CrowdStrike übernimmt Zscaler",
+"link": "https://www.heise.de/news/Mega-Deal-CrowdStrike-uebernimmt-Zscaler-11535354.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Zwei Schwergewichte der Cybersicherheitsbranche gehen zusammen. CrowdStrike kauft den Wettbewerber Zscaler in einer 44-Milliarden-Dollar-Transaktion.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-23T20:17:00+00:00",
+"sum": "Zwei Schwergewichte der Cybersicherheitsbranche gehen zusammen. CrowdStrike kauft den Wettbewerber Zscaler in einer 44-Milliarden-Dollar-Transaktion."
+},
 {
 "id": "0d3799decb1c",
 "title": "Kritik an geplanter Reform – Der IV geht das Geld aus: Wer zahlt die Rechnung?",
@@ -35,28 +244,6 @@
 "topic": "Schweiz",
 "date": "2026-11-23T20:03:31+00:00",
 "sum": "Eine Recherche von RTS zeigt das Ausmass sexuellen Missbrauchs in der Welt der Alternativtherapien."
-},
-{
-"id": "26681d9c35c9",
-"title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Jensen Huang kehrt als CEO zurück und sagt: «Ich werde beim zweiten Mal ein besserer Chef sein»",
-"link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
-"text": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-23T19:45:40+00:00",
-"sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall."
-},
-{
-"id": "4b0b703ec9e1",
-"title": "Krieg in der Ukraine – Russland-Flagge soll bei Sportevents in der EU verboten werden",
-"link": "https://www.srf.ch/news/international/ukraine/krieg-in-der-ukraine-russland-flagge-soll-bei-sportevents-in-der-eu-verboten-werden",
-"text": "EU-Kommissionspräsidentin von der Leyen hat Vorschläge für das 22. EU-Sanktionspaket gegen Russland präsentiert.",
-"img": "https://www.srf.ch/static/cms/images//320ws/dc0434.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-23T19:14:15+00:00",
-"sum": "EU-Kommissionspräsidentin von der Leyen hat Vorschläge für das 22. EU-Sanktionspaket gegen Russland präsentiert."
 },
 {
 "id": "fd6fd7f5cfe0",
@@ -191,17 +378,6 @@
 "sum": "Eine im Wallis geschossene Wölfin säugte noch Welpen. Monate später sagt nun der Bund: Der Abschuss war rechtswidrig."
 },
 {
-"id": "f2db8d5becfb",
-"title": "Nvidia macht eine abrupte Kehrtwende und holt Jensen Huang als CEO zurück",
-"link": "https://www.nzz.ch/wirtschaft/jensen-huang-kehrt-als-ceo-zu-nvidia-zurueck-ld.10072449",
-"text": "Der Verwaltungsrat des Chip-Entwicklers spricht sich einstimmig für die Rückkehr des Langzeitchefs aus, der das Unternehmen wegen mehrerer Affären verlassen musste.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/23/e5ec93df-a78e-4c49-9420-3bf28827ebd7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2560,2560,x640,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-23T18:12:26+00:00",
-"sum": "Der Verwaltungsrat des Chip-Entwicklers spricht sich einstimmig für die Rückkehr des Langzeitchefs aus, der das Unternehmen wegen mehrerer Affären verlassen musste."
-},
-{
 "id": "5eb048aa5684",
 "title": "KI-Migrationsgesetz: Experten fürchten mehr Klagen statt kürzerer Verfahren",
 "link": "https://www.heise.de/news/KI-Migrationsgesetz-Experten-fuerchten-mehr-Klagen-statt-kuerzerer-Verfahren-11535154.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -321,17 +497,6 @@
 "topic": "Welt",
 "date": "2026-11-23T17:23:33+00:00",
 "sum": "Russische Sportlerinnen und Sportler sollen bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen - das hat die EU-Kommission vorgeschlagen. Weitere Sanktionen soll es in der Wirtschaft und im Energiesektor geben."
-},
-{
-"id": "1391e1c1b963",
-"title": "Internationale Fussball-News – Barcelona ohne Yamal – Muheim fehlt HSV verletzt",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-barcelona-ohne-yamal-muheim-fehlt-hsv-verletzt",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/615578.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-23T17:13:12+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
 },
 {
 "id": "99906a62bfde",
@@ -466,17 +631,6 @@
 "sum": "Die Black-Friday-Woche hat begonnen – und auch Nutzer von iPhone, Mac & Co. können sparen. Ein Überblick beachtenswerter Angebote."
 },
 {
-"id": "d7e931ad4ef5",
-"title": "Zahlreiche Sicherheitslücken betreffen Komponenten des Java-Ökosystems Spring",
-"link": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-betreffen-Komponenten-des-Java-Oekosystems-Spring-11534890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Wichtige Sicherheitsupdates schliessen unter anderem Lücken in Spring AI, Spring Framework und Spring Security.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-23T16:07:00+00:00",
-"sum": "Wichtige Sicherheitsupdates schliessen unter anderem Lücken in Spring AI, Spring Framework und Spring Security."
-},
-{
 "id": "0d7da404aad6",
 "title": "Platzt jetzt die KI-Blase – oder bietet sich eine Kaufgelegenheit?",
 "link": "https://www.nzz.ch/finanzen/platzt-jetzt-die-ki-blase-oder-bietet-sich-eine-kaufgelegenheit-ld.10072116",
@@ -543,28 +697,6 @@
 "sum": "Bei Amazon gibt es Apples In-Ears zum Black Friday für unter 190 Euro. Kein anderer Anbieter verkauft die Kopfhörer günstiger. ( Black Friday , Apple )"
 },
 {
-"id": "52470bb15a6e",
-"title": "Maker baut Roboterhand mit 18 Servos und Stahlsehnen für 300 US-Dollar",
-"link": "https://www.heise.de/news/Roboterhand-aus-dem-3D-Drucker-kommt-auf-18-Freiheitsgrade-11534638.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Eine Roboterhand mit 18 Freiheitsgraden, deren Servos die Finger über Stahlseile wie Sehnen bewegen, hat ein Maker für rund 300 US-Dollar gebaut.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-23T15:30:00+00:00",
-"sum": "Eine Roboterhand mit 18 Freiheitsgraden, deren Servos die Finger über Stahlseile wie Sehnen bewegen, hat ein Maker für rund 300 US-Dollar gebaut."
-},
-{
-"id": "362151cf76ca",
-"title": "Nach AMD: Auch Nvidias GeForce-Grafiktreiber belastet SSD-Lebensdauer übermässig",
-"link": "https://www.heise.de/news/Nach-AMD-Auch-Nvidias-GeForce-Grafiktreiber-belastet-SSD-Lebensdauer-uebermaessig-11534844.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Nvidias Grafikkartentreiber für Windows hat mit exzessiven Schreibzugriffen auf SSDs zu kämpfen. Ein erster Hotfix-Treiber hilft anscheinend nicht immer.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-23T15:27:00+00:00",
-"sum": "Nvidias Grafikkartentreiber für Windows hat mit exzessiven Schreibzugriffen auf SSDs zu kämpfen. Ein erster Hotfix-Treiber hilft anscheinend nicht immer."
-},
-{
 "id": "a9a2ca36d63f",
 "title": "MELDUNGEN WIRTSCHAFT - Micasa-CEO kündigt seinen Rücktritt an +++ ABB will deutschen Ventilatorenhersteller Ziehl-Abegg übernehmen",
 "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
@@ -585,17 +717,6 @@
 "topic": "Sport",
 "date": "2026-11-23T15:22:15+00:00",
 "sum": "2031 tragen die USA, Mexiko, Costa Rica und Jamaika die Frauen-WM aus. Vier Jahre später kommen England und Co. zum Zug."
-},
-{
-"id": "a6aef13fc20b",
-"title": "In-Memory-Datenbank Valkey 9.2: Gleiche Daten, weniger Bytes auf der Leitung",
-"link": "https://www.heise.de/news/In-Memory-Datenbank-Valkey-9-2-Weniger-RAM-Spitzen-beim-Sichern-11534812.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Valkey 9.2 kann Speicherspitzen beim Sichern vermeiden und beim Datenabgleich zwischen Servern Bandbreite sparen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-23T15:22:00+00:00",
-"sum": "Valkey 9.2 kann Speicherspitzen beim Sichern vermeiden und beim Datenabgleich zwischen Servern Bandbreite sparen."
 },
 {
 "id": "2d4764e12cfa",
@@ -626,7 +747,7 @@
 "text": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten.",
 "img": "https://images.tagesschau.de/image/9227b90e-589e-4066-b1ae-05b973ede96d/AAABogjTaHc/AAABnSSvrFg/16x9-big/huang-130.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-23T15:18:29+00:00",
 "sum": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten."
 },
@@ -774,17 +895,6 @@
 "sum": "Kommando zurück: Kurz nach seinem Abgang ist Jensen Huang wieder Chef von Nvidia. Die Entscheidung fiel einstimmig. ( Jensen Huang , Nvidia )"
 },
 {
-"id": "489217b9ca31",
-"title": "Istanbuler Polizei sucht nach streunender Löwin",
-"link": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html",
-"text": "Ausnahmezustand in Istanbul: Eine Löwin streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das Tier lokalisiert, doch woher kommt es?",
-"img": "https://images.tagesschau.de/image/23dd22e0-3a50-4216-b112-2e58042992f3/AAABogiBp1U/AAABnSSvrFg/16x9-big/sicherheitskraefte-strasse-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-23T14:14:38+00:00",
-"sum": "Ausnahmezustand in Istanbul: Eine Löwin streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das Tier lokalisiert, doch woher kommt es?"
-},
-{
 "id": "c842cd6bde08",
 "title": "Café crème und Cappuccino – Kaffeetrinken in der Beiz kostet mehr",
 "link": "https://www.srf.ch/news/schweiz/cafe-creme-und-cappuccino-kaffeetrinken-in-der-beiz-kostet-mehr",
@@ -829,17 +939,6 @@
 "sum": "Hier erfahren Sie alles Wichtige im Vorfeld der Fifa-Präsidentenwahl, die im März 2027 stattfindet."
 },
 {
-"id": "220f6a2472a4",
-"title": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
-"link": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html",
-"text": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M. Behrendt.",
-"img": "https://images.tagesschau.de/image/8bc3b20b-632f-4688-b4a9-799318d047d2/AAABogfhB9s/AAABnSSvrFg/16x9-big/hafen-explosion-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-23T13:34:43+00:00",
-"sum": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M. Behrendt."
-},
-{
 "id": "7d87aed313c3",
 "title": "News aus der Super League – Ajetis Sperre auf zwei Spiele reduziert",
 "link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-ajetis-sperre-auf-zwei-spiele-reduziert",
@@ -873,17 +972,6 @@
 "sum": "Seit heute läuft bei Kleines Kraftwerk die Black Week. Golem-Leser profitieren von einem Exklusivpreis auf Balkonkraftwerk mit Speicher. ( Balkonkraftwerk , Solarenergie )"
 },
 {
-"id": "d2b7e4321c54",
-"title": "EU-Kommission ermittelt gegen Coca-Cola-Abfüller wegen Wettbewerbsverstössen",
-"link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-ermittlungen-coca-cola-abfueller-100.html",
-"text": "Die EU-Kommission ermittelt wegen möglicher Wettbewerbsverstösse gegen den grössten europäischen Coca-Cola-Abfüller. Das Unternehmen habe Supermärkten und Tankstellen womöglich Auflagen für Preise und Weiterverkauf gemacht.",
-"img": "https://images.tagesschau.de/image/81a2482c-bb09-46f1-a97c-cef5726d0ed0/AAABogh_6eI/AAABnSSvrFg/16x9-big/coca-cola-150.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-23T13:02:10+00:00",
-"sum": "Die EU-Kommission ermittelt wegen möglicher Wettbewerbsverstösse gegen den grössten europäischen Coca-Cola-Abfüller. Das Unternehmen habe Supermärkten und Tankstellen womöglich Auflagen für Preise und Weiterverkauf gemacht."
-},
-{
 "id": "ca353b0b2b59",
 "title": "Heule und Vogt in Heidenheim – Zwei Schweizer, ein überzeugender Trainer und ein klarer Plan",
 "link": "https://www.srf.ch/sport/fussball/internationale-ligen/heule-und-vogt-in-heidenheim-zwei-schweizer-ein-ueberzeugender-trainer-und-ein-klarer-plan",
@@ -904,17 +992,6 @@
 "topic": "Schweiz",
 "date": "2026-11-23T12:26:41+00:00",
 "sum": "Die Jugend-Demos spalten die «dialog»-Community: Eskalationen sorgen für Unmut, andere verteidigen die Jugendlichen."
-},
-{
-"id": "1d047c041854",
-"title": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
-"link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html",
-"text": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
-"img": "https://images.tagesschau.de/image/010b2e90-70e4-4765-a512-678ca7b78e4a/AAABoghWod8/AAABnSSvrFg/16x9-big/bayern-tobias-gotthardt-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-23T12:17:05+00:00",
-"sum": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt."
 },
 {
 "id": "45231c450702",
@@ -983,28 +1060,6 @@
 "sum": "KI-Agenten haben den längsten Beweis der Mathematik vollständig geprüft und dabei Lücken geschlossen. Die wichtigste Frage bleibt aber offen."
 },
 {
-"id": "904dedcf2105",
-"title": "Instabile Betonplatten – Schule in Rheinfelden AG aus Sicherheitsgründen geschlossen",
-"link": "https://www.srf.ch/news/schweiz/instabile-betonplatten-schule-in-rheinfelden-ag-aus-sicherheitsgruenden-geschlossen",
-"text": "Die Schulanlage Robersten ist seit Montag geschlossen. Die Betonplatten in den Dächern seien ein Risiko, sagt die Stadt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b13692.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-23T10:44:38+00:00",
-"sum": "Die Schulanlage Robersten ist seit Montag geschlossen. Die Betonplatten in den Dächern seien ein Risiko, sagt die Stadt."
-},
-{
-"id": "a574ba9fff16",
-"title": "Zibelemärit 2026 – Verregnet und kalt – die Bilder vom Zibelemärit",
-"link": "https://www.srf.ch/news/schweiz/zibelemaerit-2026-verregnet-und-kalt-die-bilder-vom-zibelemaerit",
-"text": "Jeweils am vierten Montag im November übernehmen in Bern die Zwiebeln das Zepter. 26 Tonnen sind es heuer.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a0daa7.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-23T10:39:50+00:00",
-"sum": "Jeweils am vierten Montag im November übernehmen in Bern die Zwiebeln das Zepter. 26 Tonnen sind es heuer."
-},
-{
 "id": "904cb2ed93ab",
 "title": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
 "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
@@ -1049,17 +1104,6 @@
 "sum": "Die Swiss Marketplace Group hat Ken Wirth zum Verkaufsleiter der Immobiliensparte ernannt. Er wechselt von Jobcloud."
 },
 {
-"id": "caad98eeded9",
-"title": "«Man of the Match» vs. ManUtd – Wirtz zaubert – auch dank Ex-Liverpooler Klopp",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/man-of-the-match-vs-manutd-wirtz-zaubert-auch-dank-ex-liverpooler-klopp",
-"text": "Der Deutsche scheint in Liverpool nun endlich das abzurufen, was man von ihm erwartet hat.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6a7c93.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-23T09:01:39+00:00",
-"sum": "Der Deutsche scheint in Liverpool nun endlich das abzurufen, was man von ihm erwartet hat."
-},
-{
 "id": "c28ee92e6112",
 "title": "Der Uhrensammler mit dem schlechten Gewissen",
 "link": "https://www.nzz.ch/wirtschaft/der-uhrensammler-mit-dem-schlechten-gewissen-ld.10071523",
@@ -1102,17 +1146,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-23T08:00:00+00:00",
 "sum": "Ein neues Messinstrument erfasst, weshalb wir lieber alles beim Alten lassen: von der Angst vor dem Unbekannten bis zum Wunsch nach Selbstbestimmung."
-},
-{
-"id": "23d3947ef9ae",
-"title": "Fussball-Gallery vom Weekend – Schiffbruch in Dundee und ein langersehntes Comeback in Leipzig",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/fussball-gallery-vom-weekend-schiffbruch-in-dundee-und-ein-langersehntes-comeback-in-leipzig",
-"text": "Klicken Sie sich durch die besten Bilder des Fussball-Wochenendes.",
-"img": "https://www.srf.ch/static/cms/images//320ws/f1e89d.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-23T07:57:00+00:00",
-"sum": "Klicken Sie sich durch die besten Bilder des Fussball-Wochenendes."
 },
 {
 "id": "a5f1fc3c7e6d",
@@ -1489,17 +1522,6 @@
 "sum": "Jedes Jahr werden Zehntausende Tonnen Abfall ohne Bewilligung nach Spanien geschafft und dort vergraben."
 },
 {
-"id": "758f6662cd1c",
-"title": "Medikamentenzugang – Ärmere Länder: Zugang zu Medikamenten stockt trotz Fortschritten",
-"link": "https://www.srf.ch/news/dialog/medikamentenzugang-aermere-laender-zugang-zu-medikamenten-stockt-trotz-fortschritten",
-"text": "Nur wenige Pharmakonzerne investieren in den Medikamentenzugang für ärmere Länder.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1b754a.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-22T09:48:13+00:00",
-"sum": "Nur wenige Pharmakonzerne investieren in den Medikamentenzugang für ärmere Länder."
-},
-{
 "id": "6f5a98d0fd43",
 "title": "Die grossen Fragen der Wissenschaft: »Es könnte einen Verlauf von Lebendigkeit geben«",
 "link": "https://www.spektrum.de/news/was-ist-leben-forscherin-petra-schwille-baut-es-im-labor-nach/2351192",
@@ -1553,28 +1575,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-22T07:00:00+00:00",
 "sum": "Wie viele verschiedene Möglichkeiten gibt es, fünf verschiedene Zahlen mit dieser Voraussetzung auszuwählen?"
-},
-{
-"id": "cba6ddf872c5",
-"title": "Vom Wunderkind zum Zahlungsflüchtigen: Lars Windhorst galt als «der deutsche Bill Gates». Jetzt hinterlässt er in der Schweiz einen gigantischen Schuldenberg",
-"link": "https://www.nzz.ch/wirtschaft/vom-wunderkind-zum-zahlungsfluechtigen-lars-windhorst-hinterlaesst-in-der-schweiz-einen-gigantischen-schuldenberg-ld.10070866",
-"text": "Einst das deutsche Gesicht der «New Economy», hat sich der deutsche Investor von Zug nach Dubai abgesetzt – mit Betreibungsforderungen von 519 Millionen Franken im Gepäck.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/21/34dcd9fd-5515-4943-bca5-29ce077f535c.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=4668,4668,x1165,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-22T04:30:00+00:00",
-"sum": "Einst das deutsche Gesicht der «New Economy», hat sich der deutsche Investor von Zug nach Dubai abgesetzt – mit Betreibungsforderungen von 519 Millionen Franken im Gepäck."
-},
-{
-"id": "6bd360fae512",
-"title": "Jacht, Ferienhaus und Range Rover: Ein Banker führt ein Jetset-Leben auf Kosten seiner Kunden",
-"link": "https://www.nzz.ch/wirtschaft/jacht-ferienhaus-und-range-rover-ein-banker-fuehrt-ein-jetset-leben-auf-kosten-seiner-kunden-ld.10068550",
-"text": "Ein früherer Berater der Bank Julius Bär knöpft einem Kundenpaar 35 Millionen Franken ab. Die Bank weist jede Schuld von sich – und droht dem Ehepaar mit einer Klage.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/19/eeebc42a-97ea-47b2-a313-6fe95b98cd64.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=1155,1155,x264,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-22T04:30:00+00:00",
-"sum": "Ein früherer Berater der Bank Julius Bär knöpft einem Kundenpaar 35 Millionen Franken ab. Die Bank weist jede Schuld von sich – und droht dem Ehepaar mit einer Klage."
 },
 {
 "id": "cad766e7c0c8",
@@ -1718,50 +1718,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-21T06:40:08+00:00",
 "sum": "Eine SRF-Umfrage zeigt: Trotz teils prekärer Arbeit – die Arbeitsbedingungen von Essenskurieren werden kaum geprüft."
-},
-{
-"id": "570728926971",
-"title": "KOMMENTAR - Schweizer Abstimmungen: Chat-GPT taugt nicht für die Meinungsbildung",
-"link": "https://www.nzz.ch/meinung/schweizer-abstimmungen-chat-gpt-taugt-nicht-fuer-die-meinungsbildung-ld.10069897",
-"text": "Befragt man KI-Chatbots zu Abstimmungsvorlagen, würden sie idealerweise alle Optionen neutral darstellen. Beim meistgenutzten Dienst passiert das noch nicht zuverlässig. Wer KI-Dienste zur Meinungsbildung heranzieht, muss sich bewusst sein, dass sie eine eigene politische Linie haben.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/18/6c19e553-1781-41df-9a3e-1719b114c225.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5504,5504,x2039,y0",
-"source": "NZZ",
-"topic": "Tech",
-"date": "2026-11-21T04:30:00+00:00",
-"sum": "Befragt man KI-Chatbots zu Abstimmungsvorlagen, würden sie idealerweise alle Optionen neutral darstellen. Beim meistgenutzten Dienst passiert das noch nicht zuverlässig. Wer KI-Dienste zur Meinungsbildung heranzieht, muss sich bewusst sein, dass sie eine eigene politische Linie haben."
-},
-{
-"id": "a738920a66ae",
-"title": "Warnungen vor katastrophalen Folgen von KI überschatten den Börsengang von Anthropic",
-"link": "https://www.nzz.ch/technologie/warnungen-vor-katastrophalen-folgen-von-ki-ueberschatten-den-boersengang-von-anthropic-ld.10069116",
-"text": "Sicherheitsforscher schlagen Alarm. Sie sorgen sich wegen KI, der der Mensch nicht mehr hinterherkommt. Ironischerweise profitieren sie selbst vom Boom der Branche. Ein Stimmungsbericht aus dem Silicon Valley.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/19/4ddc5be3-b9b2-4555-9712-2bc835c9d620.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2001,2001,x472,y0",
-"source": "NZZ",
-"topic": "Tech",
-"date": "2026-11-21T04:30:00+00:00",
-"sum": "Sicherheitsforscher schlagen Alarm. Sie sorgen sich wegen KI, der der Mensch nicht mehr hinterherkommt. Ironischerweise profitieren sie selbst vom Boom der Branche. Ein Stimmungsbericht aus dem Silicon Valley."
-},
-{
-"id": "f968fe646953",
-"title": "Erst kam Big Tech. Jetzt stellen die KI-Millionäre San Francisco auf den Kopf",
-"link": "https://www.nzz.ch/technologie/erst-kam-big-tech-jetzt-stellen-die-ki-millionaere-san-francisco-auf-den-kopf-ld.10065744",
-"text": "Der Börsengang von Anthropic wird Tausende Angestellte auf einen Schlag reich machen. Am Firmensitz in San Francisco steigen die Immobilienpreise schon jetzt rasant. Selbst gutverdienende Techies können da nicht mehr mithalten.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/17/118d23c7-9fde-48db-89cb-e4c6e411ac5f.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3333,3333,x931,y0",
-"source": "NZZ",
-"topic": "Tech",
-"date": "2026-11-21T04:30:00+00:00",
-"sum": "Der Börsengang von Anthropic wird Tausende Angestellte auf einen Schlag reich machen. Am Firmensitz in San Francisco steigen die Immobilienpreise schon jetzt rasant. Selbst gutverdienende Techies können da nicht mehr mithalten."
-},
-{
-"id": "39319122bbda",
-"title": "Der Body-Mass-Index ist nur bedingt geeignet, um das Körpergewicht zu beurteilen. Leider ist er aber auch ziemlich praktisch",
-"link": "https://www.nzz.ch/wissenschaft/der-body-mass-index-ist-nur-bedingt-geeignet-um-das-koerpergewicht-zu-beurteilen-leider-ist-er-aber-auch-ziemlich-praktisch-ld.10066650",
-"text": "Der BMI ist tot, es lebe der BMI: Fettleibigkeit genau zu diagnostizieren, erfordert mehr als eine einzelne Zahl. Verschwinden wird die Formel trotzdem nicht. Die Kolumne «Hauptsache, gesund».",
-"img": "https://img-msp-prod.nzz.ch/2023/05/10/1b5cf1bb-7bbc-407a-85d6-9cb4db4048ca.jpeg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3429,3429,x858,y0",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-21T04:30:00+00:00",
-"sum": "Der BMI ist tot, es lebe der BMI: Fettleibigkeit genau zu diagnostizieren, erfordert mehr als eine einzelne Zahl. Verschwinden wird die Formel trotzdem nicht. Die Kolumne «Hauptsache, gesund»."
 }
 ]
 }
