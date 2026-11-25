@@ -1,8 +1,294 @@
 {
-"updated": "2026-11-24T17:51:20+00:00",
+"updated": "2026-11-25T02:32:29+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "a42b9e82eb3d",
+"title": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+"link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+"text": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schiesst die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth.",
+"img": "https://images.tagesschau.de/image/4d80da7e-b67d-4d82-8fc9-ce619d62e6d2/AAABohBPwh4/AAABnSSvrFg/16x9-big/kiew-bruecke-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-25T01:40:52+00:00",
+"sum": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schiesst die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth."
+},
+{
+"id": "40622851b912",
+"title": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+"link": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+"text": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
+"img": "https://images.tagesschau.de/image/c1a6120d-c092-49b2-ba1a-27686aeea3be/AAABog9uOx8/AAABnSSvrFg/16x9-big/kuba-havanna-110.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-25T00:06:58+00:00",
+"sum": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende."
+},
+{
+"id": "98c8cce6f72f",
+"title": "Champions League: Round-up – Real mit Wende gegen PSV – Citys Befreiungsschlag bleibt aus",
+"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-round-up-real-mit-wende-gegen-psv-citys-befreiungsschlag-bleibt-aus",
+"text": "Real Madrid schlägt PSV Eindhoven nach Rückstand hoch. Manchester City kommt nicht über ein Remis hinaus.",
+"img": "https://www.srf.ch/static/cms/images//320ws/6e49b7.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-24T22:27:18+00:00",
+"sum": "Real Madrid schlägt PSV Eindhoven nach Rückstand hoch. Manchester City kommt nicht über ein Remis hinaus."
+},
+{
+"id": "96c251411d3e",
+"title": "Davis Cup: Viertelfinal – Lehecka und Machac liefern: Tschechien schaltet Kanada aus",
+"link": "https://www.srf.ch/sport/tennis/davis-cup/davis-cup-viertelfinal-lehecka-und-machac-liefern-tschechien-schaltet-kanada-aus",
+"text": "Tschechien steht beim Davis-Cup-Finalturnier in Bologna als erster Halbfinalist fest. Gegen Kanada reichen die Einzel.",
+"img": "https://www.srf.ch/static/cms/images//320ws/9c60ec.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-24T22:23:15+00:00",
+"sum": "Tschechien steht beim Davis-Cup-Finalturnier in Bologna als erster Halbfinalist fest. Gegen Kanada reichen die Einzel."
+},
+{
+"id": "b69638113c93",
+"title": "5. Runde der Champions League – BVB bietet Arsenal die Stirn und nimmt einen Punkt mit",
+"link": "https://www.srf.ch/sport/fussball/champions-league/5-runde-der-champions-league-bvb-bietet-arsenal-die-stirn-und-nimmt-einen-punkt-mit",
+"text": "Der Bundesliga-Leader erkämpft sich am 5. Spieltag der Champions League in London ein 1:1 beim Premier-League-Leader.",
+"img": "https://www.srf.ch/static/cms/images//320ws/1e6797.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-24T21:56:27+00:00",
+"sum": "Der Bundesliga-Leader erkämpft sich am 5. Spieltag der Champions League in London ein 1:1 beim Premier-League-Leader."
+},
+{
+"id": "288e45418697",
+"title": "National League am Dienstag – Der Leader schlägt den Meister – SCB-Hoch hält an",
+"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-der-leader-schlaegt-den-meister-scb-hoch-haelt-an",
+"text": "Die ZSC Lions gewinnen in Freiburg dank vier Toren im Mitteldrittel. Der SC Bern feiert den 6. Sieg in Serie.",
+"img": "https://www.srf.ch/static/cms/images//320ws/46093b.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-24T21:19:16+00:00",
+"sum": "Die ZSC Lions gewinnen in Freiburg dank vier Toren im Mitteldrittel. Der SC Bern feiert den 6. Sieg in Serie."
+},
+{
+"id": "652617b08fd0",
+"title": "Deutsche Steuerverwaltung hat „strukturelles Problem“",
+"link": "https://www.heise.de/news/Deutsche-Steuerverwaltung-hat-strukturelles-Problem-11536961.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Deutschland hat ein „strukturelles Problem“ bei der digitalen Steuerverwaltung, konstatiert die Europäische Kommission. Das öffne Schlupflöcher.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-24T21:15:00+00:00",
+"sum": "Deutschland hat ein „strukturelles Problem“ bei der digitalen Steuerverwaltung, konstatiert die Europäische Kommission. Das öffne Schlupflöcher."
+},
+{
+"id": "91b084b5b79a",
+"title": "Antisemitismusvorwürfe – Berliner Linke wirft Vanessa Emde aus der Fraktion",
+"link": "https://www.srf.ch/news/international/antisemitismusvorwuerfe-berliner-linke-wirft-vanessa-emde-aus-der-fraktion",
+"text": "Die Linke-Fraktion im Berliner Landesparlament hat für den Ausschluss der umstrittenen Abgeordneten gestimmt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/564055.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-24T20:57:30+00:00",
+"sum": "Die Linke-Fraktion im Berliner Landesparlament hat für den Ausschluss der umstrittenen Abgeordneten gestimmt."
+},
+{
+"id": "26681d9c35c9",
+"title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Huang entschuldigt sich bei Mitarbeitenden",
+"link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
+"text": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall.",
+"img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-24T20:55:59+00:00",
+"sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall."
+},
+{
+"id": "a9a2ca36d63f",
+"title": "MELDUNGEN WIRTSCHAFT - Huawei in den USA wegen Geschäften mit Iran verurteilt",
+"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
+"text": "Die neuesten Meldungen aus der Wirtschaft.",
+"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-24T20:33:20+00:00",
+"sum": "Die neuesten Meldungen aus der Wirtschaft."
+},
+{
+"id": "ffe88175ad67",
+"title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+"link": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+"text": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst.",
+"img": "https://images.tagesschau.de/image/7cf71a19-191c-4efd-9cb2-5b384644322a/AAABog5AniM/AAABnSSvrFg/16x9-big/huang-142.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T20:17:10+00:00",
+"sum": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst."
+},
+{
+"id": "ae3cd816ae4e",
+"title": "Nach 365-Ausfall: Höchste Alarmstufe bei Microsoft",
+"link": "https://www.heise.de/news/Nach-365-Ausfall-Hoechste-Alarmstufe-bei-Microsoft-11536918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Bei Microsoft gilt jetzt „Code Red”, die höchste Alarmstufe. Vieles muss geändert werden, damit sich die weltweite Störung der Clouddienste nicht wiederholt.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-24T20:03:00+00:00",
+"sum": "Bei Microsoft gilt jetzt „Code Red”, die höchste Alarmstufe. Vieles muss geändert werden, damit sich die weltweite Störung der Clouddienste nicht wiederholt."
+},
+{
+"id": "058bd3ca1e7d",
+"title": "Dietikon ZH – Auto schleudert über Spielplatz und verletzt Fussgängerin",
+"link": "https://www.srf.ch/news/schweiz/dietikon-zh-auto-schleudert-ueber-spielplatz-und-verletzt-fussgaengerin",
+"text": "Nach dem Unfall montierten die Fahrzeuginsassen die Kontrollschilder ab und flüchteten zu Fuss.",
+"img": "https://www.srf.ch/static/cms/images//320ws/2248bfa.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-24T20:00:56+00:00",
+"sum": "Nach dem Unfall montierten die Fahrzeuginsassen die Kontrollschilder ab und flüchteten zu Fuss."
+},
+{
+"id": "d13047c89104",
+"title": "Bald Atombombe im All? – Russland sorgt mit Nuklearplänen für Nervosität",
+"link": "https://www.srf.ch/news/international/bald-atombombe-im-all-russland-sorgt-mit-nuklearplaenen-fuer-nervositaet",
+"text": "Bei einer Atombombenexplosion im Orbit würden tausende Satelliten zerstört. Mit massiven Folgen in fast allen Bereichen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ce8d19.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-24T19:52:48+00:00",
+"sum": "Bei einer Atombombenexplosion im Orbit würden tausende Satelliten zerstört. Mit massiven Folgen in fast allen Bereichen."
+},
+{
+"id": "17b280797d78",
+"title": "Entspannung auf Rohölmärkten – Benzinpreise in der Schweiz sinken weiter",
+"link": "https://www.srf.ch/news/schweiz/entspannung-auf-rohoelmaerkten-benzinpreise-in-der-schweiz-sinken-weiter",
+"text": "Ein Liter Bleifrei 95 kostete am Dienstag im landesweiten Durchschnitt 1.83 Franken. Auch Diesel kostete weniger.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a242b6.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-24T19:47:34+00:00",
+"sum": "Ein Liter Bleifrei 95 kostete am Dienstag im landesweiten Durchschnitt 1.83 Franken. Auch Diesel kostete weniger."
+},
+{
+"id": "d1288ed35a96",
+"title": "Weitere Sport-News – Kein Sieger zum Auftakt der Schach-WM – Kadetten mit Remis",
+"link": "https://www.srf.ch/sport/mehr-sport/weitere-sport-news-kein-sieger-zum-auftakt-der-schach-wm-kadetten-mit-remis",
+"text": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form.",
+"img": "https://www.srf.ch/static/cms/images//320ws/d9c99b5.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-24T19:42:03+00:00",
+"sum": "Hier finden Sie die weiteren Sport-News des Tages in kompakter Form."
+},
+{
+"id": "fad56da4b2d6",
+"title": "Bundesnetzagentur: Müller soll zweite Amtszeit bekommen",
+"link": "https://www.heise.de/news/Bundesnetzagentur-Mueller-soll-zweite-Amtszeit-bekommen-11536896.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die Politik schätzt den Pragmatiker Klaus Müller und schlägt ihn für eine weitere Amtszeit vor. Auf den alten und neuen Chefregulierer warten grosse Aufgaben.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-24T19:20:00+00:00",
+"sum": "Die Politik schätzt den Pragmatiker Klaus Müller und schlägt ihn für eine weitere Amtszeit vor. Auf den alten und neuen Chefregulierer warten grosse Aufgaben."
+},
+{
+"id": "07fd367e56f8",
+"title": "Trumps Emissäre – Steve Witkoff und Jared Kushner: Diplomatie des Scheiterns?",
+"link": "https://www.srf.ch/news/international/trumps-emissaere-steve-witkoff-und-jared-kushner-diplomatie-des-scheiterns",
+"text": "Trumps Gesandte sollen die grossen Konflikte der Welt lösen. Die Bilanz ist mager, sagt Harvard-Professor Stephen Walt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/22db0c.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-24T19:10:17+00:00",
+"sum": "Trumps Gesandte sollen die grossen Konflikte der Welt lösen. Die Bilanz ist mager, sagt Harvard-Professor Stephen Walt."
+},
+{
+"id": "556f6a5e20cc",
+"title": "Verbraucherschützer haben die smarte Brille im Blick",
+"link": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
+"text": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta und Ray-Ban vor. Der Vorwurf: Mit smarten Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere Menschen das bemerken. Auch Nutzern könnten Bussgelder drohen. Von Jens Eberl.",
+"img": "https://images.tagesschau.de/image/33e302ac-7300-474b-9e0e-03555f6e826f/AAABn7fT7sg/AAABnSSvrFg/16x9-big/smart-glasses-meta-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T19:06:34+00:00",
+"sum": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta und Ray-Ban vor. Der Vorwurf: Mit smarten Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere Menschen das bemerken. Auch Nutzern könnten Bussgelder drohen. Von Jens Eberl."
+},
+{
+"id": "4b04860d9ab1",
+"title": "Black-Friday-Deals: PC-Monitore in der Black Week günstig ergattern",
+"link": "https://www.heise.de/bestenlisten/deals/black-friday-deals-pc-monitore-in-der-black-week-guenstig-abstauben/jgw720f?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Neuer PC-Monitor gesucht? Wir sammeln die besten Black-Friday-Deals und prüfen, ob es echte Schnäppchen sind – laufend aktualisiert.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-24T19:00:00+00:00",
+"sum": "Neuer PC-Monitor gesucht? Wir sammeln die besten Black-Friday-Deals und prüfen, ob es echte Schnäppchen sind – laufend aktualisiert."
+},
+{
+"id": "86c85c9bf9f4",
+"title": "Freundschaften: Gesellige Delfine leben offenbar länger",
+"link": "https://www.spektrum.de/news/gesellige-delfine-leben-offenbar-laenger/2355654",
+"text": "Das Sozialleben von Delfinen verändert sich mit dem Alter und scheint die Lebensdauer zu beeinflussen. Besonders langlebig sind gesellige Tiere mit beständigen sozialen Mustern.",
+"img": "https://static.spektrum.de/fm/912/thumbnails/NMS_IMG_0447.jpg.8428111.jpg?f=1280x720",
+"source": "Spektrum",
+"topic": "Wissenschaft",
+"date": "2026-11-24T19:00:00+00:00",
+"sum": "Das Sozialleben von Delfinen verändert sich mit dem Alter und scheint die Lebensdauer zu beeinflussen. Besonders langlebig sind gesellige Tiere mit beständigen sozialen Mustern."
+},
+{
+"id": "6f8078df243a",
+"title": "Berliner Linke schliesst Emde aus Fraktion aus",
+"link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
+"text": "Wochenlang diskutierten Grüne, SPD und Linke in Berlin über die Personalie Emde. Die Abgeordnete steht wegen ihrer Positionen zu Israel in der Kritik. Nun hat die Fraktion mit der nötigen Mehrheit für ihren Ausschluss gestimmt.",
+"img": "https://images.tagesschau.de/image/1c451789-1eed-4126-9883-2749033be163/AAABog5ru3c/AAABnSSvrFg/16x9-big/emde-104.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T18:47:32+00:00",
+"sum": "Wochenlang diskutierten Grüne, SPD und Linke in Berlin über die Personalie Emde. Die Abgeordnete steht wegen ihrer Positionen zu Israel in der Kritik. Nun hat die Fraktion mit der nötigen Mehrheit für ihren Ausschluss gestimmt."
+},
+{
+"id": "772bd797da09",
+"title": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
+"link": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
+"text": "Die per Mail verschickten Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.",
+"img": "https://images.tagesschau.de/image/56f86d3d-a3f4-4d8b-828f-1163ea26a2ff/AAABog612II/AAABnSSvrFg/16x9-big/bayern-memmingen-schule-100.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-24T18:39:01+00:00",
+"sum": "Die per Mail verschickten Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung."
+},
+{
+"id": "79c97171fb55",
+"title": "Leo: Starlink-Konkurrent der Bundeswehr kostet 15 Milliarden Euro",
+"link": "https://www.golem.de/news/leo-starlink-konkurrent-der-bundeswehr-kostet-15-milliarden-euro-2611-215614.html",
+"text": "Für ihr militärisches Starlink bekommt die Bundeswehr Milliarden. Die Verträge für SATCOMBw Stufe 4 stehen kurz vor der Unterzeichnung. ( Satelliten , Telekommunikation )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215614&page=1&ts=1795545481",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-24T18:38:01+00:00",
+"sum": "Für ihr militärisches Starlink bekommt die Bundeswehr Milliarden. Die Verträge für SATCOMBw Stufe 4 stehen kurz vor der Unterzeichnung. ( Satelliten , Telekommunikation )"
+},
+{
+"id": "63fdd864e387",
+"title": "Missbrauchsvorwürfe – Baselbieter Landeskirche rüffelt Bischof wegen Vertuschung",
+"link": "https://www.srf.ch/news/schweiz/missbrauchsvorwuerfe-baselbieter-landeskirche-rueffelt-bischof-wegen-vertuschung",
+"text": "Die Kantonalkirche hat Vorwürfe gegen den Pfarrer von Röschenz untersucht. Am Ende kritisiert sie Bischof und Gemeinde.",
+"img": "https://www.srf.ch/static/cms/images//320ws/52fbeb.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-24T18:01:19+00:00",
+"sum": "Die Kantonalkirche hat Vorwürfe gegen den Pfarrer von Röschenz untersucht. Am Ende kritisiert sie Bischof und Gemeinde."
+},
+{
+"id": "ff454822ae9a",
+"title": "Netz 33: Finanzierung von neuem bundesweiten Glasfasernetz fortgeschritten",
+"link": "https://www.golem.de/news/netz-33-finanzierung-von-neuem-bundesweiten-glasfasernetz-fortgeschritten-2611-215612.html",
+"text": "Die Gespräche von Niedax mit Investoren sind laut Unternehmen fortgeschritten. Und auch die erste Teststrecke in Brandenburg soll noch ab Ende November gebaut werden. ( Festnetz , Deutsche Bahn )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215612&page=1&ts=1795543142",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-24T17:59:02+00:00",
+"sum": "Die Gespräche von Niedax mit Investoren sind laut Unternehmen fortgeschritten. Und auch die erste Teststrecke in Brandenburg soll noch ab Ende November gebaut werden. ( Festnetz , Deutsche Bahn )"
+},
 {
 "id": "73c8690fd192",
 "title": "Anzeige: USB-Ladegerät von Anker mit 160 W, 3 Anschlüssen und Display für unter 100 Euro",
@@ -13,17 +299,6 @@
 "topic": "Tech",
 "date": "2026-11-24T17:49:01+00:00",
 "sum": "Am Black Friday ist das Anker Prime USB-Ladegerät mit 160 W zu seinem bisher niedrigsten Preis bei Amazon verfügbar. ( Black Friday , Amazon )"
-},
-{
-"id": "93906b13c6f2",
-"title": "Antisemitismusvorwürfe – Berliner Linke wirft Vanessa Emde aus der Partei",
-"link": "https://www.srf.ch/news/international/antisemitismusvorwuerfe-berliner-linke-wirft-vanessa-emde-aus-der-partei",
-"text": "Die Linke-Fraktion im Berliner Landesparlament hat für den Ausschluss der umstrittenen Abgeordneten gestimmt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/564055.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-24T17:46:57+00:00",
-"sum": "Die Linke-Fraktion im Berliner Landesparlament hat für den Ausschluss der umstrittenen Abgeordneten gestimmt."
 },
 {
 "id": "93dd88961e0e",
@@ -46,17 +321,6 @@
 "topic": "Tech",
 "date": "2026-11-24T17:40:02+00:00",
 "sum": "Unauffällige Kamera-LEDs und fehlende Warnhinweise vor dem Kauf: Die Verbraucherzentrale geht gerichtlich gegen die Anbieter der Ray-Ban Meta Smart Glasses vor. ( VZBV , Datenschutz )"
-},
-{
-"id": "6f8078df243a",
-"title": "Berliner Linke schliesst Emde aus Fraktion aus",
-"link": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
-"text": "Wochenlang diskutierten Grüne, SPD und Linke in Berlin über die Personalie Emde. Die Abgeordnete steht wegen ihrer Positionen zu Israel in der Kritik. Nun hat die Fraktion mit der nötigen Mehrheit für ihren Ausschluss gestimmt.",
-"img": "https://images.tagesschau.de/image/1c451789-1eed-4126-9883-2749033be163/AAABog5ru3c/AAABnSSvrFg/16x9-big/emde-104.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-24T17:38:11+00:00",
-"sum": "Wochenlang diskutierten Grüne, SPD und Linke in Berlin über die Personalie Emde. Die Abgeordnete steht wegen ihrer Positionen zu Israel in der Kritik. Nun hat die Fraktion mit der nötigen Mehrheit für ihren Ausschluss gestimmt."
 },
 {
 "id": "db1bdbec51fa",
@@ -114,17 +378,6 @@
 "sum": "Die Nati kämpft ums WM-Ticket. Zunächst muss sie Österreich schlagen, doch selbst das könnte noch nicht genügen."
 },
 {
-"id": "3d1fe948fe3e",
-"title": "NASA will Atomkraftwerk für den Mond entwickeln lassen",
-"link": "https://www.heise.de/news/NASA-will-Atomkraftwerk-fuer-den-Mond-entwickeln-lassen-11536848.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Die NASA lässt ein Atomkraftwerk für den Mond entwickeln. Bis Ende Dezember können Unternehmen Konzepte für den Lunar Reactor-1 einreichen.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-24T17:14:00+00:00",
-"sum": "Die NASA lässt ein Atomkraftwerk für den Mond entwickeln. Bis Ende Dezember können Unternehmen Konzepte für den Lunar Reactor-1 einreichen."
-},
-{
 "id": "cf4b30656c6c",
 "title": "Kamerabrillen: Verbraucherschützer ziehen gegen Meta und Ray-Ban vor Gericht",
 "link": "https://www.heise.de/news/Kamerabrillen-Verbraucherschuetzer-ziehen-gegen-Meta-und-Ray-Ban-vor-Gericht-11536854.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -134,6 +387,17 @@
 "topic": "Tech",
 "date": "2026-11-24T17:14:00+00:00",
 "sum": "Der Verbraucherschutzverband geht juristisch gegen Meta und Luxottica vor. Im Fokus stehen die Vermarktung und die Bauweise ihrer Kamerabrillen."
+},
+{
+"id": "3d1fe948fe3e",
+"title": "NASA will Atomkraftwerk für den Mond entwickeln lassen",
+"link": "https://www.heise.de/news/NASA-will-Atomkraftwerk-fuer-den-Mond-entwickeln-lassen-11536848.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Die NASA lässt ein Atomkraftwerk für den Mond entwickeln. Bis Ende Dezember können Unternehmen Konzepte für den Lunar Reactor-1 einreichen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-24T17:14:00+00:00",
+"sum": "Die NASA lässt ein Atomkraftwerk für den Mond entwickeln. Bis Ende Dezember können Unternehmen Konzepte für den Lunar Reactor-1 einreichen."
 },
 {
 "id": "75126288f1c7",
@@ -180,6 +444,17 @@
 "sum": "Rätselhafte Genitalstacheln und Verkindlichung: Zwei neu entdeckte Bärtierchen-Arten von einem untermeerischen Gipfel haben eigenwillige Merkmale."
 },
 {
+"id": "c18b8a3aa71c",
+"title": "Bankiervereinigung: Dringlicher Appell an den Nationalrat",
+"link": "https://www.finews.ch/news/banken/74650-bankiervereinigung-sbvg-ubs-eigenkapital-90-prozent-wak-n-swiss-finish",
+"text": "Postwendend kritisiert der Verband den Entscheid der Nationalratskommission. Sie warnt vor Folgen weit über die Grossbank und den Finanzplatz hinaus.",
+"img": "https://www.finews.ch/images/news/2026/11/Bundeshaus-Bern-Abend-646x388.jpg",
+"source": "finews",
+"topic": "Wirtschaft",
+"date": "2026-11-24T16:55:29+00:00",
+"sum": "Postwendend kritisiert der Verband den Entscheid der Nationalratskommission. Sie warnt vor Folgen weit über die Grossbank und den Finanzplatz hinaus."
+},
+{
 "id": "c8f29e22a3e7",
 "title": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro",
 "link": "https://www.golem.de/news/kilow-la-bagnole-elektrischer-mini-jeep-aus-frankreich-kostet-ab-10-800-euro-2611-215603.html",
@@ -189,17 +464,6 @@
 "topic": "Tech",
 "date": "2026-11-24T16:55:02+00:00",
 "sum": "Der La Bagnole von Kilow ist ein vielseitiger kleiner Elektro-Jeep, der als Pritschen- oder als Kastenwagen genutzt werden kann. ( Elektroauto , Auto )"
-},
-{
-"id": "a9a2ca36d63f",
-"title": "MELDUNGEN WIRTSCHAFT - Erste Runde der VW-Tarifverhandlungen endet ergebnislos +++ Sanofi kauft US-Biotechfirma für 41 Milliarden Dollar",
-"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
-"text": "Die neuesten Meldungen aus der Wirtschaft.",
-"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-24T16:54:49+00:00",
-"sum": "Die neuesten Meldungen aus der Wirtschaft."
 },
 {
 "id": "1939c017af83",
@@ -499,17 +763,6 @@
 "sum": "JavaSPEKTRUM sprach mit Scott Sellers, CEO und Co-Founder von Azul über die Rolle von Java bei der Zukunft von KI. Das Interview führe Michael Stal in München."
 },
 {
-"id": "30774bd26b2e",
-"title": "Frostbite: Von KI entworfene CPU verspricht deutlich höhere Effizienz",
-"link": "https://www.golem.de/news/frostbite-von-ki-entworfene-cpu-verspricht-deutlich-hoehere-effizienz-2611-215594.html",
-"text": "Parallelismus ohne Threads, CPUs fast ohne Caches und Koordinationsaufwand: Das Konzept hinter Frostbite klingt fast zu gut, um wahr zu sein. ( Prozessor , KI )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215594&page=1&ts=1795533242",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-24T15:14:02+00:00",
-"sum": "Parallelismus ohne Threads, CPUs fast ohne Caches und Koordinationsaufwand: Das Konzept hinter Frostbite klingt fast zu gut, um wahr zu sein. ( Prozessor , KI )"
-},
-{
 "id": "ac8b81ec2665",
 "title": "Die Fäden laufen zusammen: So kontrolliert die Familie Huang den Nvidia-Konzern",
 "link": "https://www.nzz.ch/wirtschaft/die-faeden-laufen-zusammen-so-kontrolliert-die-familie-huang-den-nvidia-konzern-ld.10072506",
@@ -587,37 +840,15 @@
 "sum": "Julia Simic, Assistentin des Frauen-Nationalteams, ist zu Gast im Tagesgespräch bei Radio SRF."
 },
 {
-"id": "441b702b4b09",
-"title": "Statt Palantir: NRW setzt künftig deutsche Polizei-Software ein",
-"link": "https://www.golem.de/news/statt-palantir-nrw-setzt-kuenftig-deutsche-polizei-software-ein-2611-215593.html",
-"text": "Zwischenzeitlich sah es so aus, als wollte NRW keine Alternative zu Palantir finden. Doch nun hat ein deutscher Anbieter den Zuschlag erhalten. ( Polizei , Security )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215593&page=1&ts=1795531982",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-24T14:53:02+00:00",
-"sum": "Zwischenzeitlich sah es so aus, als wollte NRW keine Alternative zu Palantir finden. Doch nun hat ein deutscher Anbieter den Zuschlag erhalten. ( Polizei , Security )"
-},
-{
 "id": "6bbd49888ecc",
 "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
 "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
 "text": "Die Rückkehr des Nvidia-Chefs liess den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte.",
 "img": "https://images.tagesschau.de/image/5ad3c1ca-7297-460a-adf0-5be140c8ea83/AAABogx_eUY/AAABnSSvrFg/16x9-big/nvidia-238.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-24T14:51:13+00:00",
 "sum": "Die Rückkehr des Nvidia-Chefs liess den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte."
-},
-{
-"id": "b76c9e85d7b0",
-"title": "Euclid entdeckt bisher ältesten Quasar",
-"link": "https://www.heise.de/news/Euclid-entdeckt-bisher-aeltesten-Quasar-11536620.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Das Weltraumteleskop Euclid hat einen weiteren uralten Quasar entdeckt. Es ist ein Blick in die Zeit 630 Millionen Jahre nach dem Urknall.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-24T14:48:00+00:00",
-"sum": "Das Weltraumteleskop Euclid hat einen weiteren uralten Quasar entdeckt. Es ist ein Blick in die Zeit 630 Millionen Jahre nach dem Urknall."
 },
 {
 "id": "b7b59ccb3ce0",
@@ -642,17 +873,6 @@
 "sum": "Nach einem Einbruch in Williams und Kates Landsitz Anmer Hall hat die britische Polizei zwei Verdächtige festgenommen."
 },
 {
-"id": "f845bc8e1f05",
-"title": "LogikStrom: Kostenloses Schaltplan-Programm nach DIN EN, Vibecoded",
-"link": "https://www.heise.de/news/LogikStrom-Kostenloses-Schaltplan-Programm-nach-DIN-EN-gebaut-mit-KI-11536576.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "LogikStrom zeichnet Stromlaufpläne nach DIN EN und erzeugt Kontaktspiegel und Klemmenplan automatisch. Kostenlos, offline, ohne Konto.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-24T14:28:00+00:00",
-"sum": "LogikStrom zeichnet Stromlaufpläne nach DIN EN und erzeugt Kontaktspiegel und Klemmenplan automatisch. Kostenlos, offline, ohne Konto."
-},
-{
 "id": "e5d4b1113e0c",
 "title": "Statistikbehörde gehackt – 720'000 Gefallene? Russlands gewaltiger Blutzoll im Ukraine-Krieg",
 "link": "https://www.srf.ch/news/international/ukraine/statistikbehoerde-gehackt-720-000-gefallene-russlands-gewaltiger-blutzoll-im-ukraine-krieg",
@@ -662,39 +882,6 @@
 "topic": "Welt",
 "date": "2026-11-24T14:26:25+00:00",
 "sum": "SRF-Korrespondent Calum MacKenzie über den Hackerangriff – und Russlands Umgang mit seinen Kriegstoten in der Ukraine."
-},
-{
-"id": "d3b44493fabc",
-"title": "iPhone Duo: Für das Foldable angepasste Apps von Apple und anderen",
-"link": "https://www.heise.de/news/iPhone-Duo-Fuer-das-Foldable-angepasste-Apps-von-Apple-und-anderen-11496172.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Apple hat viele seiner Apps für sein erstes Falt-Telefon angepasst. Andere Entwickler ziehen ebenfalls mit. Ein Überblick interessanter Programme.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-24T14:21:00+00:00",
-"sum": "Apple hat viele seiner Apps für sein erstes Falt-Telefon angepasst. Andere Entwickler ziehen ebenfalls mit. Ein Überblick interessanter Programme."
-},
-{
-"id": "d0e6f39a8a9e",
-"title": "EU schränkt Einfuhr von Hybridautos ein",
-"link": "https://www.heise.de/news/EU-schraenkt-Einfuhr-von-Hybridautos-ein-11536410.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Hunderttausende Hybridautos werden aus China in die EU importiert. Die europäischen Autobauer stehen unter Druck. Nun begrenzt Brüssel die Zahl der Einfuhren.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-24T14:16:00+00:00",
-"sum": "Hunderttausende Hybridautos werden aus China in die EU importiert. Die europäischen Autobauer stehen unter Druck. Nun begrenzt Brüssel die Zahl der Einfuhren."
-},
-{
-"id": "67883ffba0d4",
-"title": "Kita-Gap-Portal: Trotz weniger Geburten fehlen Kitaplätze",
-"link": "https://www.tagesschau.de/inland/gesellschaft/kitaplaetze-mangel-100.html",
-"text": "Obwohl in Deutschland weniger Kinder geboren werden, fehlt es weiterhin an Kitaplätzen. Vor allem ärmere und nicht Deutsch sprechende Familien sind betroffen. Grosse Unterschiede gibt es zwischen Ost und West.",
-"img": "https://images.tagesschau.de/image/b88f0aad-eda4-4417-bd6f-52de84a2580a/AAABog0VDOs/AAABnSSvrFg/16x9-big/erzieherin-kind-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-24T14:12:42+00:00",
-"sum": "Obwohl in Deutschland weniger Kinder geboren werden, fehlt es weiterhin an Kitaplätzen. Vor allem ärmere und nicht Deutsch sprechende Familien sind betroffen. Grosse Unterschiede gibt es zwischen Ost und West."
 },
 {
 "id": "38c8f0e1b269",
@@ -725,7 +912,7 @@
 "text": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser.",
 "img": "https://images.tagesschau.de/image/b7b1cffa-34ce-42a2-8a22-6e45161c1601/AAABog0w99Y/AAABnSSvrFg/16x9-big/huang-140.jpg?width=1920",
 "source": "Tagesschau",
-"topic": "Welt",
+"topic": "Wirtschaft",
 "date": "2026-11-24T14:01:35+00:00",
 "sum": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser."
 },
@@ -750,28 +937,6 @@
 "topic": "Schweiz",
 "date": "2026-11-24T13:38:03+00:00",
 "sum": "Besonders in den Monaten November und Dezember schlagen Kriminelle vermehrt zu."
-},
-{
-"id": "7cb3bc64dba7",
-"title": "\"Zutiefst schockierend\" - Weiterer Anstieg bei Fällen von Gewalt gegen Frauen",
-"link": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html",
-"text": "Etwa 198.000 Frauen und Mädchen sowie 82.000 Männern und Jungen wurde im vergangenen Jahr häusliche Gewalt angetan - ein weiterer Anstieg, wie die Lagebilder des BKA zeigen. Besonders auffällig: Immer mehr Frauen werden zudem Opfer von digitaler Gewalt.",
-"img": "https://images.tagesschau.de/image/d9d6b7d4-4d11-49d0-bea7-169431d4e4c0/AAABog1nJjs/AAABnSSvrFg/16x9-big/frau-wohnung-102.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-24T13:31:58+00:00",
-"sum": "Etwa 198.000 Frauen und Mädchen sowie 82.000 Männern und Jungen wurde im vergangenen Jahr häusliche Gewalt angetan - ein weiterer Anstieg, wie die Lagebilder des BKA zeigen. Besonders auffällig: Immer mehr Frauen werden zudem Opfer von digitaler Gewalt."
-},
-{
-"id": "6f324cb1d5e1",
-"title": "Urteil des EGMR: Pushbacks an Grenze zu Belarus waren teils legal",
-"link": "https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html",
-"text": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind.",
-"img": "https://images.tagesschau.de/image/8ee61e61-7ec4-461a-9fc7-55a8fd8d5fee/AAABog3H8x8/AAABnSSvrFg/16x9-big/belarus-migranten-105.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-24T13:28:55+00:00",
-"sum": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind."
 },
 {
 "id": "c86a1c280d3f",
@@ -928,17 +1093,6 @@
 "sum": "Bei der Sparkasse Schwyz kommt es zu einem Führungswechsel am Standort Goldau. Die neue Niederlassungsleiterin kommt aus den eigenen Reihen."
 },
 {
-"id": "9d0ba7fca1e7",
-"title": "Dank starkem Quali-Turnier – Tamburlini und Métraux weiter auf der LPGA Tour",
-"link": "https://www.srf.ch/sport/mehr-sport/golf/dank-starkem-quali-turnier-tamburlini-und-metraux-weiter-auf-der-lpga-tour",
-"text": "Die Schweizer Golferinnen sichern sich die Teilnahme mit ausgezeichneten Ergebnissen bei den Qualifying Series.",
-"img": "https://www.srf.ch/static/cms/images//320ws/53f63f.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-24T10:08:56+00:00",
-"sum": "Die Schweizer Golferinnen sichern sich die Teilnahme mit ausgezeichneten Ergebnissen bei den Qualifying Series."
-},
-{
 "id": "1d85ac3806a5",
 "title": "Als Vorläufer in der Heimat – Nach Achillessehnenriss: Kilde plant Comeback für März",
 "link": "https://www.srf.ch/sport/ski-alpin/als-vorlaeufer-in-der-heimat-nach-achillessehnenriss-kilde-plant-comeback-fuer-maerz",
@@ -1020,7 +1174,7 @@
 "title": "Berner Oberland – Jungfraubahn will Schilthornbahn übernehmen",
 "link": "https://www.srf.ch/news/schweiz/berner-oberland-jungfraubahn-will-schilthornbahn-uebernehmen",
 "text": "Mit der geplanten Übernahme soll die Jungfrau-Region als Tourismus-Destination stärker werden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/590768.webp",
+"img": "https://www.srf.ch/static/cms/images//320ws/e820ffd.webp",
 "source": "SRF",
 "topic": "Schweiz",
 "date": "2026-11-24T08:30:46+00:00",
@@ -1060,28 +1214,6 @@
 "sum": "Eine Rückkehr von Jensen Huang an die Spitze des Chipherstellers Nvidia haben die Wenigsten erwartet. Die Suche nach den Gründen des Comebacks führt bis zur Spitze der US-Regierung. Das kritisieren nicht nur die Demokraten. Von Antje Sieb."
 },
 {
-"id": "56bbe54e351c",
-"title": "PFAS in Nahrungsmitteln – «PFAS-belastetes Fleisch sollte nicht mehr in den Handel kommen»",
-"link": "https://www.srf.ch/news/schweiz/pfas-in-nahrungsmitteln-pfas-belastetes-fleisch-sollte-nicht-mehr-in-den-handel-kommen",
-"text": "Der Vorschlag, verunreinigtes Fleisch mit sauberem zu mischen, kommt bei der Konsumentenschützerin schlecht an.",
-"img": "https://www.srf.ch/static/cms/images//320ws/128e91.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-24T07:47:46+00:00",
-"sum": "Der Vorschlag, verunreinigtes Fleisch mit sauberem zu mischen, kommt bei der Konsumentenschützerin schlecht an."
-},
-{
-"id": "17fa120f5316",
-"title": "National League am Dienstag – Audio-Konferenz: Der Leader beim Meister – Verfolgerduell in Bern",
-"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-dienstag-audio-konferenz-der-leader-beim-meister-verfolgerduell-in-bern",
-"text": "Verfolgen Sie das Geschehen vom Dienstag in der National League mit 7 Partien bei SRF in der Audio-Konferenz.",
-"img": "https://www.srf.ch/static/cms/images//320ws/9a3a03.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-24T07:47:15+00:00",
-"sum": "Verfolgen Sie das Geschehen vom Dienstag in der National League mit 7 Partien bei SRF in der Audio-Konferenz."
-},
-{
 "id": "cbdd709e63e3",
 "title": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
 "link": "https://www.tagesschau.de/wirtschaft/unternehmen/megaspeed-us-regierung-sperrliste-100.html",
@@ -1102,17 +1234,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-24T07:23:34+00:00",
 "sum": "Die Rückkehr des Nvidia-Chefs treibt nach schweren Kursverlusten die Aktienpreise in Ostasiens Chiphochburgen in die Höhe. Doch Experten sehen kein Ende der Volatilität."
-},
-{
-"id": "a3787d89c5f7",
-"title": "Lacher bei der Medienkonferenz – «Hi Mate!»: Arteta nimmt Telefon von Journalisten ab",
-"link": "https://www.srf.ch/sport/fussball/champions-league/lacher-bei-der-medienkonferenz-hi-mate-arteta-nimmt-telefon-von-journalisten-ab",
-"text": "Der Arsenal-Trainer belustigt vor dem BVB-Spiel die Anwesenden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ac6035.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-24T07:22:42+00:00",
-"sum": "Der Arsenal-Trainer belustigt vor dem BVB-Spiel die Anwesenden."
 },
 {
 "id": "9bca29204f59",
@@ -1214,17 +1335,6 @@
 "sum": "Peter Frey und Bernhard Schlink sprechen über Hintergründe und Perspektiven der Midterms und darüber, was das Ergebnis für Europa und die Welt bedeutet."
 },
 {
-"id": "3be252f263c9",
-"title": "Zürcher Jugendprotest – Kritik an vermummter Polizei in Zivil – was steckt dahinter?",
-"link": "https://www.srf.ch/news/schweiz/zuercher-jugendprotest-kritik-an-vermummter-polizei-in-zivil-was-steckt-dahinter",
-"text": "Die Polizei ist in Zivil an der Demo in Zürich mitgelaufen. Linksaktivistische Organisationen sehen das als Provokation.",
-"img": "https://www.srf.ch/static/cms/images//320ws/1039d9.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-24T06:13:57+00:00",
-"sum": "Die Polizei ist in Zivil an der Demo in Zürich mitgelaufen. Linksaktivistische Organisationen sehen das als Provokation."
-},
-{
 "id": "c5629419d727",
 "title": "Wie Hausärzte den ganzen Patienten im Blick behalten",
 "link": "https://www.spektrum.de/podcast/hoergang-wie-hausaerzte-den-ganzen-patienten-im-blick-behalten/2355626",
@@ -1234,17 +1344,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-24T06:13:00+00:00",
 "sum": "ÖGAM-Vizepräsidentin Dr. Poggenburg spricht in dieser Folge über Facharzttermine, Überdiagnostik, Impfberatung, KI und die Zukunft der Allgemeinmedizin. 🎙️"
-},
-{
-"id": "4919d0709630",
-"title": "Herr Trebra und der Bergbau",
-"link": "https://www.spektrum.de/podcast/goethe-der-podcast-herr-trebra-und-der-bergbau/2355618",
-"text": "In dieser Podcast-Folge stellen Marcus und Thomas einen von Goethes echten Freunden, Friedrich Wilhelm Heinrich von Trebra, vor. 🎙️",
-"img": "https://static.spektrum.de/fm/912/thumbnails/iStock-1169135931.jpg.6405794.jpg?f=1280x720",
-"source": "Spektrum",
-"topic": "Wissenschaft",
-"date": "2026-11-24T06:13:00+00:00",
-"sum": "In dieser Podcast-Folge stellen Marcus und Thomas einen von Goethes echten Freunden, Friedrich Wilhelm Heinrich von Trebra, vor. 🎙️"
 },
 {
 "id": "f7b99b16d204",
@@ -1278,17 +1377,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-24T05:04:00+00:00",
 "sum": "Mitten in der tiefsten Krise der Konzerngeschichte startet heute die Tarifrunde für rund 120.000 Volkswagen-Beschäftigte. Das Management will Kosten senken, die IG Metall wehrt sich gegen weitere Einbussen. Von T. Hildebrandt."
-},
-{
-"id": "7792378eb67d",
-"title": "Quellen liefern kein Wasser – Autowaschen verboten: Luzerner Gemeinden drosseln Wasserverbrauch",
-"link": "https://www.srf.ch/news/schweiz/quellen-liefern-kein-wasser-autowaschen-verboten-luzerner-gemeinden-drosseln-wasserverbrauch",
-"text": "Bisherige Sparappelle reichen nicht: Hochdorf, Römerswil und Rain ergreifen neue Massnahmen. Sonst wird’s 2027 brenzlig.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cfbfa2.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-24T04:57:40+00:00",
-"sum": "Bisherige Sparappelle reichen nicht: Hochdorf, Römerswil und Rain ergreifen neue Massnahmen. Sonst wird’s 2027 brenzlig."
 },
 {
 "id": "ed1f4e177a29",
@@ -1346,17 +1434,6 @@
 "sum": "Die Schwester von Nordkoreas Machthaber droht wegen Sanktionen mit der Schliessung des Schweizer Büros in Pjöngjang."
 },
 {
-"id": "26681d9c35c9",
-"title": "DIE NEUESTEN ENTWICKLUNGEN - Spionageaffäre bei Nvidia: Trump verteidigt die Rückkehr von Huang",
-"link": "https://www.nzz.ch/wirtschaft/spionageaffaere-bei-nvidia-der-kurs-des-chip-unternehmens-bricht-ein-ld.10058640",
-"text": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/08/29548df6-42ba-463e-ba0b-d7d14aecb6b7.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=5305,5305,x1327,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-24T01:35:58+00:00",
-"sum": "Der Nvidia-Chef Jensen Huang hatte mutmasslich eine Affäre mit einer chinesischen Spionin. Als Berichte über weitere Liaisons publik wurden, trat er von seinem Posten zurück. Die neuesten Entwicklungen zum Fall."
-},
-{
 "id": "f2db8d5becfb",
 "title": "Nvidia macht eine abrupte Kehrtwende und holt Jensen Huang als CEO zurück",
 "link": "https://www.nzz.ch/wirtschaft/jensen-huang-kehrt-als-ceo-zu-nvidia-zurueck-ld.10072449",
@@ -1366,28 +1443,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-23T22:01:24+00:00",
 "sum": "Der Verwaltungsrat des Chip-Entwicklers spricht sich einstimmig für die Rückkehr des Langzeitchefs aus, der das Unternehmen wegen mehrerer Affären verlassen musste."
-},
-{
-"id": "ff24647c3037",
-"title": "Champions League – De Bruyne: Zurück an den Ort besserer Zeiten",
-"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-de-bruyne-zurueck-an-den-ort-besserer-zeiten",
-"text": "Der Belgier kehrt mit Napoli zu ManCity zurück. Aus mehreren Gründen eine emotionale Geschichte.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c89c5d.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-23T21:07:41+00:00",
-"sum": "Der Belgier kehrt mit Napoli zu ManCity zurück. Aus mehreren Gründen eine emotionale Geschichte."
-},
-{
-"id": "2924550417f6",
-"title": "Champions League – Bei Arsenal fehlt der «Unersetzliche», BVB hofft auf Guirassy",
-"link": "https://www.srf.ch/sport/fussball/champions-league/champions-league-bei-arsenal-fehlt-der-unersetzliche-bvb-hofft-auf-guirassy",
-"text": "Die «Gunners» müssen im Top-Duell gegen den BVB auf Stammgoalie David Raya verzichten. Grund zur Sorge?",
-"img": "https://www.srf.ch/static/cms/images//320ws/e1edf5.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-23T21:06:13+00:00",
-"sum": "Die «Gunners» müssen im Top-Duell gegen den BVB auf Stammgoalie David Raya verzichten. Grund zur Sorge?"
 },
 {
 "id": "948d386f5723",
@@ -1555,17 +1610,6 @@
 "sum": "In der Deutschschweiz kostet ein Café crème im Schnitt 4.71 Franken. Aber es gibt deutliche regionale Preisunterschiede."
 },
 {
-"id": "774f1484d07c",
-"title": "Kinder in Kriegsgebieten – «Krieg bedeutet für Kinder immer Verlust»",
-"link": "https://www.srf.ch/news/international/kinder-in-kriegsgebieten-krieg-bedeutet-fuer-kinder-immer-verlust",
-"text": "Fast jedes vierte Kind lebt in einem Konfliktgebiet. Eine Traumatherapeutin erklärt, wie sich das auf Kinder auswirkt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/676fbe.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-23T13:58:43+00:00",
-"sum": "Fast jedes vierte Kind lebt in einem Konfliktgebiet. Eine Traumatherapeutin erklärt, wie sich das auf Kinder auswirkt."
-},
-{
 "id": "0e34e7648bfd",
 "title": "EFG auf Rekordkurs – doch es gibt einen Schönheitsfehler",
 "link": "https://www.finews.ch/news/banken/74616-privatbank-efg-international-zehn-monaten-2026-wachstumstempo-verwalteten-vermoegen-rekordwert-gewinn-steigt-um-rund-zehn-prozent-ertragsmarge-unter-druck",
@@ -1588,17 +1632,6 @@
 "sum": "In der Cybersicherheitsbranche bahnt sich die grösste Übernahme der Geschichte an. Der US-Softwarekonzern Crowdstrike will den Konkurrenten Zscaler für knapp 44 Milliarden Dollar übernehmen."
 },
 {
-"id": "35a1cc455453",
-"title": "Angriff auf Schiff in Libyen – Kiews Botschaft an Moskau",
-"link": "https://www.srf.ch/news/international/angriff-auf-schiff-in-libyen-kiews-botschaft-an-moskau",
-"text": "Treffer im Mittelmeer sind für Kiew ein Erfolg und für Moskau eine strategische Blamage.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c39448.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-23T11:26:02+00:00",
-"sum": "Treffer im Mittelmeer sind für Kiew ein Erfolg und für Moskau eine strategische Blamage."
-},
-{
 "id": "904cb2ed93ab",
 "title": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
 "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
@@ -1619,17 +1652,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-23T09:30:59+00:00",
 "sum": "Einzigartig wollen sie sein, die vier Partner, die seit kurzem als unabhängige Vermögensverwalter gemeinsam in einer eigenen Gesellschaft wirken. Die neue Unic setzt dabei vor allem auf dividendenstarke Schweizer Qualitätstitel."
-},
-{
-"id": "aa50303e2315",
-"title": "SMG mit neuem Verkaufsleiter Immobilien",
-"link": "https://www.finews.ch/news/finanzplatz/74613-swiss-marketplace-group-smg-ken-wirth-verkaufsleiter-immobiliensparte-jobcloud",
-"text": "Die Swiss Marketplace Group hat Ken Wirth zum Verkaufsleiter der Immobiliensparte ernannt. Er wechselt von Jobcloud.",
-"img": "https://www.finews.ch/images/news/2026/11/kw.jpg",
-"source": "finews",
-"topic": "Wirtschaft",
-"date": "2026-11-23T09:16:03+00:00",
-"sum": "Die Swiss Marketplace Group hat Ken Wirth zum Verkaufsleiter der Immobiliensparte ernannt. Er wechselt von Jobcloud."
 },
 {
 "id": "c28ee92e6112",
@@ -1806,17 +1828,6 @@
 "topic": "Tech",
 "date": "2026-11-22T04:24:00+00:00",
 "sum": "Eine fünftägige Konferenz der Uno-Waffenkonvention endet in Genf mit einem vagen Kompromiss. Sind die Vereinten Nationen erneut gescheitert? Und wie geht es jetzt weiter?"
-},
-{
-"id": "952f918dcdf6",
-"title": "Die Corona-Pandemie beschleunigte Altersprozesse bei Kindern, Jugendlichen und jungen Erwachsenen",
-"link": "https://www.nzz.ch/wissenschaft/corona-beschleunigt-alterungsprozesse-jugendliche-besonders-betroffen-ld.10056129",
-"text": "Eine neue Studie aus Deutschland zeigt: Die ersten zwei Lockdowns führten zu Veränderungen im Erbgut. Der Befund ist der erstmalige biologische Beweis für negative gesundheitliche Auswirkungen der Pandemie.",
-"img": "https://img-msp-prod.nzz.ch/2026/11/20/15f2d289-e6c4-47d0-a899-80d44cc3590a.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=2678,2678,x683,y1377",
-"source": "NZZ",
-"topic": "Wissenschaft",
-"date": "2026-11-21T20:51:58+00:00",
-"sum": "Eine neue Studie aus Deutschland zeigt: Die ersten zwei Lockdowns führten zu Veränderungen im Erbgut. Der Befund ist der erstmalige biologische Beweis für negative gesundheitliche Auswirkungen der Pandemie."
 }
 ]
 }
