@@ -1,8 +1,426 @@
 {
-"updated": "2026-11-27T16:44:25+00:00",
+"updated": "2026-11-28T01:28:18+00:00",
 "ai": false,
 "errors": [],
 "items": [
+{
+"id": "4f1d7bf04474",
+"title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschliesst am Mittwoch",
+"link": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+"text": "Ein werktags berechneter Höchstpreis, Bussgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden.",
+"img": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-27T23:35:35+00:00",
+"sum": "Ein werktags berechneter Höchstpreis, Bussgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden."
+},
+{
+"id": "abd2e6a660eb",
+"title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
+"link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+"text": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleissigen, die lange gearbeitet haben\".",
+"img": "https://images.tagesschau.de/image/b577bb9c-63ef-4810-811f-dc952930859b/AAABoh7oXzo/AAABnSSvrFg/16x9-big/sendungsbild-1834182.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-27T22:10:29+00:00",
+"sum": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleissigen, die lange gearbeitet haben\"."
+},
+{
+"id": "1ae669b98866",
+"title": "Arena zu Bundesbudget 2027 – Schon vor dem Showdown im Parlament fliegen die Fetzen",
+"link": "https://www.srf.ch/news/schweiz/arena-zu-bundesbudget-2027-schon-vor-dem-showdown-im-parlament-fliegen-die-fetzen",
+"text": "Nach Eklat in der Finanzkommission des Nationalrats: «Arena»-Diskussion zeigt diametrale Gegensätze der Polparteien auf.",
+"img": "https://www.srf.ch/static/cms/images//320ws/042a53d.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T22:01:53+00:00",
+"sum": "Nach Eklat in der Finanzkommission des Nationalrats: «Arena»-Diskussion zeigt diametrale Gegensätze der Polparteien auf."
+},
+{
+"id": "810713701a30",
+"title": "Gastgeber im Hoch – Italien erneut im Davis-Cup-Final",
+"link": "https://www.srf.ch/sport/tennis/davis-cup/gastgeber-im-hoch-italien-erneut-im-davis-cup-final",
+"text": "Der Davis-Cup-Champion der letzten drei Jahre greift dank Lorenzo Musetti erneut nach dem Titel.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7f89a3.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T21:44:57+00:00",
+"sum": "Der Davis-Cup-Champion der letzten drei Jahre greift dank Lorenzo Musetti erneut nach dem Titel."
+},
+{
+"id": "743036ca6ec7",
+"title": "Bundesliga: 11. Runde – Wieder Füllkrug: Bremen kommt nach 1:3-Rückstand zurück",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/bundesliga-11-runde-wieder-fuellkrug-bremen-kommt-nach-1-3-rueckstand-zurueck",
+"text": "Der Toptorschütze der Liga beschert Werder mit einem späten Tor einen Punkt gegen das Schlusslicht Gladbach.",
+"img": "https://www.srf.ch/static/cms/images//320ws/de2113.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T21:40:42+00:00",
+"sum": "Der Toptorschütze der Liga beschert Werder mit einem späten Tor einen Punkt gegen das Schlusslicht Gladbach."
+},
+{
+"id": "5ea64398d75d",
+"title": "National League am Freitag – Lausanne beendet SCB-Siegesserie – ZSC zittert sich zum Sieg",
+"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-lausanne-beendet-scb-siegesserie-zsc-zittert-sich-zum-sieg",
+"text": "Der SC Bern muss erstmals in diesem Monat als Verlierer vom Eis. Die ZSC Lions wenden die 3. Saisonniederlage ab.",
+"img": "https://www.srf.ch/static/cms/images//320ws/db0e17.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T21:19:26+00:00",
+"sum": "Der SC Bern muss erstmals in diesem Monat als Verlierer vom Eis. Die ZSC Lions wenden die 3. Saisonniederlage ab."
+},
+{
+"id": "bfb2f9d5c415",
+"title": "NHL am Freitag – 249. Tor in der Regular Season: Meier bricht Schweizer Rekord",
+"link": "https://www.srf.ch/sport/eishockey/nhl/nhl-am-freitag-249-tor-in-der-regular-season-meier-bricht-schweizer-rekord",
+"text": "Timo Meier führt die Devils mit einem Tor und Assist zum nächsten Sieg – und knackt dabei einen Rekord.",
+"img": "https://www.srf.ch/static/cms/images//320ws/090d00.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T21:09:07+00:00",
+"sum": "Timo Meier führt die Devils mit einem Tor und Assist zum nächsten Sieg – und knackt dabei einen Rekord."
+},
+{
+"id": "57254d71d45f",
+"title": "«The Diana Award» insolvent – William und Harry: Gemeinsames Engagement vor dem Aus",
+"link": "https://www.srf.ch/news/gesellschaft/the-diana-award-insolvent-william-und-harry-gemeinsames-engagement-vor-dem-aus",
+"text": "Seit 27 Jahren hält «The Diana Award» das Andenken an Prinzessin Diana aufrecht – nun fehlt der Organisation das Geld.",
+"img": "https://www.srf.ch/static/cms/images//320ws/623ce6.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-27T20:24:40+00:00",
+"sum": "Seit 27 Jahren hält «The Diana Award» das Andenken an Prinzessin Diana aufrecht – nun fehlt der Organisation das Geld."
+},
+{
+"id": "e83109d89fe0",
+"title": "Familie äussert sich erstmals – Wollte das Todesopfer von Tuggen schlichten?",
+"link": "https://www.srf.ch/news/schweiz/familie-aeussert-sich-erstmals-wollte-das-todesopfer-von-tuggen-schlichten",
+"text": "Neue Recherchen zeigen, dass das Opfer nicht an der Auseinandersetzung beteiligt war.",
+"img": "https://www.srf.ch/static/cms/images//320ws/ed841c.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T20:21:22+00:00",
+"sum": "Neue Recherchen zeigen, dass das Opfer nicht an der Auseinandersetzung beteiligt war."
+},
+{
+"id": "04fc7cf2e70b",
+"title": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
+"link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
+"text": "Der Rentenentwurf von Arbeitsminister Schweitzer stösst auf ein geteiltes Echo. DGB-Chefin Fahimi kritisierte steigende Abschläge für Frührentner, lobte aber den Erhalt der \"Rente mit 63\". Aus der Union kommt deutlicher Widerstand.",
+"img": "https://images.tagesschau.de/image/2015f221-6df6-43c9-8148-76da5e1ece48/AAABoh5Ql7w/AAABnSSvrFg/16x9-big/fahimi-188.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-27T19:45:49+00:00",
+"sum": "Der Rentenentwurf von Arbeitsminister Schweitzer stösst auf ein geteiltes Echo. DGB-Chefin Fahimi kritisierte steigende Abschläge für Frührentner, lobte aber den Erhalt der \"Rente mit 63\". Aus der Union kommt deutlicher Widerstand."
+},
+{
+"id": "15339f670856",
+"title": "Ticket als «Betriebsunfall» – So reagiert die Politik auf Blochers Äusserungen",
+"link": "https://www.srf.ch/news/schweiz/ticket-als-betriebsunfall-so-reagiert-die-politik-auf-blochers-aeusserungen",
+"text": "Nationalrätinnen und Nationalräte sagen, was sie von den Äusserungen des SVP-Parteipatrons Christoph Blocher halten.",
+"img": "https://www.srf.ch/static/cms/images//320ws/a0eed4.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T19:30:45+00:00",
+"sum": "Nationalrätinnen und Nationalräte sagen, was sie von den Äusserungen des SVP-Parteipatrons Christoph Blocher halten."
+},
+{
+"id": "6bf74564ae18",
+"title": "Historisches Genozid-Urteil – Völkermordurteil gegen Myanmar: Was bringt es den Rohingya?",
+"link": "https://www.srf.ch/news/international/historisches-genozid-urteil-voelkermordurteil-gegen-myanmar-was-bringt-es-den-rohingya",
+"text": "Der Internationale Gerichtshof verurteilt Myanmar wegen Völkermords. Doch viele Fragen bleiben offen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/514ca39.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-27T19:27:08+00:00",
+"sum": "Der Internationale Gerichtshof verurteilt Myanmar wegen Völkermords. Doch viele Fragen bleiben offen."
+},
+{
+"id": "5fa962efefee",
+"title": "Big-Air-Weltcup in Innsbruck – Gremaud sorgt mit Jubiläums-Sieg für perfekten Schweizer Auftakt",
+"link": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/big-air-weltcup-in-innsbruck-gremaud-sorgt-mit-jubilaeums-sieg-fuer-perfekten-schweizer-auftakt",
+"text": "Mathilde Gremaud meldet sich in der neuen Freestyle-Saison an – und wie. Die Freiburgerin siegt zum Auftakt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f5b7f9c.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T19:25:23+00:00",
+"sum": "Mathilde Gremaud meldet sich in der neuen Freestyle-Saison an – und wie. Die Freiburgerin siegt zum Auftakt."
+},
+{
+"id": "d1d57d01598e",
+"title": "MELDUNGEN WIRTSCHAFT - Kriselnde Micasa hofft auf Zahlung «in substanzieller Höhe»",
+"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10075772",
+"text": "Die neuesten Meldungen aus der Wirtschaft.",
+"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
+"source": "NZZ",
+"topic": "Wirtschaft",
+"date": "2026-11-27T19:03:59+00:00",
+"sum": "Die neuesten Meldungen aus der Wirtschaft."
+},
+{
+"id": "429a20b5de43",
+"title": "Von Berner Behörden entdeckt – Wolf illegal als Haustier gehalten: Die wichtigsten Fragen",
+"link": "https://www.srf.ch/news/schweiz/von-berner-behoerden-entdeckt-wolf-illegal-als-haustier-gehalten-die-wichtigsten-fragen",
+"text": "Ein als Hund registrierter Wolf wurde im Kanton Bern eingezogen. Was bedeutet das für Haltung, Unterbringung und Tier?",
+"img": "https://www.srf.ch/static/cms/images//320ws/ad0701.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T19:01:53+00:00",
+"sum": "Ein als Hund registrierter Wolf wurde im Kanton Bern eingezogen. Was bedeutet das für Haltung, Unterbringung und Tier?"
+},
+{
+"id": "58c6a986a775",
+"title": "Top 10: Das beste Heizkörperthermostat im Test – ohne Cloud ab 30 Euro",
+"link": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-ohne-cloud-ab-30-euro/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-27T19:00:00+00:00",
+"sum": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig."
+},
+{
+"id": "949a505722c2",
+"title": "Vorwurf der Unterwanderung – Junge SVP lässt inhaltliche Abgrenzung zu Junge Tat vermissen",
+"link": "https://www.srf.ch/news/schweiz/vorwurf-der-unterwanderung-junge-svp-laesst-inhaltliche-abgrenzung-zu-junge-tat-vermissen",
+"text": "Die Partei begründet die Ausschlüsse mit mutmasslicher Unterwanderung. Zur Ideologie der Jungen Tat schweigt sie.",
+"img": "https://www.srf.ch/static/cms/images//320ws/8de6ea.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T18:48:27+00:00",
+"sum": "Die Partei begründet die Ausschlüsse mit mutmasslicher Unterwanderung. Zur Ideologie der Jungen Tat schweigt sie."
+},
+{
+"id": "22de61dd7ee3",
+"title": "Spektakel in Bern – 510 Tonnen schweres Gebäude um 50 Meter verschoben",
+"link": "https://www.srf.ch/news/schweiz/spektakel-in-bern-510-tonnen-schweres-gebaeude-um-50-meter-verschoben",
+"text": "Verschieben statt abreissen: Ein historischer Saalbau wird im Berner Breitenrainquartier gedreht und gezügelt.",
+"img": "https://www.srf.ch/static/cms/images//320ws/88db70.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T18:44:46+00:00",
+"sum": "Verschieben statt abreissen: Ein historischer Saalbau wird im Berner Breitenrainquartier gedreht und gezügelt."
+},
+{
+"id": "76d309b47b16",
+"title": "Budgetdebatte in Deutschland – Deutscher Bundestag beschliesst Haushalt für 2027",
+"link": "https://www.srf.ch/news/international/budgetdebatte-in-deutschland-deutscher-bundestag-beschliesst-haushalt-fuer-2027",
+"text": "Das deutsche Parlament hat den Haushalt für das kommende Jahr beschlossen. Vorausgegangen waren lange Verhandlungen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/30fbc1.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-27T18:39:09+00:00",
+"sum": "Das deutsche Parlament hat den Haushalt für das kommende Jahr beschlossen. Vorausgegangen waren lange Verhandlungen."
+},
+{
+"id": "938e15ce7a27",
+"title": "Leistungsträgerin in der Nati – Reuteler über Arsenal-Rolle: «Nicht, wie ich es mir vorstellte»",
+"link": "https://www.srf.ch/sport/fussball/frauen-nationalteam/leistungstraegerin-in-der-nati-reuteler-ueber-arsenal-rolle-nicht-wie-ich-es-mir-vorstellte",
+"text": "Die Nati-Leistungsträgerin kommt beim neuen Klub Arsenal bislang kaum zum Zug. Doch nun wurde ihre Trainerin entlassen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0e8618.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T18:36:21+00:00",
+"sum": "Die Nati-Leistungsträgerin kommt beim neuen Klub Arsenal bislang kaum zum Zug. Doch nun wurde ihre Trainerin entlassen."
+},
+{
+"id": "2952a2e65b47",
+"title": "Trainings in Katar – Antonelli dominiert Auftakt in Katar – Hadjar fährt Mechaniker an",
+"link": "https://www.srf.ch/sport/motorsport/formel-1/trainings-in-katar-antonelli-dominiert-auftakt-in-katar-hadjar-faehrt-mechaniker-an",
+"text": "Der Weltmeister zeigt auch im Training in Katar sein Können. Isack Hadjar unterläuft derweil ein Missgeschick.",
+"img": "https://www.srf.ch/static/cms/images//320ws/acdde0.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T18:35:55+00:00",
+"sum": "Der Weltmeister zeigt auch im Training in Katar sein Können. Isack Hadjar unterläuft derweil ein Missgeschick."
+},
+{
+"id": "4472ccf930ff",
+"title": "c't 3003 baut Fernseher mit KI-Agent um: Tizen wird zu „Apple TV“",
+"link": "https://www.heise.de/news/c-t-3003-baut-Fernseher-mit-KI-Agent-um-Tizen-wird-zu-Apple-TV-11541121.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Schnell und einfach: Wir haben mit einem KI-Agenten die komplette Bedienoberfläche eines Samsung-TVs umgebaut – und Werbung und Tracker entfernt.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-27T18:02:00+00:00",
+"sum": "Schnell und einfach: Wir haben mit einem KI-Agenten die komplette Bedienoberfläche eines Samsung-TVs umgebaut – und Werbung und Tracker entfernt."
+},
+{
+"id": "d0fb8a576ca1",
+"title": "Problematische Lieferketten – Schweizer Rohstoffhändler profitieren von Handel mit Skandalfirma",
+"link": "https://www.srf.ch/news/schweiz/problematische-lieferketten-schweizer-rohstoffhaendler-profitieren-von-handel-mit-skandalfirma",
+"text": "Schweizer Rohstofffirmen transportieren schmutziges Öl. Das ist laut Experten problematisch, aber bleibt wohl folgenlos.",
+"img": "https://www.srf.ch/static/cms/images//320ws/cfc893f.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T18:00:30+00:00",
+"sum": "Schweizer Rohstofffirmen transportieren schmutziges Öl. Das ist laut Experten problematisch, aber bleibt wohl folgenlos."
+},
+{
+"id": "be640164d681",
+"title": "Anzeige: 20 Prozent Rabatt auf Vibe-Coding-Workshop",
+"link": "https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-vibe-coding-workshop-2611-215772.html",
+"text": "Eine eigene App mit ChatGPT bauen und testen, ganz ohne Programmierkenntnisse. Der Vibe-Coding-Workshop kostet in der Black Week 20 Prozent weniger. ( Golem Karrierewelt , Programmiersprachen )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215772&page=1&ts=1795801501",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-27T17:45:01+00:00",
+"sum": "Eine eigene App mit ChatGPT bauen und testen, ganz ohne Programmierkenntnisse. Der Vibe-Coding-Workshop kostet in der Black Week 20 Prozent weniger. ( Golem Karrierewelt , Programmiersprachen )"
+},
+{
+"id": "8a0ce3c1ba40",
+"title": "Strom und Gas: Deutschland zwischen Energiewende und Preisschocks",
+"link": "https://www.heise.de/news/Energiemarkt-2026-Solar-boomt-doch-Grosshandelspreise-ziehen-wieder-an-11541379.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Kartellwächter und Bundesnetzagentur legen ihren Energie-Monitoringbericht vor: Erneuerbare erreichen 55 Prozent Anteil, doch es kommt zu mehr Stromsperrungen.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-27T17:42:00+00:00",
+"sum": "Kartellwächter und Bundesnetzagentur legen ihren Energie-Monitoringbericht vor: Erneuerbare erreichen 55 Prozent Anteil, doch es kommt zu mehr Stromsperrungen."
+},
+{
+"id": "a990e4111c3d",
+"title": "Marktbericht: Schnäppchenjagd an der Börse",
+"link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+"text": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
+"img": "https://images.tagesschau.de/image/a01f3845-7d93-4906-85df-771ddd7b7c12/AAABns-9-5Y/AAABnSSvrFg/16x9-big/boerse-506.jpg?width=1920",
+"source": "Tagesschau",
+"topic": "Welt",
+"date": "2026-11-27T17:30:38+00:00",
+"sum": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen."
+},
+{
+"id": "e05d296e469d",
+"title": "Anzeige: Bestseller-Luftpumpe mit Akku zum Black Friday nur rund 22 Euro bei Amazon",
+"link": "https://www.golem.de/news/anzeige-bestseller-luftpumpe-mit-akku-zum-black-friday-nur-rund-22-euro-bei-amazon-2611-215767.html",
+"text": "Die Akku-Luftpumpe ist Bestseller bei Amazon und jetzt im Angebot verfügbar. Sie bietet Reifendrucksensor, 4.000-mAh und LED-Anzeige. ( Technik/Hardware )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215767&page=1&ts=1795800601",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-27T17:30:01+00:00",
+"sum": "Die Akku-Luftpumpe ist Bestseller bei Amazon und jetzt im Angebot verfügbar. Sie bietet Reifendrucksensor, 4.000-mAh und LED-Anzeige. ( Technik/Hardware )"
+},
+{
+"id": "16b4a843cdad",
+"title": "Propaganda mit Deepfakes – Spanien im Wahlkampf: Trotz EU-Regeln häufen sich KI-Fakes",
+"link": "https://www.srf.ch/news/dialog/propaganda-mit-deepfakes-spanien-im-wahlkampf-trotz-eu-regeln-haeufen-sich-ki-fakes",
+"text": "Vor den spanischen Parlamentswahlen am Sonntag häufen sich KI-Videos und -Bilder, trotz strengerer Regeln der EU.",
+"img": "https://www.srf.ch/static/cms/images//320ws/7ceb56b.webp",
+"source": "SRF",
+"topic": "Welt",
+"date": "2026-11-27T17:29:58+00:00",
+"sum": "Vor den spanischen Parlamentswahlen am Sonntag häufen sich KI-Videos und -Bilder, trotz strengerer Regeln der EU."
+},
+{
+"id": "7fc15634f6e4",
+"title": "Parmelin-Nachfolge – Poggia als Sprengkandidat? «Ich will nicht den Kuckuck spielen»",
+"link": "https://www.srf.ch/news/dialog/parmelin-nachfolge-poggia-als-sprengkandidat-ich-will-nicht-den-kuckuck-spielen",
+"text": "Der Genfer gilt als möglicher Sprengkandidat. Im Interview betont er seine Fraktionstreue – bleibt aber doch vage.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b3b1b1.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T17:29:04+00:00",
+"sum": "Der Genfer gilt als möglicher Sprengkandidat. Im Interview betont er seine Fraktionstreue – bleibt aber doch vage."
+},
+{
+"id": "bc9bcc60fbf3",
+"title": "Bundesratswahlen – Ausgerechnet Blocher deutet Hintertür für wilde Wahl an",
+"link": "https://www.srf.ch/news/schweiz/bundesratswahlen-ausgerechnet-blocher-deutet-hintertuer-fuer-wilde-wahl-an",
+"text": "Nach aussen steht das Bundesratsticket, doch Blochers Gedankenspiel stürzt die SVP in Nervosität.",
+"img": "https://www.srf.ch/static/cms/images//320ws/0702f6.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T17:28:05+00:00",
+"sum": "Nach aussen steht das Bundesratsticket, doch Blochers Gedankenspiel stürzt die SVP in Nervosität."
+},
+{
+"id": "1f6c40a7498c",
+"title": "Aufruf im Berner Oberland – Wengen spart Wasser – Lauberhornrennen profitieren davon",
+"link": "https://www.srf.ch/news/schweiz/aufruf-im-berner-oberland-wengen-spart-wasser-lauberhornrennen-profitieren-davon",
+"text": "Per Flyer wird in Wengen zum Wassersparen aufgerufen. Die Lauberhornrennen sind fürs Beschneien auf Wasser angewiesen.",
+"img": "https://www.srf.ch/static/cms/images//320ws/9e14bc.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T17:18:48+00:00",
+"sum": "Per Flyer wird in Wengen zum Wassersparen aufgerufen. Die Lauberhornrennen sind fürs Beschneien auf Wasser angewiesen."
+},
+{
+"id": "e443003b1068",
+"title": "Langjähriger Tele-Züri-Chef – Markus Gilli im Alter von 71 Jahren gestorben",
+"link": "https://www.srf.ch/news/schweiz/langjaehriger-tele-zueri-chef-markus-gilli-im-alter-von-71-jahren-gestorben",
+"text": "Der langjährige TeleZüri-Chefredaktor und TV-Moderator Markus Gilli ist im Alter von 71 Jahren verstorben.",
+"img": "https://www.srf.ch/static/cms/images//320ws/4c92105.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T17:10:11+00:00",
+"sum": "Der langjährige TeleZüri-Chefredaktor und TV-Moderator Markus Gilli ist im Alter von 71 Jahren verstorben."
+},
+{
+"id": "9a5abbd97d8f",
+"title": "Mobilfunkstandard: China startet bereits in acht Provinzen 6G-Pilotprogramm",
+"link": "https://www.golem.de/news/mobilfunkstandard-china-startet-bereits-in-acht-provinzen-6g-pilotprogramm-2611-215770.html",
+"text": "Während in Europa und den USA noch über die künftige Netzarchitektur gestritten wird, bringt China 6G in die praktische Erprobung. ( 6G , Mobilfunk )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215770&page=1&ts=1795799342",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-27T17:09:02+00:00",
+"sum": "Während in Europa und den USA noch über die künftige Netzarchitektur gestritten wird, bringt China 6G in die praktische Erprobung. ( 6G , Mobilfunk )"
+},
+{
+"id": "c46a7d6d318c",
+"title": "Signal blockiert Screenshots: Widerstand gegen KI-Überwachung im Betriebssystem",
+"link": "https://www.heise.de/news/KI-Agenten-im-Betriebssystem-Datenschuetzer-schlagen-Alarm-wegen-Ueberwachung-11541373.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Autonome KI-Assistenten von Apple, Google und Microsoft können App-Schutzmechanismen umgehen. Signal blockiert deswegen bereits standardmässig Screenshots.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-27T17:04:00+00:00",
+"sum": "Autonome KI-Assistenten von Apple, Google und Microsoft können App-Schutzmechanismen umgehen. Signal blockiert deswegen bereits standardmässig Screenshots."
+},
+{
+"id": "b6ef364f3d28",
+"title": "(g+) Investment-Risiken: Das KI-Dilemma der Fondsmanager",
+"link": "https://www.golem.de/news/investment-risiken-das-ki-dilemma-der-fondsmanager-2611-215768.html",
+"text": "Die versteckten Abhängigkeiten von KI sollten selbst in breit gestreuten Portfolios nicht unterschätzt werden, warnt die Financial Times in meinem Meinungsbeitrag. Von The Editorial Board ( Wirtschaft , Börse )",
+"img": "https://cpx.golem.de/cpx.php?class=17&aid=215768&page=1&ts=1795798802",
+"source": "Golem",
+"topic": "Tech",
+"date": "2026-11-27T17:00:02+00:00",
+"sum": "Die versteckten Abhängigkeiten von KI sollten selbst in breit gestreuten Portfolios nicht unterschätzt werden, warnt die Financial Times in meinem Meinungsbeitrag. Von The Editorial Board ( Wirtschaft , Börse )"
+},
+{
+"id": "3862fc5f8026",
+"title": "Internationale Fussball-News – Musiala erneut verletzt – Ex-GC-Spieler jung verstorben",
+"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-musiala-erneut-verletzt-ex-gc-spieler-jung-verstorben",
+"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
+"img": "https://www.srf.ch/static/cms/images//320ws/cfa283.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T16:51:36+00:00",
+"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
+},
+{
+"id": "9e848e485aa5",
+"title": "E-Voting – Bundesgericht weist die Beschwerde einer Auslandschweizerin ab",
+"link": "https://www.srf.ch/news/schweiz/e-voting-bundesgericht-weist-die-beschwerde-einer-auslandschweizerin-ab",
+"text": "Die Stimme der Frau wurde nicht gezählt – wegen einer technischen Panne beim E-Voting.",
+"img": "https://www.srf.ch/static/cms/images//320ws/65b7e47.webp",
+"source": "SRF",
+"topic": "Schweiz",
+"date": "2026-11-27T16:44:45+00:00",
+"sum": "Die Stimme der Frau wurde nicht gezählt – wegen einer technischen Panne beim E-Voting."
+},
+{
+"id": "7431136aefcc",
+"title": "Kodak SlideTag: Schlüsselanhänger mit Dia-Optik und Tracking-Funktion",
+"link": "https://www.heise.de/news/Kodak-SlideTag-Schluesselanhaenger-mit-Dia-Optik-und-Tracking-Funktion-11541304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+"text": "Kodak bringt mit dem SlideTag einen Schlüsselanhänger mit E-Ink-Fotodisplay, der zugleich per Apple- oder Google-Netzwerk geortet werden kann.",
+"img": "",
+"source": "heise",
+"topic": "Tech",
+"date": "2026-11-27T16:35:00+00:00",
+"sum": "Kodak bringt mit dem SlideTag einen Schlüsselanhänger mit E-Ink-Fotodisplay, der zugleich per Apple- oder Google-Netzwerk geortet werden kann."
+},
 {
 "id": "15272b56e5a8",
 "title": "Das plant Arbeitsminister Schweitzer für die Rente",
@@ -125,28 +543,6 @@
 "sum": "Die Black Friday Woche läuft seit über einer Woche. Heute erreicht die Schnäppchen-Aktion mit dem Black Friday ihren vorläufigen Höhepunkt. ( Black Friday , Amazon )"
 },
 {
-"id": "00cd08eb8dd3",
-"title": "Instabile Betonplatten – Bund alarmiert: Wie viele weitere Gebäude sind betroffen?",
-"link": "https://www.srf.ch/news/schweiz/instabile-betonplatten-bund-alarmiert-wie-viele-weitere-gebaeude-sind-betroffen",
-"text": "Wegen instabilen Betonelementen wurde eine Schule in Rheinfelden geschlossen. Nun schlägt die Empa Alarm.",
-"img": "https://www.srf.ch/static/cms/images//320ws/527cfa.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:47:15+00:00",
-"sum": "Wegen instabilen Betonelementen wurde eine Schule in Rheinfelden geschlossen. Nun schlägt die Empa Alarm."
-},
-{
-"id": "f1399e45ba4d",
-"title": "Travailsuisse-Umfrage – Jede zweite Person sorgt sich um den Arbeitsplatz",
-"link": "https://www.srf.ch/news/schweiz/travailsuisse-umfrage-jede-zweite-person-sorgt-sich-um-den-arbeitsplatz",
-"text": "54 Prozent fürchten um ihren Arbeitsplatz, 42 Prozent fühlen sich oft gestresst, zeigt eine Umfrage von Travailsuisse.",
-"img": "https://www.srf.ch/static/cms/images//320ws/b77c625.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:33:10+00:00",
-"sum": "54 Prozent fürchten um ihren Arbeitsplatz, 42 Prozent fühlen sich oft gestresst, zeigt eine Umfrage von Travailsuisse."
-},
-{
 "id": "2d9c1e6658dc",
 "title": "macOS-Apps zum Black Friday und Cyber Monday: Tipps für gute Software",
 "link": "https://www.heise.de/news/Cyber-Monday-und-Black-Friday-fuer-macOS-Welche-guten-Apps-guenstiger-sind-11538325.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -156,39 +552,6 @@
 "topic": "Tech",
 "date": "2026-11-27T15:31:00+00:00",
 "sum": "Einmal mehr haben bekannte Anbieter von Mac-Anwendungen zu den Shopping-Feierta die Tarife reduziert. Ein Überblick, was sich aktuell lohnt."
-},
-{
-"id": "e8fae38013ca",
-"title": "Abstimmung Stadt Zürich – Zürich entscheidet über Seniorenquote bei Stadtwohnungen",
-"link": "https://www.srf.ch/news/abstimmung-stadt-zuerich-zuerich-entscheidet-ueber-seniorenquote-bei-stadtwohnungen",
-"text": "Zürich entscheidet über mehr Wohnungen für ältere Menschen. Zur Wahl stehen eine Initiative und ein Gegenvorschlag.",
-"img": "https://www.srf.ch/static/cms/images//320ws/113d37.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:28:57+00:00",
-"sum": "Zürich entscheidet über mehr Wohnungen für ältere Menschen. Zur Wahl stehen eine Initiative und ein Gegenvorschlag."
-},
-{
-"id": "9995d8862caa",
-"title": "Technikrennen in Killington – Gute Erinnerungen bei Rast und Holdener – aber auch Fragezeichen",
-"link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/technikrennen-in-killington-gute-erinnerungen-bei-rast-und-holdener-aber-auch-fragezeichen",
-"text": "In Killington sind dieses Wochenende ein Riesenslalom und ein Slalom geplant. Im Vorfeld gibt es aber Diskussionen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c29262.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-27T15:28:40+00:00",
-"sum": "In Killington sind dieses Wochenende ein Riesenslalom und ein Slalom geplant. Im Vorfeld gibt es aber Diskussionen."
-},
-{
-"id": "4b1902496439",
-"title": "Abstimmung Stadt Luzern – Politische Mitsprache ab 14? Stadt Luzern stimmt darüber ab",
-"link": "https://www.srf.ch/news/abstimmung-stadt-luzern-politische-mitsprache-ab-14-stadt-luzern-stimmt-darueber-ab",
-"text": "Ab 14 statt 18 mitbestimmen können: Die Stadt Luzern will Jugendliche stärker in die Politik einbinden können.",
-"img": "https://www.srf.ch/static/cms/images//320ws/35f76f.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:26:20+00:00",
-"sum": "Ab 14 statt 18 mitbestimmen können: Die Stadt Luzern will Jugendliche stärker in die Politik einbinden können."
 },
 {
 "id": "a258bb1dedce",
@@ -213,28 +576,6 @@
 "sum": "Die laufende Saison wird die letzte von Patrick Geering beim ZSC sein. Der Captain sucht eine neue Herausforderung."
 },
 {
-"id": "cb58e0164df8",
-"title": "Abstimmung Gemeinde Davos – Mehr Hürden bei der Umwandlung in eine Ferienwohnung?",
-"link": "https://www.srf.ch/news/abstimmung-gemeinde-davos-mehr-huerden-bei-der-umwandlung-in-eine-ferienwohnung",
-"text": "Eine mögliche Einschränkung der Umwandlung von Erst- in Zweitwohnung kommt am 29. November in Davos zur Abstimmung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/491a55.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:23:07+00:00",
-"sum": "Eine mögliche Einschränkung der Umwandlung von Erst- in Zweitwohnung kommt am 29. November in Davos zur Abstimmung."
-},
-{
-"id": "1e55df9a6776",
-"title": "Helge Schneider sagt Tschüss - vielleicht",
-"link": "https://www.tagesschau.de/kultur/helge-schneider-abschiedstournee-100.html",
-"text": "Helge Schneider verbindet avancierten Jazz mit anarchischem Humor. 2027 geht der selbsternannte Klimperclown auf Abschiedstournee. Fragt sich nur: Meint er das ernst? Von Christoph Ohrem.",
-"img": "https://images.tagesschau.de/image/03f3ac8f-c4fe-46a2-9164-8aef58835994/AAABohzZcDA/AAABnSSvrFg/16x9-big/schneider-214.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-27T15:23:02+00:00",
-"sum": "Helge Schneider verbindet avancierten Jazz mit anarchischem Humor. 2027 geht der selbsternannte Klimperclown auf Abschiedstournee. Fragt sich nur: Meint er das ernst? Von Christoph Ohrem."
-},
-{
 "id": "bf356b420df1",
 "title": "AI-RAN-Konkurrenz: Huaweis Oscar setzt auf Spezial-Chips statt auf Nvidia-GPUs",
 "link": "https://www.golem.de/news/ai-ran-konkurrenz-huawei-oscar-setzt-auf-spezial-chips-statt-auf-nvidia-gpus-2611-215764.html",
@@ -244,61 +585,6 @@
 "topic": "Tech",
 "date": "2026-11-27T15:23:01+00:00",
 "sum": "Während Nvidia und die AI-RAN Alliance das Mobilfunk-Zugangsnetz auf universelle GPU-Server verlagern wollen, geht Huawei den entgegengesetzten Weg. ( Huawei , Nvidia )"
-},
-{
-"id": "9663e3c183de",
-"title": "Abstimmung Stadt Chur – Initiative für «bezahlbare Wohnungen» – und ein Gegenvorschlag",
-"link": "https://www.srf.ch/news/abstimmung-stadt-chur-initiative-fuer-bezahlbare-wohnungen-und-ein-gegenvorschlag",
-"text": "Am 29. November entscheidet die Churer Stimmbevölkerung über die zukünftige Wohnungssituation in der Bündner Hauptstadt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/5b3b77.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:19:06+00:00",
-"sum": "Am 29. November entscheidet die Churer Stimmbevölkerung über die zukünftige Wohnungssituation in der Bündner Hauptstadt."
-},
-{
-"id": "dbc199d618bb",
-"title": "An öffentlichen Schulen – Thurgauer Regierung will Kopftücher für Lehrerinnen verbieten",
-"link": "https://www.srf.ch/news/schweiz/an-oeffentlichen-schulen-thurgauer-regierung-will-kopftuecher-fuer-lehrerinnen-verbieten",
-"text": "Die Thurgauer Regierung fordert, dass Lehrpersonen an öffentlichen Schulen Kopftücher nicht mehr tragen dürfen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/dd8b30.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:15:05+00:00",
-"sum": "Die Thurgauer Regierung fordert, dass Lehrpersonen an öffentlichen Schulen Kopftücher nicht mehr tragen dürfen."
-},
-{
-"id": "64b6074a1a25",
-"title": "Wahlen Stadt Thun – Thuner Wahlen: Angriff auf die links-grüne Mehrheit",
-"link": "https://www.srf.ch/news/wahlen-stadt-thun-thuner-wahlen-angriff-auf-die-links-gruene-mehrheit",
-"text": "Nur Monate nach den Ersatzwahlen wählt Thun Regierung und Parlament neu. Links-Grün muss um Mehrheit zittern.",
-"img": "https://www.srf.ch/static/cms/images//320ws/314ef0.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:14:41+00:00",
-"sum": "Nur Monate nach den Ersatzwahlen wählt Thun Regierung und Parlament neu. Links-Grün muss um Mehrheit zittern."
-},
-{
-"id": "f4bc0240d723",
-"title": "Stärkung der Expertise – Schweiz und Frankreich unterzeichnen Weltall-Absichtserklärung",
-"link": "https://www.srf.ch/news/schweiz/staerkung-der-expertise-schweiz-und-frankreich-unterzeichnen-weltall-absichtserklaerung",
-"text": "Bundesrat Pfister trifft seine französische Amtskollegin zum Gespräch über Kooperationen bei Raumfahrt und Verteidigung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/ac141c3.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:14:12+00:00",
-"sum": "Bundesrat Pfister trifft seine französische Amtskollegin zum Gespräch über Kooperationen bei Raumfahrt und Verteidigung."
-},
-{
-"id": "81c823fab99a",
-"title": "Abstimmungen Kanton Wallis – Wallis entscheidet über Zukunft des Flughafens Sitten",
-"link": "https://www.srf.ch/news/abstimmungen-kanton-wallis-wallis-entscheidet-ueber-zukunft-des-flughafens-sitten",
-"text": "Ein neues Gesetz soll den defizitären Flughafen retten – nun entscheidet die Stimmbevölkerung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/6123153.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:09:28+00:00",
-"sum": "Ein neues Gesetz soll den defizitären Flughafen retten – nun entscheidet die Stimmbevölkerung."
 },
 {
 "id": "b648e2d7e56f",
@@ -332,17 +618,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-27T15:05:35+00:00",
 "sum": "Das Immobilien- und Detailhandelsreich des österreichischen Investors René Benko ist zusammengebrochen. Die Signa-Holding und mehrere Tochtergesellschaften stecken in einem Insolvenzverfahren. Die wichtigsten Fragen und Antworten."
-},
-{
-"id": "48d2933f1803",
-"title": "Abstimmung Kanton Uri – Muss bald mehr bezahlen, wer in Uri Auto fährt?",
-"link": "https://www.srf.ch/news/abstimmung-kanton-uri-muss-bald-mehr-bezahlen-wer-in-uri-auto-faehrt-1",
-"text": "Eine höhere Strassenverkehrssteuer soll mithelfen, die Finanzen ins Lot zu bringen. SVP und FDP sind dagegen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/32fa61.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T15:04:04+00:00",
-"sum": "Eine höhere Strassenverkehrssteuer soll mithelfen, die Finanzen ins Lot zu bringen. SVP und FDP sind dagegen."
 },
 {
 "id": "b867f02b7df6",
@@ -398,28 +673,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-27T15:00:00+00:00",
 "sum": "Ein Materieausbruch auf dem Roten Riesen Mira hat eine Gasschleife von der Grösse der Saturnbahn hinterlassen. Starke Magnetfelder treiben die dahinterliegenden Sternwinde an."
-},
-{
-"id": "52c6331aea30",
-"title": "Abstimmung Kanton St. Gallen – Ein selbstbestimmteres Leben für Beeinträchtigte?",
-"link": "https://www.srf.ch/news/abstimmung-kanton-st-gallen-ein-selbstbestimmteres-leben-fuer-beeintraechtigte",
-"text": "Im Kanton St. Gallen kommen am 29. November zwei Gesetzesänderungen zur Abstimmung.",
-"img": "https://www.srf.ch/static/cms/images//320ws/a3562f.webp",
-"source": "SRF",
-"topic": "Schweiz",
-"date": "2026-11-27T14:58:50+00:00",
-"sum": "Im Kanton St. Gallen kommen am 29. November zwei Gesetzesänderungen zur Abstimmung."
-},
-{
-"id": "5d004da15e5d",
-"title": "Internationale Fussball-News – Musiala erneut verletzt – Krawalle in Marseille und bei Besiktas",
-"link": "https://www.srf.ch/sport/fussball/internationale-ligen/internationale-fussball-news-musiala-erneut-verletzt-krawalle-in-marseille-und-bei-besiktas",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cfa283.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-27T14:42:59+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem internationalen Fussball."
 },
 {
 "id": "7f0394582159",
@@ -587,17 +840,6 @@
 "sum": "Streit statt Kompromisse – die EU-Mitgliedsländer sind sich komplett uneins über das EU-Budget. Die Fronten nehmen zunehmend einen eigenartigen Verlauf."
 },
 {
-"id": "5de2fb299aa5",
-"title": "Chinesische E-Auto-Produktion in der EU: Geely plant mit neuer Plattform",
-"link": "https://www.heise.de/news/Chinesische-E-Auto-Produktion-in-der-EU-Geely-plant-mit-neuer-Plattform-11540890.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Geely will ab 2028 eine neue elektrifizierte Fahrzeugarchitektur im Ford-Werk Valencia fertigen, aber auch Werke der Konzernschwester Volvo kommen infrage.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-27T13:49:00+00:00",
-"sum": "Geely will ab 2028 eine neue elektrifizierte Fahrzeugarchitektur im Ford-Werk Valencia fertigen, aber auch Werke der Konzernschwester Volvo kommen infrage."
-},
-{
 "id": "23fe18cf279d",
 "title": "Anthropics wilde erste Börsenwoche",
 "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html",
@@ -623,23 +865,12 @@
 "id": "21967b329141",
 "title": "Blackout-Test in Bayern: Batteriespeicher nach 45 Minuten fast leer",
 "link": "https://www.golem.de/news/blackout-test-in-bayern-batteriespeicher-nach-45-minuten-fast-leer-2611-215752.html",
-"text": "Ein Dorf sollte sich fünfeinhalb Stunden unabhängig vom europäischen Stromnetz versorgen, doch am Testtag fehlte der Wind. ( Energiewende , Windkraft )",
+"text": "Ein Dorf sollte unabhängig vom europäischen Stromnetz sein eigenes Netz nur mit Wechselrichtern aufbauen. Für mehr fehlte am Testtag der Wind. ( Energiewende , Windkraft )",
 "img": "https://cpx.golem.de/cpx.php?class=17&aid=215752&page=1&ts=1795786741",
 "source": "Golem",
 "topic": "Tech",
 "date": "2026-11-27T13:39:01+00:00",
-"sum": "Ein Dorf sollte sich fünfeinhalb Stunden unabhängig vom europäischen Stromnetz versorgen, doch am Testtag fehlte der Wind. ( Energiewende , Windkraft )"
-},
-{
-"id": "886c8e665e86",
-"title": "GrapheneOS: Proof of Concept für RCS-Messenger ohne Google Messages",
-"link": "https://www.heise.de/news/Proof-of-Concept-GrapheneOS-zeigt-RCS-Messenger-ohne-Google-Messages-11540974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "GrapheneOS arbeitet an einer RCS-Messenger-App ohne Google-Dienste. Nun hat das Team einen Proof of Concept gezeigt.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-27T13:39:00+00:00",
-"sum": "GrapheneOS arbeitet an einer RCS-Messenger-App ohne Google-Dienste. Nun hat das Team einen Proof of Concept gezeigt."
+"sum": "Ein Dorf sollte unabhängig vom europäischen Stromnetz sein eigenes Netz nur mit Wechselrichtern aufbauen. Für mehr fehlte am Testtag der Wind. ( Energiewende , Windkraft )"
 },
 {
 "id": "f1bf360f2e01",
@@ -675,17 +906,6 @@
 "sum": "Ohne Nvidia läuft in der KI-Branche wenig, ohne Jensen Huang läuft bei Nvidia wenig. Und einen Nachfolger gibt es nicht."
 },
 {
-"id": "919f26d9388e",
-"title": "Langlauf-Auftakt in Kuusamo – Andersson und Nyenget gewinnen – Schweizer Exploit bleibt aus",
-"link": "https://www.srf.ch/sport/mehr-sport/langlauf/langlauf-auftakt-in-kuusamo-andersson-und-nyenget-gewinnen-schweizer-exploit-bleibt-aus",
-"text": "Die Schwedin Ebba Andersson und der Norweger Martin Löwström Nyenget setzen sich in Kuusamo über 10 Kilometer durch.",
-"img": "https://www.srf.ch/static/cms/images//320ws/750743.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-27T13:20:15+00:00",
-"sum": "Die Schwedin Ebba Andersson und der Norweger Martin Löwström Nyenget setzen sich in Kuusamo über 10 Kilometer durch."
-},
-{
 "id": "920573a4331c",
 "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
 "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
@@ -697,105 +917,6 @@
 "sum": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos steht eher für eine lockere Geldpolitik. In Zeiten hoher Inflation sind Konflikte programmiert. Von Klaus-Rainer Jackisch."
 },
 {
-"id": "b5fab71e1ea9",
-"title": "Anzeige: Apple Airpods Pro 3 mit dritter Amazon-Preissenkung zum Black Friday",
-"link": "https://www.golem.de/news/anzeige-apple-airpods-pro-3-mit-dritter-amazon-preissenkung-zum-black-friday-2611-215747.html",
-"text": "So günstig gab es Apples ANC-In-Ears Airpods Pro 3 noch nie bei Amazon. Auch bei anderen Händlern sind sie nicht preiswerter zu bekommen. ( Black Friday , Amazon )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215747&page=1&ts=1795785601",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-27T13:20:01+00:00",
-"sum": "So günstig gab es Apples ANC-In-Ears Airpods Pro 3 noch nie bei Amazon. Auch bei anderen Händlern sind sie nicht preiswerter zu bekommen. ( Black Friday , Amazon )"
-},
-{
-"id": "5bc3f7c25c7f",
-"title": "Ursachensuche: EU streitet weiter ums Geld",
-"link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
-"text": "Druck aus Frankreich, Widerstand aus Deutschland und der Gastgeber mit einer ungewöhnlichen Verhandlungsstrategie. Es gibt mehrere Gründe, warum der EU-Sondergipfel zum Haushalt gescheitert ist. Von Sabrina Fritz.",
-"img": "https://images.tagesschau.de/image/a91070e7-bda4-4a9f-b7b5-3c55dee7e6f7/AAABohz8Yzw/AAABnSSvrFg/16x9-big/eu-flaggen-180.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-27T13:18:17+00:00",
-"sum": "Druck aus Frankreich, Widerstand aus Deutschland und der Gastgeber mit einer ungewöhnlichen Verhandlungsstrategie. Es gibt mehrere Gründe, warum der EU-Sondergipfel zum Haushalt gescheitert ist. Von Sabrina Fritz."
-},
-{
-"id": "378d82d2bcf3",
-"title": "Weltcup-Auftakt im Langlauf – Heimweltcup, Tour de Ski, WM: Alles Wissenswerte zur Saison",
-"link": "https://www.srf.ch/sport/mehr-sport/langlauf/weltcup-auftakt-im-langlauf-heimweltcup-tour-de-ski-wm-alles-wissenswerte-zur-saison",
-"text": "Zwei Heimweltcups, die Tour de Ski und die WM in Falun bilden die Höhepunkte in dieser Langlauf-Saison. Ein Überblick.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7ba482.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-27T13:17:41+00:00",
-"sum": "Zwei Heimweltcups, die Tour de Ski und die WM in Falun bilden die Höhepunkte in dieser Langlauf-Saison. Ein Überblick."
-},
-{
-"id": "25e3c29bb0cb",
-"title": "GTA 6: Rockstar-Mitarbeiter stimmen gegen Gewerkschaft",
-"link": "https://www.golem.de/news/gta-6-rockstar-mitarbeiter-stimmen-gegen-gewerkschaft-2611-215749.html",
-"text": "Die Beschäftigten von Rockstar Games in Grossbritannien haben gegen die Anerkennung einer Gewerkschaft gestimmt. Einige loben ihren Arbeitgeber. ( Rockstar , Spiele )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215749&page=1&ts=1795785421",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-27T13:17:01+00:00",
-"sum": "Die Beschäftigten von Rockstar Games in Grossbritannien haben gegen die Anerkennung einer Gewerkschaft gestimmt. Einige loben ihren Arbeitgeber. ( Rockstar , Spiele )"
-},
-{
-"id": "1b8000469c2e",
-"title": "heise-Angebot: iX-Workshop: Windows Server absichern und härten",
-"link": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-11532303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmassnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-27T13:00:00+00:00",
-"sum": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmassnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten."
-},
-{
-"id": "69730f95683b",
-"title": "Diverse Schwachstellen in Apache Tomcat",
-"link": "https://www.heise.de/news/Diverse-Schwachstellen-in-Apache-Tomcat-11540730.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Aktuelle Versionen von Tomcat beheben neun Schwachstellen, eine weitere muss per Konfigurationsänderung umgangen werden und für eine elfte fehlen noch Updates.",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-27T12:47:00+00:00",
-"sum": "Aktuelle Versionen von Tomcat beheben neun Schwachstellen, eine weitere muss per Konfigurationsänderung umgangen werden und für eine elfte fehlen noch Updates."
-},
-{
-"id": "eef6cf68c2e7",
-"title": "Anzeige: Laptop von Lenovo mit 15,3'' am Black Friday zum Amazon-Tiefstpreis",
-"link": "https://www.golem.de/news/anzeige-laptop-von-lenovo-mit-15-3-am-black-friday-zum-amazon-tiefstpreis-2611-215743.html",
-"text": "Ein Laptop von Lenovo mit 15,3''-IPS-Display, Intel Core Ultra 5 Prozessor und 16 GByte RAM ist am Black Friday bei Amazon stark reduziert. ( Lenovo , Notebook )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215743&page=1&ts=1795782902",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-27T12:35:02+00:00",
-"sum": "Ein Laptop von Lenovo mit 15,3''-IPS-Display, Intel Core Ultra 5 Prozessor und 16 GByte RAM ist am Black Friday bei Amazon stark reduziert. ( Lenovo , Notebook )"
-},
-{
-"id": "152913677e76",
-"title": "#TGIQF: Metalband oder Shell-Befehl? – Das Quiz",
-"link": "https://www.heise.de/hintergrund/TGIQF-Metalband-oder-Shell-Befehl-Das-Quiz-11540756.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-"text": "Heute werfen wir einen Blick auf Metalbands und Programmbefehle. Können Sie sie auseinanderhalten? Dann knobeln Sie mit!",
-"img": "",
-"source": "heise",
-"topic": "Tech",
-"date": "2026-11-27T12:31:00+00:00",
-"sum": "Heute werfen wir einen Blick auf Metalbands und Programmbefehle. Können Sie sie auseinanderhalten? Dann knobeln Sie mit!"
-},
-{
-"id": "60fa3f509f5b",
-"title": "(g+) Datensicherheit unter Linux: Cloudspeicher nutzen, ohne dem Anbieter vertrauen zu müssen",
-"link": "https://www.golem.de/news/datensicherheit-unter-linux-cloudspeicher-nutzen-ohne-dem-anbieter-vertrauen-zu-muessen-2611-215699.html",
-"text": "Vier freie Verschlüsselungstools schützen vertrauliche Dateien mit digitalen Tresoren. Wir zeigen, welche Lösung sich für wen eignet. Ein Ratgebertext von Erik Bärwaldt ( Linux , Verschlüsselung )",
-"img": "https://cpx.golem.de/cpx.php?class=17&aid=215699&page=1&ts=1795782601",
-"source": "Golem",
-"topic": "Tech",
-"date": "2026-11-27T12:30:01+00:00",
-"sum": "Vier freie Verschlüsselungstools schützen vertrauliche Dateien mit digitalen Tresoren. Wir zeigen, welche Lösung sich für wen eignet. Ein Ratgebertext von Erik Bärwaldt ( Linux , Verschlüsselung )"
-},
-{
 "id": "8f6e3bd9c771",
 "title": "Israel – Arabische Parteien in Israel: Erst umworben, jetzt verteufelt",
 "link": "https://www.srf.ch/news/international/nahost/israel-arabische-parteien-in-israel-erst-umworben-jetzt-verteufelt",
@@ -805,39 +926,6 @@
 "topic": "Welt",
 "date": "2026-11-27T12:25:30+00:00",
 "sum": "Eisenkot hätte mit arabischen Parteien genug Sitze für eine Regierung ohne Netanjahu. Doch Israelis trauen diesen nicht."
-},
-{
-"id": "e8c6499fbdab",
-"title": "Alle Folgen im Überblick – «Alles erlebt, ausser ...»: Fabian Frei will's nochmal wissen",
-"link": "https://www.srf.ch/sport/fussball/super-league/alle-folgen-im-ueberblick-alles-erlebt-ausser-fabian-frei-will-s-nochmal-wissen",
-"text": "Kaum ein Spieler hat in der Super League mehr erlebt als Fabian Frei. Trotzdem ist seine Bucket List noch lang.",
-"img": "https://www.srf.ch/static/cms/images//320ws/cd688f.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-27T12:17:05+00:00",
-"sum": "Kaum ein Spieler hat in der Super League mehr erlebt als Fabian Frei. Trotzdem ist seine Bucket List noch lang."
-},
-{
-"id": "d1d57d01598e",
-"title": "MELDUNGEN WIRTSCHAFT - EU-Kommission stimmt Zusammenschluss der Deutschen Börse mit der Fondsplattform Allfunds zu",
-"link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10075772",
-"text": "Die neuesten Meldungen aus der Wirtschaft.",
-"img": "https://img-msp-prod.nzz.ch/2026/06/29/08f3fc24-e138-40c6-bde9-82bf7b8fe3fd.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x750,y0",
-"source": "NZZ",
-"topic": "Wirtschaft",
-"date": "2026-11-27T12:11:47+00:00",
-"sum": "Die neuesten Meldungen aus der Wirtschaft."
-},
-{
-"id": "0caabcebf00e",
-"title": "UN sieht fünf \"Hunger-Hotspots\": Ernährungskrisen verschärfen sich",
-"link": "https://www.tagesschau.de/ausland/afrika/vereinte-nationen-hunger-hotspots-100.html",
-"text": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung.",
-"img": "https://images.tagesschau.de/image/4ff340d4-b6d1-40e1-9808-4efff5bee40a/AAABoh0O-XQ/AAABnSSvrFg/16x9-big/frauen-essen-suden-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-27T12:09:57+00:00",
-"sum": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung."
 },
 {
 "id": "5eb6ff5582b6",
@@ -871,17 +959,6 @@
 "topic": "Welt",
 "date": "2026-11-27T11:13:07+00:00",
 "sum": "Die Grossmächte China, Russland und die USA rüsten das Weltall auf. Und das Weltraumrecht kommt an seine Grenzen."
-},
-{
-"id": "08331d86118d",
-"title": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
-"link": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
-"text": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Dennoch arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
-"img": "https://images.tagesschau.de/image/fb08e62c-c34b-4e0d-8f00-af534e7deffb/AAABohxgLJI/AAABnSSvrFg/16x9-big/sendungsbild-taliban-polizei-100.jpg?width=1920",
-"source": "Tagesschau",
-"topic": "Welt",
-"date": "2026-11-27T11:11:16+00:00",
-"sum": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Dennoch arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler."
 },
 {
 "id": "4ff0803a1264",
@@ -926,17 +1003,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-27T10:24:00+00:00",
 "sum": "Autofahrer sollten Prämienerhöhungen bei den Versicherungen ihrer Fahrzeuge nicht einfach still erdulden. Bei einem Wechsel lassen sich oft mehrere hundert Franken pro Jahr sparen."
-},
-{
-"id": "96fec6264a19",
-"title": "MotoGP-Star hört auf – Kurz nach dem 8. WM-Titel: Marc Marquez verkündet Karriereende",
-"link": "https://www.srf.ch/sport/motorsport/motogp-star-hoert-auf-kurz-nach-dem-8-wm-titel-marc-marquez-verkuendet-karriereende",
-"text": "Eine Woche nach seinem 8. Titel in der MotoGP kündigt Marc Marquez das bevorstehende Ende seiner Laufbahn an.",
-"img": "https://www.srf.ch/static/cms/images//320ws/c912c4.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-27T10:16:26+00:00",
-"sum": "Eine Woche nach seinem 8. Titel in der MotoGP kündigt Marc Marquez das bevorstehende Ende seiner Laufbahn an."
 },
 {
 "id": "fbf3340198ee",
@@ -1082,17 +1148,6 @@
 "sum": "Für Europa sei die Zeit gekommen, die Ziele im All höher zu stecken, sagt ESA-Raumfahrtdirektor Daniel Neuenschwander."
 },
 {
-"id": "ee568e4a54ff",
-"title": "National League am Freitag – Audio-Konferenz: Zürichsee-Derby SCRJ – ZSC, Lausanne fordert SCB",
-"link": "https://www.srf.ch/sport/eishockey/national-league/national-league-am-freitag-audio-konferenz-zuerichsee-derby-scrj-zsc-lausanne-fordert-scb",
-"text": "Verfolgen Sie das Geschehen vom Freitag in der National League mit 5 Partien bei SRF in der Audio-Konferenz.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2b9189.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-27T07:50:43+00:00",
-"sum": "Verfolgen Sie das Geschehen vom Freitag in der National League mit 5 Partien bei SRF in der Audio-Konferenz."
-},
-{
 "id": "7854e25e64a1",
 "title": "Silex: Laborde übernimmt Mehrheit, Mitgründer steigt aus",
 "link": "https://www.finews.ch/news/finanzplatz/74706-silex-laborde-majority-shareholder-rey-capital-consolidation-2",
@@ -1126,17 +1181,6 @@
 "sum": "Der Verwaltungsrat der Private-Equity-Holdinggesellschaft Haute Capital Partners (HCP) treibt die Übernahme durch EEII voran. An einer ausserordentlichen Generalversammlung soll die Dekotierung beschlossen werden. Das «Term Sheet» mit EEII wurde bereits unterzeichnet."
 },
 {
-"id": "380fc494f44d",
-"title": "In ihrer Heimat Killington – Shiffrin zurück am Ort grosser Triumphe und eines herben Dämpfers",
-"link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/in-ihrer-heimat-killington-shiffrin-zurueck-am-ort-grosser-triumphe-und-eines-herben-daempfers",
-"text": "Die US-Amerikanerin tritt wieder «zu Hause» in Killington an – mit gemischten Erinnerungen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/31d099.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-27T07:27:46+00:00",
-"sum": "Die US-Amerikanerin tritt wieder «zu Hause» in Killington an – mit gemischten Erinnerungen."
-},
-{
 "id": "43f6dae86f15",
 "title": "Skandal im 18. Jahrhundert: Der Herr Geheimagent war eine Dame",
 "link": "https://www.spektrum.de/news/skandal-im-18-jahrhundert-der-herr-geheimagent-war-eine-dame/2331164",
@@ -1168,6 +1212,17 @@
 "topic": "Wirtschaft",
 "date": "2026-11-27T06:36:32+00:00",
 "sum": "Die Gesundheitskosten und Krankenkassenprämien bleiben die grösste Sorge der Schweizer Stimmberechtigten. Aber auch Wohnkosten und Mieten bleiben weit oben auf der Agenda."
+},
+{
+"id": "818e9f8a1eab",
+"title": "NFL in der Nacht auf Freitag – Field Goal kurz vor Schluss: Buffalo Bills gewinnen Spitzenspiel",
+"link": "https://www.srf.ch/sport/mehr-sport/american-football/nfl-in-der-nacht-auf-freitag-field-goal-kurz-vor-schluss-buffalo-bills-gewinnen-spitzenspiel",
+"text": "Die Buffalo Bills feiern den 7. Sieg in Serie. Gegen die Kansas City Chiefs resultiert ein 13:10.",
+"img": "https://www.srf.ch/static/cms/images//320ws/b282d9.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-27T06:28:18+00:00",
+"sum": "Die Buffalo Bills feiern den 7. Sieg in Serie. Gegen die Kansas City Chiefs resultiert ein 13:10."
 },
 {
 "id": "5a0fde9927fc",
@@ -1401,17 +1456,6 @@
 "sum": "Die Kommunikationsbehörde der USA hat grünes Licht für ein Weltraumprojekt der Superlative gegeben. Für Umweltfragen fühlt sich die Behörde nicht zuständig."
 },
 {
-"id": "4d26b60bafc2",
-"title": "News aus der Super League – Lausanne lange ohne Butler-Oyedeji, Thun ohne Dähler",
-"link": "https://www.srf.ch/sport/fussball/super-league/news-aus-der-super-league-lausanne-lange-ohne-butler-oyedeji-thun-ohne-daehler",
-"text": "Hier finden Sie die wichtigsten Neuigkeiten aus dem Schweizer Fussball.",
-"img": "https://www.srf.ch/static/cms/images//320ws/2babbc.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-26T16:59:39+00:00",
-"sum": "Hier finden Sie die wichtigsten Neuigkeiten aus dem Schweizer Fussball."
-},
-{
 "id": "d17ac6c89180",
 "title": "Kriegsverbrechen – Die Männer hinter Afrikas schlimmsten Gräueltaten",
 "link": "https://www.srf.ch/news/international/kriegsverbrechen-die-maenner-hinter-afrikas-schlimmsten-graeueltaten",
@@ -1432,6 +1476,17 @@
 "topic": "Wirtschaft",
 "date": "2026-11-26T16:43:33+00:00",
 "sum": "Die Beschäftigten in der Metall- und Elektroindustrie sollen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn erhalten. Darauf haben sich Arbeitgeber und IG Metall geeinigt. Der Pilotabschluss ermöglicht aber auch Ausnahmen."
+},
+{
+"id": "6d945e48cce8",
+"title": "Pechvogel mit Kreuzbandrissen – «Für den Lebenslauf»: Gereifte Fölmli will endlich WM spielen",
+"link": "https://www.srf.ch/sport/fussball/frauen-nationalteam/pechvogel-mit-kreuzbandrissen-fuer-den-lebenslauf-gereifte-foelmli-will-endlich-wm-spielen",
+"text": "Nach langer Leidenszeit und Entbehrungen ist Svenja Fölmli heiss auf das Playoff-Duell gegen Österreich.",
+"img": "https://www.srf.ch/static/cms/images//320ws/f324e3d.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-26T16:15:10+00:00",
+"sum": "Nach langer Leidenszeit und Entbehrungen ist Svenja Fölmli heiss auf das Playoff-Duell gegen Österreich."
 },
 {
 "id": "7007ad8b4a5d",
@@ -1467,6 +1522,17 @@
 "sum": "Zur Rechtfertigung höherer Zölle nehmen die USA die SNB ins Visier. Ökonomisch sind die Argumente schwach begründet. Dennoch hat die Nationalbank ein Problem, das sie verletzlich macht für Angriffe."
 },
 {
+"id": "6f9cf9963333",
+"title": "Frust bei Schweizer NHL-Star – Niederreiter: «Der Trainer weiss selbst nicht, wie, wo und was»",
+"link": "https://www.srf.ch/sport/eishockey/nhl/frust-bei-schweizer-nhl-star-niederreiter-der-trainer-weiss-selbst-nicht-wie-wo-und-was",
+"text": "Nino Niederreiter durchlebt in der NHL eine schwierige Phase. Er kommt kaum zum Einsatz und denkt an einen Wechsel.",
+"img": "https://www.srf.ch/static/cms/images//320ws/fbffd2.webp",
+"source": "SRF",
+"topic": "Sport",
+"date": "2026-11-26T15:33:00+00:00",
+"sum": "Nino Niederreiter durchlebt in der NHL eine schwierige Phase. Er kommt kaum zum Einsatz und denkt an einen Wechsel."
+},
+{
 "id": "4a923d7c0f71",
 "title": "Birding in Vice City: Auch Vogelbeobachter haben ihren Spass an GTA VI",
 "link": "https://www.spektrum.de/news/birding-in-vice-city-auch-vogelbeobachter-haben-ihren-spass-an-gta-vi/2356211",
@@ -1489,17 +1555,6 @@
 "sum": "Am Samstag trifft Union Berlin auswärts auf Mainz 05 – und damit Mauro Lustrinelli auf seinen Lehrmeister Urs Fischer."
 },
 {
-"id": "082927e7bd3c",
-"title": "Vor der Freestyle-Saison – Auch dank neuem Coach: Gremaud startet topmotiviert",
-"link": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/vor-der-freestyle-saison-auch-dank-neuem-coach-gremaud-startet-topmotiviert",
-"text": "Viele Augen werden in der neuen Freeski-Saison auf Mathilde Gremaud gerichtet sein. Die 26-Jährige ist voller Vorfreude.",
-"img": "https://www.srf.ch/static/cms/images//320ws/06b92f8.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-26T14:46:25+00:00",
-"sum": "Viele Augen werden in der neuen Freeski-Saison auf Mathilde Gremaud gerichtet sein. Die 26-Jährige ist voller Vorfreude."
-},
-{
 "id": "1ebc890e5fbc",
 "title": "Premier unter Verdacht – Richter empfehlen Einstellung des Strafverfahrens gegen Netanjahu",
 "link": "https://www.srf.ch/news/international/nahost/premier-unter-verdacht-richter-empfehlen-einstellung-des-strafverfahrens-gegen-netanjahu",
@@ -1509,28 +1564,6 @@
 "topic": "Welt",
 "date": "2026-11-26T14:26:19+00:00",
 "sum": "Womöglich soll dem israelischen Premier jetzt ein Ausweg geboten werden, sagt Ausland-Redaktorin Susanne Brunner."
-},
-{
-"id": "809e23c46d87",
-"title": "Anschlag im März geplant – Zwei Festnahmen wegen Anschlagsplänen auf Synagoge in Köln",
-"link": "https://www.srf.ch/news/international/anschlag-im-maerz-geplant-zwei-festnahmen-wegen-anschlagsplaenen-auf-synagoge-in-koeln",
-"text": "Die deutsche Bundesanwaltschaft hat zwei mutmassliche Mitglieder einer islamistischen Terrorgruppe festnehmen lassen.",
-"img": "https://www.srf.ch/static/cms/images//320ws/854f3df.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-26T14:01:43+00:00",
-"sum": "Die deutsche Bundesanwaltschaft hat zwei mutmassliche Mitglieder einer islamistischen Terrorgruppe festnehmen lassen."
-},
-{
-"id": "85c821262134",
-"title": "Wegen hoher Kosten – Immer weniger Wettkämpfe für Freestyler im Weltcup",
-"link": "https://www.srf.ch/sport/mehr-sport/ski-freestyle/wegen-hoher-kosten-immer-weniger-wettkaempfe-fuer-freestyler-im-weltcup",
-"text": "Der Weltcup der Freeskier und Snowboarder wird weiter ausgedünnt. Noch ist das aber nicht so schlimm.",
-"img": "https://www.srf.ch/static/cms/images//320ws/366e85.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-26T13:41:50+00:00",
-"sum": "Der Weltcup der Freeskier und Snowboarder wird weiter ausgedünnt. Noch ist das aber nicht so schlimm."
 },
 {
 "id": "7c3de0786b87",
@@ -1566,15 +1599,15 @@
 "sum": "Was macht Intelligenz aus? Vier Experten aus Tierkognition, Neurobiologie, Psychologie und KI-Forschung beleuchten diese Frage aus unterschiedlichen Blickwinkeln."
 },
 {
-"id": "7daecd596c15",
-"title": "Viele Spekulationen – Suizid eines ehemaligen Mafiajägers wühlt Italien auf",
-"link": "https://www.srf.ch/news/international/viele-spekulationen-suizid-eines-ehemaligen-mafiajaegers-wuehlt-italien-auf",
-"text": "Die mediale Aufmerksamkeit in Italien liegt zurzeit auf dem Suizid von Gianni de Gennaro. Auf welcher Seite stand er?",
-"img": "https://www.srf.ch/static/cms/images//320ws/89c958.webp",
+"id": "971eb3ecc6ac",
+"title": "Vorbereitung zur EM – Trotz Absenzen träumt die Nati von der Hauptrunde",
+"link": "https://www.srf.ch/sport/mehr-sport/handball/vorbereitung-zur-em-trotz-absenzen-traeumt-die-nati-von-der-hauptrunde",
+"text": "Die Schweizer Nati hat in Schaffhausen die Vorbereitung zur EM lanciert. Das Team muss sich erst noch finden.",
+"img": "https://www.srf.ch/static/cms/images//320ws/647426.webp",
 "source": "SRF",
-"topic": "Welt",
-"date": "2026-11-26T12:51:47+00:00",
-"sum": "Die mediale Aufmerksamkeit in Italien liegt zurzeit auf dem Suizid von Gianni de Gennaro. Auf welcher Seite stand er?"
+"topic": "Sport",
+"date": "2026-11-26T12:21:37+00:00",
+"sum": "Die Schweizer Nati hat in Schaffhausen die Vorbereitung zur EM lanciert. Das Team muss sich erst noch finden."
 },
 {
 "id": "ed103fb9e047",
@@ -1597,17 +1630,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-26T11:00:00+00:00",
 "sum": "Die bei Jugendlichen so beliebten Chips, Flips und Cracker erhöhen das Risiko für chronisch-entzündliche Darmerkrankungen… vielleicht. Besser belegt ist der Schutzeffekt von Obst."
-},
-{
-"id": "5130ec4f2379",
-"title": "Balearen-Meer – Dieselfrachter sinkt vor Ibiza – ein Toter",
-"link": "https://www.srf.ch/news/international/balearen-meer-dieselfrachter-sinkt-vor-ibiza-ein-toter",
-"text": "Im Balearen-Meer nahe Ibiza ist ein Öltanker gesunken. Eine Person kam dabei ums Leben, mehrere wurden verletzt.",
-"img": "https://www.srf.ch/static/cms/images//320ws/82417ed.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-26T10:58:47+00:00",
-"sum": "Im Balearen-Meer nahe Ibiza ist ein Öltanker gesunken. Eine Person kam dabei ums Leben, mehrere wurden verletzt."
 },
 {
 "id": "20da9835cc6b",
@@ -1641,17 +1663,6 @@
 "topic": "Wirtschaft",
 "date": "2026-11-26T09:51:13+00:00",
 "sum": "Eine Solothurner Elektro- und Telekommunikationsfirma setzt auf auffällig viele Lernende. Was steckt dahinter?"
-},
-{
-"id": "283862c35aef",
-"title": "Cyberangriff – Daten bei Hackerangriff auf Fifa gestohlen",
-"link": "https://www.srf.ch/news/international/cyberangriff-daten-bei-hackerangriff-auf-fifa-gestohlen",
-"text": "Die Fifa bestätigte einen «kürzlich erfolgten» Cyberangriff, bei dem interne Daten entwendet wurden.",
-"img": "https://www.srf.ch/static/cms/images//320ws/e4afad.webp",
-"source": "SRF",
-"topic": "Welt",
-"date": "2026-11-26T09:11:47+00:00",
-"sum": "Die Fifa bestätigte einen «kürzlich erfolgten» Cyberangriff, bei dem interne Daten entwendet wurden."
 },
 {
 "id": "0dbb023e06e1",
@@ -1797,17 +1808,6 @@
 "sum": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach wird das nicht. Von David Beck."
 },
 {
-"id": "e0ac8c203cab",
-"title": "Keine Rückkehr der Italienerin – «Zu grosse Schmerzen»: Brignone gibt Rücktritt bekannt",
-"link": "https://www.srf.ch/sport/ski-alpin/weltcup-frauen/keine-rueckkehr-der-italienerin-zu-grosse-schmerzen-brignone-gibt-ruecktritt-bekannt",
-"text": "Die Doppel-Olympiasiegerin von Milano Cortina zieht einen Schlussstrich unter ihre Karriere.",
-"img": "https://www.srf.ch/static/cms/images//320ws/7789fc.webp",
-"source": "SRF",
-"topic": "Sport",
-"date": "2026-11-25T15:00:58+00:00",
-"sum": "Die Doppel-Olympiasiegerin von Milano Cortina zieht einen Schlussstrich unter ihre Karriere."
-},
-{
 "id": "d2ee5a493f15",
 "title": "Erwerbstätige Frauen in der Lebensmitte laut TK-Gesundheitsreport stärker belastet als Männer",
 "link": "https://www.tagesschau.de/video/video-1689712.html",
@@ -1872,17 +1872,6 @@
 "topic": "Wissenschaft",
 "date": "2026-11-25T04:30:00+00:00",
 "sum": "Antivirale Crème, Zinksalbe, Supplemente, Verzicht auf Nüsse und Kakao: Es gibt viele Strategien, um Fieberblasen schneller loszuwerden oder ihnen vorzubeugen. Eine Dermatologin schätzt sie ein."
-},
-{
-"id": "e3c0df14b73e",
-"title": "PODCAST «NZZ AKZENT» - Jensen Huangs zweite Chance: Wird sie zum Problem für Nvidia und die KI-Branche?",
-"link": "https://www.nzz.ch/podcast/akzent/jensen-huangs-zweite-chance-wird-sie-zum-problem-fuer-nvidia-und-die-ki-branche-ld.10072800",
-"text": "Bei vielen ist die Freude über die Rückkehr des Nvidia-Chefs gross. Doch die Affären und Probleme sind damit nicht ausgestanden. Rechtfertigt Huangs Stellung das Risiko?",
-"img": "https://img-msp-prod.nzz.ch/2026/11/23/f5dd044a-0ca8-4534-ae97-d539ab04ae63.jpg?width=200&height=200&fit=bounds&quality=75&auto=webp&crop=3000,3000,x0,y0",
-"source": "NZZ",
-"topic": "Tech",
-"date": "2026-11-24T16:50:00+00:00",
-"sum": "Bei vielen ist die Freude über die Rückkehr des Nvidia-Chefs gross. Doch die Affären und Probleme sind damit nicht ausgestanden. Rechtfertigt Huangs Stellung das Risiko?"
 }
 ]
 }
